@@ -1,0 +1,79 @@
+# ============================================================
+# AI Pulse — Daily Run
+#
+# Trigger : cron 0 5 * * *  →  5:00 AM UTC = 6:00 AM WAT (UTC+1)
+# Secrets : GEMINI_API_KEY, TG_TOKEN, TG_CHAT
+#
+# NOTE    : Pushing to main at the end of this job commits
+#           the updated data/today.json.  That push triggers
+#           a Vercel auto-deploy of the frontend (Vercel
+#           watches the main branch for changes).
+# ============================================================
+
+name: AI Pulse — Daily Run
+
+on:
+  schedule:
+    # 05:00 UTC = 06:00 WAT  (West Africa Time, UTC+1)
+    - cron: "0 5 * * *"
+  workflow_dispatch:          # Manual trigger from the Actions tab
+
+jobs:
+  run-worker:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    # Prevent this workflow from triggering itself recursively
+    # when it pushes (GitHub provides secrets.GITHUB_TOKEN which
+    # does NOT trigger other workflows by default, but we add
+    # an explicit guard for clarity).
+
+    steps:
+      # ── 1. Checkout ──────────────────────────────────────
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # Use a Personal Access Token (PAT) instead of GITHUB_TOKEN
+          # so the subsequent push triggers the Vercel deployment.
+          # Store the PAT in a repo secret called GH_PAT with
+          # "repo" scope, or fall back to GITHUB_TOKEN.
+          token: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
+
+      # ── 2. Setup Node 20 ─────────────────────────────────
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+          cache-dependency-path: worker/package-lock.json
+
+      # ── 3. Install dependencies ──────────────────────────
+      - name: Install worker dependencies
+        working-directory: ./worker
+        run: npm ci
+
+      # ── 4. Execute the worker ────────────────────────────
+      - name: Run AI Pulse worker
+        working-directory: ./worker
+        env:
+          GEMINI_API_KEY:    ${{ secrets.GEMINI_API_KEY }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TG_TOKEN }}
+          TELEGRAM_CHAT_ID:   ${{ secrets.TG_CHAT }}
+        run: node index.js
+
+      # ── 5. Commit & push data/today.json ─────────────────
+      - name: Commit and push today.json
+        if: always()
+        run: |
+          git config --global user.name  "ai-pulse-bot"
+          git config --global user.email "ai-pulse-bot@users.noreply.github.com"
+
+          # Stage the generated data file
+          git add worker/data/today.json
+
+          # Only commit if there are changes
+          git diff --cached --quiet && echo "No changes to commit." || \
+            git commit -m "chore(worker): update today.json [skip ci]"
+
+          # Push back to main — triggers Vercel auto-deploy
+          git push origin HEAD:main

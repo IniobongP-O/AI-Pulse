@@ -1,0 +1,27 @@
+{
+  "name": "ai-pulse-worker",
+  "version": "1.0.0",
+  "description": "AI Pulse daily news worker — fetches, summarizes, and delivers AI news via Telegram",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "once": "node index.js",
+    "schedule": "node scheduler.js"
+  },
+  "keywords": [
+    "ai",
+    "news",
+    "bot",
+    "telegram",
+    "gemini"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "axios": "^1.15.0",
+    "dotenv": "^17.4.1",
+    "node-cron": "^4.2.1",
+    "rss-parser": "^3.13.0"
+  }
+}
