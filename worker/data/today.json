@@ -1,5 +1,12 @@
 [
   {
+    "tweetText": "IBM: How robust AI governance protects enterprise margins — a significant development in AI that warrants attention. via AI News Blog",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/ibm-how-robust-ai-governance-protects-enterprise-margins/",
+    "sourceName": "AI News Blog",
+    "sourceHomeUrl": "https://www.artificialintelligence-news/",
+    "publishedAt": "Fri, 10 Apr 2026 13:57:15 +0000"
+  },
+  {
     "tweetText": "Why companies like Apple are building AI agents with limits — a significant development in AI that warrants attention. via AI News Blog",
     "articleUrl": "https://www.artificialintelligence-news.com/news/why-companies-like-apple-are-building-ai-agents-with-limits/",
     "sourceName": "AI News Blog",
@@ -19,6 +26,13 @@
     "sourceName": "AI News Blog",
     "sourceHomeUrl": "https://www.artificialintelligence-news/",
     "publishedAt": "Thu, 09 Apr 2026 15:02:00 +0000"
+  },
+  {
+    "tweetText": "Last 24 hours: Save up to $500 on your TechCrunch Disrupt 2026 pass — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/04/10/final-24-hours-save-up-to-500-on-your-techcrunch-disrupt-2026-pass/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Fri, 10 Apr 2026 14:00:00 +0000"
   },
   {
     "tweetText": "ChatGPT finally offers $100/month Pro plan — a significant development in AI that warrants attention. via TechCrunch AI",
@@ -75,13 +89,6 @@
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
     "publishedAt": "Thu, 09 Apr 2026 14:27:57 +0000"
-  },
-  {
-    "tweetText": "Final 2 days to save up to $500 on your TechCrunch Disrupt 2026 ticket — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/04/09/final-2-days-to-save-up-to-500-on-your-techcrunch-disrupt-2026-ticket/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 09 Apr 2026 14:00:00 +0000"
   },
   {
     "tweetText": "Aventon Current ADV Electric Mountain Bike Review: Feels Just Like the Real Thing — a significant development in AI that warrants attention. via WIRED AI",
@@ -266,27 +273,6 @@
     "publishedAt": "Thu, 09 Apr 2026 17:27:32 +0000"
   },
   {
-    "tweetText": "The Iran War Is Tearing MAGA Influencers Apart — a significant development in AI that warrants attention. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/maga-media-seems-to-have-hit-its-breaking-point-over-iran/",
-    "sourceName": "WIRED AI",
-    "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Thu, 09 Apr 2026 14:05:38 +0000"
-  },
-  {
-    "tweetText": "The FBI Didn’t Answer Texts From Minnesota Investigators for Days After Renee Good’s Killing — a significant development in AI that warrants attention. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/the-fbi-didnt-answer-texts-from-minnesota-investigators-for-days-after-renee-goods-killing/",
-    "sourceName": "WIRED AI",
-    "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Thu, 09 Apr 2026 13:44:01 +0000"
-  },
-  {
-    "tweetText": "The Pro-Iran Meme Machine Trolling Trump With AI Lego Cartoons — a significant development in AI that warrants attention. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/inside-the-pro-iran-meme-machine-trolling-trump-with-ai-lego-cartoons/",
-    "sourceName": "WIRED AI",
-    "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Thu, 09 Apr 2026 13:25:21 +0000"
-  },
-  {
     "tweetText": "Fear and loathing at OpenAI — a significant development in AI that warrants attention. via The Verge AI",
     "articleUrl": "https://www.theverge.com/podcast/909621/openai-sam-altman-drama-vergecast",
     "sourceName": "The Verge AI",
@@ -327,12 +313,5 @@
     "sourceName": "The Verge AI",
     "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
     "publishedAt": "2026-04-09T17:57:58.000Z"
-  },
-  {
-    "tweetText": "The AI industry’s race for profits is now existential — a significant development in AI that warrants attention. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/podcast/909042/ai-monetization-cliff-anthropic-openai-profitable-ai-existential-moment",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-04-09T14:00:00.000Z"
   }
 ]
