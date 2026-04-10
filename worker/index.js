@@ -16,18 +16,14 @@ const axios = require("axios");
 
 // ─── 0. Fail-Fast Environment Check ───────────────────────────────────────
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
-if (!GEMINI_API_KEY) {
-  console.error("❌ FATAL ERROR: GEMINI_API_KEY is missing or undefined.");
-  console.error("If running locally: Check your .env file.");
-  console.error(
-    "If running on GitHub: Check Repository Settings -> Secrets and variables -> Actions.",
-  );
-  process.exit(1);
-}
-
 const OPENROUTER_API_KEY = process.env.OPENROUTER_API_KEY;
 const TELEGRAM_BOT_TOKEN = process.env.TELEGRAM_BOT_TOKEN;
 const TELEGRAM_CHAT_ID = process.env.TELEGRAM_CHAT_ID;
+
+if (!GEMINI_API_KEY) {
+  console.error("❌ FATAL ERROR: GEMINI_API_KEY is missing or undefined.");
+  process.exit(1);
+}
 
 // ─── RSS Feed Sources ─────────────────────────────────────────────────────
 const RSS_FEEDS = [
@@ -86,7 +82,6 @@ const RSS_FEEDS = [
 const parser = new Parser({ timeout: 15000 });
 const genAI = new GoogleGenerativeAI(GEMINI_API_KEY);
 
-// Apply safety overrides so news about breaches, lawsuits, or tech failures aren't blocked
 const model = genAI.getGenerativeModel({
   model: "gemini-2.0-flash",
   safetySettings: [
@@ -109,9 +104,10 @@ const model = genAI.getGenerativeModel({
   ],
 });
 
-const SUMMARIZE_PROMPT = `Summarize this Al news article in the style of an X tweet. Max 240 characters. Use plain English.  Write two short sentences: first what happened, second why it matters. End with via [SourceName].  Do not include hashtags or links. Keep it copy-paste ready.`;
+// Changed to {SOURCE} so we can inject the real source name dynamically
+const SUMMARIZE_PROMPT = `Summarize this Al news article in the style of an X tweet. Max 240 characters. Use plain English. Write two short sentences: first what happened, second why it matters. End with via {SOURCE}. Do not include hashtags or links. Keep it copy-paste ready.`;
 
-// ─── 1. Fetch all RSS feeds in parallel ───────────────────────────────────
+// ─── 1. Fetch & Filter RSS Feeds ──────────────────────────────────────────
 async function fetchAllFeeds() {
   console.log(`[RSS] Fetching ${RSS_FEEDS.length} feeds...`);
   const results = await Promise.allSettled(
@@ -120,7 +116,6 @@ async function fetchAllFeeds() {
         const parsed = await parser.parseURL(feed.url);
         return parsed.items.map((item) => ({
           title: item.title || "Untitled",
-          // Aggressively hunt for the actual text content so the AI has context to read
           summary:
             item.contentSnippet ||
             item.content ||
@@ -133,35 +128,26 @@ async function fetchAllFeeds() {
           publishedAt: item.pubDate || item.isoDate || new Date().toISOString(),
         }));
       } catch (err) {
-        console.error(`[RSS] Failed to fetch ${feed.name}:`, err.message);
         return [];
       }
     }),
   );
-
-  const articles = results
+  return results
     .filter((r) => r.status === "fulfilled")
     .flatMap((r) => r.value);
-
-  console.log(`[RSS] Fetched ${articles.length} total articles.`);
-  return articles;
 }
 
-// ─── 2. Filter last 24 hours WAT (West Africa Time, UTC+1) ───────────────
 function filterLast24HoursWAT(articles) {
-  const now = new Date();
-  const watOffset = 1 * 60 * 60 * 1000;
-  const nowWAT = new Date(now.getTime() + watOffset);
+  const nowWAT = new Date(new Date().getTime() + 1 * 60 * 60 * 1000);
   const cutoffWAT = new Date(nowWAT.getTime() - 24 * 60 * 60 * 1000);
-
   return articles.filter((article) => {
-    const pubDate = new Date(article.publishedAt);
-    const pubWAT = new Date(pubDate.getTime() + watOffset);
+    const pubWAT = new Date(
+      new Date(article.publishedAt).getTime() + 1 * 60 * 60 * 1000,
+    );
     return pubWAT >= cutoffWAT && pubWAT <= nowWAT;
   });
 }
 
-// ─── 3. Deduplicate by SHA256 of URL ─────────────────────────────────────
 function deduplicateArticles(articles) {
   const seen = new Set();
   return articles.filter((article) => {
@@ -172,35 +158,55 @@ function deduplicateArticles(articles) {
   });
 }
 
-// ─── 4. Summarize — Gemini with OpenRouter fallback ──────────────────────
-async function summarizeWithGemini(title, summary) {
-  const prompt = `${SUMMARIZE_PROMPT}\n\nTitle: ${title}\nSummary: ${summary}`;
+// ─── 2. LLM Summarization ────────────────────────────────────────────────
+async function summarizeWithGemini(title, summary, sourceName) {
+  const prompt = `${SUMMARIZE_PROMPT.replace("{SOURCE}", sourceName)}\n\nTitle: ${title}\nSummary: ${summary}`;
   const result = await model.generateContent(prompt);
-  const text = result.response.text().trim();
-  return text.replace(/^["'`]+|["'`]+$/g, "").trim();
+  return result.response
+    .text()
+    .replace(/^["'`]+|["'`]+$/g, "")
+    .trim();
 }
 
-async function summarizeWithOpenRouter(title, summary) {
-  console.log("[LLM] Gemini rate limited — falling back to OpenRouter...");
-  const prompt = `${SUMMARIZE_PROMPT}\n\nTitle: ${title}\nSummary: ${summary}`;
+async function summarizeWithOpenRouter(title, summary, sourceName) {
+  const prompt = `${SUMMARIZE_PROMPT.replace("{SOURCE}", sourceName)}\n\nTitle: ${title}\nSummary: ${summary}`;
 
-  const response = await axios.post(
-    "https://openrouter.ai/api/v1/chat/completions",
-    {
-      model: "meta-llama/llama-3.3-70b-instruct:free",
-      messages: [{ role: "user", content: prompt }],
-      max_tokens: 280,
-      temperature: 0.7,
-    },
-    {
-      headers: {
-        Authorization: `Bearer ${OPENROUTER_API_KEY}`,
-        "Content-Type": "application/json",
-      },
-    },
-  );
-  const text = response.data.choices[0].message.content.trim();
-  return text.replace(/^["'`]+|["'`]+$/g, "").trim();
+  // A list of reliable free models to cycle through
+  const freeModels = [
+    "meta-llama/llama-3.3-70b-instruct:free",
+    "google/gemini-2.0-flash-lite-preview-02-05:free",
+    "mistralai/mistral-7b-instruct:free",
+    "meta-llama/llama-3-8b-instruct:free",
+    "qwen/qwen-2.5-7b-instruct:free",
+  ];
+
+  for (const model of freeModels) {
+    try {
+      const response = await axios.post(
+        "https://openrouter.ai/api/v1/chat/completions",
+        {
+          model: model,
+          messages: [{ role: "user", content: prompt }],
+          max_tokens: 280,
+          temperature: 0.7,
+        },
+        {
+          headers: {
+            Authorization: `Bearer ${OPENROUTER_API_KEY}`,
+            "Content-Type": "application/json",
+            "HTTP-Referer": "https://github.com/ai-pulse",
+            "X-Title": "AI Pulse",
+          },
+        },
+      );
+      return response.data.choices[0].message.content
+        .replace(/^["'`]+|["'`]+$/g, "")
+        .trim();
+    } catch (err) {
+      console.log(`   ↳ (OpenRouter model ${model} busy, trying next...)`);
+    }
+  }
+  throw new Error("All OpenRouter free providers returned errors.");
 }
 
 function generateFallback(title, sourceName) {
@@ -210,48 +216,38 @@ function generateFallback(title, sourceName) {
 
 async function summarizeArticle(title, summary, sourceName) {
   try {
-    return await summarizeWithGemini(title, summary);
+    return await summarizeWithGemini(title, summary, sourceName);
   } catch (err) {
-    // FORCE LOGGING OF THE ERROR so we know exactly why it's failing
-    console.error(
-      `\n❌ [LLM Error] Failed to summarize: "${title.slice(0, 50)}..."`,
-    );
-    console.error(`   Reason: ${err.message}\n`);
+    console.error(`\n❌ [Gemini Error]: ${err.message}`);
 
-    const isRateLimit =
-      err.response?.status === 429 ||
-      err.message?.includes("429") ||
-      err.message?.includes("quota") ||
-      err.message?.includes("rate limit");
-
-    if (isRateLimit && OPENROUTER_API_KEY) {
+    // We try OpenRouter for ANY Gemini failure now, not just rate limits
+    if (OPENROUTER_API_KEY && OPENROUTER_API_KEY.length > 10) {
+      console.log("   ↳ Trying OpenRouter Fallback...");
       try {
-        return await summarizeWithOpenRouter(title, summary);
-      } catch (fallbackErr) {
+        return await summarizeWithOpenRouter(title, summary, sourceName);
+      } catch (orErr) {
         console.error(
-          "[LLM] OpenRouter fallback also failed:",
-          fallbackErr.message,
+          `   ↳ ❌ [OpenRouter Error]: ${orErr.response?.data?.error?.message || orErr.message}`,
         );
         return generateFallback(title, sourceName);
       }
+    } else {
+      console.log("   ↳ Skipping OpenRouter (API Key missing or invalid)");
+      return generateFallback(title, sourceName);
     }
-    return generateFallback(title, sourceName);
   }
 }
 
-// ─── 5. Process & build data objects ──────────────────────────────────────
 async function processArticles(articles) {
-  console.log(`[LLM] Summarizing ${articles.length} articles...`);
+  console.log(`\n[LLM] Summarizing ${articles.length} articles...`);
   const results = [];
-
   for (const article of articles) {
-    console.log(`[LLM] Processing: ${article.title.slice(0, 60)}...`);
+    console.log(`[LLM] Processing: ${article.title.slice(0, 50)}...`);
     const tweetText = await summarizeArticle(
       article.title,
       article.summary,
       article.sourceName,
     );
-
     results.push({
       tweetText,
       articleUrl: article.url,
@@ -259,64 +255,27 @@ async function processArticles(articles) {
       sourceHomeUrl: article.sourceHomeUrl,
       publishedAt: article.publishedAt,
     });
-
-    // ABSOLUTE CRITICAL FIX: 4.5 seconds delay between API calls.
-    // Gemini Free Tier allows 15 RPM (1 request every 4 seconds).
-    await new Promise((r) => setTimeout(r, 4500));
+    await new Promise((r) => setTimeout(r, 4500)); // Crucial 4.5s delay
   }
-
   return results;
 }
 
-// ─── 6. Save to data/today.json ──────────────────────────────────────────
-function saveResults(results) {
-  const dataDir = path.join(__dirname, "data");
-  if (!fs.existsSync(dataDir)) fs.mkdirSync(dataDir, { recursive: true });
-
-  const filePath = path.join(dataDir, "today.json");
-  fs.writeFileSync(filePath, JSON.stringify(results, null, 2), "utf-8");
-  console.log(`[DATA] Saved ${results.length} articles to ${filePath}`);
-}
-
-// ─── 7. Deliver via Telegram Bot ─────────────────────────────────────────
-async function sendToTelegram(results) {
-  if (!TELEGRAM_BOT_TOKEN || !TELEGRAM_CHAT_ID) {
-    console.log("[TELEGRAM] Credentials not set — skipping delivery.");
-    return;
-  }
-
-  const url = `https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage`;
-
-  for (const item of results) {
-    const message = `${item.tweetText}\nRead: ${item.articleUrl}`;
-    try {
-      await axios.post(url, {
-        chat_id: TELEGRAM_CHAT_ID,
-        text: message,
-        disable_web_page_preview: false,
-      });
-      console.log(`[TELEGRAM] Sent: ${item.tweetText.slice(0, 50)}...`);
-      await new Promise((r) => setTimeout(r, 2000));
-    } catch (err) {
-      console.error(
-        `[TELEGRAM] Failed: ${err.response?.data?.description || err.message}`,
-      );
-    }
-  }
-}
-
-// ─── Main ─────────────────────────────────────────────────────────────────
+// ─── Main Execution ───────────────────────────────────────────────────────
 async function main() {
   console.log("=".repeat(50));
   console.log("[AI PULSE] Worker started —", new Date().toISOString());
+  console.log("─── Diagnostic Check ───");
+  console.log(
+    `GEMINI_KEY: ${GEMINI_API_KEY ? "Loaded (starts with " + GEMINI_API_KEY.slice(0, 4) + ")" : "MISSING"}`,
+  );
+  console.log(
+    `OPENROUTER_KEY: ${OPENROUTER_API_KEY ? "Loaded (starts with " + OPENROUTER_API_KEY.slice(0, 8) + ")" : "MISSING"}`,
+  );
   console.log("=".repeat(50));
 
   const allArticles = await fetchAllFeeds();
   const recent = filterLast24HoursWAT(allArticles);
-  console.log(`[FILTER] ${recent.length} articles from last 24h WAT.`);
-
   const unique = deduplicateArticles(recent);
-  console.log(`[DEDUP]  ${unique.length} unique articles.`);
 
   if (unique.length === 0) {
     console.log("[AI PULSE] No new articles today.");
@@ -324,20 +283,17 @@ async function main() {
   }
 
   const results = await processArticles(unique);
-  saveResults(results);
-  await sendToTelegram(results);
 
-  console.log("=".repeat(50));
-  console.log("[AI PULSE] Worker completed —", new Date().toISOString());
+  const dataDir = path.join(__dirname, "data");
+  if (!fs.existsSync(dataDir)) fs.mkdirSync(dataDir, { recursive: true });
+  fs.writeFileSync(
+    path.join(dataDir, "today.json"),
+    JSON.stringify(results, null, 2),
+  );
+  console.log(`[DATA] Saved ${results.length} articles.`);
   console.log("=".repeat(50));
 }
 
-// Execute when run directly
 if (require.main === module) {
-  main().catch((err) => {
-    console.error("[FATAL]", err);
-    process.exit(1);
-  });
+  main().catch((err) => console.error("[FATAL]", err));
 }
-
-module.exports = { main };
