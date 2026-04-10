@@ -1,26 +1,5 @@
 [
   {
-    "tweetText": "IBM: How robust AI governance protects enterprise margins — a significant development in AI that warrants attention. via AI News Blog",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/ibm-how-robust-ai-governance-protects-enterprise-margins/",
-    "sourceName": "AI News Blog",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Fri, 10 Apr 2026 13:57:15 +0000"
-  },
-  {
-    "tweetText": "Why companies like Apple are building AI agents with limits — a significant development in AI that warrants attention. via AI News Blog",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/why-companies-like-apple-are-building-ai-agents-with-limits/",
-    "sourceName": "AI News Blog",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Fri, 10 Apr 2026 10:00:00 +0000"
-  },
-  {
-    "tweetText": "Meta has a competitive AI model but loses its open-source identity — a significant development in AI that warrants attention. via AI News Blog",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/meta-muse-spark-ai-model-open-source/",
-    "sourceName": "AI News Blog",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Fri, 10 Apr 2026 08:00:00 +0000"
-  },
-  {
     "tweetText": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser’s delusions and ignored her warnings — a significant development in AI that warrants attention. via TechCrunch AI",
     "articleUrl": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/",
     "sourceName": "TechCrunch AI",
@@ -84,14 +63,7 @@
     "publishedAt": "Thu, 09 Apr 2026 18:27:47 +0000"
   },
   {
-    "tweetText": "Sierra’s Bret Taylor says the era of clicking buttons is over — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/04/09/sierras-bret-taylor-says-the-era-of-clicking-buttons-is-over/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 09 Apr 2026 17:20:50 +0000"
-  },
-  {
-    "tweetText": "Suspect Arrested For Allegedly Throwing Molotov Cocktail at Sam Altman's Home — a significant development in AI that warrants attention. via WIRED AI",
+    "tweetText": "Suspect Arrested for Allegedly Throwing Molotov Cocktail at Sam Altman’s Home — a significant development in AI that warrants attention. via WIRED AI",
     "articleUrl": "https://www.wired.com/story/sam-altman-home-attack-openai-san-franisco-office-threat/",
     "sourceName": "WIRED AI",
     "sourceHomeUrl": "https://wired.com/tag/ai/",
@@ -287,18 +259,11 @@
     "publishedAt": "Thu, 09 Apr 2026 18:00:00 +0000"
   },
   {
-    "tweetText": "Save $20 on This Already Inexpensive Wireless Mic Set — a significant development in AI that warrants attention. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/dji-mic-mini-deal-426/",
-    "sourceName": "WIRED AI",
-    "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Thu, 09 Apr 2026 17:31:11 +0000"
-  },
-  {
-    "tweetText": "John Deere Is Paying Farmers $99 Million for Allegedly Monopolizing Repair — a significant development in AI that warrants attention. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/john-deere-is-paying-farmers-99-million-for-allegedly-monopolizing-repair/",
-    "sourceName": "WIRED AI",
-    "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Thu, 09 Apr 2026 17:27:32 +0000"
+    "tweetText": "The Iranian Lego AI video creators credit their virality to &#8216;heart&#8217; — a significant development in AI that warrants attention. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/909948/explosive-media-lego-iran-war-trump-netanyahu",
+    "sourceName": "The Verge AI",
+    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
+    "publishedAt": "2026-04-10T17:30:00.000Z"
   },
   {
     "tweetText": "Fear and loathing at OpenAI — a significant development in AI that warrants attention. via The Verge AI",
