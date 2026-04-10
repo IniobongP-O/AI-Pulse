@@ -16,7 +16,7 @@ on:
   schedule:
     # 05:00 UTC = 06:00 WAT  (West Africa Time, UTC+1)
     - cron: "0 5 * * *"
-  workflow_dispatch:          # Manual trigger from the Actions tab
+  workflow_dispatch: # Manual trigger from the Actions tab
 
 jobs:
   run-worker:
@@ -55,25 +55,26 @@ jobs:
       - name: Run AI Pulse worker
         working-directory: ./worker
         env:
-          GEMINI_API_KEY:    ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TG_TOKEN }}
-          TELEGRAM_CHAT_ID:   ${{ secrets.TG_CHAT }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TG_CHAT }}
         run: node index.js
 
       # ── 5. Commit & push data/today.json ─────────────────
       - name: Commit and push today.json
         if: always()
         run: |
-          git config --global user.name  "ai-pulse-bot"
-          git config --global user.email "ai-pulse-bot@users.noreply.github.com"
+          # Use your personal credentials to bypass Vercel Hobby limits
+          git config --global user.name "IniobongP-O"
+          git config --global user.email "paulobot67@gmail.com"
 
-          # Stage the generated data file
+          # Stage the generated data file [cite: 50, 76]
           git add worker/data/today.json
 
-          # Only commit if there are changes
+          # Only commit if there are changes 
           git diff --cached --quiet && echo "No changes to commit." || \
             git commit -m "chore(worker): update today.json [skip ci]"
 
-          # Push back to main — triggers Vercel auto-deploy
+          # Push back to main — triggers Vercel auto-deploy [cite: 77, 78]
           git push origin HEAD:main
