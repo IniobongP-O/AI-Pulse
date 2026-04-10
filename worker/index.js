@@ -1,23 +1,14 @@
-/**
- * AI Pulse — Daily AI News Bot Worker
- *
- * Entry point: node worker/index.js
- *
- * Pipeline:
- *   1. Fetch 10 RSS feeds in parallel
- *   2. Filter to last 24 hours WAT (UTC+1)
- *   3. Deduplicate by SHA256 of URL
- *   4. Summarize with Gemini 2.0 Flash (fallback: OpenRouter Llama 3.3 free)
- *   5. Save to data/today.json
- *   6. Deliver via Telegram Bot
- */
-
 require("dotenv").config();
 const fs = require("fs");
 const path = require("path");
 const crypto = require("crypto");
 const Parser = require("rss-parser");
-const { GoogleGenerativeAI } = require("@google/generative-ai");
+// CHANGE 1: Import Safety modules to prevent news from being blocked
+const {
+  GoogleGenerativeAI,
+  HarmCategory,
+  HarmBlockThreshold,
+} = require("@google/generative-ai");
 const axios = require("axios");
 
 // ─── RSS Feed Sources ─────────────────────────────────────────────────────
@@ -82,9 +73,31 @@ const TELEGRAM_CHAT_ID = process.env.TELEGRAM_CHAT_ID;
 
 const parser = new Parser({ timeout: 15000 });
 const genAI = new GoogleGenerativeAI(GEMINI_API_KEY);
-const model = genAI.getGenerativeModel({ model: "gemini-2.0-flash" });
 
-const SUMMARIZE_PROMPT = `Summarize this Al news article in the style of an X tweet. Max 240 characters. Use plain English.  Write two short sentences: first what happened, second why it matters. End with via [SourceName].  Do not include hashtags or links. Keep it copy-paste ready.`;
+// CHANGE 2: Disable safety filters so Tech/AI news doesn't get blocked
+const model = genAI.getGenerativeModel({
+  model: "gemini-2.0-flash",
+  safetySettings: [
+    {
+      category: HarmCategory.HARM_CATEGORY_HARASSMENT,
+      threshold: HarmBlockThreshold.BLOCK_NONE,
+    },
+    {
+      category: HarmCategory.HARM_CATEGORY_HATE_SPEECH,
+      threshold: HarmBlockThreshold.BLOCK_NONE,
+    },
+    {
+      category: HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT,
+      threshold: HarmBlockThreshold.BLOCK_NONE,
+    },
+    {
+      category: HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT,
+      threshold: HarmBlockThreshold.BLOCK_NONE,
+    },
+  ],
+});
+
+const SUMMARIZE_PROMPT = `Summarize this Al news article in the style of an X tweet. Max 240 characters. Use plain English. Write two short sentences: first what happened, second why it matters. End with via [SourceName]. Do not include hashtags or links. Keep it copy-paste ready.`;
 
 // ─── 1. Fetch all RSS feeds in parallel ───────────────────────────────────
 async function fetchAllFeeds() {
@@ -95,7 +108,13 @@ async function fetchAllFeeds() {
         const parsed = await parser.parseURL(feed.url);
         return parsed.items.map((item) => ({
           title: item.title || "Untitled",
-          summary: item.summary || item.contentSnippet || item.content || "",
+          // CHANGE 3: Aggressively hunt for the article summary across multiple properties
+          summary:
+            item.contentSnippet ||
+            item.content ||
+            item.description ||
+            item.summary ||
+            "No detailed content available.",
           url: item.link || "",
           sourceName: feed.name,
           sourceHomeUrl: feed.home,
@@ -111,7 +130,6 @@ async function fetchAllFeeds() {
   const articles = results
     .filter((r) => r.status === "fulfilled")
     .flatMap((r) => r.value);
-
   console.log(`[RSS] Fetched ${articles.length} total articles.`);
   return articles;
 }
@@ -226,8 +244,8 @@ async function processArticles(articles) {
       publishedAt: article.publishedAt,
     });
 
-    // Pace requests to avoid rate limits
-    await new Promise((r) => setTimeout(r, 1500));
+    // CHANGE 4: Pace requests to avoid rate limits (15 RPM = 1 request every 4 seconds)
+    await new Promise((r) => setTimeout(r, 4500));
   }
 
   return results;
