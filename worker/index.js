@@ -1,15 +1,33 @@
+/**
+ * AI Pulse — Daily AI News Bot Worker
+ */
+
 require("dotenv").config();
 const fs = require("fs");
 const path = require("path");
 const crypto = require("crypto");
 const Parser = require("rss-parser");
-// CHANGE 1: Import Safety modules to prevent news from being blocked
 const {
   GoogleGenerativeAI,
   HarmCategory,
   HarmBlockThreshold,
 } = require("@google/generative-ai");
 const axios = require("axios");
+
+// ─── 0. Fail-Fast Environment Check ───────────────────────────────────────
+const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
+if (!GEMINI_API_KEY) {
+  console.error("❌ FATAL ERROR: GEMINI_API_KEY is missing or undefined.");
+  console.error("If running locally: Check your .env file.");
+  console.error(
+    "If running on GitHub: Check Repository Settings -> Secrets and variables -> Actions.",
+  );
+  process.exit(1);
+}
+
+const OPENROUTER_API_KEY = process.env.OPENROUTER_API_KEY;
+const TELEGRAM_BOT_TOKEN = process.env.TELEGRAM_BOT_TOKEN;
+const TELEGRAM_CHAT_ID = process.env.TELEGRAM_CHAT_ID;
 
 // ─── RSS Feed Sources ─────────────────────────────────────────────────────
 const RSS_FEEDS = [
@@ -19,7 +37,7 @@ const RSS_FEEDS = [
     home: "https://research.google/blog/",
   },
   {
-    name: "AI News Blog",
+    name: "AI News",
     url: "https://www.artificialintelligence-news.com/feed/",
     home: "https://www.artificialintelligence-news/",
   },
@@ -65,16 +83,10 @@ const RSS_FEEDS = [
   },
 ];
 
-// ─── Environment ──────────────────────────────────────────────────────────
-const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
-const OPENROUTER_API_KEY = process.env.OPENROUTER_API_KEY;
-const TELEGRAM_BOT_TOKEN = process.env.TELEGRAM_BOT_TOKEN;
-const TELEGRAM_CHAT_ID = process.env.TELEGRAM_CHAT_ID;
-
 const parser = new Parser({ timeout: 15000 });
 const genAI = new GoogleGenerativeAI(GEMINI_API_KEY);
 
-// CHANGE 2: Disable safety filters so Tech/AI news doesn't get blocked
+// Apply safety overrides so news about breaches, lawsuits, or tech failures aren't blocked
 const model = genAI.getGenerativeModel({
   model: "gemini-2.0-flash",
   safetySettings: [
@@ -97,7 +109,7 @@ const model = genAI.getGenerativeModel({
   ],
 });
 
-const SUMMARIZE_PROMPT = `Summarize this Al news article in the style of an X tweet. Max 240 characters. Use plain English. Write two short sentences: first what happened, second why it matters. End with via [SourceName]. Do not include hashtags or links. Keep it copy-paste ready.`;
+const SUMMARIZE_PROMPT = `Summarize this Al news article in the style of an X tweet. Max 240 characters. Use plain English.  Write two short sentences: first what happened, second why it matters. End with via [SourceName].  Do not include hashtags or links. Keep it copy-paste ready.`;
 
 // ─── 1. Fetch all RSS feeds in parallel ───────────────────────────────────
 async function fetchAllFeeds() {
@@ -108,13 +120,13 @@ async function fetchAllFeeds() {
         const parsed = await parser.parseURL(feed.url);
         return parsed.items.map((item) => ({
           title: item.title || "Untitled",
-          // CHANGE 3: Aggressively hunt for the article summary across multiple properties
+          // Aggressively hunt for the actual text content so the AI has context to read
           summary:
             item.contentSnippet ||
             item.content ||
             item.description ||
             item.summary ||
-            "No detailed content available.",
+            "No summary available.",
           url: item.link || "",
           sourceName: feed.name,
           sourceHomeUrl: feed.home,
@@ -130,6 +142,7 @@ async function fetchAllFeeds() {
   const articles = results
     .filter((r) => r.status === "fulfilled")
     .flatMap((r) => r.value);
+
   console.log(`[RSS] Fetched ${articles.length} total articles.`);
   return articles;
 }
@@ -137,7 +150,7 @@ async function fetchAllFeeds() {
 // ─── 2. Filter last 24 hours WAT (West Africa Time, UTC+1) ───────────────
 function filterLast24HoursWAT(articles) {
   const now = new Date();
-  const watOffset = 1 * 60 * 60 * 1000; // UTC+1
+  const watOffset = 1 * 60 * 60 * 1000;
   const nowWAT = new Date(now.getTime() + watOffset);
   const cutoffWAT = new Date(nowWAT.getTime() - 24 * 60 * 60 * 1000);
 
@@ -168,9 +181,7 @@ async function summarizeWithGemini(title, summary) {
 }
 
 async function summarizeWithOpenRouter(title, summary) {
-  console.log(
-    "[LLM] Gemini rate limited — falling back to OpenRouter Llama 3.3:free",
-  );
+  console.log("[LLM] Gemini rate limited — falling back to OpenRouter...");
   const prompt = `${SUMMARIZE_PROMPT}\n\nTitle: ${title}\nSummary: ${summary}`;
 
   const response = await axios.post(
@@ -185,12 +196,9 @@ async function summarizeWithOpenRouter(title, summary) {
       headers: {
         Authorization: `Bearer ${OPENROUTER_API_KEY}`,
         "Content-Type": "application/json",
-        "HTTP-Referer": "https://github.com/ai-pulse",
-        "X-Title": "AI Pulse Worker",
       },
     },
   );
-
   const text = response.data.choices[0].message.content.trim();
   return text.replace(/^["'`]+|["'`]+$/g, "").trim();
 }
@@ -204,6 +212,12 @@ async function summarizeArticle(title, summary, sourceName) {
   try {
     return await summarizeWithGemini(title, summary);
   } catch (err) {
+    // FORCE LOGGING OF THE ERROR so we know exactly why it's failing
+    console.error(
+      `\n❌ [LLM Error] Failed to summarize: "${title.slice(0, 50)}..."`,
+    );
+    console.error(`   Reason: ${err.message}\n`);
+
     const isRateLimit =
       err.response?.status === 429 ||
       err.message?.includes("429") ||
@@ -214,11 +228,13 @@ async function summarizeArticle(title, summary, sourceName) {
       try {
         return await summarizeWithOpenRouter(title, summary);
       } catch (fallbackErr) {
-        console.error("[LLM] OpenRouter fallback failed:", fallbackErr.message);
+        console.error(
+          "[LLM] OpenRouter fallback also failed:",
+          fallbackErr.message,
+        );
         return generateFallback(title, sourceName);
       }
     }
-    console.error("[LLM] Gemini error:", err.message);
     return generateFallback(title, sourceName);
   }
 }
@@ -244,7 +260,8 @@ async function processArticles(articles) {
       publishedAt: article.publishedAt,
     });
 
-    // CHANGE 4: Pace requests to avoid rate limits (15 RPM = 1 request every 4 seconds)
+    // ABSOLUTE CRITICAL FIX: 4.5 seconds delay between API calls.
+    // Gemini Free Tier allows 15 RPM (1 request every 4 seconds).
     await new Promise((r) => setTimeout(r, 4500));
   }
 
