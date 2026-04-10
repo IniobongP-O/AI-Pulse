@@ -74,7 +74,7 @@ jobs:
 
           # Only commit if there are changes 
           git diff --cached --quiet && echo "No changes to commit." || \
-            git commit -m "chore(worker): update today.json [skip ci]"
+            git commit -m "Automated daily news update"
 
           # Push back to main — triggers Vercel auto-deploy [cite: 77, 78]
           git push origin HEAD:main
