@@ -155,7 +155,7 @@ async function summarizeWithCohere(title, summary, sourceName) {
       "https://api.cohere.ai/v1/chat",
       {
         message: prompt,
-        model: "command-r",
+        model: "command-r-plus",
         temperature: 0.7,
       },
       {
@@ -279,23 +279,9 @@ async function summarizeArticle(title, summary, sourceName) {
     }
   }
 
-  // Tier 2: Fall back to OpenRouter
-  if (OPENROUTER_API_KEY && OPENROUTER_API_KEY.length > 10) {
-    console.log("   ↳ Cohere failed, falling back to OpenRouter...");
-    try {
-      return await summarizeWithOpenRouter(title, summary, sourceName);
-    } catch (orErr) {
-      console.error(
-        `   ↳ ❌ [OpenRouter Error]: ${orErr.response?.data?.error?.message || orErr.message}`,
-      );
-    }
-  } else {
-    console.log("   ↳ Skipping OpenRouter (API Key missing or invalid)");
-  }
-
-  // Tier 3: Fall back to GitHub Models
+  // Tier 2: Fall back to GitHub Models
   if (GH_MODELS_KEY && GH_MODELS_KEY.length > 10) {
-    console.log("   ↳ OpenRouter failed, falling back to GitHub Models...");
+    console.log("   ↳ Cohere failed, falling back to GitHub Models...");
     try {
       return await summarizeWithGitHubModels(title, summary, sourceName);
     } catch (ghErr) {
@@ -305,6 +291,20 @@ async function summarizeArticle(title, summary, sourceName) {
     }
   } else {
     console.log("   ↳ Skipping GitHub Models (API Key missing or invalid)");
+  }
+
+  // Tier 3: Fall back to OpenRouter
+  if (OPENROUTER_API_KEY && OPENROUTER_API_KEY.length > 10) {
+    console.log("   ↳ GitHub Models failed, falling back to OpenRouter...");
+    try {
+      return await summarizeWithOpenRouter(title, summary, sourceName);
+    } catch (orErr) {
+      console.error(
+        `   ↳ ❌ [OpenRouter Error]: ${orErr.response?.data?.error?.message || orErr.message}`,
+      );
+    }
+  } else {
+    console.log("   ↳ Skipping OpenRouter (API Key missing or invalid)");
   }
 
   // All providers failed — use fallback
@@ -402,7 +402,12 @@ async function main() {
     return;
   }
 
-  const results = await processArticles(unique);
+  const articlesToProcess = unique.slice(0, 10);
+  console.log(
+    `[RSS] Limiting to ${articlesToProcess.length} articles for processing.`,
+  );
+
+  const results = await processArticles(articlesToProcess);
 
   const dataDir = path.join(__dirname, "data");
   if (!fs.existsSync(dataDir)) fs.mkdirSync(dataDir, { recursive: true });
