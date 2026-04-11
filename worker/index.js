@@ -7,21 +7,19 @@ const fs = require("fs");
 const path = require("path");
 const crypto = require("crypto");
 const Parser = require("rss-parser");
-const {
-  GoogleGenerativeAI,
-  HarmCategory,
-  HarmBlockThreshold,
-} = require("@google/generative-ai");
 const axios = require("axios");
 
 // ─── 0. Fail-Fast Environment Check ───────────────────────────────────────
-const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
+const COHERE_API_KEY = process.env.COHERE_API_KEY;
 const OPENROUTER_API_KEY = process.env.OPENROUTER_API_KEY;
+const GH_MODELS_KEY = process.env.GH_MODELS_KEY;
 const TELEGRAM_BOT_TOKEN = process.env.TELEGRAM_BOT_TOKEN;
 const TELEGRAM_CHAT_ID = process.env.TELEGRAM_CHAT_ID;
 
-if (!GEMINI_API_KEY) {
-  console.error("❌ FATAL ERROR: GEMINI_API_KEY is missing or undefined.");
+if (!COHERE_API_KEY && !OPENROUTER_API_KEY && !GH_MODELS_KEY) {
+  console.error(
+    "❌ FATAL ERROR: At least one of COHERE_API_KEY, OPENROUTER_API_KEY, or GH_MODELS_KEY must be set.",
+  );
   process.exit(1);
 }
 
@@ -64,7 +62,7 @@ const RSS_FEEDS = [
   },
   {
     name: "WIRED AI",
-    url: "https://www.wired.com/feed/rss",
+    url: "https://www.wired.com/feed/tag/ai/latest/rss",
     home: "https://wired.com/tag/ai/",
   },
   {
@@ -74,38 +72,17 @@ const RSS_FEEDS = [
   },
   {
     name: "MIT Technology Review",
-    url: "https://technologyreview.com/topic/artificial-intelligence",
-    home: "https://technologyreview.com/topic/artificial-intelligence/",
+    url: "https://www.technologyreview.com/feed/",
+    home: "https://www.technologyreview.com/topic/artificial-intelligence/",
   },
 ];
 
 const parser = new Parser({ timeout: 15000 });
-const genAI = new GoogleGenerativeAI(GEMINI_API_KEY);
 
-const model = genAI.getGenerativeModel({
-  model: "gemini-2.0-flash",
-  safetySettings: [
-    {
-      category: HarmCategory.HARM_CATEGORY_HARASSMENT,
-      threshold: HarmBlockThreshold.BLOCK_NONE,
-    },
-    {
-      category: HarmCategory.HARM_CATEGORY_HATE_SPEECH,
-      threshold: HarmBlockThreshold.BLOCK_NONE,
-    },
-    {
-      category: HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT,
-      threshold: HarmBlockThreshold.BLOCK_NONE,
-    },
-    {
-      category: HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT,
-      threshold: HarmBlockThreshold.BLOCK_NONE,
-    },
-  ],
-});
+const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
 // Changed to {SOURCE} so we can inject the real source name dynamically
-const SUMMARIZE_PROMPT = `Summarize this Al news article in the style of an X tweet. Max 240 characters. Use plain English. Write two short sentences: first what happened, second why it matters. End with via {SOURCE}. Do not include hashtags or links. Keep it copy-paste ready.`;
+const SUMMARIZE_PROMPT = `Summarize this AI news article in the style of an X tweet. Max 240 characters. Use plain English. Write two short sentences: first what happened, second why it matters. End with via {SOURCE}. Do not include hashtags or links. Keep it copy-paste ready.`;
 
 // ─── 1. Fetch & Filter RSS Feeds ──────────────────────────────────────────
 async function fetchAllFeeds() {
@@ -148,6 +125,17 @@ function filterLast24HoursWAT(articles) {
   });
 }
 
+// ─── AI-Relevance Filter ──────────────────────────────────────────────────
+const AI_KEYWORDS =
+  /\b(ai|artificial intelligence|machine learning|deep learning|neural|llm|gpt|chatgpt|gemini|claude|anthropic|openai|generative|diffusion|transformer|nlp|computer vision|robotics|autonomous|copilot|midjourney|stable diffusion|deepmind|hugging face|langchain|rag|fine-?tun|foundational model|large language model|training data)\b/i;
+
+function filterAIRelevant(articles) {
+  return articles.filter((article) => {
+    const text = `${article.title} ${article.summary}`;
+    return AI_KEYWORDS.test(text);
+  });
+}
+
 function deduplicateArticles(articles) {
   const seen = new Set();
   return articles.filter((article) => {
@@ -159,33 +147,56 @@ function deduplicateArticles(articles) {
 }
 
 // ─── 2. LLM Summarization ────────────────────────────────────────────────
-async function summarizeWithGemini(title, summary, sourceName) {
+async function summarizeWithCohere(title, summary, sourceName) {
   const prompt = `${SUMMARIZE_PROMPT.replace("{SOURCE}", sourceName)}\n\nTitle: ${title}\nSummary: ${summary}`;
-  const result = await model.generateContent(prompt);
-  return result.response
-    .text()
-    .replace(/^["'`]+|["'`]+$/g, "")
-    .trim();
+
+  try {
+    const response = await axios.post(
+      "https://api.cohere.ai/v1/chat",
+      {
+        message: prompt,
+        model: "command-r7b",
+        temperature: 0.7,
+      },
+      {
+        headers: {
+          Authorization: `Bearer ${COHERE_API_KEY}`,
+          "Content-Type": "application/json",
+        },
+      },
+    );
+
+    const text = response.data?.text;
+    if (!text || text.trim().length === 0) {
+      throw new Error("Cohere returned an empty response");
+    }
+    return text.replace(/^["'`]+|["'`]+$/g, "").trim();
+  } catch (err) {
+    const detail = err.response?.data?.message || err.message;
+    throw new Error(`Cohere API failed: ${detail}`);
+  }
 }
 
 async function summarizeWithOpenRouter(title, summary, sourceName) {
   const prompt = `${SUMMARIZE_PROMPT.replace("{SOURCE}", sourceName)}\n\nTitle: ${title}\nSummary: ${summary}`;
 
-  // A list of reliable free models to cycle through
+  // Reliable free models for fallback (verified April 2026)
   const freeModels = [
+    "google/gemma-4-31b-it:free",
+    "google/gemma-4-26b-a4b-it:free",
     "meta-llama/llama-3.3-70b-instruct:free",
-    "google/gemini-2.0-flash-lite-preview-02-05:free",
+    "minimax/minimax-m2.5:free",
     "mistralai/mistral-7b-instruct:free",
-    "meta-llama/llama-3-8b-instruct:free",
-    "qwen/qwen-2.5-7b-instruct:free",
+    "openrouter/free", // Smart router as final safety net
   ];
 
-  for (const model of freeModels) {
+  const errors = [];
+  for (const orModel of freeModels) {
     try {
       const response = await axios.post(
         "https://openrouter.ai/api/v1/chat/completions",
         {
-          model: model,
+          model: orModel,
           messages: [{ role: "user", content: prompt }],
           max_tokens: 280,
           temperature: 0.7,
@@ -199,14 +210,58 @@ async function summarizeWithOpenRouter(title, summary, sourceName) {
           },
         },
       );
-      return response.data.choices[0].message.content
-        .replace(/^["'`]+|["'`]+$/g, "")
-        .trim();
+      const content = response.data?.choices?.[0]?.message?.content;
+      if (!content || content.trim().length === 0) {
+        throw new Error("Empty response from model");
+      }
+      return content.replace(/^["'`]+|["'`]+$/g, "").trim();
     } catch (err) {
-      console.log(`   ↳ (OpenRouter model ${model} busy, trying next...)`);
+      const detail = err.response?.data?.error?.message || err.message;
+      console.log(`   ↳ OpenRouter [${orModel}]: ${detail}`);
+      errors.push(`${orModel}: ${detail}`);
+      // Add a short delay between model retries to avoid rate limiting
+      await sleep(2000);
     }
   }
-  throw new Error("All OpenRouter free providers returned errors.");
+  throw new Error(`All OpenRouter models failed:\n${errors.join("\n")}`);
+}
+
+async function summarizeWithGitHubModels(title, summary, sourceName) {
+  const prompt = `${SUMMARIZE_PROMPT.replace("{SOURCE}", sourceName)}\n\nTitle: ${title}\nSummary: ${summary}`;
+
+  try {
+    const response = await axios.post(
+      "https://models.github.ai/inference/chat/completions",
+      {
+        model: "gpt-4o-mini",
+        messages: [
+          {
+            role: "system",
+            content:
+              "You are a helpful assistant that summarizes news articles concisely.",
+          },
+          { role: "user", content: prompt },
+        ],
+        max_tokens: 280,
+        temperature: 0.7,
+      },
+      {
+        headers: {
+          Authorization: `Bearer ${GH_MODELS_KEY}`,
+          "Content-Type": "application/json",
+        },
+      },
+    );
+
+    const content = response.data?.choices?.[0]?.message?.content;
+    if (!content || content.trim().length === 0) {
+      throw new Error("Empty response from GitHub Models");
+    }
+    return content.replace(/^["'`]+|["'`]+$/g, "").trim();
+  } catch (err) {
+    const detail = err.response?.data?.error?.message || err.message;
+    throw new Error(`GitHub Models API failed: ${detail}`);
+  }
 }
 
 function generateFallback(title, sourceName) {
@@ -215,34 +270,62 @@ function generateFallback(title, sourceName) {
 }
 
 async function summarizeArticle(title, summary, sourceName) {
-  try {
-    return await summarizeWithGemini(title, summary, sourceName);
-  } catch (err) {
-    console.error(`\n❌ [Gemini Error]: ${err.message}`);
-
-    // We try OpenRouter for ANY Gemini failure now, not just rate limits
-    if (OPENROUTER_API_KEY && OPENROUTER_API_KEY.length > 10) {
-      console.log("   ↳ Trying OpenRouter Fallback...");
-      try {
-        return await summarizeWithOpenRouter(title, summary, sourceName);
-      } catch (orErr) {
-        console.error(
-          `   ↳ ❌ [OpenRouter Error]: ${orErr.response?.data?.error?.message || orErr.message}`,
-        );
-        return generateFallback(title, sourceName);
-      }
-    } else {
-      console.log("   ↳ Skipping OpenRouter (API Key missing or invalid)");
-      return generateFallback(title, sourceName);
+  // Tier 1: Try Cohere
+  if (COHERE_API_KEY && COHERE_API_KEY.length > 10) {
+    try {
+      return await summarizeWithCohere(title, summary, sourceName);
+    } catch (err) {
+      console.error(`\n❌ [Cohere Error]: ${err.message}`);
     }
   }
+
+  // Tier 2: Fall back to OpenRouter
+  if (OPENROUTER_API_KEY && OPENROUTER_API_KEY.length > 10) {
+    console.log("   ↳ Cohere failed, falling back to OpenRouter...");
+    try {
+      return await summarizeWithOpenRouter(title, summary, sourceName);
+    } catch (orErr) {
+      console.error(
+        `   ↳ ❌ [OpenRouter Error]: ${orErr.response?.data?.error?.message || orErr.message}`,
+      );
+    }
+  } else {
+    console.log("   ↳ Skipping OpenRouter (API Key missing or invalid)");
+  }
+
+  // Tier 3: Fall back to GitHub Models
+  if (GH_MODELS_KEY && GH_MODELS_KEY.length > 10) {
+    console.log("   ↳ OpenRouter failed, falling back to GitHub Models...");
+    try {
+      return await summarizeWithGitHubModels(title, summary, sourceName);
+    } catch (ghErr) {
+      console.error(
+        `   ↳ ❌ [GitHub Models Error]: ${ghErr.response?.data?.error?.message || ghErr.message}`,
+      );
+    }
+  } else {
+    console.log("   ↳ Skipping GitHub Models (API Key missing or invalid)");
+  }
+
+  // All providers failed — use fallback
+  console.log("   ↳ All AI providers failed. Using fallback summary.");
+  return generateFallback(title, sourceName);
 }
 
 async function processArticles(articles) {
   console.log(`\n[LLM] Summarizing ${articles.length} articles...`);
   const results = [];
-  for (const article of articles) {
-    console.log(`[LLM] Processing: ${article.title.slice(0, 50)}...`);
+  for (let i = 0; i < articles.length; i++) {
+    const article = articles[i];
+    console.log(
+      `[LLM] Processing (${i + 1}/${articles.length}): ${article.title.slice(0, 50)}...`,
+    );
+
+    // Respect API rate limits between articles
+    if (i > 0) {
+      await sleep(8000);
+    }
+
     const tweetText = await summarizeArticle(
       article.title,
       article.summary,
@@ -255,7 +338,6 @@ async function processArticles(articles) {
       sourceHomeUrl: article.sourceHomeUrl,
       publishedAt: article.publishedAt,
     });
-    await new Promise((r) => setTimeout(r, 4500)); // Crucial 4.5s delay
   }
   return results;
 }
@@ -266,16 +348,24 @@ async function main() {
   console.log("[AI PULSE] Worker started —", new Date().toISOString());
   console.log("─── Diagnostic Check ───");
   console.log(
-    `GEMINI_KEY: ${GEMINI_API_KEY ? "Loaded (starts with " + GEMINI_API_KEY.slice(0, 4) + ")" : "MISSING"}`,
+    `COHERE_KEY: ${COHERE_API_KEY ? "Loaded (starts with " + COHERE_API_KEY.slice(0, 4) + ")" : "MISSING"}`,
   );
   console.log(
     `OPENROUTER_KEY: ${OPENROUTER_API_KEY ? "Loaded (starts with " + OPENROUTER_API_KEY.slice(0, 8) + ")" : "MISSING"}`,
   );
+  console.log(
+    `GH_MODELS_KEY: ${GH_MODELS_KEY ? "Loaded (starts with " + GH_MODELS_KEY.slice(0, 6) + ")" : "MISSING"}`,
+  );
   console.log("=".repeat(50));
 
   const allArticles = await fetchAllFeeds();
+  console.log(`[RSS] Total articles fetched: ${allArticles.length}`);
   const recent = filterLast24HoursWAT(allArticles);
-  const unique = deduplicateArticles(recent);
+  console.log(`[RSS] Articles from last 24h: ${recent.length}`);
+  const relevant = filterAIRelevant(recent);
+  console.log(`[RSS] AI-relevant articles: ${relevant.length}`);
+  const unique = deduplicateArticles(relevant);
+  console.log(`[RSS] After dedup: ${unique.length}`);
 
   if (unique.length === 0) {
     console.log("[AI PULSE] No new articles today.");
