@@ -155,7 +155,7 @@ async function summarizeWithCohere(title, summary, sourceName) {
       "https://api.cohere.ai/v1/chat",
       {
         message: prompt,
-        model: "command-r7b",
+        model: "command-r",
         temperature: 0.7,
       },
       {
@@ -342,6 +342,36 @@ async function processArticles(articles) {
   return results;
 }
 
+// ─── 3. Telegram Delivery ─────────────────────────────────────────────────
+async function sendToTelegram(results) {
+  if (!TELEGRAM_BOT_TOKEN || !TELEGRAM_CHAT_ID) {
+    console.log("[Telegram] Skipping delivery — bot token or chat ID missing.");
+    return;
+  }
+
+  console.log(`\n[Telegram] Delivering ${results.length} articles...`);
+
+  for (const item of results) {
+    const messageString = `${item.tweetText}\n\nRead more: ${item.articleUrl}`;
+
+    try {
+      await axios.post(
+        `https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage`,
+        { chat_id: TELEGRAM_CHAT_ID, text: messageString },
+        { headers: { "Content-Type": "application/json" } },
+      );
+      console.log(`✅ Sent: ${item.tweetText.slice(0, 50)}...`);
+    } catch (err) {
+      const detail = err.response?.data?.description || err.message;
+      console.error(`❌ Telegram send failed: ${detail}`);
+    }
+
+    await sleep(1500);
+  }
+
+  console.log("[Telegram] All articles delivered.");
+}
+
 // ─── Main Execution ───────────────────────────────────────────────────────
 async function main() {
   console.log("=".repeat(50));
@@ -381,6 +411,9 @@ async function main() {
     JSON.stringify(results, null, 2),
   );
   console.log(`[DATA] Saved ${results.length} articles.`);
+
+  await sendToTelegram(results);
+
   console.log("=".repeat(50));
 }
 
