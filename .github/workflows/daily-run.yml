@@ -57,8 +57,9 @@ jobs:
         env:
           COHERE_API_KEY: ${{ secrets.COHERE_API_KEY }}
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          GH_MODELS_KEY: ${{ secrets.GH_MODELS_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TG_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TG_CHAT }}
         run: node index.js
 
       # ── 5. Commit & push data/today.json ─────────────────
