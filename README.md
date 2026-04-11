@@ -56,20 +56,22 @@ Go to **Settings → Secrets → Actions** and add:
 
 | Secret                | Description                                                                       |
 | --------------------- | --------------------------------------------------------------------------------- |
-| `GEMINI_API_KEY`      | Google AI Studio API key (free tier)                                              |
+| `COHERE_API_KEY`      | Cohere API key (primary summarizer)                                               |
 | `OPENROUTER_API_KEY`  | OpenRouter API key (fallback model)                                               |
-| `TG_TOKEN`            | Telegram Bot token from @BotFather                                                |
-| `TG_CHAT`             | Target chat/channel ID                                                            |
+| `GH_MODELS_KEY`       | GitHub Models API key (secondary fallback)                                        |
+| `TELEGRAM_BOT_TOKEN`  | Telegram Bot token from @BotFather                                                |
+| `TELEGRAM_CHAT_ID`    | Target chat/channel ID                                                            |
 | `GH_PAT` _(optional)_ | Personal Access Token with `repo` scope — ensures the push triggers Vercel deploy |
 
 ### 4. Environment Variables
 
-| Variable             | Used By | Description                              |
-| -------------------- | ------- | ---------------------------------------- |
-| `GEMINI_API_KEY`     | Worker  | Google AI Studio key                     |
-| `OPENROUTER_API_KEY` | Worker  | OpenRouter fallback key                  |
-| `TELEGRAM_BOT_TOKEN` | Worker  | Bot token (mapped from `TG_TOKEN` in CI) |
-| `TELEGRAM_CHAT_ID`   | Worker  | Chat ID (mapped from `TG_CHAT` in CI)    |
+| Variable             | Used By | Description                |
+| -------------------- | ------- | -------------------------- |
+| `COHERE_API_KEY`     | Worker  | Cohere primary key         |
+| `OPENROUTER_API_KEY` | Worker  | OpenRouter fallback key    |
+| `GH_MODELS_KEY`      | Worker  | GitHub Models fallback key |
+| `TELEGRAM_BOT_TOKEN` | Worker  | Bot token                  |
+| `TELEGRAM_CHAT_ID`   | Worker  | Chat ID                    |
 
 ## RSS Sources
 
@@ -155,4 +157,5 @@ ai-news/
 ## License
 
 MIT
+
 # AI-Pulse
