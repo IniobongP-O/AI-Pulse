@@ -1,37 +1,30 @@
 [
   {
-    "tweetText": "Sam Altman addressed an attack on his home and criticisms from a New Yorker article questioning his trustworthiness. This highlights the growing scrutiny leaders in AI face amid rising tensions in the tech landscape. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
+    "tweetText": "Trump officials are reportedly urging banks to test Anthropic’s Mythos model, despite the Department of Defense labeling Anthropic a supply-chain risk. This raises concerns about the safety and reliability of using AI in financial systems. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sat, 11 Apr 2026 17:18:22 +0000"
+    "publishedAt": "Sun, 12 Apr 2026 21:14:38 +0000"
   },
   {
-    "tweetText": "The rise of AI-generated content and limited access to satellite data is overwhelming our ability to discern truth online. This erodes trust and complicates how we understand reality in the digital age. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/how-the-internet-broke-everyones-bullshit-detectors/",
-    "sourceName": "WIRED AI",
-    "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Sat, 11 Apr 2026 09:30:00 +0000"
+    "tweetText": "AI is creating a flood of new terms and slang, leading to confusion. A new glossary offers clear definitions to help everyone understand the evolving language of AI. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Sun, 12 Apr 2026 15:07:08 +0000"
   },
   {
-    "tweetText": "The New Yorker’s profile of OpenAI CEO Sam Altman features an unsettling AI-generated illustration. This raises concerns about the role of AI in creative fields and its impact on traditional artists. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai",
+    "tweetText": "At the HumanX conference in San Francisco, Anthropic's AI model Claude stole the spotlight. This highlights the growing influence of AI technologies in shaping industry discussions. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Sun, 12 Apr 2026 15:00:00 +0000"
+  },
+  {
+    "tweetText": "The AI code wars are intensifying as tools like GitHub Copilot revolutionize how developers write code. This shift could reshape programming practices and enhance productivity in tech. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/column/910019/ai-coding-wars-openai-google-anthropic",
     "sourceName": "The Verge AI",
     "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-04-11T15:00:00.000Z"
-  },
-  {
-    "tweetText": "An AI plushie named Coral shared a surprising theory about Mitski's dad being a CIA operative. This highlights the quirky and unexpected ways AI can engage with pop culture and spark curiosity. via The Verge AI.",
-    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/910008/fawn-friends-ai-companion",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-04-11T14:00:00.000Z"
-  },
-  {
-    "tweetText": "Iran's state media has been releasing powerful and graphic videos of the war, overshadowing the White House's lighter social media posts. This shows how effective narrative control can shape public perception during a crisis. via The Verge AI.",
-    "articleUrl": "https://www.theverge.com/policy/910401/iran-war-propaganda-blackout-lego-ai-slop",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-04-11T13:00:00.000Z"
+    "publishedAt": "2026-04-12T12:00:00.000Z"
   }
 ]
