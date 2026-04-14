@@ -1,30 +1,72 @@
 [
   {
-    "tweetText": "Trump officials are reportedly urging banks to test Anthropic’s Mythos model, despite the Department of Defense labeling Anthropic a supply-chain risk. This raises concerns about the safety and reliability of using AI in financial systems. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sun, 12 Apr 2026 21:14:38 +0000"
+    "tweetText": "Generative AI is being integrated into education to help develop future-ready skills in students. This approach prepares learners for a rapidly changing job market and enhances their creative and critical thinking abilities. via Google Research Blog",
+    "articleUrl": "https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai/",
+    "sourceName": "Google Research Blog",
+    "sourceHomeUrl": "https://research.google/blog/",
+    "publishedAt": "Mon, 13 Apr 2026 18:15:59 +0000"
   },
   {
-    "tweetText": "AI is creating a flood of new terms and slang, leading to confusion. A new glossary offers clear definitions to help everyone understand the evolving language of AI. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sun, 12 Apr 2026 15:07:08 +0000"
+    "tweetText": "CISOs are facing new challenges in enterprise AI governance as models like Google Gemma 4 push for better security around edge workloads. This matters because securing these AI systems is crucial to protect sensitive data and maintain trust. via AI News.",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/strengthening-enterprise-governance-for-rising-edge-ai-workloads/",
+    "sourceName": "AI News",
+    "sourceHomeUrl": "https://www.artificialintelligence-news/",
+    "publishedAt": "Mon, 13 Apr 2026 13:02:01 +0000"
   },
   {
-    "tweetText": "At the HumanX conference in San Francisco, Anthropic's AI model Claude stole the spotlight. This highlights the growing influence of AI technologies in shaping industry discussions. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sun, 12 Apr 2026 15:00:00 +0000"
+    "tweetText": "Companies are adopting AI at a measured pace, prioritizing tools that support human decisions over fully autonomous systems. This cautious approach helps mitigate risks in industries where mistakes can be costly. via AI News.",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/companies-expand-ai-adoption-while-keeping-control/",
+    "sourceName": "AI News",
+    "sourceHomeUrl": "https://www.artificialintelligence-news/",
+    "publishedAt": "Mon, 13 Apr 2026 10:00:00 +0000"
   },
   {
-    "tweetText": "The AI code wars are intensifying as tools like GitHub Copilot revolutionize how developers write code. This shift could reshape programming practices and enhance productivity in tech. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/column/910019/ai-coding-wars-openai-google-anthropic",
+    "tweetText": "OpenAI has acquired the AI personal finance startup Hiro, enhancing ChatGPT's capabilities in financial planning. This move shows OpenAI's commitment to integrating more practical tools into its AI technology. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Tue, 14 Apr 2026 00:23:33 +0000"
+  },
+  {
+    "tweetText": "A new Stanford report reveals a growing divide between AI experts and the general public, with increasing concerns about jobs, healthcare, and the economy. This gap highlights the need for better communication and understanding of AI's impact. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 13 Apr 2026 18:55:37 +0000"
+  },
+  {
+    "tweetText": "Vercel CEO Guillermo Rauch hints at an IPO as the company sees a revenue boost from AI agents. This shows how established firms can thrive in the AI era despite challenges for newer startups. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 13 Apr 2026 15:22:29 +0000"
+  },
+  {
+    "tweetText": "Over 70 groups, including the ACLU, warn that Meta's facial recognition glasses could put vulnerable communities at risk. This raises serious concerns about privacy and safety for abuse victims and marginalized groups. via WIRED AI.",
+    "articleUrl": "https://www.wired.com/story/meta-ray-ban-oakley-smart-glasses-no-face-recognition-civil-society/",
+    "sourceName": "WIRED AI",
+    "sourceHomeUrl": "https://wired.com/tag/ai/",
+    "publishedAt": "Mon, 13 Apr 2026 16:01:30 +0000"
+  },
+  {
+    "tweetText": "AI agents are being developed to enhance social interactions in dating and networking through the Pixel Societies platform. This could change how we form relationships and make connections in our personal and professional lives. via WIRED AI.",
+    "articleUrl": "https://www.wired.com/story/ai-agents-are-coming-for-your-dating-life-next/",
+    "sourceName": "WIRED AI",
+    "sourceHomeUrl": "https://wired.com/tag/ai/",
+    "publishedAt": "Mon, 13 Apr 2026 10:00:00 +0000"
+  },
+  {
+    "tweetText": "Daniel Moreno-Gama faces federal charges for allegedly attacking OpenAI CEO Sam Altman's home and HQ with a Molotov cocktail. This incident highlights the rising threats against tech leaders amid growing tensions in the AI industry. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/911423/openai-sam-altman-attack",
     "sourceName": "The Verge AI",
     "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-04-12T12:00:00.000Z"
+    "publishedAt": "2026-04-14T00:02:38.000Z"
+  },
+  {
+    "tweetText": "AI influencers are taking over Coachella, with many striking poses in glam outfits but existing only in the digital realm. This highlights the growing influence of AI in shaping online experiences and reality. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/911267/ai-influencers-coachella",
+    "sourceName": "The Verge AI",
+    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
+    "publishedAt": "2026-04-13T19:53:46.000Z"
   }
 ]
