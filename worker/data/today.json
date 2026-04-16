@@ -1,72 +1,72 @@
 [
   {
-    "tweetText": "Anthropic's growing success is making some OpenAI investors reconsider their support. With Anthropic valued at $380 billion, it seems like a better deal compared to OpenAI's lofty $1.2 trillion expectations. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts/",
+    "tweetText": "OpenAI has updated the Agents SDK, adding native sandbox execution and a model-native harness for better security and performance. This helps developers create more robust and secure long-running agents. via OpenAI News",
+    "articleUrl": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Wed, 15 Apr 2026 10:00:00 GMT"
+  },
+  {
+    "tweetText": "OpenAI has upgraded its Agents SDK to enhance the creation of safer and more capable AI agents for enterprises. This is important as it supports the increasing demand for advanced AI solutions. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 15 Apr 2026 02:31:04 +0000"
+    "publishedAt": "Wed, 15 Apr 2026 19:28:36 +0000"
   },
   {
-    "tweetText": "Anthropic co-founder Jack Clark revealed the company briefed the Trump administration on its AI project, Mythos, despite currently suing the government. This highlights the complex relationship between tech firms and regulators in shaping AI policies. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/04/14/anthropic-co-founder-confirms-the-company-briefed-the-trump-administration-on-mythos/",
+    "tweetText": "Hightouch hit $100M in annual recurring revenue, growing by $70M in just 20 months thanks to its new AI tools for marketers. This rapid growth highlights the increasing demand for AI solutions in marketing. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 14 Apr 2026 18:09:12 +0000"
+    "publishedAt": "Wed, 15 Apr 2026 18:55:12 +0000"
   },
   {
-    "tweetText": "Google is adding AI \"Skills\" to Chrome, allowing users to save and reuse prompts across websites. This makes it easier to streamline workflows and enhance productivity. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows/",
+    "tweetText": "LinkedIn reports a 20% drop in hiring since 2022, attributing it to rising interest rates, not AI. This highlights that economic factors are more influential on job markets than technology for now. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/04/15/linkedin-data-shows-ai-isnt-to-blame-for-hiring-decline-yet/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 14 Apr 2026 17:00:00 +0000"
+    "publishedAt": "Wed, 15 Apr 2026 18:51:54 +0000"
   },
   {
-    "tweetText": "Google has launched its Gemini Personal Intelligence feature in India, allowing users to connect their Google accounts for tailored responses. This enhances user experience by providing more relevant and personalized information. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/04/14/google-brings-its-gemini-personal-intelligence-feature-to-india/",
+    "tweetText": "Gizmo, an AI learning app, now has over 13 million users and just raised $22 million in funding. This growth highlights the increasing demand for innovative educational tools. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/04/15/ai-learning-app-gizmo-levels-up-with-13m-users-and-a-22m-investment/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 14 Apr 2026 14:48:34 +0000"
+    "publishedAt": "Wed, 15 Apr 2026 18:38:10 +0000"
   },
   {
-    "tweetText": "Google Chrome now features AI-powered 'Skills' in the Gemini sidebar, helping users enhance recipes and summarize YouTube videos. This makes browsing more efficient and fun, streamlining everyday tasks. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/how-to-use-google-chrome-ai-powered-skills/",
-    "sourceName": "WIRED AI",
-    "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Tue, 14 Apr 2026 17:00:00 +0000"
+    "tweetText": "A Thiel-backed startup called Objection plans to use AI to assess journalism, allowing users to pay to challenge stories. This could impact whistleblowers and change media accountability. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/04/15/can-ai-judge-journalism-a-thiel-backed-startup-says-yes-even-if-it-risks-chilling-whistleblowers/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Wed, 15 Apr 2026 18:33:20 +0000"
   },
   {
-    "tweetText": "Anthropic is pushing back against an Illinois bill that would protect AI labs from liability in case of major disasters, which OpenAI supports. This clash highlights the ongoing debate over accountability in AI development. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/anthropic-opposes-the-extreme-ai-liability-bill-that-openai-backed/",
-    "sourceName": "WIRED AI",
-    "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Tue, 14 Apr 2026 15:21:44 +0000"
+    "tweetText": "Google has launched a native Gemini app for Mac, allowing users to share their screens and get real-time assistance with local files. This enhances productivity and makes it easier to get help when needed. via TechCrunch AI.",
+    "articleUrl": "https://techcrunch.com/2026/04/15/google-rolls-out-a-native-gemini-app-for-mac/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Wed, 15 Apr 2026 18:22:13 +0000"
   },
   {
-    "tweetText": "Silicon Valley is pouring millions into stopping Alex Bores, a former Palantir employee who championed strict AI regulations, from winning a Congressional seat. This highlights the tech industry's fear of stricter oversight on AI. via WIRED AI.",
-    "articleUrl": "https://www.wired.com/story/the-big-interview-podcast-new-york-state-representative-alex-bores/",
-    "sourceName": "WIRED AI",
-    "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Tue, 14 Apr 2026 10:30:00 +0000"
+    "tweetText": "Emergent's new AI tool, Wingman, helps users automate tasks via chat on apps like WhatsApp and Telegram. This could change how people manage daily tasks, making life easier and more efficient. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/04/15/indias-vibe-coding-startup-emergent-enters-openclaw-like-ai-agent-space/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Wed, 15 Apr 2026 17:24:18 +0000"
   },
   {
-    "tweetText": "A young man allegedly attacked OpenAI CEO Sam Altman's home, fearing AI could lead to human extinction. These incidents highlight rising tensions and fears surrounding AI development. via The Verge AI.",
-    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/911778/ai-violence-sam-altman-home",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-04-14T18:04:42.000Z"
+    "tweetText": "Allbirds is shifting away from its shoe business to focus on AI, rebranding as NewBird AI after securing $50M in funding. This pivot highlights the growing trend of companies embracing AI to adapt and innovate. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/04/15/after-sale-of-its-shoe-business-allbirds-pivots-to-ai/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Wed, 15 Apr 2026 14:24:31 +0000"
   },
   {
-    "tweetText": "Chrome's new feature lets users save AI prompts as \"Skills\" for easy reuse across different webpages. This makes it simpler to perform repeated tasks without retyping prompts. via The Verge AI.",
-    "articleUrl": "https://www.theverge.com/tech/911658/google-chrome-gemini-ai-skills-availability-launch",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-04-14T17:00:00.000Z"
-  },
-  {
-    "tweetText": "A developer claims to have reverse-engineered Google's AI watermarking system, suggesting watermarks can be removed or added easily. This raises concerns about the integrity of AI-generated content. via The Verge AI.",
-    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/911579/google-synthid-ai-watermarking-system-reverse-engineered",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-04-14T13:53:53.000Z"
+    "tweetText": "Reid Hoffman suggests that monitoring AI token usage can help measure adoption, but warns it shouldn’t be seen as a straightforward indicator of productivity. This insight is crucial for understanding AI's real impact. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/04/15/reid-hoffman-weighs-in-on-the-tokenmaxxing-debate/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Wed, 15 Apr 2026 13:06:54 +0000"
   }
 ]
