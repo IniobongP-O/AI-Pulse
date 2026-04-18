@@ -1,72 +1,72 @@
 [
   {
-    "tweetText": "Researchers have developed a new approach to create synthetic datasets that are more applicable to real-world scenarios. This advancement can improve AI training and performance, making models more effective and reliable. via Google Research Blog.",
-    "articleUrl": "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/",
-    "sourceName": "Google Research Blog",
-    "sourceHomeUrl": "https://research.google/blog/",
-    "publishedAt": "Thu, 16 Apr 2026 14:41:00 +0000"
-  },
-  {
-    "tweetText": "Researchers have developed AI-generated synthetic neurons that significantly accelerate brain mapping. This breakthrough could enhance our understanding of brain functions and lead to advancements in neuroscience. via Google Research Blog.",
-    "articleUrl": "https://research.google/blog/ai-generated-synthetic-neurons-speed-up-brain-mapping/",
-    "sourceName": "Google Research Blog",
-    "sourceHomeUrl": "https://research.google/blog/",
-    "publishedAt": "Thu, 16 Apr 2026 12:18:00 +0000"
-  },
-  {
-    "tweetText": "Teams face challenges in cloud migration as they aim for reproducible, deployment-ready environments using Infrastructure as Code. Finding the right tools is crucial for managing complexity and ensuring smooth transitions. via AI News",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/5-top-cloud-migration-software-for-infrastructure-as-code-iac/",
-    "sourceName": "AI News",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Thu, 16 Apr 2026 12:30:30 +0000"
-  },
-  {
-    "tweetText": "OpenAI has launched a sandbox execution feature in its Agents SDK to help businesses manage automated workflows with lower risk. This improvement allows companies to better utilize advanced AI models while ensuring compliance and control. via AI News",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/openai-agents-sdk-improves-governance-sandbox-execution/",
-    "sourceName": "AI News",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Thu, 16 Apr 2026 11:20:00 +0000"
-  },
-  {
-    "tweetText": "Cadence Design Systems is teaming up with Nvidia and Google Cloud to enhance AI and robotics. This collaboration aims to improve semiconductor modeling and deployment, boosting innovation in tech. via AI News",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/cadence-expands-ai-and-robotics-partnerships-with-nvidia-google-cloud/",
-    "sourceName": "AI News",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Thu, 16 Apr 2026 10:00:00 +0000"
-  },
-  {
-    "tweetText": "A startup focused on AI coding for enterprises has reached a $1.5B valuation after raising $150 million from Khosla Ventures. This funding highlights the growing demand for AI solutions in the business sector. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/",
+    "tweetText": "Kevin Weil and Bill Peebles are leaving OpenAI as the company shuts down Sora and its science team. This shift shows OpenAI's focus on enterprise AI over consumer projects. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 16 Apr 2026 22:55:30 +0000"
+    "publishedAt": "Fri, 17 Apr 2026 20:38:17 +0000"
   },
   {
-    "tweetText": "Luma has launched an AI-powered production studio with its first project focusing on Moses, featuring Academy Award-winner Ben Kingsley, set for a spring release on Prime Video. This initiative blends technology with faith-based storytelling, expanding content diversity. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/04/16/luma-launches-ai-powered-production-studio-with-faith-focused-wonder-project/",
+    "tweetText": "The gap between AI experts and the general public is growing as companies like OpenAI make big purchases and create new terms. This is important because it highlights rising concerns and confusion about AI's impact on society. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/podcast/tokenmaxxing-openais-shopping-spree-and-the-ai-anxiety-gap/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 16 Apr 2026 21:58:08 +0000"
+    "publishedAt": "Fri, 17 Apr 2026 15:57:40 +0000"
   },
   {
-    "tweetText": "Upscale AI is reportedly in talks to raise funding at a $2B valuation just seven months after launching. This shows strong investor confidence in AI infrastructure and the rapid growth of the sector. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/04/16/upscale-ai-in-talks-to-raise-at-2b-valuation-says-report/",
+    "tweetText": "Anthropic has launched Claude Design, a tool aimed at helping non-designers like founders quickly create visuals. This matters because it democratizes design, making it easier for everyone to express their ideas. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 16 Apr 2026 20:41:13 +0000"
+    "publishedAt": "Fri, 17 Apr 2026 15:00:00 +0000"
   },
   {
-    "tweetText": "Physical Intelligence has unveiled π0.7, a robot brain that can learn tasks without prior training. This could be a significant leap toward creating truly adaptable robots. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/",
+    "tweetText": "The divide between AI experts and the general public is growing, highlighted by rising spending and new jargon. This matters because it raises concerns about accessibility and transparency in AI development. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/video/are-we-tokenmaxxing-our-way-to-nowhere/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 16 Apr 2026 20:26:44 +0000"
+    "publishedAt": "Fri, 17 Apr 2026 13:00:00 +0000"
   },
   {
-    "tweetText": "OpenAI has upgraded its Codex tool, enhancing its capabilities for coding tasks on your desktop. This move intensifies the competition with Anthropic and boosts productivity for developers. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 16 Apr 2026 19:18:41 +0000"
+    "tweetText": "OpenAI executive Kevin Weil is leaving the company as his AI science application is being merged into Codex. This shift highlights ongoing changes in leadership and project focus at OpenAI. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/openai-executive-kevin-weil-is-leaving-the-company/",
+    "sourceName": "WIRED AI",
+    "sourceHomeUrl": "https://wired.com/tag/ai/",
+    "publishedAt": "Fri, 17 Apr 2026 19:56:42 +0000"
+  },
+  {
+    "tweetText": "AI writing tools are starting to invade newsrooms, claiming to boost efficiency. This could seriously impact the quality and authenticity of journalism. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/backchannel-the-problem-with-letting-ai-do-the-writing/",
+    "sourceName": "WIRED AI",
+    "sourceHomeUrl": "https://wired.com/tag/ai/",
+    "publishedAt": "Fri, 17 Apr 2026 15:46:06 +0000"
+  },
+  {
+    "tweetText": "OpenAI's Sora team leader, Bill Peebles, is leaving after the company scrapped its video generation tool. This shift reflects OpenAI's focus on coding and enterprise solutions, marking a significant change in its strategy. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing",
+    "sourceName": "The Verge AI",
+    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
+    "publishedAt": "2026-04-17T21:13:25.000Z"
+  },
+  {
+    "tweetText": "Tinder users can earn five free boosts by verifying their identity at a facial scanning orb co-founded by Sam Altman. This move highlights the growing trend of using tech to combat online impersonation and enhance user safety. via The Verge AI.",
+    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/914385/world-id-tinder-identity-verifying-orb",
+    "sourceName": "The Verge AI",
+    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
+    "publishedAt": "2026-04-17T20:42:47.000Z"
+  },
+  {
+    "tweetText": "Anthropic's new cybersecurity model, Claude Mythos Preview, may improve its strained relationship with the Trump administration. This shift is crucial as it could help the company regain trust and access to government contracts. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/914229/tides-turning-anthropic-trump-administration-cybersecurity-mythos-preview",
+    "sourceName": "The Verge AI",
+    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
+    "publishedAt": "2026-04-17T20:14:21.000Z"
+  },
+  {
+    "tweetText": "A new gadget called the Poetry Camera generates AI poetry instead of photos, leaving users charmed but frustrated. This quirky device raises questions about the value of creativity in tech and what we want from our gadgets. via The Verge AI.",
+    "articleUrl": "https://www.theverge.com/gadgets/913981/poetry-camera-ai-hands-on",
+    "sourceName": "The Verge AI",
+    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
+    "publishedAt": "2026-04-17T17:30:00.000Z"
   }
 ]
