@@ -1,72 +1,30 @@
 [
   {
-    "tweetText": "Kevin Weil and Bill Peebles are leaving OpenAI as the company shuts down Sora and its science team. This shift shows OpenAI's focus on enterprise AI over consumer projects. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
+    "tweetText": "AI chip startup Cerebras has filed for an IPO after securing major deals with Amazon Web Services and OpenAI. This move highlights the growing demand for advanced AI hardware as companies invest heavily in AI development. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 17 Apr 2026 20:38:17 +0000"
+    "publishedAt": "Sat, 18 Apr 2026 19:19:11 +0000"
   },
   {
-    "tweetText": "The gap between AI experts and the general public is growing as companies like OpenAI make big purchases and create new terms. This is important because it highlights rising concerns and confusion about AI's impact on society. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/podcast/tokenmaxxing-openais-shopping-spree-and-the-ai-anxiety-gap/",
+    "tweetText": "Anthropic is maintaining communication with Trump administration officials despite being labeled a supply-chain risk by the Pentagon. This could signal a shift in relationships that may impact tech regulations and support. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 17 Apr 2026 15:57:40 +0000"
+    "publishedAt": "Sat, 18 Apr 2026 14:56:48 +0000"
   },
   {
-    "tweetText": "Anthropic has launched Claude Design, a tool aimed at helping non-designers like founders quickly create visuals. This matters because it democratizes design, making it easier for everyone to express their ideas. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals/",
+    "tweetText": "The App Store is seeing a surge in new app launches, likely driven by AI tools. This boom indicates how AI is transforming the mobile software landscape. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 17 Apr 2026 15:00:00 +0000"
+    "publishedAt": "Sat, 18 Apr 2026 13:00:00 +0000"
   },
   {
-    "tweetText": "The divide between AI experts and the general public is growing, highlighted by rising spending and new jargon. This matters because it raises concerns about accessibility and transparency in AI development. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/video/are-we-tokenmaxxing-our-way-to-nowhere/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 17 Apr 2026 13:00:00 +0000"
-  },
-  {
-    "tweetText": "OpenAI executive Kevin Weil is leaving the company as his AI science application is being merged into Codex. This shift highlights ongoing changes in leadership and project focus at OpenAI. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/openai-executive-kevin-weil-is-leaving-the-company/",
+    "tweetText": "Schematik is a new tool designed to help users code for physical devices safely. This could make hardware programming more accessible and innovative. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/schematik-is-cursor-for-hardware-anthropic-wants-in-on-it/",
     "sourceName": "WIRED AI",
     "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Fri, 17 Apr 2026 19:56:42 +0000"
-  },
-  {
-    "tweetText": "AI writing tools are starting to invade newsrooms, claiming to boost efficiency. This could seriously impact the quality and authenticity of journalism. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/backchannel-the-problem-with-letting-ai-do-the-writing/",
-    "sourceName": "WIRED AI",
-    "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Fri, 17 Apr 2026 15:46:06 +0000"
-  },
-  {
-    "tweetText": "OpenAI's Sora team leader, Bill Peebles, is leaving after the company scrapped its video generation tool. This shift reflects OpenAI's focus on coding and enterprise solutions, marking a significant change in its strategy. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-04-17T21:13:25.000Z"
-  },
-  {
-    "tweetText": "Tinder users can earn five free boosts by verifying their identity at a facial scanning orb co-founded by Sam Altman. This move highlights the growing trend of using tech to combat online impersonation and enhance user safety. via The Verge AI.",
-    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/914385/world-id-tinder-identity-verifying-orb",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-04-17T20:42:47.000Z"
-  },
-  {
-    "tweetText": "Anthropic's new cybersecurity model, Claude Mythos Preview, may improve its strained relationship with the Trump administration. This shift is crucial as it could help the company regain trust and access to government contracts. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/914229/tides-turning-anthropic-trump-administration-cybersecurity-mythos-preview",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-04-17T20:14:21.000Z"
-  },
-  {
-    "tweetText": "A new gadget called the Poetry Camera generates AI poetry instead of photos, leaving users charmed but frustrated. This quirky device raises questions about the value of creativity in tech and what we want from our gadgets. via The Verge AI.",
-    "articleUrl": "https://www.theverge.com/gadgets/913981/poetry-camera-ai-hands-on",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-04-17T17:30:00.000Z"
+    "publishedAt": "Sat, 18 Apr 2026 10:30:00 +0000"
   }
 ]
