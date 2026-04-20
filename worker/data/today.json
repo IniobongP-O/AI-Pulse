@@ -1,30 +1,30 @@
 [
   {
-    "tweetText": "AI chip startup Cerebras has filed for an IPO after securing major deals with Amazon Web Services and OpenAI. This move highlights the growing demand for advanced AI hardware as companies invest heavily in AI development. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
+    "tweetText": "OpenAI is facing major challenges as it discusses its recent acquisitions aimed at solving key existential issues. This matters because the company's future direction could impact the entire AI landscape. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sat, 18 Apr 2026 19:19:11 +0000"
+    "publishedAt": "Sun, 19 Apr 2026 21:24:06 +0000"
   },
   {
-    "tweetText": "Anthropic is maintaining communication with Trump administration officials despite being labeled a supply-chain risk by the Pentagon. This could signal a shift in relationships that may impact tech regulations and support. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/",
+    "tweetText": "Many AI startups are thriving because foundational models haven't yet expanded to their niche areas, but this won't last long. This shift could reshape the industry and challenge these startups to innovate faster. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/04/19/the-12-month-window/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sat, 18 Apr 2026 14:56:48 +0000"
+    "publishedAt": "Sun, 19 Apr 2026 19:30:00 +0000"
   },
   {
-    "tweetText": "The App Store is seeing a surge in new app launches, likely driven by AI tools. This boom indicates how AI is transforming the mobile software landscape. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/",
+    "tweetText": "Uber is diving into a new phase focused on maximizing its assets, heavily incorporating AI technology. This shift is crucial for improving efficiency and staying competitive in the evolving transportation sector. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sat, 18 Apr 2026 13:00:00 +0000"
+    "publishedAt": "Sun, 19 Apr 2026 16:01:00 +0000"
   },
   {
-    "tweetText": "Schematik is a new tool designed to help users code for physical devices safely. This could make hardware programming more accessible and innovative. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/schematik-is-cursor-for-hardware-anthropic-wants-in-on-it/",
-    "sourceName": "WIRED AI",
-    "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Sat, 18 Apr 2026 10:30:00 +0000"
+    "tweetText": "Vercel, a key platform for web apps, was hacked, and hackers are trying to sell stolen data, including employee info. This breach raises concerns about security in cloud services and the risks from third-party tools. via The Verge AI.",
+    "articleUrl": "https://www.theverge.com/tech/914723/vercel-hacked",
+    "sourceName": "The Verge AI",
+    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
+    "publishedAt": "2026-04-19T19:54:52.000Z"
   }
 ]
