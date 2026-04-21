@@ -1,30 +1,72 @@
 [
   {
-    "tweetText": "OpenAI is facing major challenges as it discusses its recent acquisitions aimed at solving key existential issues. This matters because the company's future direction could impact the entire AI landscape. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sun, 19 Apr 2026 21:24:06 +0000"
+    "tweetText": "Bobyard launched Bobyard 2.0, enhancing takeoff workflows with a unified AI workbench for estimators in construction and landscaping. This upgrade speeds up budgeting processes, crucial for project efficiency. via AI News.",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/bobyard-2-0-offers-improved-takeoffs-and-unified-ai-for-estimators/",
+    "sourceName": "AI News",
+    "sourceHomeUrl": "https://www.artificialintelligence-news/",
+    "publishedAt": "Mon, 20 Apr 2026 13:15:51 +0000"
   },
   {
-    "tweetText": "Many AI startups are thriving because foundational models haven't yet expanded to their niche areas, but this won't last long. This shift could reshape the industry and challenge these startups to innovate faster. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/04/19/the-12-month-window/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sun, 19 Apr 2026 19:30:00 +0000"
+    "tweetText": "New research reveals most organizations are unprepared to handle AI system incidents, lacking clarity on response times and reporting. This highlights the urgent need for better crisis management in AI to ensure safety and reliability. via AI News",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/how-to-prepare-for-and-remediate-an-ai-system-incident/",
+    "sourceName": "AI News",
+    "sourceHomeUrl": "https://www.artificialintelligence-news/",
+    "publishedAt": "Mon, 20 Apr 2026 11:39:41 +0000"
   },
   {
-    "tweetText": "Uber is diving into a new phase focused on maximizing its assets, heavily incorporating AI technology. This shift is crucial for improving efficiency and staying competitive in the evolving transportation sector. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sun, 19 Apr 2026 16:01:00 +0000"
+    "tweetText": "Anthropic CEO Dario Amodei met with White House Chief of Staff Susie Wiles, highlighting the government's interest in AI safety. This meeting shows Washington's focus on managing advanced AI technologies responsibly. via AI News.",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/anthropic-mythos-ai-cybersecurity-white-house/",
+    "sourceName": "AI News",
+    "sourceHomeUrl": "https://www.artificialintelligence-news/",
+    "publishedAt": "Mon, 20 Apr 2026 08:00:00 +0000"
   },
   {
-    "tweetText": "Vercel, a key platform for web apps, was hacked, and hackers are trying to sell stolen data, including employee info. This breach raises concerns about security in cloud services and the risks from third-party tools. via The Verge AI.",
-    "articleUrl": "https://www.theverge.com/tech/914723/vercel-hacked",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-04-19T19:54:52.000Z"
+    "tweetText": "A new planner called GRASP improves long-horizon planning in AI by optimizing learned dynamics more robustly. This advancement could enhance the effectiveness of AI in complex tasks, making it a significant step forward in AI planning. via BAIR Berkeley.",
+    "articleUrl": "http://bair.berkeley.edu/blog/2026/04/20/grasp/",
+    "sourceName": "BAIR Berkeley",
+    "sourceHomeUrl": "https://bair.berkeley.edu/blog/",
+    "publishedAt": "Mon, 20 Apr 2026 02:00:00 -0700"
+  },
+  {
+    "tweetText": "Amazon invests $5B in Anthropic, which will spend $100B on AWS. This deal strengthens Amazon's cloud dominance and fuels AI development. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 20 Apr 2026 23:10:27 +0000"
+  },
+  {
+    "tweetText": "Google has launched its Gemini AI feature in Chrome across seven new countries, including Australia and South Korea. This expansion shows Google's commitment to making advanced AI accessible globally. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 20 Apr 2026 22:00:00 +0000"
+  },
+  {
+    "tweetText": "AI writing is increasingly using the phrase \"It's not just this — it's that,\" making it a telltale sign of synthetic content. This trend raises concerns about the authenticity and originality of AI-generated text. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/04/20/ai-writing-its-not-just-this-its-that-barrons/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 20 Apr 2026 19:37:07 +0000"
+  },
+  {
+    "tweetText": "The NSA is reportedly using Anthropic's restricted Mythos AI model, despite ongoing tensions with the Pentagon. This highlights the growing reliance on advanced AI for intelligence operations. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/04/20/nsa-spies-are-reportedly-using-anthropics-mythos-despite-pentagon-feud/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 20 Apr 2026 16:06:21 +0000"
+  },
+  {
+    "tweetText": "Fermi, an AI nuclear power startup co-founded by ex-U.S. Energy Secretary Rick Perry, just lost its CEO and CFO unexpectedly. This raises concerns about the company's future as it struggles with challenges in Texas. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/04/20/fermi-ceo-and-cfo-depart-texas-nuclear-power-ai/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 20 Apr 2026 15:30:19 +0000"
+  },
+  {
+    "tweetText": "A humanoid robot from Honor just set a half-marathon record in China, finishing in 50:26—seven minutes faster than the human record. This highlights the rapid advancements in robotics and AI capabilities. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/a-humanoid-robot-set-a-half-marathon-record-in-china/",
+    "sourceName": "WIRED AI",
+    "sourceHomeUrl": "https://wired.com/tag/ai/",
+    "publishedAt": "Mon, 20 Apr 2026 22:33:27 +0000"
   }
 ]
