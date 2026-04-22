@@ -1,72 +1,72 @@
 [
   {
-    "tweetText": "Bobyard launched Bobyard 2.0, enhancing takeoff workflows with a unified AI workbench for estimators in construction and landscaping. This upgrade speeds up budgeting processes, crucial for project efficiency. via AI News.",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/bobyard-2-0-offers-improved-takeoffs-and-unified-ai-for-estimators/",
+    "tweetText": "A new project called ReasoningBank helps AI agents learn from their experiences, enhancing their problem-solving skills. This could lead to more intelligent and adaptable AI systems in the future. via Google Research Blog.",
+    "articleUrl": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/",
+    "sourceName": "Google Research Blog",
+    "sourceHomeUrl": "https://research.google/blog/",
+    "publishedAt": "Tue, 21 Apr 2026 16:42:22 +0000"
+  },
+  {
+    "tweetText": "Snowflake is expanding its AI platforms, introducing Snowflake Intelligence for business users and Cortex Code for developers. This move aims to enhance AI deployment and development within its ecosystem. via AI News.",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/snowflake-expands-its-technical-and-mainstream-ai-platforms/",
     "sourceName": "AI News",
     "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Mon, 20 Apr 2026 13:15:51 +0000"
+    "publishedAt": "Tue, 21 Apr 2026 14:29:00 +0000"
   },
   {
-    "tweetText": "New research reveals most organizations are unprepared to handle AI system incidents, lacking clarity on response times and reporting. This highlights the urgent need for better crisis management in AI to ensure safety and reliability. via AI News",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/how-to-prepare-for-and-remediate-an-ai-system-incident/",
+    "tweetText": "Siemens has launched the Eigen Engineering Agent, an AI that autonomously plans and validates automation engineering tasks. This innovation streamlines workflows, enhancing efficiency in engineering processes. via AI News.",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/siemens-ai-automation-engineering-workflows/",
     "sourceName": "AI News",
     "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Mon, 20 Apr 2026 11:39:41 +0000"
+    "publishedAt": "Tue, 21 Apr 2026 10:00:00 +0000"
   },
   {
-    "tweetText": "Anthropic CEO Dario Amodei met with White House Chief of Staff Susie Wiles, highlighting the government's interest in AI safety. This meeting shows Washington's focus on managing advanced AI technologies responsibly. via AI News.",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/anthropic-mythos-ai-cybersecurity-white-house/",
-    "sourceName": "AI News",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Mon, 20 Apr 2026 08:00:00 +0000"
-  },
-  {
-    "tweetText": "A new planner called GRASP improves long-horizon planning in AI by optimizing learned dynamics more robustly. This advancement could enhance the effectiveness of AI in complex tasks, making it a significant step forward in AI planning. via BAIR Berkeley.",
-    "articleUrl": "http://bair.berkeley.edu/blog/2026/04/20/grasp/",
-    "sourceName": "BAIR Berkeley",
-    "sourceHomeUrl": "https://bair.berkeley.edu/blog/",
-    "publishedAt": "Mon, 20 Apr 2026 02:00:00 -0700"
-  },
-  {
-    "tweetText": "Amazon invests $5B in Anthropic, which will spend $100B on AWS. This deal strengthens Amazon's cloud dominance and fuels AI development. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/",
+    "tweetText": "Meta is tracking employees' keystrokes and mouse movements to gather data for AI training. This raises concerns about privacy and surveillance in the workplace. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 20 Apr 2026 23:10:27 +0000"
+    "publishedAt": "Tue, 21 Apr 2026 23:45:21 +0000"
   },
   {
-    "tweetText": "Google has launched its Gemini AI feature in Chrome across seven new countries, including Australia and South Korea. This expansion shows Google's commitment to making advanced AI accessible globally. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/",
+    "tweetText": "An unauthorized group reportedly accessed Anthropic's exclusive cyber tool, Mythos. This raises concerns about cybersecurity and the potential misuse of AI tools. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 20 Apr 2026 22:00:00 +0000"
+    "publishedAt": "Tue, 21 Apr 2026 23:26:45 +0000"
   },
   {
-    "tweetText": "AI writing is increasingly using the phrase \"It's not just this — it's that,\" making it a telltale sign of synthetic content. This trend raises concerns about the authenticity and originality of AI-generated text. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/04/20/ai-writing-its-not-just-this-its-that-barrons/",
+    "tweetText": "SpaceX is collaborating with Cursor and has the option to acquire the startup for $60B. This partnership highlights the challenges both companies face in competing with top AI firms like Anthropic and OpenAI. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 20 Apr 2026 19:37:07 +0000"
+    "publishedAt": "Tue, 21 Apr 2026 22:58:22 +0000"
   },
   {
-    "tweetText": "The NSA is reportedly using Anthropic's restricted Mythos AI model, despite ongoing tensions with the Pentagon. This highlights the growing reliance on advanced AI for intelligence operations. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/04/20/nsa-spies-are-reportedly-using-anthropics-mythos-despite-pentagon-feud/",
+    "tweetText": "AI lab NeoCognition raised $40M to create agents that learn like humans and can master any field. This funding could revolutionize how AI adapts and grows in knowledge. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 20 Apr 2026 16:06:21 +0000"
+    "publishedAt": "Tue, 21 Apr 2026 19:11:29 +0000"
   },
   {
-    "tweetText": "Fermi, an AI nuclear power startup co-founded by ex-U.S. Energy Secretary Rick Perry, just lost its CEO and CFO unexpectedly. This raises concerns about the company's future as it struggles with challenges in Texas. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/04/20/fermi-ceo-and-cfo-depart-texas-nuclear-power-ai/",
+    "tweetText": "OpenAI's ChatGPT Images 2.0 model is impressively skilled at generating text alongside images. This leap in AI capability highlights the rapid advancements in technology. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/04/21/chatgpts-new-images-2-0-model-is-surprisingly-good-at-generating-text/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 20 Apr 2026 15:30:19 +0000"
+    "publishedAt": "Tue, 21 Apr 2026 19:00:00 +0000"
   },
   {
-    "tweetText": "A humanoid robot from Honor just set a half-marathon record in China, finishing in 50:26—seven minutes faster than the human record. This highlights the rapid advancements in robotics and AI capabilities. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/a-humanoid-robot-set-a-half-marathon-record-in-china/",
-    "sourceName": "WIRED AI",
-    "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Mon, 20 Apr 2026 22:33:27 +0000"
+    "tweetText": "Sam Altman criticized Anthropic's new cybersecurity model, Mythos, for using \"fear-based marketing\" to boost its appeal. This highlights ongoing competition in AI and raises questions about ethical marketing practices. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/04/21/sam-altman-throws-shade-at-anthropics-cyber-model-mythos-fear-based-marketing/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Tue, 21 Apr 2026 18:51:52 +0000"
+  },
+  {
+    "tweetText": "Clarifai has deleted 3 million photos from OkCupid used to train its facial recognition AI following an FTC settlement. This action highlights the ongoing scrutiny of data privacy in AI development. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/04/21/clarifai-okcupid-facial-recognition-ai-ftc-settlement/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Tue, 21 Apr 2026 17:11:01 +0000"
   }
 ]
