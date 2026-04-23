@@ -1,72 +1,72 @@
 [
   {
-    "tweetText": "A new project called ReasoningBank helps AI agents learn from their experiences, enhancing their problem-solving skills. This could lead to more intelligent and adaptable AI systems in the future. via Google Research Blog.",
-    "articleUrl": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/",
+    "tweetText": "Generative AI can now recompose your photos by adjusting angles and perspectives. This technology enhances creativity and allows for more dynamic visual storytelling. via Google Research Blog.",
+    "articleUrl": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/",
     "sourceName": "Google Research Blog",
     "sourceHomeUrl": "https://research.google/blog/",
-    "publishedAt": "Tue, 21 Apr 2026 16:42:22 +0000"
+    "publishedAt": "Wed, 22 Apr 2026 17:00:00 +0000"
   },
   {
-    "tweetText": "Snowflake is expanding its AI platforms, introducing Snowflake Intelligence for business users and Cortex Code for developers. This move aims to enhance AI deployment and development within its ecosystem. via AI News.",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/snowflake-expands-its-technical-and-mainstream-ai-platforms/",
+    "tweetText": "AI is now helping businesses cut security costs by discovering vulnerabilities faster and more effectively. This is huge because it shifts the balance back in favor of companies, making it harder for attackers to exploit weaknesses. via AI News",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/reversing-enterprise-security-costs-with-ai-vulnerability-discovery/",
     "sourceName": "AI News",
     "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Tue, 21 Apr 2026 14:29:00 +0000"
+    "publishedAt": "Wed, 22 Apr 2026 15:45:14 +0000"
   },
   {
-    "tweetText": "Siemens has launched the Eigen Engineering Agent, an AI that autonomously plans and validates automation engineering tasks. This innovation streamlines workflows, enhancing efficiency in engineering processes. via AI News.",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/siemens-ai-automation-engineering-workflows/",
+    "tweetText": "AI is making inroads in law firms as they start to adopt it for closing summaries, moving from skepticism to trial use. This shift could enhance efficiency and change how legal work is approached. via AI News",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/ai-in-law-firms-entering-its-closing-summaries/",
     "sourceName": "AI News",
     "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Tue, 21 Apr 2026 10:00:00 +0000"
+    "publishedAt": "Wed, 22 Apr 2026 13:51:00 +0000"
   },
   {
-    "tweetText": "Meta is tracking employees' keystrokes and mouse movements to gather data for AI training. This raises concerns about privacy and surveillance in the workplace. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 21 Apr 2026 23:45:21 +0000"
+    "tweetText": "AI is transforming forex trading with advanced bots that analyze huge data sets and spot patterns faster than humans. This shift to automation could reshape how traders operate in the global currency markets. via AI News.",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/the-role-of-ai-in-modern-forex-bot-development/",
+    "sourceName": "AI News",
+    "sourceHomeUrl": "https://www.artificialintelligence-news/",
+    "publishedAt": "Wed, 22 Apr 2026 07:34:01 +0000"
   },
   {
-    "tweetText": "An unauthorized group reportedly accessed Anthropic's exclusive cyber tool, Mythos. This raises concerns about cybersecurity and the potential misuse of AI tools. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 21 Apr 2026 23:26:45 +0000"
+    "tweetText": "OpenAI is now offering ChatGPT for Clinicians free to verified U.S. healthcare professionals. This move enhances support for patient care and streamlines documentation and research in the medical field. via OpenAI News",
+    "articleUrl": "https://openai.com/index/making-chatgpt-better-for-clinicians",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Wed, 22 Apr 2026 15:00:00 GMT"
   },
   {
-    "tweetText": "SpaceX is collaborating with Cursor and has the option to acquire the startup for $60B. This partnership highlights the challenges both companies face in competing with top AI firms like Anthropic and OpenAI. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 21 Apr 2026 22:58:22 +0000"
+    "tweetText": "ChatGPT now features workspace agents that automate complex tasks and connect securely across tools. This will help teams work more efficiently and scale their operations. via OpenAI News",
+    "articleUrl": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Wed, 22 Apr 2026 10:00:00 GMT"
   },
   {
-    "tweetText": "AI lab NeoCognition raised $40M to create agents that learn like humans and can master any field. This funding could revolutionize how AI adapts and grows in knowledge. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 21 Apr 2026 19:11:29 +0000"
+    "tweetText": "ChatGPT now allows users to build and scale workspace agents to automate tasks and connect tools seamlessly. This will enhance team operations and boost productivity. via OpenAI News",
+    "articleUrl": "https://openai.com/academy/workspace-agents",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Wed, 22 Apr 2026 10:00:00 GMT"
   },
   {
-    "tweetText": "OpenAI's ChatGPT Images 2.0 model is impressively skilled at generating text alongside images. This leap in AI capability highlights the rapid advancements in technology. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/04/21/chatgpts-new-images-2-0-model-is-surprisingly-good-at-generating-text/",
+    "tweetText": "India's app market is thriving, especially in streaming and AI, but global platforms are reaping most of the profits. This highlights the challenges local developers face in competing on a global scale. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/04/22/indias-app-market-is-booming-but-global-platforms-are-capturing-most-of-the-gains/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 21 Apr 2026 19:00:00 +0000"
+    "publishedAt": "Thu, 23 Apr 2026 04:38:45 +0000"
   },
   {
-    "tweetText": "Sam Altman criticized Anthropic's new cybersecurity model, Mythos, for using \"fear-based marketing\" to boost its appeal. This highlights ongoing competition in AI and raises questions about ethical marketing practices. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/04/21/sam-altman-throws-shade-at-anthropics-cyber-model-mythos-fear-based-marketing/",
+    "tweetText": "Google just upgraded Workspace with new AI features that act like your office intern. This makes tasks easier and boosts productivity for users. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 21 Apr 2026 18:51:52 +0000"
+    "publishedAt": "Wed, 22 Apr 2026 22:44:26 +0000"
   },
   {
-    "tweetText": "Clarifai has deleted 3 million photos from OkCupid used to train its facial recognition AI following an FTC settlement. This action highlights the ongoing scrutiny of data privacy in AI development. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/04/21/clarifai-okcupid-facial-recognition-ai-ftc-settlement/",
+    "tweetText": "X is launching AI-powered custom feeds to replace Communities, featuring Grok-curated content and new ad slots. This shift could change how users engage and discover content on the platform. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/04/22/hands-on-with-xs-new-ai-powered-custom-feeds/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 21 Apr 2026 17:11:01 +0000"
+    "publishedAt": "Wed, 22 Apr 2026 22:25:53 +0000"
   }
 ]
