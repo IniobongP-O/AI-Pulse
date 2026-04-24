@@ -1,72 +1,72 @@
 [
   {
-    "tweetText": "Generative AI can now recompose your photos by adjusting angles and perspectives. This technology enhances creativity and allows for more dynamic visual storytelling. via Google Research Blog.",
-    "articleUrl": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/",
-    "sourceName": "Google Research Blog",
-    "sourceHomeUrl": "https://research.google/blog/",
-    "publishedAt": "Wed, 22 Apr 2026 17:00:00 +0000"
-  },
-  {
-    "tweetText": "AI is now helping businesses cut security costs by discovering vulnerabilities faster and more effectively. This is huge because it shifts the balance back in favor of companies, making it harder for attackers to exploit weaknesses. via AI News",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/reversing-enterprise-security-costs-with-ai-vulnerability-discovery/",
-    "sourceName": "AI News",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Wed, 22 Apr 2026 15:45:14 +0000"
-  },
-  {
-    "tweetText": "AI is making inroads in law firms as they start to adopt it for closing summaries, moving from skepticism to trial use. This shift could enhance efficiency and change how legal work is approached. via AI News",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/ai-in-law-firms-entering-its-closing-summaries/",
-    "sourceName": "AI News",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Wed, 22 Apr 2026 13:51:00 +0000"
-  },
-  {
-    "tweetText": "AI is transforming forex trading with advanced bots that analyze huge data sets and spot patterns faster than humans. This shift to automation could reshape how traders operate in the global currency markets. via AI News.",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/the-role-of-ai-in-modern-forex-bot-development/",
-    "sourceName": "AI News",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Wed, 22 Apr 2026 07:34:01 +0000"
-  },
-  {
-    "tweetText": "OpenAI is now offering ChatGPT for Clinicians free to verified U.S. healthcare professionals. This move enhances support for patient care and streamlines documentation and research in the medical field. via OpenAI News",
-    "articleUrl": "https://openai.com/index/making-chatgpt-better-for-clinicians",
+    "tweetText": "We just launched GPT-5.5, our most advanced model yet, designed for speed and handling complex tasks like coding and data analysis. This upgrade enhances productivity and innovation across various fields. via OpenAI News",
+    "articleUrl": "https://openai.com/index/introducing-gpt-5-5",
     "sourceName": "OpenAI News",
     "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Wed, 22 Apr 2026 15:00:00 GMT"
+    "publishedAt": "Thu, 23 Apr 2026 11:00:00 GMT"
   },
   {
-    "tweetText": "ChatGPT now features workspace agents that automate complex tasks and connect securely across tools. This will help teams work more efficiently and scale their operations. via OpenAI News",
-    "articleUrl": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
+    "tweetText": "OpenAI has released the system card for GPT-5.5, detailing its capabilities and guidelines for use. This transparency helps users understand the model better and promotes responsible AI deployment. via OpenAI News",
+    "articleUrl": "https://openai.com/index/gpt-5-5-system-card",
     "sourceName": "OpenAI News",
     "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Wed, 22 Apr 2026 10:00:00 GMT"
+    "publishedAt": "Thu, 23 Apr 2026 11:00:00 GMT"
   },
   {
-    "tweetText": "ChatGPT now allows users to build and scale workspace agents to automate tasks and connect tools seamlessly. This will enhance team operations and boost productivity. via OpenAI News",
-    "articleUrl": "https://openai.com/academy/workspace-agents",
-    "sourceName": "OpenAI News",
-    "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Wed, 22 Apr 2026 10:00:00 GMT"
-  },
-  {
-    "tweetText": "India's app market is thriving, especially in streaming and AI, but global platforms are reaping most of the profits. This highlights the challenges local developers face in competing on a global scale. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/04/22/indias-app-market-is-booming-but-global-platforms-are-capturing-most-of-the-gains/",
+    "tweetText": "Bret Taylor's AI startup Sierra has acquired the YC-backed French startup Fragment. This move strengthens Sierra's customer service capabilities and expands its market reach. via TechCrunch AI.",
+    "articleUrl": "https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 23 Apr 2026 04:38:45 +0000"
+    "publishedAt": "Thu, 23 Apr 2026 21:00:00 +0000"
   },
   {
-    "tweetText": "Google just upgraded Workspace with new AI features that act like your office intern. This makes tasks easier and boosts productivity for users. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/",
+    "tweetText": "Noscroll has launched an AI bot designed to take over doomscrolling by reading the internet on your behalf. This could help users save time and reduce anxiety from endless news feeds. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/04/23/meet-noscroll-an-ai-bot-that-does-your-doomscrolling-for-you/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 22 Apr 2026 22:44:26 +0000"
+    "publishedAt": "Thu, 23 Apr 2026 19:38:25 +0000"
   },
   {
-    "tweetText": "X is launching AI-powered custom feeds to replace Communities, featuring Grok-curated content and new ad slots. This shift could change how users engage and discover content on the platform. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/04/22/hands-on-with-xs-new-ai-powered-custom-feeds/",
+    "tweetText": "OpenAI has released GPT-5.5, enhancing its AI's capabilities significantly. This brings them closer to creating a powerful all-in-one AI tool. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 22 Apr 2026 22:25:53 +0000"
+    "publishedAt": "Thu, 23 Apr 2026 18:29:29 +0000"
+  },
+  {
+    "tweetText": "Era has raised $11M to create a software platform for various AI gadgets like glasses and rings. This funding highlights the growing interest in diverse AI hardware and its potential impact on daily life. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Thu, 23 Apr 2026 16:00:00 +0000"
+  },
+  {
+    "tweetText": "Delve, a compliance company, is linked to a significant security incident at Context AI, an AI training startup. This highlights ongoing concerns about security in the rapidly evolving AI industry. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/04/23/another-customer-of-troubled-startup-delve-suffered-a-big-security-incident/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Thu, 23 Apr 2026 14:00:00 +0000"
+  },
+  {
+    "tweetText": "Astronomers are using GPUs to sift through massive data to discover new celestial bodies. This surge in GPU demand is intensifying the existing global shortage of these crucial chips. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/04/23/ai-galaxy-hunters-are-adding-to-the-global-gpu-crunch/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Thu, 23 Apr 2026 13:00:00 +0000"
+  },
+  {
+    "tweetText": "Stanford students are flocking to a viral AI course, CS 153, to learn from top Silicon Valley experts. This trend highlights the growing demand for AI education and its impact on the tech industry. via WIRED AI.",
+    "articleUrl": "https://www.wired.com/story/stanford-cs-class-ai-coachella-ben-horowitz/",
+    "sourceName": "WIRED AI",
+    "sourceHomeUrl": "https://wired.com/tag/ai/",
+    "publishedAt": "Thu, 23 Apr 2026 18:24:37 +0000"
+  },
+  {
+    "tweetText": "Claude's AI can now connect directly to personal apps like Spotify and Uber Eats, expanding its capabilities. This matters because it enhances user experience by offering tailored suggestions for everyday activities. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors",
+    "sourceName": "The Verge AI",
+    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
+    "publishedAt": "2026-04-23T22:27:11.000Z"
   }
 ]
