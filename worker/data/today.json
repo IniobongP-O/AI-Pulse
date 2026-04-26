@@ -1,72 +1,30 @@
 [
   {
-    "tweetText": "Enterprises need to build interaction infrastructure to manage independent AI agents effectively. This is crucial as it ensures these agents can work together and optimize processes without wasting resources. via AI News.",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/why-ai-agents-need-interaction-infrastructure/",
-    "sourceName": "AI News",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Fri, 24 Apr 2026 16:24:17 +0000"
-  },
-  {
-    "tweetText": "AI models are now using real-time cryptocurrency data to better understand market behavior. This approach allows for more accurate predictions as the data constantly evolves. via AI News",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/how-ai-models-use-real-time-cryptocurrency-data-to-interpret-market-behaviour/",
-    "sourceName": "AI News",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Fri, 24 Apr 2026 07:47:32 +0000"
-  },
-  {
-    "tweetText": "ComfyUI just raised $30 million, reaching a $500M valuation. This is a big win for creators wanting more control over the media they generate with AI. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
+    "tweetText": "Anthropic launched a marketplace where AI agents act as buyers and sellers, making actual deals with real money. This could revolutionize how AI systems interact in commerce. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 24 Apr 2026 19:49:35 +0000"
+    "publishedAt": "Sat, 25 Apr 2026 21:43:37 +0000"
   },
   {
-    "tweetText": "Google is set to invest up to $40B in Anthropic to boost its AI capabilities. This move highlights the intense competition in securing computing power for advanced AI development. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
+    "tweetText": "OpenAI CEO Sam Altman apologized to Tumbler Ridge residents for not notifying police about a mass shooting suspect. This highlights the responsibility tech companies have in public safety. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 24 Apr 2026 18:00:03 +0000"
+    "publishedAt": "Sat, 25 Apr 2026 17:17:56 +0000"
   },
   {
-    "tweetText": "Apple's Mac mini is sold out, leading to overpriced listings on eBay as demand skyrockets for running AI tools. This shows how AI is influencing hardware markets and consumer trends. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/",
+    "tweetText": "Cohere, a Canadian AI startup, is merging with Germany's Aleph Alpha, backed by Lidl's owner. This merger aims to provide a European alternative in the AI market, challenging the dominance of American companies. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 24 Apr 2026 16:42:19 +0000"
+    "publishedAt": "Sat, 25 Apr 2026 16:00:00 +0000"
   },
   {
-    "tweetText": "Uber's CTO Praveen Neppalli Naga will speak at the StrictlyVC San Francisco event on April 30 about scaling operations in the AI era. His insights are crucial for companies navigating tech advancements. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/04/24/uber-cto-praveen-neppalli-naga-joins-stacked-strictlyvc-sf-lineup-for-april-30-event/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 24 Apr 2026 14:00:00 +0000"
-  },
-  {
-    "tweetText": "Nothing just launched an AI-powered dictation tool that works offline and supports over 100 languages. This innovation could enhance accessibility and productivity for users worldwide. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/04/24/nothing-introduces-an-ai-powered-dictation-tool/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 24 Apr 2026 13:41:42 +0000"
-  },
-  {
-    "tweetText": "DeepSeek has revealed a new AI model that nearly matches the performance of top models in reasoning tasks. This advancement highlights the rapid progress in AI efficiency and capability. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/04/24/deepseek-previews-new-ai-model-that-closes-the-gap-with-frontier-models/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 24 Apr 2026 13:30:59 +0000"
-  },
-  {
-    "tweetText": "Meta has secured millions of Amazon's AI CPUs for its projects, marking a shift in the chip race from GPUs to CPUs. This move highlights the growing competition in AI hardware as companies seek more efficient processing power. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/04/24/in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amazon-ai-cpus/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 24 Apr 2026 12:00:00 +0000"
-  },
-  {
-    "tweetText": "Isomorphic Labs, a DeepMind spinoff, is moving its AI-designed drugs into human trials. This could revolutionize medicine by speeding up drug discovery and development. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/wired-health-2026-how-ai-is-powering-drug-discovery-max-jaderberg/",
+    "tweetText": "Discord users gained unauthorized access to Anthropic’s Mythos, raising concerns over data security. This incident highlights ongoing vulnerabilities in AI systems and the broader implications for privacy. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/security-news-this-week-discord-sleuths-gained-unauthorized-access-to-anthropics-mythos/",
     "sourceName": "WIRED AI",
     "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Fri, 24 Apr 2026 17:17:36 +0000"
+    "publishedAt": "Sat, 25 Apr 2026 10:30:00 +0000"
   }
 ]
