@@ -1,9 +1,72 @@
 [
   {
-    "tweetText": "A unique 13-acre property in Mill Valley is up for sale, but the buyer needs Anthropic equity to purchase it. This reflects the growing influence and value of AI companies in the real estate market. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/",
+    "tweetText": "OpenAI has received FedRAMP Moderate authorization for ChatGPT Enterprise and its API, making it secure for U.S. federal agencies to use. This opens the door for safer AI adoption in government operations. via OpenAI News",
+    "articleUrl": "https://openai.com/index/openai-available-at-fedramp-moderate",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Mon, 27 Apr 2026 14:00:00 GMT"
+  },
+  {
+    "tweetText": "OpenAI has secured key concessions from Microsoft, allowing it to sell products on AWS while boosting Microsoft's revenue. This deal strengthens OpenAI's market position and expands its partnership with Amazon. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sun, 26 Apr 2026 15:30:00 +0000"
+    "publishedAt": "Mon, 27 Apr 2026 17:40:38 +0000"
+  },
+  {
+    "tweetText": "DeepMind's David Silver has raised $1.1B for his new AI lab, Ineffable Intelligence, which aims to create AI that learns without human data. This funding highlights the growing interest in advanced AI technologies. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 27 Apr 2026 17:24:21 +0000"
+  },
+  {
+    "tweetText": "Investors are backing Skye's AI home screen app for iPhone ahead of its launch, highlighting growing interest in AI integration. This could change how users interact with their devices. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/04/27/investors-back-skye-signull-labs-ai-home-screen-app-for-iphone-ahead-of-launch/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 27 Apr 2026 16:13:02 +0000"
+  },
+  {
+    "tweetText": "China has blocked Meta's $2B acquisition of Manus after a lengthy investigation. This move could hinder Zuckerberg's ambitions in the AI space. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 27 Apr 2026 13:16:55 +0000"
+  },
+  {
+    "tweetText": "OpenAI may be developing a phone featuring AI agents to replace traditional apps, teaming up with MediaTek, Qualcomm, and Luxshare. This could revolutionize how we interact with technology, making it more intuitive and efficient. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 27 Apr 2026 13:08:59 +0000"
+  },
+  {
+    "tweetText": "During jury selection for Musk's lawsuit against OpenAI's Sam Altman, some jurors expressed dislike for Musk. This could impact the trial's outcome and reflects Musk's controversial reputation. via WIRED AI.",
+    "articleUrl": "https://www.wired.com/story/some-musk-v-altman-jurors-dont-like-elon-musk/",
+    "sourceName": "WIRED AI",
+    "sourceHomeUrl": "https://wired.com/tag/ai/",
+    "publishedAt": "Tue, 28 Apr 2026 00:39:30 +0000"
+  },
+  {
+    "tweetText": "Elon Musk promotes a New Yorker article about Sam Altman as his trial against OpenAI starts in Oakland. This highlights the ongoing tensions between Musk and the AI community. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/elon-musk-boost-new-yorker-article-sam-altman-x/",
+    "sourceName": "WIRED AI",
+    "sourceHomeUrl": "https://wired.com/tag/ai/",
+    "publishedAt": "Mon, 27 Apr 2026 20:08:51 +0000"
+  },
+  {
+    "tweetText": "David Silver, the mind behind AlphaGo, has launched a billion-dollar company focused on creating AI \"superlearners.\" He believes current AI development is misguided, emphasizing the need for smarter, more adaptable systems. via WIRED AI.",
+    "articleUrl": "https://www.wired.com/story/david-silver-ai-ineffable-intelligence-reinforcement-learning/",
+    "sourceName": "WIRED AI",
+    "sourceHomeUrl": "https://wired.com/tag/ai/",
+    "publishedAt": "Mon, 27 Apr 2026 14:00:00 +0000"
+  },
+  {
+    "tweetText": "Jury selection began in the case between Elon Musk and Sam Altman, but many jurors already have negative opinions of Musk. This could impact the trial's outcome, highlighting public sentiment against Musk's reputation. via The Verge AI.",
+    "articleUrl": "https://www.theverge.com/tech/919469/elon-musk-dont-like",
+    "sourceName": "The Verge AI",
+    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
+    "publishedAt": "2026-04-28T03:39:33.000Z"
   }
 ]
