@@ -1,72 +1,72 @@
 [
   {
-    "tweetText": "OpenAI has received FedRAMP Moderate authorization for ChatGPT Enterprise and its API, making it secure for U.S. federal agencies to use. This opens the door for safer AI adoption in government operations. via OpenAI News",
-    "articleUrl": "https://openai.com/index/openai-available-at-fedramp-moderate",
-    "sourceName": "OpenAI News",
-    "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Mon, 27 Apr 2026 14:00:00 GMT"
+    "tweetText": "IBM is launching Bob, an AI platform aimed at managing software delivery costs and governance. This is important as it helps companies balance rapid coding with the need for compliance and control over technical debt. via AI News",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/ibm-launches-ai-platform-bob-to-regulate-sdlc-costs/",
+    "sourceName": "AI News",
+    "sourceHomeUrl": "https://www.artificialintelligence-news/",
+    "publishedAt": "Tue, 28 Apr 2026 17:34:21 +0000"
   },
   {
-    "tweetText": "OpenAI has secured key concessions from Microsoft, allowing it to sell products on AWS while boosting Microsoft's revenue. This deal strengthens OpenAI's market position and expands its partnership with Amazon. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
+    "tweetText": "AI is evolving from basic models to advanced multimodal systems, highlighting the crucial role of encoders in understanding and processing information. This shift matters because it enhances AI's ability to interpret complex data effectively. via AI News.",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/the-evolution-of-encoders-from-simple-models-to-multimodal-ai/",
+    "sourceName": "AI News",
+    "sourceHomeUrl": "https://www.artificialintelligence-news/",
+    "publishedAt": "Tue, 28 Apr 2026 13:01:51 +0000"
+  },
+  {
+    "tweetText": "Kakao Mobility has unveiled its plans for developing Level 4 autonomous driving technologies, presented at the 2026 World IT Show. This move is significant as it underscores the company's commitment to advancing physical AI and autonomous services. via AI News",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/kakao-mobility-level-4-autonomous-driving-roadmap/",
+    "sourceName": "AI News",
+    "sourceHomeUrl": "https://www.artificialintelligence-news/",
+    "publishedAt": "Tue, 28 Apr 2026 10:00:00 +0000"
+  },
+  {
+    "tweetText": "Lightelligence's stock soared 400% on debut, briefly reaching a $10 billion market cap despite only $15.5 million in revenue. This jump highlights investor confidence in optical interconnects as a key solution for AI's future challenges. via AI News.",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/lightelligence-ipo-optical-interconnect-ai-infrastructure/",
+    "sourceName": "AI News",
+    "sourceHomeUrl": "https://www.artificialintelligence-news/",
+    "publishedAt": "Tue, 28 Apr 2026 10:00:00 +0000"
+  },
+  {
+    "tweetText": "Musk revisited his past friendship with OpenAI during his trial, sharing details he had previously disclosed in interviews and his biography. This highlights the ongoing impact of personal relationships in the tech industry. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 27 Apr 2026 17:40:38 +0000"
+    "publishedAt": "Wed, 29 Apr 2026 00:40:16 +0000"
   },
   {
-    "tweetText": "DeepMind's David Silver has raised $1.1B for his new AI lab, Ineffable Intelligence, which aims to create AI that learns without human data. This funding highlights the growing interest in advanced AI technologies. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/",
+    "tweetText": "Amazon has launched new OpenAI products on AWS, including a new agent service, just after Microsoft dropped its exclusivity agreement. This move enhances competition in the AI space and gives more options for developers. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 27 Apr 2026 17:24:21 +0000"
+    "publishedAt": "Tue, 28 Apr 2026 19:48:02 +0000"
   },
   {
-    "tweetText": "Investors are backing Skye's AI home screen app for iPhone ahead of its launch, highlighting growing interest in AI integration. This could change how users interact with their devices. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/04/27/investors-back-skye-signull-labs-ai-home-screen-app-for-iphone-ahead-of-launch/",
+    "tweetText": "Amazon just launched a feature called \"Join the chat\" that lets you ask product questions and get AI audio answers. This makes shopping more interactive and helps customers get information quickly. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 27 Apr 2026 16:13:02 +0000"
+    "publishedAt": "Tue, 28 Apr 2026 18:49:54 +0000"
   },
   {
-    "tweetText": "China has blocked Meta's $2B acquisition of Manus after a lengthy investigation. This move could hinder Zuckerberg's ambitions in the AI space. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/",
+    "tweetText": "Google has signed a new contract to provide the Pentagon with access to its AI, following Anthropic's refusal to participate. This move raises concerns about the use of AI in military surveillance and weaponry. via TechCrunch AI.",
+    "articleUrl": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 27 Apr 2026 13:16:55 +0000"
+    "publishedAt": "Tue, 28 Apr 2026 18:15:00 +0000"
   },
   {
-    "tweetText": "OpenAI may be developing a phone featuring AI agents to replace traditional apps, teaming up with MediaTek, Qualcomm, and Luxshare. This could revolutionize how we interact with technology, making it more intuitive and efficient. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/",
+    "tweetText": "YouTube is testing a new AI search feature that provides guided answers for Premium subscribers in the U.S. This could change how users find content and enhance their viewing experience. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/04/28/youtube-is-testing-an-ai-powered-search-feature-that-shows-guided-answers/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 27 Apr 2026 13:08:59 +0000"
+    "publishedAt": "Tue, 28 Apr 2026 13:54:06 +0000"
   },
   {
-    "tweetText": "During jury selection for Musk's lawsuit against OpenAI's Sam Altman, some jurors expressed dislike for Musk. This could impact the trial's outcome and reflects Musk's controversial reputation. via WIRED AI.",
-    "articleUrl": "https://www.wired.com/story/some-musk-v-altman-jurors-dont-like-elon-musk/",
-    "sourceName": "WIRED AI",
-    "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Tue, 28 Apr 2026 00:39:30 +0000"
-  },
-  {
-    "tweetText": "Elon Musk promotes a New Yorker article about Sam Altman as his trial against OpenAI starts in Oakland. This highlights the ongoing tensions between Musk and the AI community. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/elon-musk-boost-new-yorker-article-sam-altman-x/",
-    "sourceName": "WIRED AI",
-    "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Mon, 27 Apr 2026 20:08:51 +0000"
-  },
-  {
-    "tweetText": "David Silver, the mind behind AlphaGo, has launched a billion-dollar company focused on creating AI \"superlearners.\" He believes current AI development is misguided, emphasizing the need for smarter, more adaptable systems. via WIRED AI.",
-    "articleUrl": "https://www.wired.com/story/david-silver-ai-ineffable-intelligence-reinforcement-learning/",
-    "sourceName": "WIRED AI",
-    "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Mon, 27 Apr 2026 14:00:00 +0000"
-  },
-  {
-    "tweetText": "Jury selection began in the case between Elon Musk and Sam Altman, but many jurors already have negative opinions of Musk. This could impact the trial's outcome, highlighting public sentiment against Musk's reputation. via The Verge AI.",
-    "articleUrl": "https://www.theverge.com/tech/919469/elon-musk-dont-like",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-04-28T03:39:33.000Z"
+    "tweetText": "Neurable is licensing its non-invasive \"mind-reading\" tech for consumer wearables. This could lead to innovative new products that enhance how we interact with technology. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/04/28/bci-startup-neurable-looks-to-license-its-mind-reading-tech-for-consumer-wearables/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Tue, 28 Apr 2026 13:19:34 +0000"
   }
 ]
