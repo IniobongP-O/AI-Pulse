@@ -1,72 +1,72 @@
 [
   {
-    "tweetText": "IBM is launching Bob, an AI platform aimed at managing software delivery costs and governance. This is important as it helps companies balance rapid coding with the need for compliance and control over technical debt. via AI News",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/ibm-launches-ai-platform-bob-to-regulate-sdlc-costs/",
+    "tweetText": "EMEA CIOs need to audit their systems to revive stalled AI rollouts, as companies have heavily invested in AI with high expectations. This is crucial for ensuring that businesses can fully leverage the potential of advanced technologies. via AI News",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/idc-how-emea-cios-can-jumpstart-ai-rollouts/",
     "sourceName": "AI News",
     "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Tue, 28 Apr 2026 17:34:21 +0000"
+    "publishedAt": "Wed, 29 Apr 2026 14:02:45 +0000"
   },
   {
-    "tweetText": "AI is evolving from basic models to advanced multimodal systems, highlighting the crucial role of encoders in understanding and processing information. This shift matters because it enhances AI's ability to interpret complex data effectively. via AI News.",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/the-evolution-of-encoders-from-simple-models-to-multimodal-ai/",
+    "tweetText": "OpenAI just launched GPT-5.5, its most advanced AI model yet, designed to plan and execute tasks independently. This marks a significant step in AI development, enhancing its capabilities for real-world applications. via AI News.",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/gpt-5-5-is-openais-most-capable-agentic-ai-model-yet-at-twice-the-api-price/",
     "sourceName": "AI News",
     "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Tue, 28 Apr 2026 13:01:51 +0000"
+    "publishedAt": "Wed, 29 Apr 2026 09:08:13 +0000"
   },
   {
-    "tweetText": "Kakao Mobility has unveiled its plans for developing Level 4 autonomous driving technologies, presented at the 2026 World IT Show. This move is significant as it underscores the company's commitment to advancing physical AI and autonomous services. via AI News",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/kakao-mobility-level-4-autonomous-driving-roadmap/",
-    "sourceName": "AI News",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Tue, 28 Apr 2026 10:00:00 +0000"
+    "tweetText": "AI models like GPT-5 are showing unexpected \"goblin\" behaviors due to quirks in their personality-driven outputs. Understanding these issues is crucial for improving AI reliability and user experience. via OpenAI News",
+    "articleUrl": "https://openai.com/index/where-the-goblins-came-from",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Wed, 29 Apr 2026 20:00:00 GMT"
   },
   {
-    "tweetText": "Lightelligence's stock soared 400% on debut, briefly reaching a $10 billion market cap despite only $15.5 million in revenue. This jump highlights investor confidence in optical interconnects as a key solution for AI's future challenges. via AI News.",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/lightelligence-ipo-optical-interconnect-ai-infrastructure/",
-    "sourceName": "AI News",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Tue, 28 Apr 2026 10:00:00 +0000"
+    "tweetText": "OpenAI is expanding its Stargate infrastructure to boost compute power for AGI by adding more data center capacity. This is crucial for meeting the rising demand for advanced AI technologies. via OpenAI News",
+    "articleUrl": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Wed, 29 Apr 2026 15:00:00 GMT"
   },
   {
-    "tweetText": "Musk revisited his past friendship with OpenAI during his trial, sharing details he had previously disclosed in interviews and his biography. This highlights the ongoing impact of personal relationships in the tech industry. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 29 Apr 2026 00:40:16 +0000"
+    "tweetText": "Elon Musk faced intense questioning in his trial against OpenAI, revealing deep tensions between him and the company. This highlights ongoing conflicts in the AI industry and Musk's significant influence. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/model-behavior-elon-musk-cross-examined-sam-altman/",
+    "sourceName": "WIRED AI",
+    "sourceHomeUrl": "https://wired.com/tag/ai/",
+    "publishedAt": "Wed, 29 Apr 2026 23:41:51 +0000"
   },
   {
-    "tweetText": "Amazon has launched new OpenAI products on AWS, including a new agent service, just after Microsoft dropped its exclusivity agreement. This move enhances competition in the AI space and gives more options for developers. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 28 Apr 2026 19:48:02 +0000"
+    "tweetText": "Taylor Swift is seeking to trademark her likeness amid rising concerns over AI deepfakes. This move highlights the risks of scammers exploiting celebrity images to deceive people online. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/taylor-swift-rihanna-tiktok-deepfake-ads/",
+    "sourceName": "WIRED AI",
+    "sourceHomeUrl": "https://wired.com/tag/ai/",
+    "publishedAt": "Wed, 29 Apr 2026 20:36:53 +0000"
   },
   {
-    "tweetText": "Amazon just launched a feature called \"Join the chat\" that lets you ask product questions and get AI audio answers. This makes shopping more interactive and helps customers get information quickly. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 28 Apr 2026 18:49:54 +0000"
+    "tweetText": "Sanctioned Chinese AI firm SenseTime has launched a new image model designed for speed, focusing on open source tech due to US restrictions. This move highlights the growing independence of China's AI sector. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/chinese-ai-giant-sensetime-is-running-its-new-model-on-chinese-chips/",
+    "sourceName": "WIRED AI",
+    "sourceHomeUrl": "https://wired.com/tag/ai/",
+    "publishedAt": "Wed, 29 Apr 2026 17:23:52 +0000"
   },
   {
-    "tweetText": "Google has signed a new contract to provide the Pentagon with access to its AI, following Anthropic's refusal to participate. This move raises concerns about the use of AI in military surveillance and weaponry. via TechCrunch AI.",
-    "articleUrl": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 28 Apr 2026 18:15:00 +0000"
+    "tweetText": "A new robotic claw called Eka is revolutionizing tasks like sorting chicken nuggets and screwing in lightbulbs, marking a major leap in robotics. This innovation could change how we interact with machines in everyday life. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/",
+    "sourceName": "WIRED AI",
+    "sourceHomeUrl": "https://wired.com/tag/ai/",
+    "publishedAt": "Wed, 29 Apr 2026 10:00:00 +0000"
   },
   {
-    "tweetText": "YouTube is testing a new AI search feature that provides guided answers for Premium subscribers in the U.S. This could change how users find content and enhance their viewing experience. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/04/28/youtube-is-testing-an-ai-powered-search-feature-that-shows-guided-answers/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 28 Apr 2026 13:54:06 +0000"
+    "tweetText": "AI is poised to revolutionize how we diagnose and treat drug-resistant infections, according to British surgeon Ara Darzi. However, without proper incentives, these breakthroughs might not benefit patients. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/wired-health-2026-tackling-antimicrobial-resistance-ara-darzi/",
+    "sourceName": "WIRED AI",
+    "sourceHomeUrl": "https://wired.com/tag/ai/",
+    "publishedAt": "Wed, 29 Apr 2026 09:00:00 +0000"
   },
   {
-    "tweetText": "Neurable is licensing its non-invasive \"mind-reading\" tech for consumer wearables. This could lead to innovative new products that enhance how we interact with technology. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/04/28/bci-startup-neurable-looks-to-license-its-mind-reading-tech-for-consumer-wearables/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 28 Apr 2026 13:19:34 +0000"
+    "tweetText": "Google Search queries reached an all-time high last quarter, fueled by AI innovations, according to CEO Sundar Pichai. This surge highlights the growing impact of AI on user engagement and revenue growth for the company. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/tech/920815/google-alphabet-q1-2026-earnings-sundar-pichai",
+    "sourceName": "The Verge AI",
+    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
+    "publishedAt": "2026-04-29T20:28:11.000Z"
   }
 ]
