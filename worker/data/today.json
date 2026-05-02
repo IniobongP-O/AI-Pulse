@@ -1,72 +1,72 @@
 [
   {
-    "tweetText": "LG is in talks with NVIDIA about physical AI and data centers. This could shape the future of automated systems and mobility. via AI News",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/what-lg-and-nvidia-talks-reveal-future-of-physical-ai/",
+    "tweetText": "SAP highlights that enterprise AI governance boosts profit margins by ensuring accurate data control over unreliable consumer models. This approach enhances decision-making and reduces errors, crucial for business success. via AI News",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/sap-how-enterprise-ai-governance-secures-profit-margins/",
     "sourceName": "AI News",
     "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Thu, 30 Apr 2026 15:59:54 +0000"
+    "publishedAt": "Fri, 01 May 2026 13:05:37 +0000"
   },
   {
-    "tweetText": "APIs and MCPs serve different purposes in system communication, with APIs focusing on software applications. Understanding these differences is crucial for developers and users to optimize their interactions. via AI News",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/a-guide-to-apis-and-mcps-and-mcp-gateways/",
+    "tweetText": "GitHub Copilot will switch to a per-token charging model starting June 1, 2026, replacing its flat subscription rate. This change could impact how developers budget for AI tools and manage usage. via AI News.",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/per-token-ai-charging-comes-to-github-copilot/",
     "sourceName": "AI News",
     "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Thu, 30 Apr 2026 11:18:00 +0000"
+    "publishedAt": "Fri, 01 May 2026 11:00:00 +0000"
   },
   {
-    "tweetText": "Australia's financial regulator has raised concerns over the poor governance of AI in banks and financial firms. This matters because effective oversight is crucial as AI becomes more integrated into financial operations. via AI News.",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/ai-agent-governance-control-gaps/",
-    "sourceName": "AI News",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Thu, 30 Apr 2026 10:00:00 +0000"
-  },
-  {
-    "tweetText": "Big Tech reported strong earnings, showing that their AI infrastructure spending is paying off. However, they also increased their spending forecasts, raising concerns about sustainability. via AI News.",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/big-tech-ai-infrastructure-spending-q1-2026-results/",
-    "sourceName": "AI News",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Thu, 30 Apr 2026 10:00:00 +0000"
-  },
-  {
-    "tweetText": "ChatGPT Images 2.0 is gaining popularity in India, with users creating everything from avatars to cinematic portraits. Its success highlights the growing demand for AI-driven visual content in emerging markets. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/",
+    "tweetText": "Meta has acquired robotics startup Assured Robot Intelligence to enhance its humanoid AI capabilities. This move shows Meta's commitment to advancing AI technology in robotics. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 01 May 2026 02:00:00 +0000"
+    "publishedAt": "Fri, 01 May 2026 22:13:27 +0000"
   },
   {
-    "tweetText": "Anthropic is gearing up for a valuation round that could exceed $900 billion, with investors asked to submit allocations soon. This move highlights the growing confidence and potential in the AI industry. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/",
+    "tweetText": "Elon Musk testified for three days in his lawsuit against OpenAI, claiming the shift to a for-profit model betrayed its nonprofit roots. This case raises important questions about the ethics of AI development and funding. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/podcast/did-you-know-you-cant-steal-a-charity-dont-worry-elon-musk-will-remind-you/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 30 Apr 2026 23:07:56 +0000"
+    "publishedAt": "Fri, 01 May 2026 17:44:29 +0000"
   },
   {
-    "tweetText": "Apple is facing supply constraints for Mac mini, Studio, and Neo due to unexpected demand driven by AI. This highlights the growing influence of AI technologies on consumer electronics. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/04/30/apple-was-surprised-by-ai-driven-demand-for-macs/",
+    "tweetText": "The Pentagon has signed deals with Nvidia, Microsoft, and AWS to integrate AI into classified networks. This move aims to diversify its AI partnerships following a fallout with Anthropic over usage terms. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 30 Apr 2026 22:12:52 +0000"
+    "publishedAt": "Fri, 01 May 2026 16:02:36 +0000"
   },
   {
-    "tweetText": "Legal AI startup Legora has reached a $5.6B valuation, intensifying competition with rival Harvey as both ramp up their advertising efforts. This rivalry highlights the booming demand for AI solutions in the legal sector. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/",
+    "tweetText": "Elon Musk took the stand in his lawsuit against OpenAI, revealing messy details about the company's shift to a for-profit model. This case could reshape the future of AI governance and accountability. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/video/musk-v-altman-is-just-getting-started/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 30 Apr 2026 20:14:47 +0000"
+    "publishedAt": "Fri, 01 May 2026 14:00:00 +0000"
   },
   {
-    "tweetText": "OpenAI is limiting access to its new cybersecurity tool, GPT-5.5 Cyber, to just essential cyber defenders initially. This move highlights the growing concerns around security in AI development. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 30 Apr 2026 19:27:41 +0000"
+    "tweetText": "A nonprofit backed by OpenAI executives is funding influencers to promote fears about Chinese AI as a threat. This campaign could shape public perception and policy on AI technology. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/super-pac-backed-by-openai-and-palantir-is-paying-tiktok-influencers-to-fear-monger-about-china/",
+    "sourceName": "WIRED AI",
+    "sourceHomeUrl": "https://wired.com/tag/ai/",
+    "publishedAt": "Fri, 01 May 2026 20:25:28 +0000"
   },
   {
-    "tweetText": "OpenAI is rolling out new security features for ChatGPT accounts, partnering with Yubico for added protection. This move aims to enhance user safety and safeguard sensitive information. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/04/30/openai-announces-new-advanced-security-for-chatgpt-accounts-including-a-partnership-with-yubico/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 30 Apr 2026 18:20:03 +0000"
+    "tweetText": "The Musk v. Altman trial is revealing key evidence, including emails and documents from OpenAI's early days. This matters because it sheds light on the founding dynamics and influences shaping the future of AI. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial",
+    "sourceName": "The Verge AI",
+    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
+    "publishedAt": "2026-05-01T19:14:51.000Z"
+  },
+  {
+    "tweetText": "The Pentagon has secured AI deals with major tech companies like OpenAI, Google, and Nvidia but excluded Anthropic due to supply-chain concerns. This move boosts the military's access to advanced AI tools for classified operations. via The Verge AI.",
+    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/922113/pentagon-ai-classified-openai-google-nvidia",
+    "sourceName": "The Verge AI",
+    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
+    "publishedAt": "2026-05-01T14:09:56.000Z"
+  },
+  {
+    "tweetText": "Elon Musk struggled in court this week while pushing a claim that OpenAI \"stole a nonprofit.\" His courtroom performance raises questions about his credibility as he battles a case many believe he won't win. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/podcast/922009/musk-openai-trial-testimony-vergecast",
+    "sourceName": "The Verge AI",
+    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
+    "publishedAt": "2026-05-01T13:33:15.000Z"
   }
 ]
