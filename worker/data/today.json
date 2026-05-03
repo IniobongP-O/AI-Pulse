@@ -1,72 +1,23 @@
 [
   {
-    "tweetText": "SAP highlights that enterprise AI governance boosts profit margins by ensuring accurate data control over unreliable consumer models. This approach enhances decision-making and reduces errors, crucial for business success. via AI News",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/sap-how-enterprise-ai-governance-secures-profit-margins/",
-    "sourceName": "AI News",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Fri, 01 May 2026 13:05:37 +0000"
-  },
-  {
-    "tweetText": "GitHub Copilot will switch to a per-token charging model starting June 1, 2026, replacing its flat subscription rate. This change could impact how developers budget for AI tools and manage usage. via AI News.",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/per-token-ai-charging-comes-to-github-copilot/",
-    "sourceName": "AI News",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Fri, 01 May 2026 11:00:00 +0000"
-  },
-  {
-    "tweetText": "Meta has acquired robotics startup Assured Robot Intelligence to enhance its humanoid AI capabilities. This move shows Meta's commitment to advancing AI technology in robotics. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
+    "tweetText": "The Oscars have ruled that AI-generated actors and scripts can't be nominated for awards. This decision highlights the industry's commitment to human creativity in film. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 01 May 2026 22:13:27 +0000"
+    "publishedAt": "Sat, 02 May 2026 21:54:58 +0000"
   },
   {
-    "tweetText": "Elon Musk testified for three days in his lawsuit against OpenAI, claiming the shift to a for-profit model betrayed its nonprofit roots. This case raises important questions about the ethics of AI development and funding. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/podcast/did-you-know-you-cant-steal-a-charity-dont-worry-elon-musk-will-remind-you/",
+    "tweetText": "AI dictation apps have been tested and ranked, showing their effectiveness for tasks like emailing, note-taking, and coding by voice. This highlights how AI can enhance productivity and streamline workflows. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 01 May 2026 17:44:29 +0000"
+    "publishedAt": "Sat, 02 May 2026 16:00:00 +0000"
   },
   {
-    "tweetText": "The Pentagon has signed deals with Nvidia, Microsoft, and AWS to integrate AI into classified networks. This move aims to diversify its AI partnerships following a fallout with Anthropic over usage terms. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 01 May 2026 16:02:36 +0000"
-  },
-  {
-    "tweetText": "Elon Musk took the stand in his lawsuit against OpenAI, revealing messy details about the company's shift to a for-profit model. This case could reshape the future of AI governance and accountability. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/video/musk-v-altman-is-just-getting-started/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 01 May 2026 14:00:00 +0000"
-  },
-  {
-    "tweetText": "A nonprofit backed by OpenAI executives is funding influencers to promote fears about Chinese AI as a threat. This campaign could shape public perception and policy on AI technology. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/super-pac-backed-by-openai-and-palantir-is-paying-tiktok-influencers-to-fear-monger-about-china/",
+    "tweetText": "Disneyland has started using face recognition technology on its visitors. This raises concerns about privacy and surveillance at popular attractions. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/security-news-this-week-disneyland-now-uses-face-recognition-on-visitors/",
     "sourceName": "WIRED AI",
     "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Fri, 01 May 2026 20:25:28 +0000"
-  },
-  {
-    "tweetText": "The Musk v. Altman trial is revealing key evidence, including emails and documents from OpenAI's early days. This matters because it sheds light on the founding dynamics and influences shaping the future of AI. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-05-01T19:14:51.000Z"
-  },
-  {
-    "tweetText": "The Pentagon has secured AI deals with major tech companies like OpenAI, Google, and Nvidia but excluded Anthropic due to supply-chain concerns. This move boosts the military's access to advanced AI tools for classified operations. via The Verge AI.",
-    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/922113/pentagon-ai-classified-openai-google-nvidia",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-05-01T14:09:56.000Z"
-  },
-  {
-    "tweetText": "Elon Musk struggled in court this week while pushing a claim that OpenAI \"stole a nonprofit.\" His courtroom performance raises questions about his credibility as he battles a case many believe he won't win. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/podcast/922009/musk-openai-trial-testimony-vergecast",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-05-01T13:33:15.000Z"
+    "publishedAt": "Sat, 02 May 2026 10:30:00 +0000"
   }
 ]
