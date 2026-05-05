@@ -1,23 +1,72 @@
 [
   {
-    "tweetText": "The creator of the \"This is fine\" meme claims that the AI startup Artisan stole his artwork for its ads. This raises concerns about copyright and the ethics of using artists' work in AI projects. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sun, 03 May 2026 20:16:51 +0000"
+    "tweetText": "As autonomous AI systems increasingly integrate into robots and industrial equipment, governance challenges are growing. Ensuring these systems can be safely tested and monitored is crucial for their responsible use. via AI News.",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/physical-ai-governance-autonomous-systems/",
+    "sourceName": "AI News",
+    "sourceHomeUrl": "https://www.artificialintelligence-news/",
+    "publishedAt": "Mon, 04 May 2026 11:00:00 +0000"
   },
   {
-    "tweetText": "A Harvard study found that AI provided more accurate emergency room diagnoses than two human doctors in real cases. This highlights AI's potential to improve medical decision-making and patient outcomes. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sun, 03 May 2026 18:00:09 +0000"
+    "tweetText": "Google introduced agentic AI governance as a core feature with its Gemini Enterprise Agent Platform at Cloud Next ’26. This move sets a new standard for the industry, pushing enterprises to prioritize AI governance. via AI News.",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/agentic-ai-governance-enterprise-readiness-google/",
+    "sourceName": "AI News",
+    "sourceHomeUrl": "https://www.artificialintelligence-news/",
+    "publishedAt": "Mon, 04 May 2026 10:00:00 +0000"
   },
   {
-    "tweetText": "AI-generated music is taking over streaming platforms, raising questions about its popularity and impact. As artists experiment with AI tools, the industry faces a shift that could redefine creativity and music consumption. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/column/921599/ai-music-is-flooding-streaming-services-but-who-wants-it",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-05-03T12:00:00.000Z"
+    "tweetText": "OpenAI and PwC are teaming up to enhance finance operations with AI, focusing on automation and better forecasting. This partnership could transform how CFOs manage their responsibilities, leading to greater efficiency. via OpenAI News",
+    "articleUrl": "https://openai.com/index/openai-pwc-finance-collaboration",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Mon, 04 May 2026 21:00:00 GMT"
+  },
+  {
+    "tweetText": "Nvidia's CEO Jensen Huang claims AI is actually creating a lot of jobs, countering fears about job losses. This perspective highlights the potential for AI to drive new employment opportunities. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Tue, 05 May 2026 03:31:54 +0000"
+  },
+  {
+    "tweetText": "Cerebras, an AI chip maker, is set for a huge IPO that could be valued at over $26.6 billion, bolstered by its strong ties with OpenAI. This move highlights the growing importance of AI hardware in the tech landscape. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 04 May 2026 21:53:21 +0000"
+  },
+  {
+    "tweetText": "New research shows that image AI models are boosting app downloads 6.5x more than chatbot upgrades. This trend highlights the importance of visual features in attracting users, even if they don’t always lead to revenue. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 04 May 2026 19:12:49 +0000"
+  },
+  {
+    "tweetText": "Elon Musk's AI expert, Stuart Russell, warned at the OpenAI trial about the dangers of an AGI arms race and the need for government oversight. His insights highlight the urgent need for regulation in AI development. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 04 May 2026 16:57:47 +0000"
+  },
+  {
+    "tweetText": "Sierra just raised $950M, boosting its total funding to over $1 billion. This investment aims to help the company become the leading force in AI-driven customer experiences. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 04 May 2026 16:45:55 +0000"
+  },
+  {
+    "tweetText": "Elon Musk warned OpenAI's leaders that they would be widely disliked if a lawsuit wasn't settled. This highlights the intense pressure and stakes in the ongoing disputes within the AI industry. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/04/elon-musk-sent-ominous-texts-to-greg-brockman-sam-altman-after-asking-for-a-settlement-openai-claims/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 04 May 2026 16:36:03 +0000"
+  },
+  {
+    "tweetText": "Anthropic and OpenAI are teaming up with asset managers to boost their enterprise AI offerings. This collaboration could reshape the AI landscape by enhancing services for businesses. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/04/anthropic-and-openai-are-both-launching-joint-ventures-for-enterprise-ai-services/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 04 May 2026 15:59:24 +0000"
   }
 ]
