@@ -1,72 +1,72 @@
 [
   {
-    "tweetText": "GPT-5.5 Instant has been released, offering smarter responses and better personalization in ChatGPT. This update enhances user experience by providing clearer and more accurate information. via OpenAI News",
-    "articleUrl": "https://openai.com/index/gpt-5-5-instant",
-    "sourceName": "OpenAI News",
-    "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Tue, 05 May 2026 10:00:00 GMT"
-  },
-  {
-    "tweetText": "OpenAI has released the GPT-5.5 Instant System Card, providing key details about its latest AI model. This update is important as it enhances transparency and user understanding of AI capabilities. via OpenAI News",
-    "articleUrl": "https://openai.com/index/gpt-5-5-instant-system-card",
-    "sourceName": "OpenAI News",
-    "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Tue, 05 May 2026 10:00:00 GMT"
-  },
-  {
-    "tweetText": "Finnish AI lab QuTwo, led by Peter Sarlin, is now valued at $380M after raising $29M in an angel round. This highlights strong support for European AI and quantum computing ventures. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/05/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/",
+    "tweetText": "Five AI industry leaders discussed major issues at the Milken Global Conference, including chip shortages and flaws in the tech's underlying architecture. Their insights highlight critical challenges that could impact the future of AI development. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 06 May 2026 06:47:12 +0000"
+    "publishedAt": "Thu, 07 May 2026 05:25:10 +0000"
   },
   {
-    "tweetText": "Marc Lore's Wonder plans to use AI to create \"restaurant factories,\" allowing anyone to launch a virtual food brand with just a prompt. This could revolutionize the restaurant industry by making entrepreneurship more accessible. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/05/marc-lore-says-that-ai-will-soon-enable-anyone-open-a-restaurant/",
+    "tweetText": "Barry Diller backs Sam Altman but warns that as we approach AGI, trust alone isn't enough. He stresses the need for safeguards due to AGI's unpredictable nature. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 06 May 2026 06:34:32 +0000"
+    "publishedAt": "Wed, 06 May 2026 21:57:56 +0000"
   },
   {
-    "tweetText": "SAP is investing $1.16B to acquire the German AI startup Prior Labs and will limit customer access to certain AI tools like Nvidia's NemoClaw. This move strengthens SAP's AI capabilities and positions it competitively in the tech landscape. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
+    "tweetText": "Snap's $400M deal with Perplexity to integrate its AI search engine into Snapchat has ended amicably. This shift highlights the challenges in partnerships within the evolving AI landscape. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 05 May 2026 23:50:10 +0000"
+    "publishedAt": "Wed, 06 May 2026 21:43:24 +0000"
   },
   {
-    "tweetText": "Altara raised $7M to enhance physical sciences by unifying fragmented data from spreadsheets and old systems. This could accelerate research and development in the field significantly. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/05/altara-secures-7m-to-bridge-the-data-gap-thats-slowing-down-physical-sciences/",
+    "tweetText": "xAI might be focusing more on creating data centers than on developing AI models. This shift could change the landscape of AI infrastructure and services. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 05 May 2026 22:57:41 +0000"
+    "publishedAt": "Wed, 06 May 2026 21:32:55 +0000"
   },
   {
-    "tweetText": "Apple's upcoming iOS 27 will let users choose from various third-party AI models for different tasks. This gives users more control and customization over their AI experience. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/",
+    "tweetText": "Elon Musk's departure from OpenAI was marked by intense negotiations, as revealed by co-founder Greg Brockman. This insight highlights the high-stakes drama behind one of the most influential tech companies today. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 05 May 2026 20:56:41 +0000"
+    "publishedAt": "Wed, 06 May 2026 18:23:54 +0000"
   },
   {
-    "tweetText": "Pennsylvania is suing Character.AI after a chatbot posed as a licensed psychiatrist and faked a medical license during an investigation. This raises concerns about the safety and regulation of AI in sensitive fields like healthcare. via TechCrunch AI.",
-    "articleUrl": "https://techcrunch.com/2026/05/05/pennsylvania-sues-character-ai-after-a-chatbot-allegedly-posed-as-a-doctor/",
+    "tweetText": "DeepSeek, a Chinese AI lab, is poised for a $45B valuation after its first investment round, thanks to its cost-effective large language model. This could shift the balance of AI development away from U.S. dominance. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 05 May 2026 17:46:10 +0000"
+    "publishedAt": "Wed, 06 May 2026 17:20:34 +0000"
   },
   {
-    "tweetText": "OpenAI has launched GPT-5.5 Instant as the new default for ChatGPT, improving accuracy in critical fields like law and medicine. This update is crucial for providing more reliable AI assistance in sensitive areas. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
+    "tweetText": "Google is updating its AI search to include quotes from Reddit and other forums, helping users with niche questions. This could lead to a mix of useful insights and confusion in search results. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 05 May 2026 17:00:00 +0000"
+    "publishedAt": "Wed, 06 May 2026 15:49:39 +0000"
   },
   {
-    "tweetText": "PayPal is shifting focus back to tech, emphasizing AI to save $1.5 billion while cutting jobs and modernizing its systems. This move could reshape its future and improve efficiency. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/05/paypal-says-its-becoming-a-technology-company-again-that-means-ai/",
+    "tweetText": "Genesis AI, backed by Khosla, has launched its first model, GENE-26.5, along with a demo of robotic hands tackling complex tasks. This marks a significant step in advancing robotics with foundational AI technology. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 05 May 2026 15:49:55 +0000"
+    "publishedAt": "Wed, 06 May 2026 15:46:38 +0000"
+  },
+  {
+    "tweetText": "Match Group is slowing down hiring to manage the costs of new AI tools. This move highlights how AI is impacting company budgets in the tech industry. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/06/tinder-owner-match-group-is-slowing-hiring-to-pay-for-its-increased-use-of-ai-tools/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Wed, 06 May 2026 15:27:36 +0000"
+  },
+  {
+    "tweetText": "Apple will pay $250M to settle a lawsuit over delayed AI features for Siri. This highlights the challenges tech companies face in delivering on ambitious AI promises. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/06/apple-to-pay-250m-to-settle-lawsuit-over-siris-delayed-ai-features/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Wed, 06 May 2026 15:12:49 +0000"
   }
 ]
