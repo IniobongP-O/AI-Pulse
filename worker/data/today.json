@@ -1,72 +1,72 @@
 [
   {
-    "tweetText": "Five AI industry leaders discussed major issues at the Milken Global Conference, including chip shortages and flaws in the tech's underlying architecture. Their insights highlight critical challenges that could impact the future of AI development. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 07 May 2026 05:25:10 +0000"
+    "tweetText": "AI is being used to alleviate the strain on the UK's NHS as it faces a record 7.25 million waiting list. This innovation could help improve patient care and efficiency in a struggling healthcare system. via AI News",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/ai-in-the-nhs-helping-ease-doctors-burdens/",
+    "sourceName": "AI News",
+    "sourceHomeUrl": "https://www.artificialintelligence-news/",
+    "publishedAt": "Thu, 07 May 2026 09:35:00 +0000"
   },
   {
-    "tweetText": "Barry Diller backs Sam Altman but warns that as we approach AGI, trust alone isn't enough. He stresses the need for safeguards due to AGI's unpredictable nature. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 06 May 2026 21:57:56 +0000"
+    "tweetText": "OpenAI has launched GPT-5.5 and GPT-5.5-Cyber to enhance Trusted Access for Cyber, aiding security experts in vulnerability research. This upgrade is crucial for safeguarding essential infrastructure against cyber threats. via OpenAI News",
+    "articleUrl": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Thu, 07 May 2026 13:00:00 GMT"
   },
   {
-    "tweetText": "Snap's $400M deal with Perplexity to integrate its AI search engine into Snapchat has ended amicably. This shift highlights the challenges in partnerships within the evolving AI landscape. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 06 May 2026 21:43:24 +0000"
+    "tweetText": "Parloa uses OpenAI models to create advanced voice-driven AI customer service agents that can interact with customers in real-time. This innovation helps businesses improve customer support efficiency and satisfaction. via OpenAI News",
+    "articleUrl": "https://openai.com/index/parloa",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Thu, 07 May 2026 11:00:00 GMT"
   },
   {
-    "tweetText": "xAI might be focusing more on creating data centers than on developing AI models. This shift could change the landscape of AI infrastructure and services. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 06 May 2026 21:32:55 +0000"
+    "tweetText": "OpenAI is launching new realtime voice models in their API that can reason, translate, and transcribe speech. This enhances natural voice interactions, making AI communication smarter and more intuitive. via OpenAI News.",
+    "articleUrl": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Thu, 07 May 2026 10:00:00 GMT"
   },
   {
-    "tweetText": "Elon Musk's departure from OpenAI was marked by intense negotiations, as revealed by co-founder Greg Brockman. This insight highlights the high-stakes drama behind one of the most influential tech companies today. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/",
+    "tweetText": "AI company Basata is automating tasks for doctors, but faces challenges on balancing worker support and displacement. This matters because it highlights the ongoing struggle of healthcare workers amid increasing tech pressure. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 06 May 2026 18:23:54 +0000"
+    "publishedAt": "Fri, 08 May 2026 04:42:29 +0000"
   },
   {
-    "tweetText": "DeepSeek, a Chinese AI lab, is poised for a $45B valuation after its first investment round, thanks to its cost-effective large language model. This could shift the balance of AI development away from U.S. dominance. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/",
+    "tweetText": "OpenAI just launched new voice intelligence features in its API, useful for customer service and more. This will enhance user experiences across various fields like education and content creation. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 06 May 2026 17:20:34 +0000"
+    "publishedAt": "Thu, 07 May 2026 22:24:50 +0000"
   },
   {
-    "tweetText": "Google is updating its AI search to include quotes from Reddit and other forums, helping users with niche questions. This could lead to a mix of useful insights and confusion in search results. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/",
+    "tweetText": "AI startup Pit, founded by Voi's co-founders, just raised $16 million in a seed round led by a16z. This highlights the growing interest in AI innovation coming out of Stockholm. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 06 May 2026 15:49:39 +0000"
+    "publishedAt": "Thu, 07 May 2026 21:02:11 +0000"
   },
   {
-    "tweetText": "Genesis AI, backed by Khosla, has launched its first model, GENE-26.5, along with a demo of robotic hands tackling complex tasks. This marks a significant step in advancing robotics with foundational AI technology. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows/",
+    "tweetText": "OpenAI launched a new 'Trusted Contact' feature for ChatGPT to help users in potential self-harm situations. This aims to enhance safety and support for users in distress. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 06 May 2026 15:46:38 +0000"
+    "publishedAt": "Thu, 07 May 2026 20:20:20 +0000"
   },
   {
-    "tweetText": "Match Group is slowing down hiring to manage the costs of new AI tools. This move highlights how AI is impacting company budgets in the tech industry. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/06/tinder-owner-match-group-is-slowing-hiring-to-pay-for-its-increased-use-of-ai-tools/",
+    "tweetText": "Perplexity’s Personal Computer is now available for all Mac users, introducing AI agents to enhance productivity. This move makes advanced AI tools accessible, reshaping how we interact with technology. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 06 May 2026 15:27:36 +0000"
+    "publishedAt": "Thu, 07 May 2026 19:57:59 +0000"
   },
   {
-    "tweetText": "Apple will pay $250M to settle a lawsuit over delayed AI features for Siri. This highlights the challenges tech companies face in delivering on ambitious AI promises. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/06/apple-to-pay-250m-to-settle-lawsuit-over-siris-delayed-ai-features/",
+    "tweetText": "Elon Musk's lawsuit is questioning OpenAI's safety practices and its focus on benefiting humanity with AI. This could impact the future direction of AI development and accountability. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 06 May 2026 15:12:49 +0000"
+    "publishedAt": "Thu, 07 May 2026 19:21:21 +0000"
   }
 ]
