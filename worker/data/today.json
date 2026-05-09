@@ -1,72 +1,72 @@
 [
   {
-    "tweetText": "AI is being used to alleviate the strain on the UK's NHS as it faces a record 7.25 million waiting list. This innovation could help improve patient care and efficiency in a struggling healthcare system. via AI News",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/ai-in-the-nhs-helping-ease-doctors-burdens/",
+    "tweetText": "RingCentral has upgraded its AI Receptionist to connect with Shopify, Calendly, and WhatsApp, enhancing its customer service capabilities. This move allows businesses to streamline order inquiries and appointment bookings, improving efficiency. via AI News",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/ringcentral-ai-adds-shopify-calendly-and-whatsapp-to-ai-receptionist/",
     "sourceName": "AI News",
     "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Thu, 07 May 2026 09:35:00 +0000"
+    "publishedAt": "Fri, 08 May 2026 14:54:00 +0000"
   },
   {
-    "tweetText": "OpenAI has launched GPT-5.5 and GPT-5.5-Cyber to enhance Trusted Access for Cyber, aiding security experts in vulnerability research. This upgrade is crucial for safeguarding essential infrastructure against cyber threats. via OpenAI News",
-    "articleUrl": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
+    "tweetText": "OpenAI is enhancing the safety of Codex by using sandboxing, approval processes, and network policies. This ensures a secure environment for coding agents, promoting responsible AI use. via OpenAI News",
+    "articleUrl": "https://openai.com/index/running-codex-safely",
     "sourceName": "OpenAI News",
     "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Thu, 07 May 2026 13:00:00 GMT"
+    "publishedAt": "Fri, 08 May 2026 12:30:00 GMT"
   },
   {
-    "tweetText": "Parloa uses OpenAI models to create advanced voice-driven AI customer service agents that can interact with customers in real-time. This innovation helps businesses improve customer support efficiency and satisfaction. via OpenAI News",
-    "articleUrl": "https://openai.com/index/parloa",
-    "sourceName": "OpenAI News",
-    "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Thu, 07 May 2026 11:00:00 GMT"
+    "tweetText": "A new paradigm called Adaptive Parallel Reasoning (APR) allows AI models to dynamically decide when and how to parallelize tasks, enhancing efficiency in complex problem-solving. This advancement could significantly speed up inference times and improve performance across various applications. via BAIR Berkeley.",
+    "articleUrl": "http://bair.berkeley.edu/blog/2026/05/08/adaptive-parallel-reasoning/",
+    "sourceName": "BAIR Berkeley",
+    "sourceHomeUrl": "https://bair.berkeley.edu/blog/",
+    "publishedAt": "Fri, 08 May 2026 02:00:00 -0700"
   },
   {
-    "tweetText": "OpenAI is launching new realtime voice models in their API that can reason, translate, and transcribe speech. This enhances natural voice interactions, making AI communication smarter and more intuitive. via OpenAI News.",
-    "articleUrl": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
-    "sourceName": "OpenAI News",
-    "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Thu, 07 May 2026 10:00:00 GMT"
-  },
-  {
-    "tweetText": "AI company Basata is automating tasks for doctors, but faces challenges on balancing worker support and displacement. This matters because it highlights the ongoing struggle of healthcare workers amid increasing tech pressure. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/",
+    "tweetText": "Cloudflare is cutting 1,100 jobs due to AI making support roles redundant, despite reaching record revenue. This highlights the growing impact of AI on the workforce and business operations. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 08 May 2026 04:42:29 +0000"
+    "publishedAt": "Fri, 08 May 2026 18:33:21 +0000"
   },
   {
-    "tweetText": "OpenAI just launched new voice intelligence features in its API, useful for customer service and more. This will enhance user experiences across various fields like education and content creation. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
+    "tweetText": "AI is booming in the enterprise sector, with major companies like Anthropic, OpenAI, and SAP making big investments and partnerships. This rush shows that startups in enterprise AI are hot acquisition targets. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/podcast/the-peoples-airline-and-the-enterprise-ai-gold-rush/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 07 May 2026 22:24:50 +0000"
+    "publishedAt": "Fri, 08 May 2026 15:46:17 +0000"
   },
   {
-    "tweetText": "AI startup Pit, founded by Voi's co-founders, just raised $16 million in a seed round led by a16z. This highlights the growing interest in AI innovation coming out of Stockholm. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 07 May 2026 21:02:11 +0000"
+    "tweetText": "Philosopher Nick Bostrom proposes that humanity should embrace advanced AI to achieve a \"solved world.\" This vision could transform our future, addressing complex challenges and enhancing life. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/nick-bostrom-has-a-plan-for-humanitys-big-retirement/",
+    "sourceName": "WIRED AI",
+    "sourceHomeUrl": "https://wired.com/tag/ai/",
+    "publishedAt": "Fri, 08 May 2026 15:00:00 +0000"
   },
   {
-    "tweetText": "OpenAI launched a new 'Trusted Contact' feature for ChatGPT to help users in potential self-harm situations. This aims to enhance safety and support for users in distress. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 07 May 2026 20:20:20 +0000"
+    "tweetText": "California candidate Tom Steyer is pushing for a jobs guarantee to protect workers affected by AI. This proposal aims to address job loss and support those struggling in an evolving job market. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/tom-steyer-proposes-jobs-guarantee-to-protect-california-workers-from-ai/",
+    "sourceName": "WIRED AI",
+    "sourceHomeUrl": "https://wired.com/tag/ai/",
+    "publishedAt": "Fri, 08 May 2026 15:00:00 +0000"
   },
   {
-    "tweetText": "Perplexity’s Personal Computer is now available for all Mac users, introducing AI agents to enhance productivity. This move makes advanced AI tools accessible, reshaping how we interact with technology. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 07 May 2026 19:57:59 +0000"
+    "tweetText": "New AI kids’ toys are becoming popular, but lawmakers are concerned they might disrupt playtime and routines. This could reshape how children interact with technology and each other. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/the-new-wild-west-of-ai-kids-toys/",
+    "sourceName": "WIRED AI",
+    "sourceHomeUrl": "https://wired.com/tag/ai/",
+    "publishedAt": "Fri, 08 May 2026 10:00:00 +0000"
   },
   {
-    "tweetText": "Elon Musk's lawsuit is questioning OpenAI's safety practices and its focus on benefiting humanity with AI. This could impact the future direction of AI development and accountability. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 07 May 2026 19:21:21 +0000"
+    "tweetText": "Tech companies are rapidly building massive AI data centers, raising concerns about their impact on power grids and local communities. As energy costs soar and legal battles arise, the future of these facilities remains contentious. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+    "sourceName": "The Verge AI",
+    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
+    "publishedAt": "2026-05-08T18:45:08.000Z"
+  },
+  {
+    "tweetText": "Sony is exploring AI as a \"powerful tool\" to enhance game development for PlayStation. They emphasize that AI will support, not replace, the creative talent behind their games. via The Verge AI.",
+    "articleUrl": "https://www.theverge.com/games/926914/sony-playstation-ai-powerful-tool-games",
+    "sourceName": "The Verge AI",
+    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
+    "publishedAt": "2026-05-08T16:30:56.000Z"
   }
 ]
