@@ -1,72 +1,16 @@
 [
   {
-    "tweetText": "RingCentral has upgraded its AI Receptionist to connect with Shopify, Calendly, and WhatsApp, enhancing its customer service capabilities. This move allows businesses to streamline order inquiries and appointment bookings, improving efficiency. via AI News",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/ringcentral-ai-adds-shopify-calendly-and-whatsapp-to-ai-receptionist/",
-    "sourceName": "AI News",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Fri, 08 May 2026 14:54:00 +0000"
-  },
-  {
-    "tweetText": "OpenAI is enhancing the safety of Codex by using sandboxing, approval processes, and network policies. This ensures a secure environment for coding agents, promoting responsible AI use. via OpenAI News",
-    "articleUrl": "https://openai.com/index/running-codex-safely",
-    "sourceName": "OpenAI News",
-    "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Fri, 08 May 2026 12:30:00 GMT"
-  },
-  {
-    "tweetText": "A new paradigm called Adaptive Parallel Reasoning (APR) allows AI models to dynamically decide when and how to parallelize tasks, enhancing efficiency in complex problem-solving. This advancement could significantly speed up inference times and improve performance across various applications. via BAIR Berkeley.",
-    "articleUrl": "http://bair.berkeley.edu/blog/2026/05/08/adaptive-parallel-reasoning/",
-    "sourceName": "BAIR Berkeley",
-    "sourceHomeUrl": "https://bair.berkeley.edu/blog/",
-    "publishedAt": "Fri, 08 May 2026 02:00:00 -0700"
-  },
-  {
-    "tweetText": "Cloudflare is cutting 1,100 jobs due to AI making support roles redundant, despite reaching record revenue. This highlights the growing impact of AI on the workforce and business operations. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
+    "tweetText": "AI is creating a flood of new terms and jargon that can be confusing. Understanding these words is crucial for keeping up with the rapidly evolving tech landscape. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 08 May 2026 18:33:21 +0000"
+    "publishedAt": "Sat, 09 May 2026 21:45:00 +0000"
   },
   {
-    "tweetText": "AI is booming in the enterprise sector, with major companies like Anthropic, OpenAI, and SAP making big investments and partnerships. This rush shows that startups in enterprise AI are hot acquisition targets. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/podcast/the-peoples-airline-and-the-enterprise-ai-gold-rush/",
+    "tweetText": "Nvidia has invested $40 billion in equity AI deals this year, reinforcing its dominance in the AI sector. This commitment highlights the growing importance and potential of AI technologies. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 08 May 2026 15:46:17 +0000"
-  },
-  {
-    "tweetText": "Philosopher Nick Bostrom proposes that humanity should embrace advanced AI to achieve a \"solved world.\" This vision could transform our future, addressing complex challenges and enhancing life. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/nick-bostrom-has-a-plan-for-humanitys-big-retirement/",
-    "sourceName": "WIRED AI",
-    "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Fri, 08 May 2026 15:00:00 +0000"
-  },
-  {
-    "tweetText": "California candidate Tom Steyer is pushing for a jobs guarantee to protect workers affected by AI. This proposal aims to address job loss and support those struggling in an evolving job market. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/tom-steyer-proposes-jobs-guarantee-to-protect-california-workers-from-ai/",
-    "sourceName": "WIRED AI",
-    "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Fri, 08 May 2026 15:00:00 +0000"
-  },
-  {
-    "tweetText": "New AI kids’ toys are becoming popular, but lawmakers are concerned they might disrupt playtime and routines. This could reshape how children interact with technology and each other. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/the-new-wild-west-of-ai-kids-toys/",
-    "sourceName": "WIRED AI",
-    "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Fri, 08 May 2026 10:00:00 +0000"
-  },
-  {
-    "tweetText": "Tech companies are rapidly building massive AI data centers, raising concerns about their impact on power grids and local communities. As energy costs soar and legal battles arise, the future of these facilities remains contentious. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-05-08T18:45:08.000Z"
-  },
-  {
-    "tweetText": "Sony is exploring AI as a \"powerful tool\" to enhance game development for PlayStation. They emphasize that AI will support, not replace, the creative talent behind their games. via The Verge AI.",
-    "articleUrl": "https://www.theverge.com/games/926914/sony-playstation-ai-powerful-tool-games",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-05-08T16:30:56.000Z"
+    "publishedAt": "Sat, 09 May 2026 14:43:30 +0000"
   }
 ]
