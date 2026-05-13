@@ -1,72 +1,72 @@
 [
   {
-    "tweetText": "AI is revolutionizing HR compliance with real-time background checks and automated payroll monitoring. However, there's a critical gap in automation for UK employment law compliance, which tech companies still need to address. via AI News",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/ai-automates-hr-compliance-except-for-the-area-tech-companies-need/",
+    "tweetText": "JBS Dev's Joe Rose challenges the myth that only perfect data can be used for generative AI tasks, emphasizing the importance of practicality. This insight could help more businesses leverage AI effectively despite data imperfections. via AI News",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/jbs-dev-on-imperfect-data-and-the-ai-last-mile-from-model-capability-to-cost-sustainability/",
     "sourceName": "AI News",
     "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Mon, 11 May 2026 14:34:05 +0000"
+    "publishedAt": "Tue, 12 May 2026 15:37:43 +0000"
   },
   {
-    "tweetText": "Bain & Company predicts a $100 billion market in the US for SaaS companies leveraging agentic AI for automation. This highlights the growing importance of AI in streamlining enterprise operations. via AI News.",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/bain-agentic-ai-saas-market/",
+    "tweetText": "A malicious repository on Hugging Face pretended to be an OpenAI release, delivering infostealer malware and racking up 244,000 downloads before it was taken down. This incident highlights the risks of trusting AI models from unknown sources. via AI News.",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/malware-on-hugging-face-malicious-software-masquerading-as-openai-release/",
     "sourceName": "AI News",
     "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Mon, 11 May 2026 10:00:00 +0000"
+    "publishedAt": "Tue, 12 May 2026 13:52:00 +0000"
   },
   {
-    "tweetText": "ChatGPT adoption skyrocketed in early 2026, especially among users over 35, with a more balanced gender ratio. This indicates AI is becoming a mainstream tool for a wider audience. via OpenAI News",
-    "articleUrl": "https://openai.com/signals/research/2026q1-update",
-    "sourceName": "OpenAI News",
-    "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Mon, 11 May 2026 15:00:00 GMT"
+    "tweetText": "Laserfiche has launched AI agents that perform tasks using natural language prompts while ensuring data security and compliance. This innovation transforms content management, making workflows more efficient and user-friendly. via AI News.",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/laserfiche-ai-agents-act-autonomously-for-the-platforms-users/",
+    "sourceName": "AI News",
+    "sourceHomeUrl": "https://www.artificialintelligence-news/",
+    "publishedAt": "Tue, 12 May 2026 08:57:13 +0000"
   },
   {
-    "tweetText": "Enterprises are successfully scaling AI by focusing on trust, governance, and efficient workflows. This approach helps them maximize the impact of AI technology across their operations. via OpenAI News",
-    "articleUrl": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
-    "sourceName": "OpenAI News",
-    "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Mon, 11 May 2026 10:00:00 GMT"
-  },
-  {
-    "tweetText": "OpenAI is launching the Campus Network to connect student clubs globally, offering access to AI tools and event hosting. This initiative will help students build a vibrant AI-powered community on campus. via OpenAI News",
-    "articleUrl": "https://openai.com/index/openai-campus-network-student-club-interest-form",
-    "sourceName": "OpenAI News",
-    "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Mon, 11 May 2026 10:00:00 GMT"
-  },
-  {
-    "tweetText": "Thinking Machines is developing an AI that can listen and respond simultaneously, making conversations feel more natural. This could revolutionize how we interact with AI, making it more like a real conversation. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
+    "tweetText": "Medicare's new ACCESS model introduces a payment system for AI agents that monitor patients, coordinating care and medication. This could revolutionize healthcare delivery and improve patient outcomes. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 12 May 2026 04:52:35 +0000"
+    "publishedAt": "Wed, 13 May 2026 00:26:48 +0000"
   },
   {
-    "tweetText": "Robinhood has confidentially filed for its second retail venture IPO, focusing on growth and early-stage startups. This move signals the company's ongoing expansion into the AI sector and the broader venture capital landscape. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
+    "tweetText": "Musk considered passing OpenAI to his kids, raising concerns about control over advanced AI. This matters because OpenAI aims to prevent powerful AI from being monopolized by any individual. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 12 May 2026 00:09:01 +0000"
+    "publishedAt": "Tue, 12 May 2026 18:05:15 +0000"
   },
   {
-    "tweetText": "GM has laid off hundreds of IT workers to bring in talent with stronger AI skills. This shift highlights the growing importance of AI in the auto industry and the need for specialized expertise. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
+    "tweetText": "Anthropic has warned investors that any stock sales from secondary platforms will not be recognized. This matters because it protects their investors and maintains control over their shares. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 11 May 2026 23:04:10 +0000"
+    "publishedAt": "Tue, 12 May 2026 17:36:34 +0000"
   },
   {
-    "tweetText": "Digg is relaunching as an AI news aggregator, aiming to highlight the most influential voices and important news. This could reshape how we discover and engage with news in a crowded digital landscape. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/",
+    "tweetText": "Google and SpaceX are discussing plans to build data centers in orbit, aiming to take AI computing to new heights. This could revolutionize data processing but faces challenges due to high costs. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/12/report-google-and-spacex-in-talks-to-put-data-centers-into-orbit/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 11 May 2026 17:02:35 +0000"
+    "publishedAt": "Tue, 12 May 2026 17:30:57 +0000"
   },
   {
-    "tweetText": "Cowboy Space raised $275M to build rockets for space data centers, addressing the growing demand for AI compute. This could revolutionize data storage and processing by moving it off-planet. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/",
+    "tweetText": "Google dropped exciting new AI features at its Android Show, including AI-powered laptops and vibe-coded widgets. These updates signal a big push towards enhancing user experience across its devices. via TechCrunch AI.",
+    "articleUrl": "https://techcrunch.com/2026/05/12/everything-google-announced-at-its-android-show-from-googlebooks-to-vibe-coded-widgets/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 11 May 2026 13:00:00 +0000"
+    "publishedAt": "Tue, 12 May 2026 17:01:00 +0000"
+  },
+  {
+    "tweetText": "Google is rolling out Gemini-powered dictation in Gboard for Samsung Galaxy and Pixel phones. This could pose challenges for smaller dictation startups competing in the market. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/12/google-adds-gemini-powered-dictation-to-gboard-which-could-be-bad-news-for-dictation-startups/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Tue, 12 May 2026 17:00:00 +0000"
+  },
+  {
+    "tweetText": "Anthropic is launching AI tools for law firms to automate tasks like document review and drafting. This could transform legal workflows and improve efficiency in the industry. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Tue, 12 May 2026 17:00:00 +0000"
   }
 ]
