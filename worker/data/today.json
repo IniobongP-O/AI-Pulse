@@ -1,72 +1,72 @@
 [
   {
-    "tweetText": "JBS Dev's Joe Rose challenges the myth that only perfect data can be used for generative AI tasks, emphasizing the importance of practicality. This insight could help more businesses leverage AI effectively despite data imperfections. via AI News",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/jbs-dev-on-imperfect-data-and-the-ai-last-mile-from-model-capability-to-cost-sustainability/",
-    "sourceName": "AI News",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Tue, 12 May 2026 15:37:43 +0000"
+    "tweetText": "OpenAI has created a secure sandbox for Codex on Windows, allowing safe coding with limited access to files and networks. This innovation enhances coding efficiency while prioritizing user safety. via OpenAI News",
+    "articleUrl": "https://openai.com/index/building-codex-windows-sandbox",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Wed, 13 May 2026 11:00:00 GMT"
   },
   {
-    "tweetText": "A malicious repository on Hugging Face pretended to be an OpenAI release, delivering infostealer malware and racking up 244,000 downloads before it was taken down. This incident highlights the risks of trusting AI models from unknown sources. via AI News.",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/malware-on-hugging-face-malicious-software-masquerading-as-openai-release/",
-    "sourceName": "AI News",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Tue, 12 May 2026 13:52:00 +0000"
-  },
-  {
-    "tweetText": "Laserfiche has launched AI agents that perform tasks using natural language prompts while ensuring data security and compliance. This innovation transforms content management, making workflows more efficient and user-friendly. via AI News.",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/laserfiche-ai-agents-act-autonomously-for-the-platforms-users/",
-    "sourceName": "AI News",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Tue, 12 May 2026 08:57:13 +0000"
-  },
-  {
-    "tweetText": "Medicare's new ACCESS model introduces a payment system for AI agents that monitor patients, coordinating care and medication. This could revolutionize healthcare delivery and improve patient outcomes. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
+    "tweetText": "Campbell Brown, former news chief at Meta, highlights the disconnect between Silicon Valley's AI discussions and consumer concerns. This gap is crucial as it impacts how AI shapes our information and decisions. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 13 May 2026 00:26:48 +0000"
+    "publishedAt": "Thu, 14 May 2026 06:05:31 +0000"
   },
   {
-    "tweetText": "Musk considered passing OpenAI to his kids, raising concerns about control over advanced AI. This matters because OpenAI aims to prevent powerful AI from being monopolized by any individual. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
+    "tweetText": "Clio, a legal tech startup, has reached a major milestone of $500 million in annual recurring revenue. This surge in adoption highlights the growing demand for legal tech solutions amid rising competition. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 12 May 2026 18:05:15 +0000"
+    "publishedAt": "Thu, 14 May 2026 05:24:39 +0000"
   },
   {
-    "tweetText": "Anthropic has warned investors that any stock sales from secondary platforms will not be recognized. This matters because it protects their investors and maintains control over their shares. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/",
+    "tweetText": "Notion launched a developer platform that integrates AI agents and external data into its workspace. This move enhances productivity and collaboration, making it easier for teams to leverage AI tools. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 12 May 2026 17:36:34 +0000"
+    "publishedAt": "Wed, 13 May 2026 21:45:09 +0000"
   },
   {
-    "tweetText": "Google and SpaceX are discussing plans to build data centers in orbit, aiming to take AI computing to new heights. This could revolutionize data processing but faces challenges due to high costs. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/12/report-google-and-spacex-in-talks-to-put-data-centers-into-orbit/",
+    "tweetText": "Anthropic's Cat Wu believes future AI will predict your needs before you even realize them. This proactive approach could revolutionize how we interact with technology. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 12 May 2026 17:30:57 +0000"
+    "publishedAt": "Wed, 13 May 2026 19:28:06 +0000"
   },
   {
-    "tweetText": "Google dropped exciting new AI features at its Android Show, including AI-powered laptops and vibe-coded widgets. These updates signal a big push towards enhancing user experience across its devices. via TechCrunch AI.",
-    "articleUrl": "https://techcrunch.com/2026/05/12/everything-google-announced-at-its-android-show-from-googlebooks-to-vibe-coded-widgets/",
+    "tweetText": "Origin Lab raised $8M to create a marketplace for video game companies to sell licensed data to AI labs. This boosts collaboration between gaming and AI, enhancing world-model building. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/13/origin-lab-raises-8m-to-help-video-game-companies-sell-data-to-world-model-builders/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 12 May 2026 17:01:00 +0000"
+    "publishedAt": "Wed, 13 May 2026 16:22:01 +0000"
   },
   {
-    "tweetText": "Google is rolling out Gemini-powered dictation in Gboard for Samsung Galaxy and Pixel phones. This could pose challenges for smaller dictation startups competing in the market. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/12/google-adds-gemini-powered-dictation-to-gboard-which-could-be-bad-news-for-dictation-startups/",
+    "tweetText": "Anthropic is targeting small business owners with its new AI offerings, moving beyond just big corporations. This shift highlights the growing importance of small businesses in the AI market. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/13/anthropic-courts-a-new-kind-of-customer-small-business-owners/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 12 May 2026 17:00:00 +0000"
+    "publishedAt": "Wed, 13 May 2026 16:00:00 +0000"
   },
   {
-    "tweetText": "Anthropic is launching AI tools for law firms to automate tasks like document review and drafting. This could transform legal workflows and improve efficiency in the industry. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action/",
+    "tweetText": "Amazon just launched an AI shopping assistant that enhances search with voice and touch, powered by Alexa. This innovation aims to make online shopping more personalized and seamless across various platforms. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/13/amazon-launches-an-ai-shopping-assistant-for-the-search-bar-powered-by-alexa/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 12 May 2026 17:00:00 +0000"
+    "publishedAt": "Wed, 13 May 2026 14:59:32 +0000"
+  },
+  {
+    "tweetText": "WhatsApp has introduced an incognito mode for its Meta AI chats, ensuring conversations aren't saved and messages vanish after closing the chat. This adds a layer of privacy for users in their AI interactions. via TechCrunch AI.",
+    "articleUrl": "https://techcrunch.com/2026/05/13/whatsapp-adds-an-incognito-mode-in-meta-ai-chats/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Wed, 13 May 2026 14:00:00 +0000"
+  },
+  {
+    "tweetText": "Anthropic has surpassed OpenAI in business customers, with 34.4% of firms using its services compared to OpenAI's 32.3%. This shift highlights growing competition in the AI space and Anthropic’s rising influence. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Wed, 13 May 2026 14:00:00 +0000"
   }
 ]
