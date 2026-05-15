@@ -1,72 +1,72 @@
 [
   {
-    "tweetText": "OpenAI has created a secure sandbox for Codex on Windows, allowing safe coding with limited access to files and networks. This innovation enhances coding efficiency while prioritizing user safety. via OpenAI News",
-    "articleUrl": "https://openai.com/index/building-codex-windows-sandbox",
+    "tweetText": "Humanoid robots are set to be deployed in factories by Schaeffler, with plans for 1,000 to 2,000 units by 2032. This move marks a significant step in integrating AI into manufacturing, potentially transforming industry operations. via AI News",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/physical-ai-humanoid-robots-factories/",
+    "sourceName": "AI News",
+    "sourceHomeUrl": "https://www.artificialintelligence-news/",
+    "publishedAt": "Thu, 14 May 2026 10:00:00 +0000"
+  },
+  {
+    "tweetText": "Top real estate app developers in the US are being evaluated for their ability to handle complex integrations and compliance challenges. This matters because choosing the right partner can make or break the success of real estate tech solutions. via AI News",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/top-real-estate-app-development-companies-in-the-us-abilities-and-costs/",
+    "sourceName": "AI News",
+    "sourceHomeUrl": "https://www.artificialintelligence-news/",
+    "publishedAt": "Thu, 14 May 2026 07:51:58 +0000"
+  },
+  {
+    "tweetText": "Sea Limited is using Codex to boost AI-driven software development across its engineering teams in Asia. This move could significantly speed up innovation and enhance tech growth in the region. via OpenAI News",
+    "articleUrl": "https://openai.com/index/sea-david-chen",
     "sourceName": "OpenAI News",
     "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Wed, 13 May 2026 11:00:00 GMT"
+    "publishedAt": "Thu, 14 May 2026 20:30:00 GMT"
   },
   {
-    "tweetText": "Campbell Brown, former news chief at Meta, highlights the disconnect between Silicon Valley's AI discussions and consumer concerns. This gap is crucial as it impacts how AI shapes our information and decisions. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 14 May 2026 06:05:31 +0000"
+    "tweetText": "You can now use Codex on the go with the ChatGPT mobile app, allowing real-time coding task management from anywhere. This makes coding more flexible and efficient, especially for remote teams. via OpenAI News",
+    "articleUrl": "https://openai.com/index/work-with-codex-from-anywhere",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Thu, 14 May 2026 13:00:00 GMT"
   },
   {
-    "tweetText": "Clio, a legal tech startup, has reached a major milestone of $500 million in annual recurring revenue. This surge in adoption highlights the growing demand for legal tech solutions amid rising competition. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/",
+    "tweetText": "OpenAI is bringing Codex to mobile, allowing users more flexibility in managing their workflows. This makes coding easier and more accessible for everyone on the go. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 14 May 2026 05:24:39 +0000"
+    "publishedAt": "Thu, 14 May 2026 20:58:55 +0000"
   },
   {
-    "tweetText": "Notion launched a developer platform that integrates AI agents and external data into its workspace. This move enhances productivity and collaboration, making it easier for teams to leverage AI tools. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
+    "tweetText": "Richard Socher's new startup is aiming to create AI that can self-research and improve endlessly, with plans to launch real products. This could revolutionize how AI evolves and enhances its capabilities. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 13 May 2026 21:45:09 +0000"
+    "publishedAt": "Thu, 14 May 2026 19:57:20 +0000"
   },
   {
-    "tweetText": "Anthropic's Cat Wu believes future AI will predict your needs before you even realize them. This proactive approach could revolutionize how we interact with technology. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/",
+    "tweetText": "OpenAI is considering legal action against Apple due to unmet expectations from a ChatGPT integration. This highlights tensions between tech partners and raises questions about collaboration in the AI space. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 13 May 2026 19:28:06 +0000"
+    "publishedAt": "Thu, 14 May 2026 19:12:03 +0000"
   },
   {
-    "tweetText": "Origin Lab raised $8M to create a marketplace for video game companies to sell licensed data to AI labs. This boosts collaboration between gaming and AI, enhancing world-model building. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/13/origin-lab-raises-8m-to-help-video-game-companies-sell-data-to-world-model-builders/",
+    "tweetText": "Clawdmeter is a new open-source tool that creates a mini dashboard for tracking Claude Code usage stats on your desktop. This helps AI coding enthusiasts monitor their performance and optimize their workflow. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 13 May 2026 16:22:01 +0000"
+    "publishedAt": "Thu, 14 May 2026 19:05:01 +0000"
   },
   {
-    "tweetText": "Anthropic is targeting small business owners with its new AI offerings, moving beyond just big corporations. This shift highlights the growing importance of small businesses in the AI market. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/13/anthropic-courts-a-new-kind-of-customer-small-business-owners/",
+    "tweetText": "Khosla Ventures is investing $10M in Ian Crosby’s new venture, Synthetic, which aims to create fully autonomous AI bookkeeping for startups. This could revolutionize how new businesses manage finances. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/14/khosla-ventures-is-betting-10m-on-ian-crosby-whose-last-startup-bench-imploded/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 13 May 2026 16:00:00 +0000"
+    "publishedAt": "Thu, 14 May 2026 15:20:18 +0000"
   },
   {
-    "tweetText": "Amazon just launched an AI shopping assistant that enhances search with voice and touch, powered by Alexa. This innovation aims to make online shopping more personalized and seamless across various platforms. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/13/amazon-launches-an-ai-shopping-assistant-for-the-search-bar-powered-by-alexa/",
+    "tweetText": "Cisco is laying off nearly 4,000 employees to invest more in AI, even as they report record quarterly revenue. This shift highlights the tech industry's focus on AI despite ongoing workforce reductions. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/14/cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-record-quarterly-revenue/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 13 May 2026 14:59:32 +0000"
-  },
-  {
-    "tweetText": "WhatsApp has introduced an incognito mode for its Meta AI chats, ensuring conversations aren't saved and messages vanish after closing the chat. This adds a layer of privacy for users in their AI interactions. via TechCrunch AI.",
-    "articleUrl": "https://techcrunch.com/2026/05/13/whatsapp-adds-an-incognito-mode-in-meta-ai-chats/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 13 May 2026 14:00:00 +0000"
-  },
-  {
-    "tweetText": "Anthropic has surpassed OpenAI in business customers, with 34.4% of firms using its services compared to OpenAI's 32.3%. This shift highlights growing competition in the AI space and Anthropic’s rising influence. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 13 May 2026 14:00:00 +0000"
+    "publishedAt": "Thu, 14 May 2026 14:01:14 +0000"
   }
 ]
