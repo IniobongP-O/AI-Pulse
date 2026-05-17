@@ -1,72 +1,37 @@
 [
   {
-    "tweetText": "Deloitte says businesses need to move beyond basic AI features and adopt \"autonomous intelligence\" for true growth. This shift could fundamentally change how companies operate and boost their bottom lines. via AI News",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/deloitte-scale-autonomous-intelligence-for-real-growth/",
-    "sourceName": "AI News",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Fri, 15 May 2026 15:02:00 +0000"
-  },
-  {
-    "tweetText": "The Musk v. Altman trial has concluded, focusing on whether we can trust AI leaders. This matters as SpaceX approaches a massive IPO, highlighting the future of AI and entrepreneurship. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/podcast/the-openai-trial-wraps-up-and-the-musk-founder-machine-keeps-spinning/",
+    "tweetText": "The AI boom is creating a divide between those who benefit and those who don't, even within tech. This growing inequality could shape the future of innovation and access. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 15 May 2026 19:24:16 +0000"
+    "publishedAt": "Sat, 16 May 2026 20:17:16 +0000"
   },
   {
-    "tweetText": "Lake Tahoe, a popular getaway for Silicon Valley, is facing rising energy prices due to increased demand from AI. This situation highlights the growing impact of technology on local economies. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/",
+    "tweetText": "ArXiv will ban authors for a year if they rely entirely on AI to produce their research papers. This move aims to ensure the integrity and quality of scientific work. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 15 May 2026 18:14:44 +0000"
+    "publishedAt": "Sat, 16 May 2026 18:54:28 +0000"
   },
   {
-    "tweetText": "OpenAI just launched ChatGPT for personal finance, letting you connect bank accounts to see your portfolio, spending, subscriptions, and upcoming bills in one place. It could make tracking your money way easier. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
+    "tweetText": "OpenAI co-founder Greg Brockman is now leading product strategy as the company aims to merge ChatGPT with its coding tool, Codex. This move could enhance AI capabilities, making them more versatile and user-friendly. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 15 May 2026 16:00:00 +0000"
+    "publishedAt": "Sat, 16 May 2026 15:33:33 +0000"
   },
   {
-    "tweetText": "Runway started helping filmmakers now wants to beat Google at AI video. They're betting video generation is the path to world models and being an outsider gives them an edge. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 15 May 2026 14:00:00 +0000"
-  },
-  {
-    "tweetText": "Osaurus just launched a Mac app that combines local and cloud AI models, letting users keep control of their memory, files, and tools. This matters because it enhances privacy and customization for Mac users. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 15 May 2026 12:19:48 +0000"
-  },
-  {
-    "tweetText": "Greg Brockman is now in charge of OpenAI's products as the company restructures to merge ChatGPT and Codex into a single experience. This move aims to streamline their offerings and enhance user experience. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/openai-reorg-greg-brockman-product/",
+    "tweetText": "Some asexuals are turning to AI companions for emotional intimacy without sex, sparking mixed feelings in the community. This highlights the evolving nature of relationships and how technology impacts personal connections. via WIRED AI.",
+    "articleUrl": "https://www.wired.com/story/some-asexual-people-are-using-ai-companions-for-intimacy-without-the-sex/",
     "sourceName": "WIRED AI",
     "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Fri, 15 May 2026 17:09:17 +0000"
+    "publishedAt": "Sat, 16 May 2026 09:30:00 +0000"
   },
   {
-    "tweetText": "Mira Murati, founder of Thinking Machines Lab, emphasizes creating AI that collaborates with humans instead of replacing them. This approach highlights the importance of keeping people involved in the AI process. via WIRED AI.",
-    "articleUrl": "https://www.wired.com/story/mira-murati-humans-in-the-loop-ai-models-thinking-machines/",
-    "sourceName": "WIRED AI",
-    "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Fri, 15 May 2026 09:00:00 +0000"
-  },
-  {
-    "tweetText": "YouTube is rolling out its AI deepfake detection tool to all adult users, allowing them to monitor for lookalikes on the platform. This move is important for user safety and privacy as deepfakes become more common. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults",
+    "tweetText": "Sony is clarifying its AI Camera Assistant after backlash over a demo that didn't impress. It claims the tool offers suggestions for photo adjustments, but many find its performance lacking. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/tech/932133/sony-xperia-1-xiii-ai-camera-assistant",
     "sourceName": "The Verge AI",
     "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-05-15T22:25:00.000Z"
-  },
-  {
-    "tweetText": "ArXiv is banning researchers for a year if they upload papers with unchecked AI-generated content. This move aims to maintain the integrity of academic research amid concerns over AI's accuracy. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-05-15T20:38:19.000Z"
+    "publishedAt": "2026-05-16T15:37:05.000Z"
   }
 ]
