@@ -1,44 +1,72 @@
 [
   {
-    "tweetText": "The trial between Elon Musk and OpenAI is raising questions about the trustworthiness of CEO Sam Altman. This matters because trust is crucial for the future of AI development and governance. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
+    "tweetText": "At TechEx North America, experts emphasized that AI involves crucial elements like power, infrastructure, and security beyond just the latest tech. This highlights the need for businesses to consider these factors for effective AI integration. via AI News.",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/techex-north-america-day-one-lessons-for-all-around-ai-and-more/",
+    "sourceName": "AI News",
+    "sourceHomeUrl": "https://www.artificialintelligence-news/",
+    "publishedAt": "Tue, 19 May 2026 01:36:26 +0000"
+  },
+  {
+    "tweetText": "Amazon has launched Alexa for Shopping, integrating its Rufus chatbot to enhance the shopping experience. This matters because it streamlines product inquiries and purchases, making online shopping easier for customers. via AI News",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/amazon-alexa-for-shopping-rufus-ai-assistant/",
+    "sourceName": "AI News",
+    "sourceHomeUrl": "https://www.artificialintelligence-news/",
+    "publishedAt": "Mon, 18 May 2026 10:00:00 +0000"
+  },
+  {
+    "tweetText": "OpenAI and Dell are teaming up to bring Codex to hybrid and on-premise environments for businesses. This means companies can now use AI coding agents securely across their data and workflows. via OpenAI News",
+    "articleUrl": "https://openai.com/index/dell-codex-enterprise-partnership",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Mon, 18 May 2026 10:00:00 GMT"
+  },
+  {
+    "tweetText": "SandboxAQ is integrating its drug discovery models with Claude, making advanced AI tools more accessible without needing a PhD. This could significantly accelerate innovation in drug development. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sun, 17 May 2026 19:46:34 +0000"
+    "publishedAt": "Mon, 18 May 2026 21:29:31 +0000"
   },
   {
-    "tweetText": "Graduation speeches in 2026 might want to skip the AI topic, as it struggles to inspire hope among students. This highlights growing concerns about AI's impact on the future workforce and society. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
+    "tweetText": "Anthropic has acquired Stainless, a startup known for automating software development kits used by major players like OpenAI and Google. This boosts Anthropic's capabilities in AI development tools, enhancing their competitive edge. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sun, 17 May 2026 16:32:04 +0000"
+    "publishedAt": "Mon, 18 May 2026 19:27:52 +0000"
   },
   {
-    "tweetText": "Automakers are ramping up their AI skills to stay competitive in the evolving automotive industry. This shift is crucial as AI will drive future innovations in safety, efficiency, and user experience. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/",
+    "tweetText": "Elon Musk's lawsuit against Sam Altman and OpenAI was dismissed as jurors ruled it was filed too late. This outcome highlights the legal challenges in tech partnerships and Musk's continued conflict with OpenAI. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sun, 17 May 2026 16:05:00 +0000"
+    "publishedAt": "Mon, 18 May 2026 17:34:43 +0000"
   },
   {
-    "tweetText": "Apple's revamped Siri in iOS 27 will let users auto-delete chat histories, offering options to save them for up to a year. This move aims to enhance privacy and differentiate Siri from competitors as AI concerns grow. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-05-17T18:40:28.000Z"
+    "tweetText": "Amazon's Alexa+ can now create custom AI-generated podcast episodes on demand. This expansion makes Alexa a more personalized content platform, enhancing user experience. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 18 May 2026 14:56:47 +0000"
   },
   {
-    "tweetText": "Eric Schmidt faced boos from University of Arizona students during his AI-focused commencement speech. Their reaction highlights growing concerns about AI's impact on jobs and the future. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/932203/university-of-arizona-students-boo-eric-schmidt-ai-commencement",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-05-17T17:22:23.000Z"
+    "tweetText": "South Korea's LetinAR is developing tiny lenses for AI glasses that could revolutionize the industry. This innovation could enhance how we interact with augmented reality and AI technologies. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 18 May 2026 11:00:00 +0000"
   },
   {
-    "tweetText": "McDonald's started using AI chatbots at drive-thrus in 2021, piloting the tech in Chicago. This innovation marks a shift in how we interact with fast food, hinting at a future where AI is more integrated into daily experiences. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/column/928096/chatbots-ai-drive-thru-mcdonalds-wendys",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-05-17T12:00:00.000Z"
+    "tweetText": "Elon Musk lost a major lawsuit against OpenAI, with a verdict favoring OpenAI reached in just two hours. This decision reinforces OpenAI's legal standing and could impact future AI development. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/musk-v-altman-jury-verdict/",
+    "sourceName": "WIRED AI",
+    "sourceHomeUrl": "https://wired.com/tag/ai/",
+    "publishedAt": "Mon, 18 May 2026 17:40:30 +0000"
+  },
+  {
+    "tweetText": "Anyone can now \"vibe code\" with tools like Claude, making coding accessible to all. This shift could empower more people to create and innovate without needing technical skills. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/normie-vibe-code/",
+    "sourceName": "WIRED AI",
+    "sourceHomeUrl": "https://wired.com/tag/ai/",
+    "publishedAt": "Mon, 18 May 2026 10:00:00 +0000"
   }
 ]
