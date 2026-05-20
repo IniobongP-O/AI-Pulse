@@ -1,72 +1,72 @@
 [
   {
-    "tweetText": "At TechEx North America, experts emphasized that AI involves crucial elements like power, infrastructure, and security beyond just the latest tech. This highlights the need for businesses to consider these factors for effective AI integration. via AI News.",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/techex-north-america-day-one-lessons-for-all-around-ai-and-more/",
+    "tweetText": "Day two of TechEx North America focused on the challenges and future of enterprise AI, emphasizing the issue of projects failing after initial success. Understanding these roadblocks is crucial for advancing AI adoption in businesses. via AI News.",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/tech-ex-north-america-day-two-roundup-of-themes-issues-discussions/",
     "sourceName": "AI News",
     "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Tue, 19 May 2026 01:36:26 +0000"
+    "publishedAt": "Tue, 19 May 2026 19:18:00 +0000"
   },
   {
-    "tweetText": "Amazon has launched Alexa for Shopping, integrating its Rufus chatbot to enhance the shopping experience. This matters because it streamlines product inquiries and purchases, making online shopping easier for customers. via AI News",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/amazon-alexa-for-shopping-rufus-ai-assistant/",
+    "tweetText": "Nvidia's H200 chip deal with China remains stalled despite high-level talks between Trump and Xi. This reflects ongoing tensions in US-China trade and highlights the challenges in semiconductor exports. via AI News.",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/nvidia-h200-china-deal-stalled-trump-xi-summit-2026/",
     "sourceName": "AI News",
     "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Mon, 18 May 2026 10:00:00 +0000"
+    "publishedAt": "Tue, 19 May 2026 10:00:00 +0000"
   },
   {
-    "tweetText": "OpenAI and Dell are teaming up to bring Codex to hybrid and on-premise environments for businesses. This means companies can now use AI coding agents securely across their data and workflows. via OpenAI News",
-    "articleUrl": "https://openai.com/index/dell-codex-enterprise-partnership",
+    "tweetText": "OpenAI has launched a multi-year AI partnership in Singapore to boost local talent and enhance services for businesses and the public. This initiative highlights the growing importance of AI in improving societal and economic outcomes. via OpenAI News",
+    "articleUrl": "https://openai.com/index/introducing-openai-for-singapore",
     "sourceName": "OpenAI News",
     "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Mon, 18 May 2026 10:00:00 GMT"
+    "publishedAt": "Tue, 19 May 2026 20:30:00 GMT"
   },
   {
-    "tweetText": "SandboxAQ is integrating its drug discovery models with Claude, making advanced AI tools more accessible without needing a PhD. This could significantly accelerate innovation in drug development. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
+    "tweetText": "OpenAI has launched new tools like Content Credentials and SynthID to improve the trustworthiness of AI-generated media. This initiative aims to create a safer and more transparent AI ecosystem. via OpenAI News",
+    "articleUrl": "https://openai.com/index/advancing-content-provenance",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Tue, 19 May 2026 10:45:00 GMT"
+  },
+  {
+    "tweetText": "Google unveiled its new AI design app at IO 2026, aimed at making design accessible for everyone, including teachers and small business owners. This move could democratize design tools and empower a wider audience. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 18 May 2026 21:29:31 +0000"
+    "publishedAt": "Tue, 19 May 2026 21:33:30 +0000"
   },
   {
-    "tweetText": "Anthropic has acquired Stainless, a startup known for automating software development kits used by major players like OpenAI and Google. This boosts Anthropic's capabilities in AI development tools, enhancing their competitive edge. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
+    "tweetText": "Google's new AI feature for Gmail lets users talk to their inbox and ask Gemini to find hidden emails. This makes managing emails easier and more efficient. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 18 May 2026 19:27:52 +0000"
+    "publishedAt": "Tue, 19 May 2026 21:25:31 +0000"
   },
   {
-    "tweetText": "Elon Musk's lawsuit against Sam Altman and OpenAI was dismissed as jurors ruled it was filed too late. This outcome highlights the legal challenges in tech partnerships and Musk's continued conflict with OpenAI. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+    "tweetText": "Google is introducing AI-powered “information agents” that can keep track of topics and notify users about updates. This innovation aims to enhance search experiences by providing timely and relevant information. via TechCrunch AI.",
+    "articleUrl": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 18 May 2026 17:34:43 +0000"
+    "publishedAt": "Tue, 19 May 2026 21:16:25 +0000"
   },
   {
-    "tweetText": "Amazon's Alexa+ can now create custom AI-generated podcast episodes on demand. This expansion makes Alexa a more personalized content platform, enhancing user experience. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/",
+    "tweetText": "A teen hacker turned Iron Dome researcher has raised $28M for Ocean, an AI email security platform that detects phishing by analyzing the context of emails. This innovation could significantly improve online safety against fraud. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/19/from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phishing/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 18 May 2026 14:56:47 +0000"
+    "publishedAt": "Tue, 19 May 2026 21:08:51 +0000"
   },
   {
-    "tweetText": "South Korea's LetinAR is developing tiny lenses for AI glasses that could revolutionize the industry. This innovation could enhance how we interact with augmented reality and AI technologies. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
+    "tweetText": "Elon Musk's lawsuit against OpenAI and Microsoft was quickly dismissed by a jury, revealing the case lacked strength. This matters as it highlights Musk's delayed legal action and questions his claims about the non-profit. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 18 May 2026 11:00:00 +0000"
+    "publishedAt": "Tue, 19 May 2026 20:11:00 +0000"
   },
   {
-    "tweetText": "Elon Musk lost a major lawsuit against OpenAI, with a verdict favoring OpenAI reached in just two hours. This decision reinforces OpenAI's legal standing and could impact future AI development. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/musk-v-altman-jury-verdict/",
-    "sourceName": "WIRED AI",
-    "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Mon, 18 May 2026 17:40:30 +0000"
-  },
-  {
-    "tweetText": "Anyone can now \"vibe code\" with tools like Claude, making coding accessible to all. This shift could empower more people to create and innovate without needing technical skills. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/normie-vibe-code/",
-    "sourceName": "WIRED AI",
-    "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Mon, 18 May 2026 10:00:00 +0000"
+    "tweetText": "Google has unveiled new \"audio glasses\" that let users control apps with voice commands. This move highlights the growing trend of integrating AI into everyday devices, enhancing user experience. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/19/google-takes-a-page-out-of-metas-book-announces-new-audio-powered-smart-glasses-at-io-2026/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Tue, 19 May 2026 19:15:31 +0000"
   }
 ]
