@@ -1,72 +1,72 @@
 [
   {
-    "tweetText": "Day two of TechEx North America focused on the challenges and future of enterprise AI, emphasizing the issue of projects failing after initial success. Understanding these roadblocks is crucial for advancing AI adoption in businesses. via AI News.",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/tech-ex-north-america-day-two-roundup-of-themes-issues-discussions/",
+    "tweetText": "Nvidia's Vera chip is gaining attention as the company reports strong Q1 earnings of $81.62 billion, surpassing estimates. This chip could play a crucial role in Nvidia's future growth, potentially worth $200 billion. via AI News.",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/nvidia-vera-chip-200-billion-market/",
     "sourceName": "AI News",
     "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Tue, 19 May 2026 19:18:00 +0000"
+    "publishedAt": "Thu, 21 May 2026 08:00:00 +0000"
   },
   {
-    "tweetText": "Nvidia's H200 chip deal with China remains stalled despite high-level talks between Trump and Xi. This reflects ongoing tensions in US-China trade and highlights the challenges in semiconductor exports. via AI News.",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/nvidia-h200-china-deal-stalled-trump-xi-summit-2026/",
+    "tweetText": "Alibaba has launched a new AI chip designed for AI agents and outlined a long-term plan for AI development. This move shows they are creating a comprehensive AI ecosystem, not just reacting to US trade restrictions. via AI News",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/alibaba-zhenwu-m890-ai-agent-chip-roadmap/",
     "sourceName": "AI News",
     "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Tue, 19 May 2026 10:00:00 +0000"
+    "publishedAt": "Wed, 20 May 2026 10:00:00 +0000"
   },
   {
-    "tweetText": "OpenAI has launched a multi-year AI partnership in Singapore to boost local talent and enhance services for businesses and the public. This initiative highlights the growing importance of AI in improving societal and economic outcomes. via OpenAI News",
-    "articleUrl": "https://openai.com/index/introducing-openai-for-singapore",
-    "sourceName": "OpenAI News",
-    "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Tue, 19 May 2026 20:30:00 GMT"
-  },
-  {
-    "tweetText": "OpenAI has launched new tools like Content Credentials and SynthID to improve the trustworthiness of AI-generated media. This initiative aims to create a safer and more transparent AI ecosystem. via OpenAI News",
-    "articleUrl": "https://openai.com/index/advancing-content-provenance",
-    "sourceName": "OpenAI News",
-    "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Tue, 19 May 2026 10:45:00 GMT"
-  },
-  {
-    "tweetText": "Google unveiled its new AI design app at IO 2026, aimed at making design accessible for everyone, including teachers and small business owners. This move could democratize design tools and empower a wider audience. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/",
+    "tweetText": "Nvidia CEO Jensen Huang forecasts a new $200 billion market for AI agent CPUs. This could reshape the tech landscape and drive growth in AI technology. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 19 May 2026 21:33:30 +0000"
+    "publishedAt": "Thu, 21 May 2026 00:28:31 +0000"
   },
   {
-    "tweetText": "Google's new AI feature for Gmail lets users talk to their inbox and ask Gemini to find hidden emails. This makes managing emails easier and more efficient. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/",
+    "tweetText": "Anthropic is set to report its first profitable quarter, with revenue expected to exceed $10.9 billion. This marks a significant milestone for the AI company, highlighting its growth and potential in the industry. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 19 May 2026 21:25:31 +0000"
+    "publishedAt": "Thu, 21 May 2026 00:21:21 +0000"
   },
   {
-    "tweetText": "Google is introducing AI-powered “information agents” that can keep track of topics and notify users about updates. This innovation aims to enhance search experiences by providing timely and relevant information. via TechCrunch AI.",
-    "articleUrl": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/",
+    "tweetText": "xAI lost $6.4 billion in 2025, according to SpaceX's IPO filing, as it pushes for a major Grok expansion. This spending highlights Elon Musk's ambitious plans for AI and its financial impact. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 19 May 2026 21:16:25 +0000"
+    "publishedAt": "Wed, 20 May 2026 22:26:08 +0000"
   },
   {
-    "tweetText": "A teen hacker turned Iron Dome researcher has raised $28M for Ocean, an AI email security platform that detects phishing by analyzing the context of emails. This innovation could significantly improve online safety against fraud. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/19/from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phishing/",
+    "tweetText": "Elon Musk's xAI has struck a surprising deal to sell computing power to Anthropic for $1.25 billion per month. This highlights the escalating demand and value of AI infrastructure. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 19 May 2026 21:08:51 +0000"
+    "publishedAt": "Wed, 20 May 2026 21:29:22 +0000"
   },
   {
-    "tweetText": "Elon Musk's lawsuit against OpenAI and Microsoft was quickly dismissed by a jury, revealing the case lacked strength. This matters as it highlights Musk's delayed legal action and questions his claims about the non-profit. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/",
+    "tweetText": "OpenAI says it has solved a geometry problem that has puzzled mathematicians since 1946, with support from experts who doubted its previous claims. This breakthrough could reshape our understanding of mathematical reasoning. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 19 May 2026 20:11:00 +0000"
+    "publishedAt": "Wed, 20 May 2026 20:28:27 +0000"
   },
   {
-    "tweetText": "Google has unveiled new \"audio glasses\" that let users control apps with voice commands. This move highlights the growing trend of integrating AI into everyday devices, enhancing user experience. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/19/google-takes-a-page-out-of-metas-book-announces-new-audio-powered-smart-glasses-at-io-2026/",
+    "tweetText": "IrisGo, backed by Andrew Ng, is launching an AI desktop buddy that learns to automate tasks on your computer. This could change how we interact with our devices, making work more efficient. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/20/irisgo-a-startup-backed-by-andrew-ng-looks-to-become-the-ai-desktop-buddy-you-never-knew-you-needed/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 19 May 2026 19:15:31 +0000"
+    "publishedAt": "Wed, 20 May 2026 19:47:20 +0000"
+  },
+  {
+    "tweetText": "OpenAI is gearing up for an IPO, possibly in September, after a legal challenge from Elon Musk was dismissed. This move highlights the company's confidence and growth potential in the competitive AI landscape. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Wed, 20 May 2026 17:24:24 +0000"
+  },
+  {
+    "tweetText": "AI search startups are booming and attracting significant attention in the consumer AI space. This growth highlights the increasing demand for smarter, more efficient search solutions. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/20/ai-search-startups-are-blowing-up/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Wed, 20 May 2026 15:04:45 +0000"
   }
 ]
