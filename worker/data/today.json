@@ -1,72 +1,72 @@
 [
   {
-    "tweetText": "Nvidia's Vera chip is gaining attention as the company reports strong Q1 earnings of $81.62 billion, surpassing estimates. This chip could play a crucial role in Nvidia's future growth, potentially worth $200 billion. via AI News.",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/nvidia-vera-chip-200-billion-market/",
-    "sourceName": "AI News",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Thu, 21 May 2026 08:00:00 +0000"
+    "tweetText": "AdventHealth is implementing ChatGPT for Healthcare to improve workflows and lessen administrative tasks. This change aims to give healthcare providers more time to focus on patient care. via OpenAI News",
+    "articleUrl": "https://openai.com/index/adventhealth",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Thu, 21 May 2026 12:00:00 GMT"
   },
   {
-    "tweetText": "Alibaba has launched a new AI chip designed for AI agents and outlined a long-term plan for AI development. This move shows they are creating a comprehensive AI ecosystem, not just reacting to US trade restrictions. via AI News",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/alibaba-zhenwu-m890-ai-agent-chip-roadmap/",
-    "sourceName": "AI News",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Wed, 20 May 2026 10:00:00 +0000"
-  },
-  {
-    "tweetText": "Nvidia CEO Jensen Huang forecasts a new $200 billion market for AI agent CPUs. This could reshape the tech landscape and drive growth in AI technology. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
+    "tweetText": "Spotify teams up with Universal Music to let Premium users create AI covers and remixes, sharing revenue with artists. This could change how fans engage with music and support their favorite creators. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 21 May 2026 00:28:31 +0000"
+    "publishedAt": "Thu, 21 May 2026 19:45:00 +0000"
   },
   {
-    "tweetText": "Anthropic is set to report its first profitable quarter, with revenue expected to exceed $10.9 billion. This marks a significant milestone for the AI company, highlighting its growth and potential in the industry. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
+    "tweetText": "Google is changing its search experience, and many users may not like the new AI overview feature. It's important to explore alternatives as search engines evolve. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 21 May 2026 00:21:21 +0000"
+    "publishedAt": "Thu, 21 May 2026 19:19:05 +0000"
   },
   {
-    "tweetText": "xAI lost $6.4 billion in 2025, according to SpaceX's IPO filing, as it pushes for a major Grok expansion. This spending highlights Elon Musk's ambitious plans for AI and its financial impact. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/",
+    "tweetText": "Trump has postponed signing an executive order for government security reviews of AI models, claiming the wording could pose issues. This delay raises concerns about AI safety and regulation amid growing technological threats. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 20 May 2026 22:26:08 +0000"
+    "publishedAt": "Thu, 21 May 2026 17:30:45 +0000"
   },
   {
-    "tweetText": "Elon Musk's xAI has struck a surprising deal to sell computing power to Anthropic for $1.25 billion per month. This highlights the escalating demand and value of AI infrastructure. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/",
+    "tweetText": "Spotify is rolling out AI features that allow users to create daily or weekly podcast briefs based on their prompts. This makes it easier for listeners to get quick updates and highlights from their favorite shows. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 20 May 2026 21:29:22 +0000"
+    "publishedAt": "Thu, 21 May 2026 15:27:00 +0000"
   },
   {
-    "tweetText": "OpenAI says it has solved a geometry problem that has puzzled mathematicians since 1946, with support from experts who doubted its previous claims. This breakthrough could reshape our understanding of mathematical reasoning. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/",
+    "tweetText": "Spotify has launched a new audiobook creation tool powered by ElevenLabs, allowing authors to generate audiobooks without exclusive contracts. This gives creators the freedom to publish their works wherever they choose. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 20 May 2026 20:28:27 +0000"
+    "publishedAt": "Thu, 21 May 2026 15:27:00 +0000"
   },
   {
-    "tweetText": "IrisGo, backed by Andrew Ng, is launching an AI desktop buddy that learns to automate tasks on your computer. This could change how we interact with our devices, making work more efficient. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/20/irisgo-a-startup-backed-by-andrew-ng-looks-to-become-the-ai-desktop-buddy-you-never-knew-you-needed/",
+    "tweetText": "The Path, created by Tony Robbins and Calm veterans, claims its AI therapy model scored 95 on a mental health safety benchmark, far exceeding consumer bots' top score of 65. This could lead to safer AI-driven mental health support. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/21/the-path-founded-by-tony-robbins-and-calm-alums-wants-to-offer-safer-ai-therapy/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 20 May 2026 19:47:20 +0000"
+    "publishedAt": "Thu, 21 May 2026 14:00:00 +0000"
   },
   {
-    "tweetText": "OpenAI is gearing up for an IPO, possibly in September, after a legal challenge from Elon Musk was dismissed. This move highlights the company's confidence and growth potential in the competitive AI landscape. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/",
+    "tweetText": "Hark just raised $700M for its secretive AI interface, planning to launch multimodal models this summer. This could reshape how we interact with various products and services through a personal AI platform. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 20 May 2026 17:24:24 +0000"
+    "publishedAt": "Thu, 21 May 2026 14:00:00 +0000"
   },
   {
-    "tweetText": "AI search startups are booming and attracting significant attention in the consumer AI space. This growth highlights the increasing demand for smarter, more efficient search solutions. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/20/ai-search-startups-are-blowing-up/",
+    "tweetText": "Google unveiled a new AI agent ecosystem at its I/O conference, aiming to enhance web usage for consumers. However, the concept left many confused, raising questions about its adoption. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 20 May 2026 15:04:45 +0000"
+    "publishedAt": "Thu, 21 May 2026 13:52:23 +0000"
+  },
+  {
+    "tweetText": "Aluminum prices have surged 20%, prompting recycling startups to leverage AI for better mineral recovery. This could significantly boost the supply of critical metals and reshape the recycling industry. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/21/with-aluminum-prices-up-20-recycling-startups-bet-on-ai-to-cash-in/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Thu, 21 May 2026 13:38:42 +0000"
   }
 ]
