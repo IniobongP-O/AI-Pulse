@@ -1,72 +1,72 @@
 [
   {
-    "tweetText": "AdventHealth is implementing ChatGPT for Healthcare to improve workflows and lessen administrative tasks. This change aims to give healthcare providers more time to focus on patient care. via OpenAI News",
-    "articleUrl": "https://openai.com/index/adventhealth",
-    "sourceName": "OpenAI News",
-    "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Thu, 21 May 2026 12:00:00 GMT"
+    "tweetText": "OpenAI is launching its first AI lab outside the US in Singapore, backed by over S$300 million. This partnership aims to boost local AI innovation and development, marking a significant step for the region's tech landscape. via AI News.",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/openai-singapore-ai-lab-imda-agentic-ai-framework/",
+    "sourceName": "AI News",
+    "sourceHomeUrl": "https://www.artificialintelligence-news/",
+    "publishedAt": "Fri, 22 May 2026 10:00:00 +0000"
   },
   {
-    "tweetText": "Spotify teams up with Universal Music to let Premium users create AI covers and remixes, sharing revenue with artists. This could change how fans engage with music and support their favorite creators. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 21 May 2026 19:45:00 +0000"
+    "tweetText": "China's AI has successfully mapped its entire renewable energy grid. This is crucial as global energy demands surge, highlighting the need for sustainable solutions to support increasing electricity consumption. via AI News.",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/ai-energy-grid-mapping-china/",
+    "sourceName": "AI News",
+    "sourceHomeUrl": "https://www.artificialintelligence-news/",
+    "publishedAt": "Fri, 22 May 2026 10:00:00 +0000"
   },
   {
-    "tweetText": "Google is changing its search experience, and many users may not like the new AI overview feature. It's important to explore alternatives as search engines evolve. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 21 May 2026 19:19:05 +0000"
+    "tweetText": "Trump canceled a planned AI executive order after Musk and Zuckerberg raised concerns about its potential impact on US competitiveness against China. This decision could affect the future of AI policy in the US. via AI News.",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/trump-ai-executive-order-scrapped-musk-zuckerberg-china/",
+    "sourceName": "AI News",
+    "sourceHomeUrl": "https://www.artificialintelligence-news/",
+    "publishedAt": "Fri, 22 May 2026 09:00:00 +0000"
   },
   {
-    "tweetText": "Trump has postponed signing an executive order for government security reviews of AI models, claiming the wording could pose issues. This delay raises concerns about AI safety and regulation amid growing technological threats. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
+    "tweetText": "AI has been used to recreate the voices of deceased pilots from cockpit recordings, prompting the NTSB to temporarily restrict access to its records. This raises ethical concerns about using AI to revive voices of the deceased. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 21 May 2026 17:30:45 +0000"
+    "publishedAt": "Fri, 22 May 2026 23:03:33 +0000"
   },
   {
-    "tweetText": "Spotify is rolling out AI features that allow users to create daily or weekly podcast briefs based on their prompts. This makes it easier for listeners to get quick updates and highlights from their favorite shows. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/",
+    "tweetText": "AI startups are inflating their annual recurring revenue (ARR) figures to impress investors, and VCs are complicit in this trend. This raises concerns about transparency and the true value of these companies. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 21 May 2026 15:27:00 +0000"
+    "publishedAt": "Fri, 22 May 2026 20:40:48 +0000"
   },
   {
-    "tweetText": "Spotify has launched a new audiobook creation tool powered by ElevenLabs, allowing authors to generate audiobooks without exclusive contracts. This gives creators the freedom to publish their works wherever they choose. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/",
+    "tweetText": "Google's latest AI update breaks the search interface when users search for the word \"disregard.\" This glitch highlights ongoing challenges in AI's understanding of language. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 21 May 2026 15:27:00 +0000"
+    "publishedAt": "Fri, 22 May 2026 16:16:48 +0000"
   },
   {
-    "tweetText": "The Path, created by Tony Robbins and Calm veterans, claims its AI therapy model scored 95 on a mental health safety benchmark, far exceeding consumer bots' top score of 65. This could lead to safer AI-driven mental health support. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/21/the-path-founded-by-tony-robbins-and-calm-alums-wants-to-offer-safer-ai-therapy/",
+    "tweetText": "Google showcased prototype AI glasses that use Gemini for real-time translation and navigation. This tech could change how we interact with the world, making information instantly accessible. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 21 May 2026 14:00:00 +0000"
+    "publishedAt": "Fri, 22 May 2026 15:37:15 +0000"
   },
   {
-    "tweetText": "Hark just raised $700M for its secretive AI interface, planning to launch multimodal models this summer. This could reshape how we interact with various products and services through a personal AI platform. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 21 May 2026 14:00:00 +0000"
+    "tweetText": "Google's AI Search is making it hard to resist using its quick, convenient answers. This could hurt the web and the creators who contribute to it. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/even-if-you-hate-ai-you-will-use-google-ai-search/",
+    "sourceName": "WIRED AI",
+    "sourceHomeUrl": "https://wired.com/tag/ai/",
+    "publishedAt": "Fri, 22 May 2026 15:00:00 +0000"
   },
   {
-    "tweetText": "Google unveiled a new AI agent ecosystem at its I/O conference, aiming to enhance web usage for consumers. However, the concept left many confused, raising questions about its adoption. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 21 May 2026 13:52:23 +0000"
+    "tweetText": "The Gulf is rethinking its internet infrastructure due to the rising demands of AI and potential disruptions to undersea cables. This shift is crucial for ensuring reliable connectivity for tech advancements. via WIRED AI.",
+    "articleUrl": "https://www.wired.com/story/the-gulfs-ai-boom-has-an-undersea-cable-problem/",
+    "sourceName": "WIRED AI",
+    "sourceHomeUrl": "https://wired.com/tag/ai/",
+    "publishedAt": "Fri, 22 May 2026 09:00:00 +0000"
   },
   {
-    "tweetText": "Aluminum prices have surged 20%, prompting recycling startups to leverage AI for better mineral recovery. This could significantly boost the supply of critical metals and reshape the recycling industry. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/21/with-aluminum-prices-up-20-recycling-startups-bet-on-ai-to-cash-in/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 21 May 2026 13:38:42 +0000"
+    "tweetText": "Google's AI search is malfunctioning, providing irrelevant chatbot-like responses for certain queries instead of summaries. This highlights the challenges in AI accuracy and user experience, raising concerns about its reliability. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard",
+    "sourceName": "The Verge AI",
+    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
+    "publishedAt": "2026-05-22T20:39:54.000Z"
   }
 ]
