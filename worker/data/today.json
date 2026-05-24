@@ -1,72 +1,16 @@
 [
   {
-    "tweetText": "OpenAI is launching its first AI lab outside the US in Singapore, backed by over S$300 million. This partnership aims to boost local AI innovation and development, marking a significant step for the region's tech landscape. via AI News.",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/openai-singapore-ai-lab-imda-agentic-ai-framework/",
-    "sourceName": "AI News",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Fri, 22 May 2026 10:00:00 +0000"
-  },
-  {
-    "tweetText": "China's AI has successfully mapped its entire renewable energy grid. This is crucial as global energy demands surge, highlighting the need for sustainable solutions to support increasing electricity consumption. via AI News.",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/ai-energy-grid-mapping-china/",
-    "sourceName": "AI News",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Fri, 22 May 2026 10:00:00 +0000"
-  },
-  {
-    "tweetText": "Trump canceled a planned AI executive order after Musk and Zuckerberg raised concerns about its potential impact on US competitiveness against China. This decision could affect the future of AI policy in the US. via AI News.",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/trump-ai-executive-order-scrapped-musk-zuckerberg-china/",
-    "sourceName": "AI News",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Fri, 22 May 2026 09:00:00 +0000"
-  },
-  {
-    "tweetText": "AI has been used to recreate the voices of deceased pilots from cockpit recordings, prompting the NTSB to temporarily restrict access to its records. This raises ethical concerns about using AI to revive voices of the deceased. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
+    "tweetText": "Ferrari is teaming up with IBM to enhance the Formula 1 fan experience using AI technology. This innovation aims to create deeper engagement and loyalty among superfans. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 22 May 2026 23:03:33 +0000"
+    "publishedAt": "Sat, 23 May 2026 15:08:00 +0000"
   },
   {
-    "tweetText": "AI startups are inflating their annual recurring revenue (ARR) figures to impress investors, and VCs are complicit in this trend. This raises concerns about transparency and the true value of these companies. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 22 May 2026 20:40:48 +0000"
-  },
-  {
-    "tweetText": "Google's latest AI update breaks the search interface when users search for the word \"disregard.\" This glitch highlights ongoing challenges in AI's understanding of language. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 22 May 2026 16:16:48 +0000"
-  },
-  {
-    "tweetText": "Google showcased prototype AI glasses that use Gemini for real-time translation and navigation. This tech could change how we interact with the world, making information instantly accessible. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 22 May 2026 15:37:15 +0000"
-  },
-  {
-    "tweetText": "Google's AI Search is making it hard to resist using its quick, convenient answers. This could hurt the web and the creators who contribute to it. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/even-if-you-hate-ai-you-will-use-google-ai-search/",
-    "sourceName": "WIRED AI",
-    "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Fri, 22 May 2026 15:00:00 +0000"
-  },
-  {
-    "tweetText": "The Gulf is rethinking its internet infrastructure due to the rising demands of AI and potential disruptions to undersea cables. This shift is crucial for ensuring reliable connectivity for tech advancements. via WIRED AI.",
-    "articleUrl": "https://www.wired.com/story/the-gulfs-ai-boom-has-an-undersea-cable-problem/",
-    "sourceName": "WIRED AI",
-    "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Fri, 22 May 2026 09:00:00 +0000"
-  },
-  {
-    "tweetText": "Google's AI search is malfunctioning, providing irrelevant chatbot-like responses for certain queries instead of summaries. This highlights the challenges in AI accuracy and user experience, raising concerns about its reliability. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard",
+    "tweetText": "Google's new AI model can create realistic videos of anything, making deepfakes easier than ever. This raises concerns about the fine line between harmless fun and misuse of generative AI. via The Verge AI.",
+    "articleUrl": "https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video",
     "sourceName": "The Verge AI",
     "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-05-22T20:39:54.000Z"
+    "publishedAt": "2026-05-23T11:00:00.000Z"
   }
 ]
