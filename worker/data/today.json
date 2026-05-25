@@ -1,16 +1,23 @@
 [
   {
-    "tweetText": "Ferrari is teaming up with IBM to enhance the Formula 1 fan experience using AI technology. This innovation aims to create deeper engagement and loyalty among superfans. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
+    "tweetText": "Google and others are figuring out AI security as they go, adapting to rapid changes. This matters because how we handle AI risks now will shape the future of technology. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sat, 23 May 2026 15:08:00 +0000"
+    "publishedAt": "Sun, 24 May 2026 21:39:21 +0000"
   },
   {
-    "tweetText": "Google's new AI model can create realistic videos of anything, making deepfakes easier than ever. This raises concerns about the fine line between harmless fun and misuse of generative AI. via The Verge AI.",
-    "articleUrl": "https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video",
+    "tweetText": "I tried Amazon's Bee wearable and found it both fascinating and a bit unsettling. It raises questions about convenience versus privacy in our tech-driven lives. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Sun, 24 May 2026 15:00:00 +0000"
+  },
+  {
+    "tweetText": "Hackers are now exploiting chatbot \"personalities\" to bypass safety measures. This raises serious concerns about AI security and the potential for misuse. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/column/935545/hackers-ai-chatbots",
     "sourceName": "The Verge AI",
     "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-05-23T11:00:00.000Z"
+    "publishedAt": "2026-05-24T12:00:00.000Z"
   }
 ]
