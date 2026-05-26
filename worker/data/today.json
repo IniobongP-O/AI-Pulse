@@ -1,23 +1,30 @@
 [
   {
-    "tweetText": "Google and others are figuring out AI security as they go, adapting to rapid changes. This matters because how we handle AI risks now will shape the future of technology. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
+    "tweetText": "ClickUp is laying off hundreds of employees and replacing them with thousands of AI agents. This shift highlights the growing trend of automation in the workplace and its impact on jobs. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sun, 24 May 2026 21:39:21 +0000"
+    "publishedAt": "Mon, 25 May 2026 16:00:00 +0000"
   },
   {
-    "tweetText": "I tried Amazon's Bee wearable and found it both fascinating and a bit unsettling. It raises questions about convenience versus privacy in our tech-driven lives. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/",
+    "tweetText": "Pope Leo XIV's first encyclical discusses how AI reflects deeper issues like concentrated power and threats to democracy. It highlights the need for ethical tech development that benefits everyone. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sun, 24 May 2026 15:00:00 +0000"
+    "publishedAt": "Mon, 25 May 2026 15:09:41 +0000"
   },
   {
-    "tweetText": "Hackers are now exploiting chatbot \"personalities\" to bypass safety measures. This raises serious concerns about AI security and the potential for misuse. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/column/935545/hackers-ai-chatbots",
+    "tweetText": "Attackers are using AI to develop new exploits, leading to a race to find software vulnerabilities. This shift is crucial as it affects cybersecurity and how companies protect their systems. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/the-ai-era-is-creating-a-bug-hunting-arms-race/",
+    "sourceName": "WIRED AI",
+    "sourceHomeUrl": "https://wired.com/tag/ai/",
+    "publishedAt": "Mon, 25 May 2026 10:30:00 +0000"
+  },
+  {
+    "tweetText": "Pope Leo XIV released his first encyclical, warning about the dangers of AI and the need for ethical guidelines. His call for a \"profoundly human\" approach emphasizes protecting dignity amid rapid technological change. via The Verge AI.",
+    "articleUrl": "https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare",
     "sourceName": "The Verge AI",
     "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-05-24T12:00:00.000Z"
+    "publishedAt": "2026-05-25T15:05:07.000Z"
   }
 ]
