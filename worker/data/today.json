@@ -1,30 +1,72 @@
 [
   {
-    "tweetText": "ClickUp is laying off hundreds of employees and replacing them with thousands of AI agents. This shift highlights the growing trend of automation in the workplace and its impact on jobs. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 25 May 2026 16:00:00 +0000"
+    "tweetText": "Autonomous AI systems are now being tested in real-world settings like warehouses and public spaces. This raises important questions about whether existing AI regulations adequately address these new physical challenges. via AI News.",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/autonomous-ai-systems-governance-physical-environments/",
+    "sourceName": "AI News",
+    "sourceHomeUrl": "https://www.artificialintelligence-news/",
+    "publishedAt": "Tue, 26 May 2026 10:00:00 +0000"
   },
   {
-    "tweetText": "Pope Leo XIV's first encyclical discusses how AI reflects deeper issues like concentrated power and threats to democracy. It highlights the need for ethical tech development that benefits everyone. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
+    "tweetText": "DuckDuckGo app installs surged by 30% as users push back against Google's AI-driven search changes. This shift highlights a growing demand for alternatives in digital privacy and choice. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 25 May 2026 15:09:41 +0000"
+    "publishedAt": "Tue, 26 May 2026 22:32:56 +0000"
   },
   {
-    "tweetText": "Attackers are using AI to develop new exploits, leading to a race to find software vulnerabilities. This shift is crucial as it affects cybersecurity and how companies protect their systems. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/the-ai-era-is-creating-a-bug-hunting-arms-race/",
+    "tweetText": "OpenRouter's valuation has surged to $1.3B after raising $113M in a Series B round. This rapid growth shows that the future with multiple AI models is becoming a reality. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Tue, 26 May 2026 18:33:01 +0000"
+  },
+  {
+    "tweetText": "A startup called Human Archive is paying gig workers in India to wear camera caps and collect data for training AI and robots. This could help bridge the gap in the gig economy and enhance global robotics development. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Tue, 26 May 2026 16:00:00 +0000"
+  },
+  {
+    "tweetText": "Universal Music Group and TikTok have renewed their agreement to tackle unauthorized AI music. This partnership highlights the ongoing battle to protect artists' rights in the evolving digital landscape. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Tue, 26 May 2026 14:55:05 +0000"
+  },
+  {
+    "tweetText": "Pope Leo referenced The Lord of the Rings in his encyclical on AI, cleverly calling out tech billionaires who misunderstand Tolkien's themes. This highlights the cultural disconnect between tech leaders and the deeper moral implications of their creations. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/pope-leo-schooled-the-tech-bros-on-tolkien/",
     "sourceName": "WIRED AI",
     "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Mon, 25 May 2026 10:30:00 +0000"
+    "publishedAt": "Tue, 26 May 2026 23:19:03 +0000"
   },
   {
-    "tweetText": "Pope Leo XIV released his first encyclical, warning about the dangers of AI and the need for ethical guidelines. His call for a \"profoundly human\" approach emphasizes protecting dignity amid rapid technological change. via The Verge AI.",
-    "articleUrl": "https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-05-25T15:05:07.000Z"
+    "tweetText": "The Vatican invited Anthropic to present at the Pope's AI encyclical launch, highlighting a unique partnership between the Church and tech. This collaboration could impact how faith and technology intersect in the future. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/anthropic-christopher-olah-pope-ai-encyclical/",
+    "sourceName": "WIRED AI",
+    "sourceHomeUrl": "https://wired.com/tag/ai/",
+    "publishedAt": "Tue, 26 May 2026 20:46:03 +0000"
+  },
+  {
+    "tweetText": "Pope Leo XIV's first encyclical warns against the concentration of AI power among a few companies. This matters because it raises concerns about ethics and control in technology's future. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/what-pope-leo-xivs-first-encyclical-says-about-the-power-of-ai/",
+    "sourceName": "WIRED AI",
+    "sourceHomeUrl": "https://wired.com/tag/ai/",
+    "publishedAt": "Tue, 26 May 2026 20:17:47 +0000"
+  },
+  {
+    "tweetText": "AI agents like Claude Code and OpenClaw have shaken up the tech world, sparking a major transformation in computing. This shift could redefine industries and how we interact with technology. via WIRED AI.",
+    "articleUrl": "https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/",
+    "sourceName": "WIRED AI",
+    "sourceHomeUrl": "https://wired.com/tag/ai/",
+    "publishedAt": "Tue, 26 May 2026 10:00:00 +0000"
+  },
+  {
+    "tweetText": "A new quiz reveals which jobs might be at risk from AI and which ones could survive. Understanding this can help people prepare for the future of work. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/quiz-will-ai-destroy-your-career/",
+    "sourceName": "WIRED AI",
+    "sourceHomeUrl": "https://wired.com/tag/ai/",
+    "publishedAt": "Tue, 26 May 2026 10:00:00 +0000"
   }
 ]
