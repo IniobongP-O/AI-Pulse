@@ -1,72 +1,72 @@
 [
   {
-    "tweetText": "Autonomous AI systems are now being tested in real-world settings like warehouses and public spaces. This raises important questions about whether existing AI regulations adequately address these new physical challenges. via AI News.",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/autonomous-ai-systems-governance-physical-environments/",
+    "tweetText": "Google is merging Display Ads into its AI-driven Demand Gen platform, ending a nearly 20-year digital ad model. This shift impacts how marketers will target and test ads, reflecting the growing dominance of AI in advertising. via AI News.",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/google-folds-display-ads-ai-first-demand-gen-platform/",
     "sourceName": "AI News",
     "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Tue, 26 May 2026 10:00:00 +0000"
+    "publishedAt": "Wed, 27 May 2026 13:12:06 +0000"
   },
   {
-    "tweetText": "DuckDuckGo app installs surged by 30% as users push back against Google's AI-driven search changes. This shift highlights a growing demand for alternatives in digital privacy and choice. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
+    "tweetText": "AI bots are transforming Forex trading by using data and automation for faster, more disciplined decision-making. This shift helps traders navigate market volatility more effectively. via AI News.",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/exploring-the-benefits-of-ai-bots-for-forex-trading-in-forex-markets/",
+    "sourceName": "AI News",
+    "sourceHomeUrl": "https://www.artificialintelligence-news/",
+    "publishedAt": "Wed, 27 May 2026 12:38:44 +0000"
+  },
+  {
+    "tweetText": "Cisco and OpenAI are teaming up to enhance enterprise engineering with Codex, boosting AI development and automating defect fixes. This collaboration could transform how companies leverage AI for efficiency and security. via OpenAI News",
+    "articleUrl": "https://openai.com/index/cisco",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Wed, 27 May 2026 11:00:00 GMT"
+  },
+  {
+    "tweetText": "Google's AI struggles with spelling, failing to accurately spell its own name. This highlights ongoing challenges in AI development and raises concerns about reliability. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 26 May 2026 22:32:56 +0000"
+    "publishedAt": "Thu, 28 May 2026 00:17:41 +0000"
   },
   {
-    "tweetText": "OpenRouter's valuation has surged to $1.3B after raising $113M in a Series B round. This rapid growth shows that the future with multiple AI models is becoming a reality. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
+    "tweetText": "Snowflake has inked a massive $6B deal with Amazon Web Services to secure AI CPU chips over the next five years. This move strengthens Amazon's position in the AI market and challenges Nvidia's dominance. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 26 May 2026 18:33:01 +0000"
+    "publishedAt": "Wed, 27 May 2026 20:10:00 +0000"
   },
   {
-    "tweetText": "A startup called Human Archive is paying gig workers in India to wear camera caps and collect data for training AI and robots. This could help bridge the gap in the gig economy and enhance global robotics development. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/",
+    "tweetText": "Payroll startup Remote hit over $300M in annual revenue and became cash-flow positive after boosting revenue per employee by 50% through AI. This shows how tech can drive efficiency and growth without increasing staff. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 26 May 2026 16:00:00 +0000"
+    "publishedAt": "Wed, 27 May 2026 19:39:45 +0000"
   },
   {
-    "tweetText": "Universal Music Group and TikTok have renewed their agreement to tackle unauthorized AI music. This partnership highlights the ongoing battle to protect artists' rights in the evolving digital landscape. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/",
+    "tweetText": "Google I/O confirmed that AI-generated answers will dominate search results, leaving many brands in the dark about their online presence. This shift disrupts traditional SEO strategies built around classic search results. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/podcast/your-seo-strategy-is-optimized-for-a-search-engine-that-no-longer-exists/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 26 May 2026 14:55:05 +0000"
+    "publishedAt": "Wed, 27 May 2026 18:39:17 +0000"
   },
   {
-    "tweetText": "Pope Leo referenced The Lord of the Rings in his encyclical on AI, cleverly calling out tech billionaires who misunderstand Tolkien's themes. This highlights the cultural disconnect between tech leaders and the deeper moral implications of their creations. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/pope-leo-schooled-the-tech-bros-on-tolkien/",
-    "sourceName": "WIRED AI",
-    "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Tue, 26 May 2026 23:19:03 +0000"
+    "tweetText": "Meta is introducing paid subscriptions for Instagram, Facebook, and WhatsApp globally, and is exploring new AI and creator features. This move could reshape how users engage with these platforms and open new revenue streams. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Wed, 27 May 2026 18:00:00 +0000"
   },
   {
-    "tweetText": "The Vatican invited Anthropic to present at the Pope's AI encyclical launch, highlighting a unique partnership between the Church and tech. This collaboration could impact how faith and technology intersect in the future. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/anthropic-christopher-olah-pope-ai-encyclical/",
-    "sourceName": "WIRED AI",
-    "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Tue, 26 May 2026 20:46:03 +0000"
+    "tweetText": "AI coding startup Cognition has raised $1B, now valued at $25B, after hitting a $492M annual revenue run rate. This rapid growth highlights the increasing demand for AI-driven solutions in software development. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Wed, 27 May 2026 16:00:00 +0000"
   },
   {
-    "tweetText": "Pope Leo XIV's first encyclical warns against the concentration of AI power among a few companies. This matters because it raises concerns about ethics and control in technology's future. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/what-pope-leo-xivs-first-encyclical-says-about-the-power-of-ai/",
-    "sourceName": "WIRED AI",
-    "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Tue, 26 May 2026 20:17:47 +0000"
-  },
-  {
-    "tweetText": "AI agents like Claude Code and OpenClaw have shaken up the tech world, sparking a major transformation in computing. This shift could redefine industries and how we interact with technology. via WIRED AI.",
-    "articleUrl": "https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/",
-    "sourceName": "WIRED AI",
-    "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Tue, 26 May 2026 10:00:00 +0000"
-  },
-  {
-    "tweetText": "A new quiz reveals which jobs might be at risk from AI and which ones could survive. Understanding this can help people prepare for the future of work. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/quiz-will-ai-destroy-your-career/",
-    "sourceName": "WIRED AI",
-    "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Tue, 26 May 2026 10:00:00 +0000"
+    "tweetText": "China's AI boom is leading to a surge in top talent, and the government is now focused on keeping these experts within its borders. This could shift the global AI landscape and impact international competition. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/27/china-is-increasingly-keeping-its-best-ai-talent-to-itself/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Wed, 27 May 2026 13:48:41 +0000"
   }
 ]
