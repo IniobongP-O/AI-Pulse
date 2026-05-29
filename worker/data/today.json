@@ -1,72 +1,72 @@
 [
   {
-    "tweetText": "Google is merging Display Ads into its AI-driven Demand Gen platform, ending a nearly 20-year digital ad model. This shift impacts how marketers will target and test ads, reflecting the growing dominance of AI in advertising. via AI News.",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/google-folds-display-ads-ai-first-demand-gen-platform/",
+    "tweetText": "Google Pay is revamping its payment system to handle transactions from AI agents with the new Universal Commerce Protocol. This shift could make Google Pay a key player in the future of automated buying. via AI News.",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/google-pay-ai-agents-universal-commerce-protocol/",
     "sourceName": "AI News",
     "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Wed, 27 May 2026 13:12:06 +0000"
+    "publishedAt": "Thu, 28 May 2026 14:55:43 +0000"
   },
   {
-    "tweetText": "AI bots are transforming Forex trading by using data and automation for faster, more disciplined decision-making. This shift helps traders navigate market volatility more effectively. via AI News.",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/exploring-the-benefits-of-ai-bots-for-forex-trading-in-forex-markets/",
+    "tweetText": "NBA Commissioner Adam Silver announced plans to implement an AI system for automatic out-of-bounds calls using cameras around the court. This could enhance officiating accuracy and fairness in games. via AI News.",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/nba-ai-out-of-bounds-calls/",
     "sourceName": "AI News",
     "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Wed, 27 May 2026 12:38:44 +0000"
+    "publishedAt": "Thu, 28 May 2026 10:00:00 +0000"
   },
   {
-    "tweetText": "Cisco and OpenAI are teaming up to enhance enterprise engineering with Codex, boosting AI development and automating defect fixes. This collaboration could transform how companies leverage AI for efficiency and security. via OpenAI News",
-    "articleUrl": "https://openai.com/index/cisco",
-    "sourceName": "OpenAI News",
-    "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Wed, 27 May 2026 11:00:00 GMT"
-  },
-  {
-    "tweetText": "Google's AI struggles with spelling, failing to accurately spell its own name. This highlights ongoing challenges in AI development and raises concerns about reliability. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/",
+    "tweetText": "Glean’s revenue has surged past $300M, tripling its annual earnings as it positions itself as a key player in AI-driven budget-cutting. This growth highlights the increasing demand for efficient AI solutions in the enterprise sector. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 28 May 2026 00:17:41 +0000"
+    "publishedAt": "Fri, 29 May 2026 00:44:37 +0000"
   },
   {
-    "tweetText": "Snowflake has inked a massive $6B deal with Amazon Web Services to secure AI CPU chips over the next five years. This move strengthens Amazon's position in the AI market and challenges Nvidia's dominance. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
+    "tweetText": "AWS, Cloudflare, and others are revamping cloud infrastructure to accommodate a future where AI agents generate more internet traffic than humans. This shift could reshape how we interact with the web and optimize services for AI. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 27 May 2026 20:10:00 +0000"
+    "publishedAt": "Thu, 28 May 2026 21:24:01 +0000"
   },
   {
-    "tweetText": "Payroll startup Remote hit over $300M in annual revenue and became cash-flow positive after boosting revenue per employee by 50% through AI. This shows how tech can drive efficiency and growth without increasing staff. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/",
+    "tweetText": "Asana has acquired StackAI to enhance its AI workflow tools with no-code agent-building capabilities. This move aims to simplify automation for users, making their work more efficient. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 27 May 2026 19:39:45 +0000"
+    "publishedAt": "Thu, 28 May 2026 20:06:07 +0000"
   },
   {
-    "tweetText": "Google I/O confirmed that AI-generated answers will dominate search results, leaving many brands in the dark about their online presence. This shift disrupts traditional SEO strategies built around classic search results. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/podcast/your-seo-strategy-is-optimized-for-a-search-engine-that-no-longer-exists/",
+    "tweetText": "Anthropic has raised $65 billion in its latest funding round, bringing its valuation close to $1 trillion ahead of its IPO. This significant investment highlights the growing confidence and interest in AI startups. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 27 May 2026 18:39:17 +0000"
+    "publishedAt": "Thu, 28 May 2026 18:52:51 +0000"
   },
   {
-    "tweetText": "Meta is introducing paid subscriptions for Instagram, Facebook, and WhatsApp globally, and is exploring new AI and creator features. This move could reshape how users engage with these platforms and open new revenue streams. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
+    "tweetText": "Major exchanges are launching AI token futures, treating AI as a valuable resource like gold and oil. This shift could reshape the investment landscape, making AI a tradable asset class. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/28/just-like-gold-and-oil-well-soon-be-able-to-trade-ai-token-futures/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 27 May 2026 18:00:00 +0000"
+    "publishedAt": "Thu, 28 May 2026 18:32:25 +0000"
   },
   {
-    "tweetText": "AI coding startup Cognition has raised $1B, now valued at $25B, after hitting a $492M annual revenue run rate. This rapid growth highlights the increasing demand for AI-driven solutions in software development. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/",
+    "tweetText": "Anthropic launched Opus 4.8, featuring a new tool called Dynamic Workflows to better manage multiple subagents. This advancement enhances AI coordination and efficiency. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 27 May 2026 16:00:00 +0000"
+    "publishedAt": "Thu, 28 May 2026 17:00:09 +0000"
   },
   {
-    "tweetText": "China's AI boom is leading to a surge in top talent, and the government is now focused on keeping these experts within its borders. This could shift the global AI landscape and impact international competition. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/27/china-is-increasingly-keeping-its-best-ai-talent-to-itself/",
+    "tweetText": "Elon Musk suggests that xAI's deal with Anthropic for SpaceX’s computing resources is short-term and could be canceled. This conflicting information raises questions about the stability and future of AI partnerships. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/28/how-long-is-anthropics-lease-with-spacex-opinions-vary/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 27 May 2026 13:48:41 +0000"
+    "publishedAt": "Thu, 28 May 2026 15:36:00 +0000"
+  },
+  {
+    "tweetText": "Sesame, founded by Oculus creators, just launched its iOS app featuring conversational AI agents for more human-like interactions. This innovation could change how we communicate with technology, making it feel more personal. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/28/sesame-the-conversational-ai-startup-from-oculus-founders-launches-its-ios-app/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Thu, 28 May 2026 15:35:43 +0000"
   }
 ]
