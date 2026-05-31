@@ -1,72 +1,44 @@
 [
   {
-    "tweetText": "OpenAI has launched governance frameworks to help businesses deploy AI safely and in compliance worldwide. This is key for ensuring responsible use of AI as it becomes more integral to commercial operations. via AI News",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/scaling-safe-enterprise-ai-openai-governance-frameworks/",
-    "sourceName": "AI News",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Fri, 29 May 2026 16:24:58 +0000"
-  },
-  {
-    "tweetText": "Anthropic has launched Claude Opus 4.8, enhancing coding, reasoning, and knowledge tasks. This upgrade is significant as it improves AI capabilities for developers and businesses. via AI News.",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/anthropic-releases-claude-opus-4-8-news/",
-    "sourceName": "AI News",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Fri, 29 May 2026 10:44:00 +0000"
-  },
-  {
-    "tweetText": "Boston Children’s Hospital is using AI from OpenAI to enhance patient care and diagnose over 40 rare diseases. This innovation could lead to quicker and more accurate diagnoses, improving outcomes for young patients. via OpenAI News",
-    "articleUrl": "https://openai.com/index/boston-childrens-hospital",
-    "sourceName": "OpenAI News",
-    "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Fri, 29 May 2026 12:00:00 GMT"
-  },
-  {
-    "tweetText": "Braintrust is using Codex with GPT-5.5 to quickly turn customer requests into code, speeding up their engineering process. This innovation helps them deliver solutions more efficiently and meet client needs faster. via OpenAI News",
-    "articleUrl": "https://openai.com/index/braintrust",
-    "sourceName": "OpenAI News",
-    "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Fri, 29 May 2026 12:00:00 GMT"
-  },
-  {
-    "tweetText": "Coders are increasingly relying on AI to speed up their work, but researchers caution it may lead to lower quality code. This reliance could create significant issues in the future. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
+    "tweetText": "GitHub Copilot is introducing token-based billing, causing frustration among developers. This change signals a shift in how AI tools are accessed, raising concerns about costs and accessibility. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 29 May 2026 22:14:22 +0000"
+    "publishedAt": "Sat, 30 May 2026 16:30:00 +0000"
   },
   {
-    "tweetText": "AI is flooding our lives with new jargon, but many are left confused. Understanding these terms is crucial for navigating the AI landscape effectively. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "tweetText": "Meta is reportedly working on an AI-powered pendant. This move highlights their commitment to integrating AI into everyday devices, potentially changing how we interact with technology. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 29 May 2026 18:49:19 +0000"
+    "publishedAt": "Sat, 30 May 2026 15:59:58 +0000"
   },
   {
-    "tweetText": "Companies are overestimating AI's ability to replace human jobs, leading to significant layoffs, according to Box founder Aaron Levie. This trend, dubbed \"AI psychosis,\" raises concerns about the understanding of job roles by decision-makers. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
+    "tweetText": "Google's 24/7 AI assistant, Gemini Spark, is proving useful for automating tasks like inbox summaries and event planning. Its separate identity raises questions about Google's strategy in the AI space. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 29 May 2026 17:57:05 +0000"
+    "publishedAt": "Sat, 30 May 2026 15:30:00 +0000"
   },
   {
-    "tweetText": "Chipmaker Groq is raising $650M to shift its focus from hardware to enhancing AI inference. This move could strengthen its position in the booming AI market. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 29 May 2026 17:27:13 +0000"
+    "tweetText": "I tested Wispr Flow and other AI transcription tools to see if paid services are worth it compared to free options. This matters because choosing the right tool can save you time and money. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/do-you-actually-need-to-pay-for-transcription-software/",
+    "sourceName": "WIRED AI",
+    "sourceHomeUrl": "https://wired.com/tag/ai/",
+    "publishedAt": "Sat, 30 May 2026 09:30:00 +0000"
   },
   {
-    "tweetText": "Cognition's AI coding agent Devin is making waves, but Scott Wu insists it shouldn't replace human programmers. He highlights the importance of human creativity and oversight in coding. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 29 May 2026 16:13:47 +0000"
+    "tweetText": "Craig Campbell chose to focus on building a website instead of jumping into the AI frenzy, despite pressure from investors. His decision highlights a growing interest in traditional web projects amidst the AI hype. via The Verge AI.",
+    "articleUrl": "https://www.theverge.com/tech/938245/past-maps-website-google-zero-ai",
+    "sourceName": "The Verge AI",
+    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
+    "publishedAt": "2026-05-30T13:00:00.000Z"
   },
   {
-    "tweetText": "Box founder Aaron Levie warns that many CEOs making decisions about AI replacing jobs may not fully understand those jobs, labeling it \"AI psychosis.\" This trend raises concerns about job security and the disconnect between leadership and workforce realities. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/podcast/does-your-ceo-have-ai-psychosis-aaron-levie-thinks-most-of-them-do/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 29 May 2026 14:00:00 +0000"
+    "tweetText": "AI-generated influencers are deceiving users on TikTok by posing as Black women to sell cheap products. This highlights the growing issue of authenticity in social media marketing and exploitation of racial identities. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping",
+    "sourceName": "The Verge AI",
+    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
+    "publishedAt": "2026-05-30T13:00:00.000Z"
   }
 ]
