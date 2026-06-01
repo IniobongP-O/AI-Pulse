@@ -1,44 +1,30 @@
 [
   {
-    "tweetText": "GitHub Copilot is introducing token-based billing, causing frustration among developers. This change signals a shift in how AI tools are accessed, raising concerns about costs and accessibility. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
+    "tweetText": "Automated trading is transforming forex markets, making it easier for traders to participate without constant monitoring. This shift could lead to more efficient trading and better market engagement. via AI News",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/the-future-of-automated-trading-with-the-best-forex-robot-reviews/",
+    "sourceName": "AI News",
+    "sourceHomeUrl": "https://www.artificialintelligence-news/",
+    "publishedAt": "Mon, 01 Jun 2026 08:51:42 +0000"
+  },
+  {
+    "tweetText": "90% of game developers are using AI in their work, and 7,818 games on Steam reported AI integration in 2025, a huge jump from last year. This shift is transforming how games are created and launched. via AI News.",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/ai-in-video-game-development/",
+    "sourceName": "AI News",
+    "sourceHomeUrl": "https://www.artificialintelligence-news/",
+    "publishedAt": "Mon, 01 Jun 2026 08:46:19 +0000"
+  },
+  {
+    "tweetText": "Tech CEOs are being discussed for their potential vulnerability to \"AI psychosis\" on the latest episode of Equity. This matters as it raises concerns about the mental health of leaders in the rapidly changing tech landscape. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sat, 30 May 2026 16:30:00 +0000"
+    "publishedAt": "Sun, 31 May 2026 15:30:00 +0000"
   },
   {
-    "tweetText": "Meta is reportedly working on an AI-powered pendant. This move highlights their commitment to integrating AI into everyday devices, potentially changing how we interact with technology. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sat, 30 May 2026 15:59:58 +0000"
-  },
-  {
-    "tweetText": "Google's 24/7 AI assistant, Gemini Spark, is proving useful for automating tasks like inbox summaries and event planning. Its separate identity raises questions about Google's strategy in the AI space. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sat, 30 May 2026 15:30:00 +0000"
-  },
-  {
-    "tweetText": "I tested Wispr Flow and other AI transcription tools to see if paid services are worth it compared to free options. This matters because choosing the right tool can save you time and money. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/do-you-actually-need-to-pay-for-transcription-software/",
-    "sourceName": "WIRED AI",
-    "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Sat, 30 May 2026 09:30:00 +0000"
-  },
-  {
-    "tweetText": "Craig Campbell chose to focus on building a website instead of jumping into the AI frenzy, despite pressure from investors. His decision highlights a growing interest in traditional web projects amidst the AI hype. via The Verge AI.",
-    "articleUrl": "https://www.theverge.com/tech/938245/past-maps-website-google-zero-ai",
+    "tweetText": "A journalist investigated a vape called Gudtrip that allegedly rewards users with Bitcoin for smoking. The search revealed it might just be a joke, highlighting the bizarre overlap of crypto and cannabis culture. via The Verge AI.",
+    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/933916/ai-powered-crypto-cannabis-vape",
     "sourceName": "The Verge AI",
     "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-05-30T13:00:00.000Z"
-  },
-  {
-    "tweetText": "AI-generated influencers are deceiving users on TikTok by posing as Black women to sell cheap products. This highlights the growing issue of authenticity in social media marketing and exploitation of racial identities. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-05-30T13:00:00.000Z"
+    "publishedAt": "2026-05-31T13:00:00.000Z"
   }
 ]
