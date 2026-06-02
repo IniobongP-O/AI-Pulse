@@ -1,30 +1,72 @@
 [
   {
-    "tweetText": "Automated trading is transforming forex markets, making it easier for traders to participate without constant monitoring. This shift could lead to more efficient trading and better market engagement. via AI News",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/the-future-of-automated-trading-with-the-best-forex-robot-reviews/",
-    "sourceName": "AI News",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Mon, 01 Jun 2026 08:51:42 +0000"
+    "tweetText": "Codex is evolving into a key productivity tool for all, enhancing research, data analysis, and content creation with AI. This shift is set to change how we work and boost efficiency across industries. via OpenAI News",
+    "articleUrl": "https://openai.com/index/codex-for-knowledge-work",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Tue, 02 Jun 2026 02:00:00 GMT"
   },
   {
-    "tweetText": "90% of game developers are using AI in their work, and 7,818 games on Steam reported AI integration in 2025, a huge jump from last year. This shift is transforming how games are created and launched. via AI News.",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/ai-in-video-game-development/",
-    "sourceName": "AI News",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Mon, 01 Jun 2026 08:46:19 +0000"
+    "tweetText": "OpenAI shared its stance on AI policy, emphasizing transparency and support for smart regulations and safety. This is important as it clarifies the company's commitment to responsible AI development. via OpenAI News",
+    "articleUrl": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Mon, 01 Jun 2026 17:00:00 GMT"
   },
   {
-    "tweetText": "Tech CEOs are being discussed for their potential vulnerability to \"AI psychosis\" on the latest episode of Equity. This matters as it raises concerns about the mental health of leaders in the rapidly changing tech landscape. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
+    "tweetText": "OpenAI has started construction on a 1GW data center in Michigan to enhance AI infrastructure. This project aims to improve access to AI, create jobs, and benefit local communities. via OpenAI News",
+    "articleUrl": "https://openai.com/index/stargate-michigan-data-center",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Mon, 01 Jun 2026 12:00:00 GMT"
+  },
+  {
+    "tweetText": "OpenAI's frontier models and Codex are now available on AWS, allowing businesses to easily integrate AI into their existing systems. This makes it faster and simpler for companies to adopt AI technology. via OpenAI News",
+    "articleUrl": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Mon, 01 Jun 2026 10:00:00 GMT"
+  },
+  {
+    "tweetText": "Alphabet is raising $80B to expand its AI capabilities due to high demand from businesses and consumers. This investment will help them meet the growing need for innovative AI solutions. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sun, 31 May 2026 15:30:00 +0000"
+    "publishedAt": "Mon, 01 Jun 2026 22:55:09 +0000"
   },
   {
-    "tweetText": "A journalist investigated a vape called Gudtrip that allegedly rewards users with Bitcoin for smoking. The search revealed it might just be a joke, highlighting the bizarre overlap of crypto and cannabis culture. via The Verge AI.",
-    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/933916/ai-powered-crypto-cannabis-vape",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-05-31T13:00:00.000Z"
+    "tweetText": "Nvidia is teaming up with Microsoft, Dell, and HP to launch AI agent PCs, aiming to tap into the $200B CPU market. This could revolutionize how everyday users interact with AI, making it more accessible and beneficial. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 01 Jun 2026 21:35:00 +0000"
+  },
+  {
+    "tweetText": "Florida has sued OpenAI and Sam Altman over their alleged connection to a shooting at Florida State University, marking a first-of-its-kind legal case. This raises concerns about AI's role in real-world violence and accountability. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 01 Jun 2026 20:03:40 +0000"
+  },
+  {
+    "tweetText": "Anthropic has officially filed to go public, marking a significant step for the AI company that has gained major enterprise clients. This move highlights the growing importance and influence of AI in the business world. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 01 Jun 2026 16:36:55 +0000"
+  },
+  {
+    "tweetText": "A new AI weather startup, WindBorne, is outperforming government agencies in forecasting by using 400 data-gathering balloons worldwide. This could lead to more accurate weather predictions and better preparedness for extreme weather events. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 01 Jun 2026 16:00:00 +0000"
+  },
+  {
+    "tweetText": "DuckDuckGo just launched 'no AI' web extensions for Chrome and Firefox, making its alternative search engine more accessible. This matters as it caters to users seeking privacy and non-AI search options amidst a surge in traffic. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 01 Jun 2026 14:49:10 +0000"
   }
 ]
