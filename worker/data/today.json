@@ -1,72 +1,72 @@
 [
   {
-    "tweetText": "Codex is evolving into a key productivity tool for all, enhancing research, data analysis, and content creation with AI. This shift is set to change how we work and boost efficiency across industries. via OpenAI News",
-    "articleUrl": "https://openai.com/index/codex-for-knowledge-work",
+    "tweetText": "Travelers launched an AI Claim Assistant using OpenAI to help customers file claims anytime and manage high demand. This innovation improves customer support and streamlines operations for the insurance industry. via OpenAI News",
+    "articleUrl": "https://openai.com/index/travelers",
     "sourceName": "OpenAI News",
     "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Tue, 02 Jun 2026 02:00:00 GMT"
+    "publishedAt": "Tue, 02 Jun 2026 12:00:00 GMT"
   },
   {
-    "tweetText": "OpenAI shared its stance on AI policy, emphasizing transparency and support for smart regulations and safety. This is important as it clarifies the company's commitment to responsible AI development. via OpenAI News",
-    "articleUrl": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
-    "sourceName": "OpenAI News",
-    "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Mon, 01 Jun 2026 17:00:00 GMT"
-  },
-  {
-    "tweetText": "OpenAI has started construction on a 1GW data center in Michigan to enhance AI infrastructure. This project aims to improve access to AI, create jobs, and benefit local communities. via OpenAI News",
-    "articleUrl": "https://openai.com/index/stargate-michigan-data-center",
-    "sourceName": "OpenAI News",
-    "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Mon, 01 Jun 2026 12:00:00 GMT"
-  },
-  {
-    "tweetText": "OpenAI's frontier models and Codex are now available on AWS, allowing businesses to easily integrate AI into their existing systems. This makes it faster and simpler for companies to adopt AI technology. via OpenAI News",
-    "articleUrl": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
-    "sourceName": "OpenAI News",
-    "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Mon, 01 Jun 2026 10:00:00 GMT"
-  },
-  {
-    "tweetText": "Alphabet is raising $80B to expand its AI capabilities due to high demand from businesses and consumers. This investment will help them meet the growing need for innovative AI solutions. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
+    "tweetText": "Uber has capped employee spending on AI after exceeding its budget in just four months. This highlights the challenges companies face in managing rapid AI adoption. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 01 Jun 2026 22:55:09 +0000"
+    "publishedAt": "Tue, 02 Jun 2026 19:11:48 +0000"
   },
   {
-    "tweetText": "Nvidia is teaming up with Microsoft, Dell, and HP to launch AI agent PCs, aiming to tap into the $200B CPU market. This could revolutionize how everyday users interact with AI, making it more accessible and beneficial. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
+    "tweetText": "Microsoft launched a new open-source tool called Adaptive Spec-driven Scoring for AI behavior testing. This will help developers easily evaluate and improve AI models, making tech more reliable. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 01 Jun 2026 21:35:00 +0000"
+    "publishedAt": "Tue, 02 Jun 2026 19:02:21 +0000"
   },
   {
-    "tweetText": "Florida has sued OpenAI and Sam Altman over their alleged connection to a shooting at Florida State University, marking a first-of-its-kind legal case. This raises concerns about AI's role in real-world violence and accountability. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
+    "tweetText": "Martin Scorsese is now using AI for storyboarding in his filmmaking process. This shows how even iconic directors are embracing new technology to enhance creativity. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 01 Jun 2026 20:03:40 +0000"
+    "publishedAt": "Tue, 02 Jun 2026 18:16:53 +0000"
   },
   {
-    "tweetText": "Anthropic has officially filed to go public, marking a significant step for the AI company that has gained major enterprise clients. This move highlights the growing importance and influence of AI in the business world. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
+    "tweetText": "Microsoft just launched Scout, a new AI assistant inspired by OpenClaw, at Build. This aims to enhance the capabilities of Microsoft 365, making it more powerful and flexible for users. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 01 Jun 2026 16:36:55 +0000"
+    "publishedAt": "Tue, 02 Jun 2026 18:02:44 +0000"
   },
   {
-    "tweetText": "A new AI weather startup, WindBorne, is outperforming government agencies in forecasting by using 400 data-gathering balloons worldwide. This could lead to more accurate weather predictions and better preparedness for extreme weather events. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/",
+    "tweetText": "Google is launching fake call detection to combat AI deepfake impersonation scams targeting phone users. This feature is crucial for protecting people from scams that exploit trust and familiarity. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/02/google-rolls-out-fake-call-detection-to-protect-against-ai-deepfake-impersonation-scams/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 01 Jun 2026 16:00:00 +0000"
+    "publishedAt": "Tue, 02 Jun 2026 18:00:00 +0000"
   },
   {
-    "tweetText": "DuckDuckGo just launched 'no AI' web extensions for Chrome and Firefox, making its alternative search engine more accessible. This matters as it caters to users seeking privacy and non-AI search options amidst a surge in traffic. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
+    "tweetText": "Microsoft has launched a new specification allowing developers to set custom policies for AI agents using portable files. This gives teams better control over AI behavior, enhancing compliance and security. via TechCrunch AI.",
+    "articleUrl": "https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 01 Jun 2026 14:49:10 +0000"
+    "publishedAt": "Tue, 02 Jun 2026 18:00:00 +0000"
+  },
+  {
+    "tweetText": "Trump has signed a revised executive order on AI oversight, now requiring only voluntary government reviews of advanced models. This change responds to industry concerns, balancing innovation with safety. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/02/trump-signs-narrower-executive-order-on-ai-oversight-after-industry-objections/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Tue, 02 Jun 2026 16:23:08 +0000"
+  },
+  {
+    "tweetText": "OpenAI has launched new Codex tools designed for various white-collar jobs like data analytics and investment banking. This will enhance productivity and streamline tasks for professionals across multiple industries. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Tue, 02 Jun 2026 16:00:00 +0000"
+  },
+  {
+    "tweetText": "Anthropic is expanding its Claude Mythos program to 150 organizations in 15 countries, focusing on critical infrastructure like power and healthcare. This move aims to protect vital services from potential cyberattacks impacting millions. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Tue, 02 Jun 2026 14:44:21 +0000"
   }
 ]
