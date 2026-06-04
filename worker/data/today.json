@@ -1,72 +1,72 @@
 [
   {
-    "tweetText": "Travelers launched an AI Claim Assistant using OpenAI to help customers file claims anytime and manage high demand. This innovation improves customer support and streamlines operations for the insurance industry. via OpenAI News",
-    "articleUrl": "https://openai.com/index/travelers",
+    "tweetText": "E.ON is modernizing its grid infrastructure using SAP S/4HANA to standardize data and implement AI. This shift is crucial for improving efficiency and managing costs across their extensive energy operations. via AI News.",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/how-e-on-uses-sap-s-4hana-to-modernise-the-grid-with-ai/",
+    "sourceName": "AI News",
+    "sourceHomeUrl": "https://www.artificialintelligence-news/",
+    "publishedAt": "Wed, 03 Jun 2026 12:29:42 +0000"
+  },
+  {
+    "tweetText": "Walmart is limiting employees' use of its internal AI assistant, Code Puppy, due to higher-than-expected demand on the system. This shift highlights the challenges companies face in balancing innovation with operational costs. via AI News.",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/walmart-limits-ai-use-as-workflows-meet-the-realities-of-the-balance-sheet/",
+    "sourceName": "AI News",
+    "sourceHomeUrl": "https://www.artificialintelligence-news/",
+    "publishedAt": "Wed, 03 Jun 2026 09:33:00 +0000"
+  },
+  {
+    "tweetText": "Microsoft launched the Majorana 2 quantum chip, boasting qubits 1,000 times more reliable than earlier models and a lifespan of 20 seconds. This breakthrough could accelerate the development of practical quantum computers by 2029. via AI News",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/microsoft-discovery-agentic-ai-majorana-2/",
+    "sourceName": "AI News",
+    "sourceHomeUrl": "https://www.artificialintelligence-news/",
+    "publishedAt": "Wed, 03 Jun 2026 09:00:00 +0000"
+  },
+  {
+    "tweetText": "GPT-Rosalind just got upgraded with better biological reasoning and analysis tools for life sciences research. This will help scientists make faster breakthroughs in medicine and genomics. via OpenAI News",
+    "articleUrl": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
     "sourceName": "OpenAI News",
     "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Tue, 02 Jun 2026 12:00:00 GMT"
+    "publishedAt": "Wed, 03 Jun 2026 13:15:00 GMT"
   },
   {
-    "tweetText": "Uber has capped employee spending on AI after exceeding its budget in just four months. This highlights the challenges companies face in managing rapid AI adoption. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 02 Jun 2026 19:11:48 +0000"
+    "tweetText": "Wasmer created a Node.js runtime for the edge using Codex and GPT-5.5, speeding up development from months to just weeks. This innovation could significantly enhance app performance and deployment times. via OpenAI News",
+    "articleUrl": "https://openai.com/index/wasmer",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Wed, 03 Jun 2026 12:00:00 GMT"
   },
   {
-    "tweetText": "Microsoft launched a new open-source tool called Adaptive Spec-driven Scoring for AI behavior testing. This will help developers easily evaluate and improve AI models, making tech more reliable. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 02 Jun 2026 19:02:21 +0000"
+    "tweetText": "OpenAI has proposed a federal framework for governing frontier AI in the U.S., focusing on safety and national security. This blueprint aims to ensure responsible AI development and protect democratic values. via OpenAI News",
+    "articleUrl": "https://openai.com/index/frontier-safety-blueprint",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Wed, 03 Jun 2026 10:00:00 GMT"
   },
   {
-    "tweetText": "Martin Scorsese is now using AI for storyboarding in his filmmaking process. This shows how even iconic directors are embracing new technology to enhance creativity. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 02 Jun 2026 18:16:53 +0000"
+    "tweetText": "OpenAI has announced its public policy agenda focusing on AI safety, youth protection, workforce transition, and global standards. This is crucial to ensure that AI technologies positively impact society. via OpenAI News",
+    "articleUrl": "https://openai.com/index/public-policy-agenda",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Wed, 03 Jun 2026 10:00:00 GMT"
   },
   {
-    "tweetText": "Microsoft just launched Scout, a new AI assistant inspired by OpenClaw, at Build. This aims to enhance the capabilities of Microsoft 365, making it more powerful and flexible for users. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/",
+    "tweetText": "Lovable has signed a multiyear deal with Google Cloud to increase its usage by 5x and gain broader access to Anthropic Claude. This partnership could boost Lovable's capabilities and innovation significantly. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 02 Jun 2026 18:02:44 +0000"
+    "publishedAt": "Wed, 03 Jun 2026 22:56:51 +0000"
   },
   {
-    "tweetText": "Google is launching fake call detection to combat AI deepfake impersonation scams targeting phone users. This feature is crucial for protecting people from scams that exploit trust and familiarity. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/02/google-rolls-out-fake-call-detection-to-protect-against-ai-deepfake-impersonation-scams/",
+    "tweetText": "Alphabet just raised a record $85 billion for Google's AI business, showing strong investor interest in AI. This could pave the way for more innovation and growth in the tech industry. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 02 Jun 2026 18:00:00 +0000"
+    "publishedAt": "Wed, 03 Jun 2026 19:38:32 +0000"
   },
   {
-    "tweetText": "Microsoft has launched a new specification allowing developers to set custom policies for AI agents using portable files. This gives teams better control over AI behavior, enhancing compliance and security. via TechCrunch AI.",
-    "articleUrl": "https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/",
+    "tweetText": "Google's new AI tool, Dreambeans, creates cartoon-like stories using your personal data. This could change how we interact with our digital lives by making it more creative and personalized. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 02 Jun 2026 18:00:00 +0000"
-  },
-  {
-    "tweetText": "Trump has signed a revised executive order on AI oversight, now requiring only voluntary government reviews of advanced models. This change responds to industry concerns, balancing innovation with safety. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/02/trump-signs-narrower-executive-order-on-ai-oversight-after-industry-objections/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 02 Jun 2026 16:23:08 +0000"
-  },
-  {
-    "tweetText": "OpenAI has launched new Codex tools designed for various white-collar jobs like data analytics and investment banking. This will enhance productivity and streamline tasks for professionals across multiple industries. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 02 Jun 2026 16:00:00 +0000"
-  },
-  {
-    "tweetText": "Anthropic is expanding its Claude Mythos program to 150 organizations in 15 countries, focusing on critical infrastructure like power and healthcare. This move aims to protect vital services from potential cyberattacks impacting millions. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 02 Jun 2026 14:44:21 +0000"
+    "publishedAt": "Wed, 03 Jun 2026 19:07:42 +0000"
   }
 ]
