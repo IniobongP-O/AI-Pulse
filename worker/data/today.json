@@ -1,72 +1,44 @@
 [
   {
-    "tweetText": "Gemini Enterprise Agent Platform has launched its Agentic RAG feature, improving data management and response reliability. This innovation is crucial for businesses that rely on accurate AI-driven insights. via Google Research Blog.",
-    "articleUrl": "https://research.google/blog/unlocking-dependable-responses-with-gemini-enterprise-agent-platforms-agentic-rag/",
-    "sourceName": "Google Research Blog",
-    "sourceHomeUrl": "https://research.google/blog/",
-    "publishedAt": "Fri, 05 Jun 2026 11:26:00 +0000"
-  },
-  {
-    "tweetText": "Google will pay SpaceX $920M a month for computing power due to a surge in demand for its new AI products. This partnership highlights the growing need for advanced tech in AI development. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
+    "tweetText": "OpenAI launched Lockdown Mode for ChatGPT to help protect sensitive data from prompt injection attacks. While not foolproof, it aims to reduce the chances of data leaks. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 05 Jun 2026 18:57:20 +0000"
+    "publishedAt": "Sat, 06 Jun 2026 20:32:24 +0000"
   },
   {
-    "tweetText": "Startups like Board and Cyberdeck are raising funds to create in-person experiences and DIY tech that encourage users to unplug from their devices. This shift highlights a growing desire for real-life connections in a digital world. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/",
+    "tweetText": "Sriram Krishnan is stepping down as the White House AI advisor to launch a new institution focused on AI policy. His move could influence the future of AI regulations under Trump's vision. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 05 Jun 2026 17:17:06 +0000"
+    "publishedAt": "Sat, 06 Jun 2026 17:42:15 +0000"
   },
   {
-    "tweetText": "AI companies are now facing rising costs and are shifting focus from rapid expansion to finding ways to manage expenses and implement controls. This change highlights the growing need for sustainable practices in the AI industry. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
+    "tweetText": "Trump's administration is considering taking an equity stake in OpenAI to ensure Americans benefit from AI's success. This could reshape how public and private interests align in the tech sector. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 05 Jun 2026 14:49:12 +0000"
+    "publishedAt": "Sat, 06 Jun 2026 16:17:21 +0000"
   },
   {
-    "tweetText": "Startups like Board are focusing on in-person social experiences, raising money amid the AI fundraising boom. This trend highlights a growing desire for real-world connection in a tech-dominated world. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/podcast/the-together-tech-wave-might-be-the-most-intriguing-startup-bet-of-2026/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 05 Jun 2026 14:00:00 +0000"
-  },
-  {
-    "tweetText": "AirTrunk is investing $30B to build 5GW of AI data centers in India. This move highlights the growing demand for data infrastructure to support AI technology. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 05 Jun 2026 13:03:10 +0000"
-  },
-  {
-    "tweetText": "Microsoft's AI products are struggling to gain traction, and GitHub is facing significant issues. This raises questions about the company's competitiveness in the rapidly evolving tech landscape. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/has-microsoft-lost-its-mojo-again/",
+    "tweetText": "Chinese peptide labs are booming thanks to crypto funding. This trend raises concerns about the intersection of finance, biotech, and security. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/security-news-this-week-crypto-funded-chinese-peptide-labs-are-booming/",
     "sourceName": "WIRED AI",
     "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Fri, 05 Jun 2026 15:00:00 +0000"
+    "publishedAt": "Sat, 06 Jun 2026 10:30:00 +0000"
   },
   {
-    "tweetText": "OpenAI and Anthropic are seen as rivals in AI, but investors are keen on supporting both companies. This highlights the belief that diverse bets in the AI space can yield strong returns. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/openai-and-anthropic-may-be-rivals-but-their-investors-arent-choosing-sides/",
-    "sourceName": "WIRED AI",
-    "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Fri, 05 Jun 2026 10:30:00 +0000"
-  },
-  {
-    "tweetText": "AI companies are adopting serif fonts to appear more human-like, but critics are labeling this trend as “tasteslop.” This shift highlights the ongoing battle between aesthetics and technology in design. via WIRED AI.",
-    "articleUrl": "https://www.wired.com/story/ai-has-come-for-serif-fonts/",
-    "sourceName": "WIRED AI",
-    "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Fri, 05 Jun 2026 09:00:00 +0000"
-  },
-  {
-    "tweetText": "Big Tech is pushing AI as the future of laptops, with Nvidia's CEO showcasing a new way of using them. This raises questions about whether people actually want these changes. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast",
+    "tweetText": "Meta has launched a new AI feature that generates clickbait articles for its users. This raises concerns about misinformation and the quality of content on social media. via The Verge AI.",
+    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles",
     "sourceName": "The Verge AI",
     "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-06-05T16:39:07.000Z"
+    "publishedAt": "2026-06-06T14:00:00.000Z"
+  },
+  {
+    "tweetText": "Apple is set to reintroduce a revamped Siri at WWDC 2024, after facing criticism for its previous AI rollout. This redesign could help Apple regain ground in the competitive AI landscape. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/tech/944245/apple-wwdc-2026-ai-siri-gemini",
+    "sourceName": "The Verge AI",
+    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
+    "publishedAt": "2026-06-06T12:00:00.000Z"
   }
 ]
