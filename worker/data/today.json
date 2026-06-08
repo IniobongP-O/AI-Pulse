@@ -1,44 +1,30 @@
 [
   {
-    "tweetText": "OpenAI launched Lockdown Mode for ChatGPT to help protect sensitive data from prompt injection attacks. While not foolproof, it aims to reduce the chances of data leaks. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+    "tweetText": "Big AI companies are gearing up to go public, which could lead to rising prices across the sector. This shift may reshape the market and attract more investment in AI technology. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sat, 06 Jun 2026 20:32:24 +0000"
+    "publishedAt": "Sun, 07 Jun 2026 20:26:13 +0000"
   },
   {
-    "tweetText": "Sriram Krishnan is stepping down as the White House AI advisor to launch a new institution focused on AI policy. His move could influence the future of AI regulations under Trump's vision. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
+    "tweetText": "Notion has restored access to Anthropic after a service disruption that surprised many users. This matters because it highlights the strong demand for AI tools and the impact of outages on productivity. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sat, 06 Jun 2026 17:42:15 +0000"
+    "publishedAt": "Sun, 07 Jun 2026 17:56:22 +0000"
   },
   {
-    "tweetText": "Trump's administration is considering taking an equity stake in OpenAI to ensure Americans benefit from AI's success. This could reshape how public and private interests align in the tech sector. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
+    "tweetText": "OpenAI is developing a \"super app,\" signaling a shift away from chat as the main focus. This could redefine how we interact with AI, expanding its applications beyond simple conversations. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sat, 06 Jun 2026 16:17:21 +0000"
+    "publishedAt": "Sun, 07 Jun 2026 16:23:22 +0000"
   },
   {
-    "tweetText": "Chinese peptide labs are booming thanks to crypto funding. This trend raises concerns about the intersection of finance, biotech, and security. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/security-news-this-week-crypto-funded-chinese-peptide-labs-are-booming/",
-    "sourceName": "WIRED AI",
-    "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Sat, 06 Jun 2026 10:30:00 +0000"
-  },
-  {
-    "tweetText": "Meta has launched a new AI feature that generates clickbait articles for its users. This raises concerns about misinformation and the quality of content on social media. via The Verge AI.",
-    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles",
+    "tweetText": "AI content creators are becoming harder to distinguish from real people, making them more influential in social media. This shift raises concerns about authenticity and trust in online interactions. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/943187/ai-content-creators",
     "sourceName": "The Verge AI",
     "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-06-06T14:00:00.000Z"
-  },
-  {
-    "tweetText": "Apple is set to reintroduce a revamped Siri at WWDC 2024, after facing criticism for its previous AI rollout. This redesign could help Apple regain ground in the competitive AI landscape. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/tech/944245/apple-wwdc-2026-ai-siri-gemini",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-06-06T12:00:00.000Z"
+    "publishedAt": "2026-06-07T12:00:00.000Z"
   }
 ]
