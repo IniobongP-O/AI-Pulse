@@ -1,30 +1,72 @@
 [
   {
-    "tweetText": "Big AI companies are gearing up to go public, which could lead to rising prices across the sector. This shift may reshape the market and attract more investment in AI technology. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sun, 07 Jun 2026 20:26:13 +0000"
+    "tweetText": "OpenAI has submitted a draft S-1 to the SEC confidentially but hasn't announced a timeline for next steps. This could signal a future public offering, impacting the AI investment landscape. via OpenAI News",
+    "articleUrl": "https://openai.com/index/openai-submits-confidential-s-1",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Mon, 08 Jun 2026 14:00:00 GMT"
   },
   {
-    "tweetText": "Notion has restored access to Anthropic after a service disruption that surprised many users. This matters because it highlights the strong demand for AI tools and the impact of outages on productivity. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
+    "tweetText": "Apple's cautious approach to AI is starting to pay off as it reveals promising advancements. This strategy may help the company counter claims that it's falling behind in the competitive tech landscape. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sun, 07 Jun 2026 17:56:22 +0000"
+    "publishedAt": "Tue, 09 Jun 2026 01:56:48 +0000"
   },
   {
-    "tweetText": "OpenAI is developing a \"super app,\" signaling a shift away from chat as the main focus. This could redefine how we interact with AI, expanding its applications beyond simple conversations. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
+    "tweetText": "OpenAI is filing for an IPO while Sam Altman's identity verification company, Tools for Humanity, faces layoffs due to revenue struggles. This highlights challenges in the AI sector despite OpenAI's growth. via TechCrunch AI.",
+    "articleUrl": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sun, 07 Jun 2026 16:23:22 +0000"
+    "publishedAt": "Mon, 08 Jun 2026 22:41:45 +0000"
   },
   {
-    "tweetText": "AI content creators are becoming harder to distinguish from real people, making them more influential in social media. This shift raises concerns about authenticity and trust in online interactions. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/943187/ai-content-creators",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-06-07T12:00:00.000Z"
+    "tweetText": "Apple's 2026 WWDC showcased impressive AI demos, feeling more authentic after a $250M false advertising settlement. This shift highlights the company's commitment to transparency and innovation in AI technology. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 08 Jun 2026 22:39:57 +0000"
+  },
+  {
+    "tweetText": "OpenAI has confidentially filed for an IPO, following rival Anthropic's recent filing. This intensifies the competition between these leading AI companies as they aim for public market entry. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 08 Jun 2026 21:29:57 +0000"
+  },
+  {
+    "tweetText": "Apple's WWDC keynote focused on fixes and performance upgrades, finally unveiling an upgraded AI-powered Siri. This shows Apple is committed to integrating AI into its software while addressing user needs. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/08/apple-plays-catch-up-at-wwdc/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 08 Jun 2026 21:15:42 +0000"
+  },
+  {
+    "tweetText": "Apple is waiving cloud API costs for small developers with under 2 million downloads to make AI more affordable. This move aims to boost innovation and attract smaller players in the competitive AI landscape. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 08 Jun 2026 20:53:55 +0000"
+  },
+  {
+    "tweetText": "Apple revealed major updates for Siri and iOS 27 at WWDC 2026, focusing on enhanced AI features. This aims to improve user experience and keep Apple competitive in the smart assistant space. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 08 Jun 2026 19:41:32 +0000"
+  },
+  {
+    "tweetText": "Apple is introducing AI features to Safari, Shortcuts, and Password apps that enhance user experience by predicting text and automating tasks. This shows Apple's commitment to integrating AI seamlessly into daily workflows. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/08/apple-just-taught-your-iphone-to-finish-your-sentences-your-photos-and-your-workflows/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 08 Jun 2026 18:48:45 +0000"
+  },
+  {
+    "tweetText": "Apple's Shortcuts app now lets users create workflows by simply describing them in a prompt, thanks to an AI upgrade. This makes it easier for everyone to automate tasks without coding skills. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/08/apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 08 Jun 2026 18:45:12 +0000"
   }
 ]
