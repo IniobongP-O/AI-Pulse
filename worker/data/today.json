@@ -1,72 +1,72 @@
 [
   {
-    "tweetText": "Nextdoor engineers are using Codex with GPT-5.5 to tackle tough problems and enhance cross-platform development. This innovation helps them prioritize product outcomes, boosting overall efficiency. via OpenAI News",
-    "articleUrl": "https://openai.com/index/nextdoor",
+    "tweetText": "Apple unveiled a new Siri AI powered by Google, but it’s not accessible to everyone worldwide. This move highlights the growing competition in AI tech and raises concerns about global access. via AI News",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/siri-ai-google-gemini-rollout/",
+    "sourceName": "AI News",
+    "sourceHomeUrl": "https://www.artificialintelligence-news/",
+    "publishedAt": "Wed, 10 Jun 2026 11:00:00 +0000"
+  },
+  {
+    "tweetText": "McDonald's is testing a new AI drive-thru ordering system called ArchIQ, backed by Google, at five locations in the U.S. This could revolutionize fast food ordering and improve efficiency. via AI News",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/mcdonalds-ai-drive-thru-google-archiq/",
+    "sourceName": "AI News",
+    "sourceHomeUrl": "https://www.artificialintelligence-news/",
+    "publishedAt": "Wed, 10 Jun 2026 10:00:00 +0000"
+  },
+  {
+    "tweetText": "OpenAI is backing the EU's Code of Practice on AI to enhance transparency and help users identify AI-generated content. This move aims to build trust in AI technology across Europe. via OpenAI News",
+    "articleUrl": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
     "sourceName": "OpenAI News",
     "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Tue, 09 Jun 2026 12:00:00 GMT"
+    "publishedAt": "Thu, 11 Jun 2026 00:00:00 GMT"
   },
   {
-    "tweetText": "Notion is using Codex to streamline specs, create AI Voice Input for the web, and boost productivity for small teams. This innovation enhances workflow efficiency and collaboration. via OpenAI News",
-    "articleUrl": "https://openai.com/index/notion",
+    "tweetText": "You can now access OpenAI models and Codex through Oracle Cloud by using your existing commitments. This collaboration enhances enterprise security and governance for AI deployment. via OpenAI News",
+    "articleUrl": "https://openai.com/index/openai-on-oracle-cloud",
     "sourceName": "OpenAI News",
     "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Tue, 09 Jun 2026 10:00:00 GMT"
+    "publishedAt": "Wed, 10 Jun 2026 20:00:00 GMT"
   },
   {
-    "tweetText": "Meta has signed a deal with Reliance to build its first AI data center in India, with a capacity of 168 megawatts. This facility will boost Meta's global AI computing and can grow to meet future demands. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 10 Jun 2026 07:05:26 +0000"
+    "tweetText": "A new report reveals that PRC-linked influence operations are using AI to manipulate U.S. discussions on tech issues and spread misinformation about ChatGPT. This highlights the growing concern over foreign interference in critical technology debates. via OpenAI News",
+    "articleUrl": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Wed, 10 Jun 2026 12:00:00 GMT"
   },
   {
-    "tweetText": "Google has slashed prices for its budget AI subscription, making it more affordable. This move could spark a price war among competitors, impacting the AI subscription landscape. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
+    "tweetText": "Opendoor is exiting India, sparking discussions about the role of AI in outsourcing. This move highlights the shifting dynamics in the global market as India becomes a key player in tech services. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 10 Jun 2026 00:26:10 +0000"
+    "publishedAt": "Thu, 11 Jun 2026 04:02:19 +0000"
   },
   {
-    "tweetText": "Justin Ernest bypassed the usual venture fund process, investing nearly $500M in startups like Anthropic and SpaceX using a network of LPs. This approach could reshape how funds are raised and startups are backed. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/",
+    "tweetText": "Anthropic CEO Dario Amodei now has just one direct report, highlighting his unique leadership style in AI. This streamlined structure could drive innovation and agility in the rapidly evolving tech landscape. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 09 Jun 2026 23:17:51 +0000"
+    "publishedAt": "Thu, 11 Jun 2026 03:53:06 +0000"
   },
   {
-    "tweetText": "A writer shares their desire for a personal AI assistant while questioning the dependency it might create. This highlights the growing concern over our reliance on technology for everyday tasks. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/",
+    "tweetText": "A former xAI engineer claims he was fired for warning about safety issues with Grok just before SpaceX’s IPO. This raises serious questions about AI safety protocols at major tech firms. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 09 Jun 2026 20:50:17 +0000"
+    "publishedAt": "Wed, 10 Jun 2026 22:31:19 +0000"
   },
   {
-    "tweetText": "Anthropic's Fable 5 can create unique video games instantly with just a click. This tool could revolutionize game development for creators everywhere. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/",
+    "tweetText": "Amazon just borrowed $17.5B from banks after a bond sale to fuel its AI investments. This reflects the intense financial pressure companies face to stay competitive in the booming AI market. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 09 Jun 2026 20:37:49 +0000"
+    "publishedAt": "Wed, 10 Jun 2026 20:19:31 +0000"
   },
   {
-    "tweetText": "Tech companies are exploring cheaper AI models that maintain quality, which could drastically change the economics of AI development. This shift could make powerful AI more accessible and cost-effective. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
+    "tweetText": "AI-focused companies are shelling out about $7,500 per employee each month on AI tools. This investment shows how seriously businesses are taking AI to boost productivity and stay competitive. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 09 Jun 2026 18:56:09 +0000"
-  },
-  {
-    "tweetText": "Apple unveiled major updates at WWDC 2026, focusing on Siri's enhancements and new features in iOS 27 with a strong emphasis on AI. These improvements aim to deliver a more intuitive and seamless user experience. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 09 Jun 2026 18:04:24 +0000"
-  },
-  {
-    "tweetText": "Anthropic has launched Claude Fable 5, its first public version of the Mythos-class AI model. This model includes safety features to prevent risky responses in sensitive areas like cybersecurity and biology. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 09 Jun 2026 17:00:00 +0000"
+    "publishedAt": "Wed, 10 Jun 2026 17:07:35 +0000"
   }
 ]
