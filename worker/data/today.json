@@ -1,72 +1,72 @@
 [
   {
-    "tweetText": "Visa has integrated its payment system with ChatGPT, allowing AI agents to recommend products and complete transactions without human help. This innovation streamlines shopping and enhances efficiency in retail purchasing. via AI News",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/visa-chatgpt-integration-enables-ai-agent-retail-purchasing/",
-    "sourceName": "AI News",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Thu, 11 Jun 2026 11:08:17 +0000"
+    "tweetText": "AI research is advancing to help users better understand skin conditions. This could improve self-diagnosis and lead to earlier treatments, enhancing overall skin health. via Google Research Blog",
+    "articleUrl": "https://research.google/blog/research-into-how-ai-can-help-users-understand-skin-conditions/",
+    "sourceName": "Google Research Blog",
+    "sourceHomeUrl": "https://research.google/blog/",
+    "publishedAt": "Fri, 12 Jun 2026 17:52:00 +0000"
   },
   {
-    "tweetText": "Xebia's CTO emphasizes that AI agents won't succeed without a strong data foundation. Proper data access is crucial for leveraging AI effectively and enhancing organizational processes. via AI News",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/xebia-on-building-the-data-foundation-for-ai-agents-and-then-accelerating/",
-    "sourceName": "AI News",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Thu, 11 Jun 2026 10:42:38 +0000"
+    "tweetText": "OpenAI launched new Academy courses focused on practical AI skills and efficient workflows. This move empowers individuals to thrive in the evolving job market. via OpenAI News",
+    "articleUrl": "https://openai.com/index/academy-courses-applying-ai-at-work",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Fri, 12 Jun 2026 10:00:00 GMT"
   },
   {
-    "tweetText": "Avataar AI has launched a cost-effective video AI model for India, priced at just $0.005 per second. This innovation could enhance video creation at scale, making it accessible for more creators and businesses. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
+    "tweetText": "Anthropic is upset after the government halted its powerful AI due to concerns over a potential vulnerability. This raises questions about AI safety and regulation as it impacts millions of users. via TechCrunch AI.",
+    "articleUrl": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 12 Jun 2026 04:30:00 +0000"
+    "publishedAt": "Sat, 13 Jun 2026 02:26:30 +0000"
   },
   {
-    "tweetText": "Jeff Bezos's startup Prometheus has raised $12B to develop an 'artificial general engineer' for physical tasks, now valued at $41B. This could revolutionize industries like engineering and pharmaceuticals. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
+    "tweetText": "Meta's AI unit, with 6,500 employees, is reportedly facing a rebellion due to poor working conditions. This highlights the challenges in managing large tech teams and can impact future AI development. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 12 Jun 2026 01:04:38 +0000"
+    "publishedAt": "Fri, 12 Jun 2026 23:00:54 +0000"
   },
   {
-    "tweetText": "Deezer launched a tool that scans playlists on Spotify, Apple Music, and more to identify AI-generated music. This innovation helps users distinguish between human-made and AI music, enhancing their listening experience. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
+    "tweetText": "Google is suing a Chinese cybercrime group called \"Outsider Enterprise\" for using AI to scam hundreds of thousands of victims through 2.5 million text messages. This highlights the growing threat of AI in online fraud. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 11 Jun 2026 16:36:20 +0000"
+    "publishedAt": "Fri, 12 Jun 2026 20:38:09 +0000"
   },
   {
-    "tweetText": "DoorDash launched a new AI chatbot, Ask DoorDash, enabling users to order by typing prompts or uploading photos. This makes ordering food easier and more intuitive, enhancing the user experience. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/",
+    "tweetText": "SpaceX, Anthropic, and OpenAI are set to go public, marking a shift in the IPO landscape from FAANG to a new group: MANGOS. This is a significant test for investors and could reshape tech valuations. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 11 Jun 2026 14:23:43 +0000"
+    "publishedAt": "Fri, 12 Jun 2026 16:23:25 +0000"
   },
   {
-    "tweetText": "Apple’s Camera Chief believes AI can enhance photography by adding fake pixels in iOS 27's Photos app. This innovation aims to improve user experience without relying on AI just for hype. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/apple-camera-chief-thinks-ai-can-give-you-superpowers/",
+    "tweetText": "The IPO market is heating up with new players, dubbed MANGOS, including Meta, Anthropic, Nvidia, Google, OpenAI, and SpaceX. This shift is crucial as it tests investor confidence and sets new valuation standards. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/podcast/its-hot-ipo-summer-and-the-mangos-are-ripe/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Fri, 12 Jun 2026 15:50:52 +0000"
+  },
+  {
+    "tweetText": "Anthropic is taking its AI model, Claude Fable 5, offline to follow a US government order due to concerns about potential security breaches. This highlights ongoing tensions between AI development and regulatory oversight. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/",
     "sourceName": "WIRED AI",
     "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Fri, 12 Jun 2026 01:00:00 +0000"
+    "publishedAt": "Sat, 13 Jun 2026 02:26:10 +0000"
   },
   {
-    "tweetText": "SpaceX is gearing up for an IPO, and you might already own shares without knowing it. This could change how everyday investors engage with groundbreaking tech companies. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/uncanny-valley-podcast-why-you-might-already-own-spacex-shares-siri-ai-makeover-knicks-owner-surveillance-machine/",
+    "tweetText": "Meta employees are frustrated with Mark Zuckerberg's plan for a companywide AI hackathon, questioning the company's support for such initiatives. This backlash highlights growing discontent within the workforce over management decisions. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/meta-employees-absolutely-hate-mark-zuckerbergs-hackathon-idea/",
     "sourceName": "WIRED AI",
     "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Thu, 11 Jun 2026 23:37:49 +0000"
+    "publishedAt": "Fri, 12 Jun 2026 23:45:26 +0000"
   },
   {
-    "tweetText": "OpenAI engineer Thibault Sottiaux is leading a major transformation of ChatGPT, building on its success in AI coding. This overhaul could enhance user experience and expand its impact in the AI space. via WIRED AI.",
-    "articleUrl": "https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/",
+    "tweetText": "Meta's new AI unit is facing significant turmoil, with both executives and staff confused about its direction. This chaos could hinder the company's ability to compete in the rapidly evolving AI landscape. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/",
     "sourceName": "WIRED AI",
     "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Thu, 11 Jun 2026 21:21:04 +0000"
-  },
-  {
-    "tweetText": "Apple's new Siri is designed to avoid being overly engaging or demanding personal info, unlike other chatbots. This approach emphasizes user privacy and control, setting Apple apart in the AI conversation. via The Verge AI.",
-    "articleUrl": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-06-12T07:00:31.000Z"
+    "publishedAt": "Fri, 12 Jun 2026 21:16:25 +0000"
   }
 ]
