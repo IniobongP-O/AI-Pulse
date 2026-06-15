@@ -1,72 +1,30 @@
 [
   {
-    "tweetText": "Anthropic has paused access to its new AI models, sparking discussions among tech leaders in India about the country's AI future. This could be a crucial moment for India's AI strategy and development. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+    "tweetText": "OpenAI just launched the Partner Network with a $150M investment to boost enterprise AI adoption worldwide. This move aims to accelerate AI deployment and transformation for businesses everywhere. via OpenAI News",
+    "articleUrl": "https://openai.com/index/introducing-openai-partner-network",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Sun, 14 Jun 2026 17:00:00 GMT"
+  },
+  {
+    "tweetText": "Tens of thousands are losing their jobs in AI, while a select few insiders are raking in massive profits. This stark contrast raises serious concerns about inequality in the tech industry. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sun, 14 Jun 2026 03:00:00 +0000"
+    "publishedAt": "Mon, 15 Jun 2026 07:25:41 +0000"
   },
   {
-    "tweetText": "KPMG has pulled a report on AI usage after it contained misleading information. This highlights ongoing concerns about the reliability of AI-generated content. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+    "tweetText": "AI startups are gearing up for IPOs, hoping to capitalize on the excitement around big tech launches like SpaceX. This trend could reshape the investment landscape and boost innovation in the AI sector. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sat, 13 Jun 2026 20:42:31 +0000"
+    "publishedAt": "Sun, 14 Jun 2026 16:38:09 +0000"
   },
   {
-    "tweetText": "Amazon CEO Andy Jassy reportedly raised security concerns about Anthropic's AI models, prompting the company to restrict access to them. This highlights the growing scrutiny around AI safety as governments consider regulations. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sat, 13 Jun 2026 19:11:41 +0000"
-  },
-  {
-    "tweetText": "OpenAI is under investigation by state attorneys general regarding its advertising practices and health data management. This scrutiny could impact the company's operations and regulatory landscape for AI. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sat, 13 Jun 2026 16:47:18 +0000"
-  },
-  {
-    "tweetText": "A court ruled that Google is liable for false statements made by its AI. This sets a precedent for how companies are held accountable for their AI's outputs. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/a-court-has-ruled-that-google-is-liable-for-false-statements-generated-by-ai-overviews/",
-    "sourceName": "WIRED AI",
-    "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Sat, 13 Jun 2026 09:00:00 +0000"
-  },
-  {
-    "tweetText": "Amazon's security research prompted the White House to ban Anthropic's Fable 5 and Mythos 5 due to cybersecurity risks. This highlights the growing concern over AI's potential misuse in cyberattacks. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
+    "tweetText": "The White House is concerned that China's government may have accessed Anthropic's AI models, Mythos 5 and Fable 5. This could pose a significant national security risk if they attempt to reverse engineer the technology. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
     "sourceName": "The Verge AI",
     "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-06-13T21:39:26.000Z"
-  },
-  {
-    "tweetText": "A user created a functional app in just minutes using Gemini AI, though it encountered a bug that required manual intervention. This shows the potential of AI to assist in app development, even if it still needs some human help. via The Verge AI.",
-    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-06-13T13:00:00.000Z"
-  },
-  {
-    "tweetText": "Anthropic has blocked access to its AI models Fable 5 and Mythos 5 for all foreign nations due to a government order citing national security. This raises concerns about transparency and the implications for global AI collaboration. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-06-13T12:55:49.000Z"
-  },
-  {
-    "tweetText": "Apple has rolled out its first serious AI photo editing tools for iPhone users in the iOS 27 beta. This marks a big step in enhancing photo editing capabilities, changing how we capture and edit memories. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/tech/949360/apple-ai-photo-edit-reframe-extend-clean-up-hands-on",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-06-13T12:00:00.000Z"
-  },
-  {
-    "tweetText": "Generative AI isn't living up to the hype in Hollywood, with studios struggling to create compelling content. This matters because the industry's reliance on AI could hinder future projects and innovation. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/948425/tribeca-2026-dear-upstairs-neighbors-google-deepmind-openai",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-06-13T11:00:00.000Z"
+    "publishedAt": "2026-06-14T18:27:55.000Z"
   }
 ]
