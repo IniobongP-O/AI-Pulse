@@ -1,30 +1,72 @@
 [
   {
-    "tweetText": "OpenAI just launched the Partner Network with a $150M investment to boost enterprise AI adoption worldwide. This move aims to accelerate AI deployment and transformation for businesses everywhere. via OpenAI News",
-    "articleUrl": "https://openai.com/index/introducing-openai-partner-network",
-    "sourceName": "OpenAI News",
-    "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Sun, 14 Jun 2026 17:00:00 GMT"
+    "tweetText": "The EU has released its AI content labelling playbook to help companies comply with new transparency rules starting August 2. This initiative aims to ensure accountability and trust in the use of generative AI across the bloc. via AI News",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/ai-content-labelling-eu-code-of-practice/",
+    "sourceName": "AI News",
+    "sourceHomeUrl": "https://www.artificialintelligence-news/",
+    "publishedAt": "Tue, 16 Jun 2026 10:00:00 +0000"
   },
   {
-    "tweetText": "Tens of thousands are losing their jobs in AI, while a select few insiders are raking in massive profits. This stark contrast raises serious concerns about inequality in the tech industry. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
+    "tweetText": "AI red teaming is crucial for testing systems under tough conditions to find weaknesses before they’re used. This helps organizations enhance safety and reliability in AI deployment. via AI News",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/ai-red-teaming-explained-what-it-is-and-why-you-need-it/",
+    "sourceName": "AI News",
+    "sourceHomeUrl": "https://www.artificialintelligence-news/",
+    "publishedAt": "Tue, 16 Jun 2026 08:06:43 +0000"
+  },
+  {
+    "tweetText": "AI-powered CMS platforms are changing how businesses manage content by streamlining processes and improving coordination. This shift enhances efficiency and effectiveness in reaching diverse markets and contributors. via AI News.",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/how-ai-powered-cms-platforms-are-transforming-enterprise-content-operations/",
+    "sourceName": "AI News",
+    "sourceHomeUrl": "https://www.artificialintelligence-news/",
+    "publishedAt": "Tue, 16 Jun 2026 07:49:07 +0000"
+  },
+  {
+    "tweetText": "Huawei announced HarmonyOS 7, seizing the opportunity left by Apple’s Siri not launching in China. This move could strengthen Huawei's position in the AI market and offer a localized alternative for users. via AI News",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/harmonyos-7-china-ai-apple-gap/",
+    "sourceName": "AI News",
+    "sourceHomeUrl": "https://www.artificialintelligence-news/",
+    "publishedAt": "Mon, 15 Jun 2026 11:00:00 +0000"
+  },
+  {
+    "tweetText": "Malaysia's Respond.io raised $62.5M to enhance its AI agent-powered messaging app and plans acquisitions. This funding helps the startup scale its innovative approach to customer support, charging by conversation instead of seats. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 15 Jun 2026 07:25:41 +0000"
+    "publishedAt": "Tue, 16 Jun 2026 06:59:00 +0000"
   },
   {
-    "tweetText": "AI startups are gearing up for IPOs, hoping to capitalize on the excitement around big tech launches like SpaceX. This trend could reshape the investment landscape and boost innovation in the AI sector. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
+    "tweetText": "Sundar Pichai got booed and faced a walkout at Stanford's graduation due to Google's ties with Israel and ICE. This highlights ongoing concerns about tech companies' roles in controversial defense contracts. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sun, 14 Jun 2026 16:38:09 +0000"
+    "publishedAt": "Mon, 15 Jun 2026 23:51:44 +0000"
   },
   {
-    "tweetText": "The White House is concerned that China's government may have accessed Anthropic's AI models, Mythos 5 and Fable 5. This could pose a significant national security risk if they attempt to reverse engineer the technology. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-06-14T18:27:55.000Z"
+    "tweetText": "The US government forced Anthropic to pull its new cybersecurity models, showing they can intervene in the AI industry. This highlights ongoing tensions between tech innovation and government regulation. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 15 Jun 2026 21:50:21 +0000"
+  },
+  {
+    "tweetText": "Meta is launching a new 'AI Mode' on Facebook that uses public info from its platforms to enhance user engagement. This move shows Meta's commitment to staying competitive in the fast-evolving AI landscape. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 15 Jun 2026 18:30:58 +0000"
+  },
+  {
+    "tweetText": "Cybersecurity experts are pushing the White House to lift export bans on Anthropic's Fable and Mythos AI models. They believe these restrictions hinder defenders' ability to protect software and products. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 15 Jun 2026 15:29:51 +0000"
+  },
+  {
+    "tweetText": "Salesforce just acquired AI customer service platform Fin for $3.6B to enhance its Agentforce offering. This move aims to boost automation in customer service for businesses. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 15 Jun 2026 14:34:45 +0000"
   }
 ]
