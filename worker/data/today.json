@@ -1,72 +1,72 @@
 [
   {
-    "tweetText": "The EU has released its AI content labelling playbook to help companies comply with new transparency rules starting August 2. This initiative aims to ensure accountability and trust in the use of generative AI across the bloc. via AI News",
+    "tweetText": "Google's new Earth AI tool helps in nature restoration by analyzing satellite images to plan conservation efforts. This tech could significantly boost our ability to combat climate change and protect ecosystems. via Google Research Blog.",
+    "articleUrl": "https://research.google/blog/from-pixels-to-planning-earth-ai-for-nature-restoration/",
+    "sourceName": "Google Research Blog",
+    "sourceHomeUrl": "https://research.google/blog/",
+    "publishedAt": "Tue, 16 Jun 2026 17:30:00 +0000"
+  },
+  {
+    "tweetText": "Insurers are shifting their AI strategies to focus on core risk underwriting, aiming for real business value instead of just efficiency. This change could enhance underwriting practices and improve capital allocation in the industry. via AI News.",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/insurers-pivot-ai-strategy-toward-core-risk-underwriting/",
+    "sourceName": "AI News",
+    "sourceHomeUrl": "https://www.artificialintelligence-news/",
+    "publishedAt": "Tue, 16 Jun 2026 15:55:02 +0000"
+  },
+  {
+    "tweetText": "The EU has released its AI content labelling playbook to guide companies on transparency rules before the August deadline. This move is crucial for ensuring accountability and trust in AI technologies across the bloc. via AI News.",
     "articleUrl": "https://www.artificialintelligence-news.com/news/ai-content-labelling-eu-code-of-practice/",
     "sourceName": "AI News",
     "sourceHomeUrl": "https://www.artificialintelligence-news/",
     "publishedAt": "Tue, 16 Jun 2026 10:00:00 +0000"
   },
   {
-    "tweetText": "AI red teaming is crucial for testing systems under tough conditions to find weaknesses before they’re used. This helps organizations enhance safety and reliability in AI deployment. via AI News",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/ai-red-teaming-explained-what-it-is-and-why-you-need-it/",
-    "sourceName": "AI News",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Tue, 16 Jun 2026 08:06:43 +0000"
-  },
-  {
-    "tweetText": "AI-powered CMS platforms are changing how businesses manage content by streamlining processes and improving coordination. This shift enhances efficiency and effectiveness in reaching diverse markets and contributors. via AI News.",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/how-ai-powered-cms-platforms-are-transforming-enterprise-content-operations/",
-    "sourceName": "AI News",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Tue, 16 Jun 2026 07:49:07 +0000"
-  },
-  {
-    "tweetText": "Huawei announced HarmonyOS 7, seizing the opportunity left by Apple’s Siri not launching in China. This move could strengthen Huawei's position in the AI market and offer a localized alternative for users. via AI News",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/harmonyos-7-china-ai-apple-gap/",
-    "sourceName": "AI News",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Mon, 15 Jun 2026 11:00:00 +0000"
-  },
-  {
-    "tweetText": "Malaysia's Respond.io raised $62.5M to enhance its AI agent-powered messaging app and plans acquisitions. This funding helps the startup scale its innovative approach to customer support, charging by conversation instead of seats. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/",
+    "tweetText": "Anthropic's clash with the Trump administration is surprisingly boosting its popularity among business users, according to sales data. This could strengthen its market position in the AI sector. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 16 Jun 2026 06:59:00 +0000"
+    "publishedAt": "Tue, 16 Jun 2026 22:34:17 +0000"
   },
   {
-    "tweetText": "Sundar Pichai got booed and faced a walkout at Stanford's graduation due to Google's ties with Israel and ICE. This highlights ongoing concerns about tech companies' roles in controversial defense contracts. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/",
+    "tweetText": "Google launched Android 17 and Wear OS 7, adding multitasking tools, parental controls, and security upgrades. This update enhances user experience and integrates the latest AI models across devices. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 15 Jun 2026 23:51:44 +0000"
+    "publishedAt": "Tue, 16 Jun 2026 18:00:00 +0000"
   },
   {
-    "tweetText": "The US government forced Anthropic to pull its new cybersecurity models, showing they can intervene in the AI industry. This highlights ongoing tensions between tech innovation and government regulation. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+    "tweetText": "A new survey shows 60% of US consumers find AI in brand messaging off-putting. This highlights a growing disconnect between companies embracing AI and consumer preferences. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 15 Jun 2026 21:50:21 +0000"
+    "publishedAt": "Tue, 16 Jun 2026 16:49:44 +0000"
   },
   {
-    "tweetText": "Meta is launching a new 'AI Mode' on Facebook that uses public info from its platforms to enhance user engagement. This move shows Meta's commitment to staying competitive in the fast-evolving AI landscape. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
+    "tweetText": "Plaud's software business has surpassed $100M in annual recurring revenue after delivering over 2 million AI notetakers. This highlights the growing demand for AI tools in the competitive meeting productivity space. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/16/plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-notetakers/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 15 Jun 2026 18:30:58 +0000"
+    "publishedAt": "Tue, 16 Jun 2026 15:00:00 +0000"
   },
   {
-    "tweetText": "Cybersecurity experts are pushing the White House to lift export bans on Anthropic's Fable and Mythos AI models. They believe these restrictions hinder defenders' ability to protect software and products. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
+    "tweetText": "Robinhood's CEO announced a 10% workforce reduction but didn't blame AI like many others in tech. This highlights a shift in strategy, suggesting Robinhood may not see AI as a reason for job cuts. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/16/robinhoods-note-on-10-layoffs-shows-blaming-ai-isnt-cutting-it/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 15 Jun 2026 15:29:51 +0000"
+    "publishedAt": "Tue, 16 Jun 2026 14:50:09 +0000"
   },
   {
-    "tweetText": "Salesforce just acquired AI customer service platform Fin for $3.6B to enhance its Agentforce offering. This move aims to boost automation in customer service for businesses. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
+    "tweetText": "Probably has raised $9M to develop AI that reduces hallucinations and factual errors, aiming for accuracy similar to traditional systems. This could enhance trust in AI and improve user experience. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 15 Jun 2026 14:34:45 +0000"
+    "publishedAt": "Tue, 16 Jun 2026 13:15:09 +0000"
+  },
+  {
+    "tweetText": "SpaceX is set to acquire Cursor for $60B in stock to boost its AI division. This move highlights the company's belief in a massive $26 trillion AI market opportunity. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Tue, 16 Jun 2026 11:21:41 +0000"
   }
 ]
