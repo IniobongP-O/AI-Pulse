@@ -1,72 +1,72 @@
 [
   {
-    "tweetText": "Google's new Earth AI tool helps in nature restoration by analyzing satellite images to plan conservation efforts. This tech could significantly boost our ability to combat climate change and protect ecosystems. via Google Research Blog.",
-    "articleUrl": "https://research.google/blog/from-pixels-to-planning-earth-ai-for-nature-restoration/",
-    "sourceName": "Google Research Blog",
-    "sourceHomeUrl": "https://research.google/blog/",
-    "publishedAt": "Tue, 16 Jun 2026 17:30:00 +0000"
-  },
-  {
-    "tweetText": "Insurers are shifting their AI strategies to focus on core risk underwriting, aiming for real business value instead of just efficiency. This change could enhance underwriting practices and improve capital allocation in the industry. via AI News.",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/insurers-pivot-ai-strategy-toward-core-risk-underwriting/",
+    "tweetText": "Microsoft is now the main supplier of OpenAI models in China, while OpenAI and Anthropic stay out due to concerns over misuse. This gives Microsoft a unique advantage in the Chinese AI market. via AI News",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/microsoft-sells-openai-models-china/",
     "sourceName": "AI News",
     "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Tue, 16 Jun 2026 15:55:02 +0000"
+    "publishedAt": "Thu, 18 Jun 2026 09:00:00 +0000"
   },
   {
-    "tweetText": "The EU has released its AI content labelling playbook to guide companies on transparency rules before the August deadline. This move is crucial for ensuring accountability and trust in AI technologies across the bloc. via AI News.",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/ai-content-labelling-eu-code-of-practice/",
+    "tweetText": "Google Cloud's generative AI is being used by government ministries to streamline council planning operations, addressing delays in infrastructure development. This tech could help meet the UK's ambitious goal of building 1.5 million new homes by 2029. via AI News",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/google-cloud-generative-ai-automates-council-planning-operations/",
     "sourceName": "AI News",
     "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Tue, 16 Jun 2026 10:00:00 +0000"
+    "publishedAt": "Wed, 17 Jun 2026 10:59:42 +0000"
   },
   {
-    "tweetText": "Anthropic's clash with the Trump administration is surprisingly boosting its popularity among business users, according to sales data. This could strengthen its market position in the AI sector. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 16 Jun 2026 22:34:17 +0000"
+    "tweetText": "A new AI chemist developed by OpenAI and Molecule.one has enhanced a crucial reaction in drug-making. This breakthrough could accelerate advancements in medicinal chemistry. via OpenAI News.",
+    "articleUrl": "https://openai.com/index/ai-chemist-improves-reaction",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Wed, 17 Jun 2026 10:00:00 GMT"
   },
   {
-    "tweetText": "Google launched Android 17 and Wear OS 7, adding multitasking tools, parental controls, and security upgrades. This update enhances user experience and integrates the latest AI models across devices. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
+    "tweetText": "Google Docs users can now turn off the annoying \"write with Gemini\" AI pop-ups. This gives people more control over their writing experience and reduces distractions. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 16 Jun 2026 18:00:00 +0000"
+    "publishedAt": "Thu, 18 Jun 2026 01:23:51 +0000"
   },
   {
-    "tweetText": "A new survey shows 60% of US consumers find AI in brand messaging off-putting. This highlights a growing disconnect between companies embracing AI and consumer preferences. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
+    "tweetText": "NEA's Tiffany Luck says companies are still trying to understand their return on investment from AI after a spending spree. This matters because mismanaged budgets could stifle innovation and growth in the tech sector. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 16 Jun 2026 16:49:44 +0000"
+    "publishedAt": "Wed, 17 Jun 2026 20:17:38 +0000"
   },
   {
-    "tweetText": "Plaud's software business has surpassed $100M in annual recurring revenue after delivering over 2 million AI notetakers. This highlights the growing demand for AI tools in the competitive meeting productivity space. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/16/plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-notetakers/",
+    "tweetText": "World leaders, including Macron and Modi, are concerned about the U.S. ability to restrict access to American AI after recent events raised alarms. This highlights the global dependency on U.S. technology and the risks of sudden access cuts. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 16 Jun 2026 15:00:00 +0000"
+    "publishedAt": "Wed, 17 Jun 2026 19:01:19 +0000"
   },
   {
-    "tweetText": "Robinhood's CEO announced a 10% workforce reduction but didn't blame AI like many others in tech. This highlights a shift in strategy, suggesting Robinhood may not see AI as a reason for job cuts. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/16/robinhoods-note-on-10-layoffs-shows-blaming-ai-isnt-cutting-it/",
+    "tweetText": "Anthropic is now the first AI startup to join the Frontier carbon removal coalition, which just secured $915M for carbon removal initiatives. This move highlights the growing role of tech in tackling climate change. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 16 Jun 2026 14:50:09 +0000"
+    "publishedAt": "Wed, 17 Jun 2026 18:30:56 +0000"
   },
   {
-    "tweetText": "Probably has raised $9M to develop AI that reduces hallucinations and factual errors, aiming for accuracy similar to traditional systems. This could enhance trust in AI and improve user experience. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/",
+    "tweetText": "Silicon Valley's AI spending frenzy has hit a wall, with companies like Uber overspending budgets and Meta scaling back initiatives. This shift highlights the need for a more sustainable approach to AI investments. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/podcast/neas-tiffany-luck-on-ai-ipos-personal-agents-and-the-roi-reckoning/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 16 Jun 2026 13:15:09 +0000"
+    "publishedAt": "Wed, 17 Jun 2026 18:00:00 +0000"
   },
   {
-    "tweetText": "SpaceX is set to acquire Cursor for $60B in stock to boost its AI division. This move highlights the company's belief in a massive $26 trillion AI market opportunity. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/",
+    "tweetText": "Odyssey, a world model maker, has reached a $1.45B valuation with backing from Amazon and other major players. This highlights the growing importance of world models in the AI landscape beyond traditional language models. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 16 Jun 2026 11:21:41 +0000"
+    "publishedAt": "Wed, 17 Jun 2026 17:43:07 +0000"
+  },
+  {
+    "tweetText": "A new Pew Research study reveals only 16% of Americans believe AI will positively impact society. This highlights a growing disconnect between Wall Street's enthusiasm and public skepticism about AI's benefits. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Wed, 17 Jun 2026 17:00:01 +0000"
   }
 ]
