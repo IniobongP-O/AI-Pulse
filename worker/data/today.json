@@ -1,72 +1,72 @@
 [
   {
-    "tweetText": "Microsoft is now the main supplier of OpenAI models in China, while OpenAI and Anthropic stay out due to concerns over misuse. This gives Microsoft a unique advantage in the Chinese AI market. via AI News",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/microsoft-sells-openai-models-china/",
-    "sourceName": "AI News",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Thu, 18 Jun 2026 09:00:00 +0000"
-  },
-  {
-    "tweetText": "Google Cloud's generative AI is being used by government ministries to streamline council planning operations, addressing delays in infrastructure development. This tech could help meet the UK's ambitious goal of building 1.5 million new homes by 2029. via AI News",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/google-cloud-generative-ai-automates-council-planning-operations/",
-    "sourceName": "AI News",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Wed, 17 Jun 2026 10:59:42 +0000"
-  },
-  {
-    "tweetText": "A new AI chemist developed by OpenAI and Molecule.one has enhanced a crucial reaction in drug-making. This breakthrough could accelerate advancements in medicinal chemistry. via OpenAI News.",
-    "articleUrl": "https://openai.com/index/ai-chemist-improves-reaction",
+    "tweetText": "OpenAI rolled out new spend controls and usage analytics for ChatGPT Enterprise, allowing businesses to monitor costs more effectively. This update helps organizations use AI confidently and manage expenses as they scale. via OpenAI News",
+    "articleUrl": "https://openai.com/index/chatgpt-enterprise-spend-controls",
     "sourceName": "OpenAI News",
     "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Wed, 17 Jun 2026 10:00:00 GMT"
+    "publishedAt": "Thu, 18 Jun 2026 17:00:00 GMT"
   },
   {
-    "tweetText": "Google Docs users can now turn off the annoying \"write with Gemini\" AI pop-ups. This gives people more control over their writing experience and reduces distractions. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 18 Jun 2026 01:23:51 +0000"
+    "tweetText": "ChatGPT's latest update, GPT-5.5 Instant, enhances health responses by improving reasoning and clarity, backed by physician insights. This means users get more accurate and reliable health information. via OpenAI News",
+    "articleUrl": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Thu, 18 Jun 2026 11:00:00 GMT"
   },
   {
-    "tweetText": "NEA's Tiffany Luck says companies are still trying to understand their return on investment from AI after a spending spree. This matters because mismanaged budgets could stifle innovation and growth in the tech sector. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/",
+    "tweetText": "Elastic is set to acquire DeductiveAI for up to $85M. This deal highlights the growing importance of AI in software development and bug resolution. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 17 Jun 2026 20:17:38 +0000"
+    "publishedAt": "Fri, 19 Jun 2026 00:51:11 +0000"
   },
   {
-    "tweetText": "World leaders, including Macron and Modi, are concerned about the U.S. ability to restrict access to American AI after recent events raised alarms. This highlights the global dependency on U.S. technology and the risks of sudden access cuts. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
+    "tweetText": "AI startup Baseten is reportedly about to raise $1.5 billion, valuing the company at $13 billion. This shows strong investor confidence in AI technologies as the demand for AI inference grows. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 17 Jun 2026 19:01:19 +0000"
+    "publishedAt": "Thu, 18 Jun 2026 21:20:13 +0000"
   },
   {
-    "tweetText": "Anthropic is now the first AI startup to join the Frontier carbon removal coalition, which just secured $915M for carbon removal initiatives. This move highlights the growing role of tech in tackling climate change. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/",
+    "tweetText": "Snap is spinning off its AI video team into a new company called Dotmo as part of cost-cutting efforts. This move highlights the growing focus on AI in the video space and Snap's shift in priorities. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 17 Jun 2026 18:30:56 +0000"
+    "publishedAt": "Thu, 18 Jun 2026 20:30:00 +0000"
   },
   {
-    "tweetText": "Silicon Valley's AI spending frenzy has hit a wall, with companies like Uber overspending budgets and Meta scaling back initiatives. This shift highlights the need for a more sustainable approach to AI investments. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/podcast/neas-tiffany-luck-on-ai-ipos-personal-agents-and-the-roi-reckoning/",
+    "tweetText": "OpenAI is gearing up for its IPO by hiring key figures like Transformer co-inventor Noam Shazeer and ex-Trump AI policy official Dean Ball. This move highlights OpenAI's commitment to strengthening its leadership and innovation. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 17 Jun 2026 18:00:00 +0000"
+    "publishedAt": "Thu, 18 Jun 2026 19:59:22 +0000"
   },
   {
-    "tweetText": "Odyssey, a world model maker, has reached a $1.45B valuation with backing from Amazon and other major players. This highlights the growing importance of world models in the AI landscape beyond traditional language models. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names/",
+    "tweetText": "Nearly half of US singles have a negative view of AI in dating, according to Match. This highlights the tension between tech and romance, as many still see value in AI for improving profiles and conversations. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 17 Jun 2026 17:43:07 +0000"
+    "publishedAt": "Thu, 18 Jun 2026 18:51:46 +0000"
   },
   {
-    "tweetText": "A new Pew Research study reveals only 16% of Americans believe AI will positively impact society. This highlights a growing disconnect between Wall Street's enthusiasm and public skepticism about AI's benefits. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
+    "tweetText": "Amazon is aiming to compete with Nvidia by selling its AI chips to other data centers. This could unlock a $50 billion market opportunity for the company. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 17 Jun 2026 17:00:01 +0000"
+    "publishedAt": "Thu, 18 Jun 2026 18:22:13 +0000"
+  },
+  {
+    "tweetText": "The government has ordered grid operators to prioritize interconnections for AI data centers. This is significant as it could speed up their growth but doesn't solve existing electricity supply issues. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Thu, 18 Jun 2026 17:49:23 +0000"
+  },
+  {
+    "tweetText": "Karamo Brown from 'Queer Eye' has launched Kē, a wellness app featuring his AI digital clone to support personal growth. This matters because it combines technology with wellness, making self-improvement more accessible. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Thu, 18 Jun 2026 16:55:04 +0000"
   }
 ]
