@@ -1,72 +1,37 @@
 [
   {
-    "tweetText": "SAP and Google Cloud are launching agentic commerce architecture to automate marketing and retail for large businesses. This is crucial as 78% of companies see AI as key for customer retention, yet data sharing remains a challenge. via AI News.",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/sap-and-google-cloud-deploy-agentic-commerce-architecture/",
-    "sourceName": "AI News",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Fri, 19 Jun 2026 14:02:20 +0000"
-  },
-  {
-    "tweetText": "e2e-assure launched Cumulo, the U.K.’s first AI-driven SOC platform for IT and OT security. It helps organizations detect threats early, enhancing cybersecurity amid growing digital risks. via AI News.",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/e2e-assure-introduces-cumulo-the-u-k-s-only-sovereign-ai-driven-zero-day-soc-platform-to-secure-it-and-ot-environments/",
-    "sourceName": "AI News",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Fri, 19 Jun 2026 09:57:55 +0000"
-  },
-  {
-    "tweetText": "For 30 years, export controls on cybersecurity software have failed to stop the flow of tech. With Anthropic's new model Mythos, it's questionable why things would change now. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+    "tweetText": "Signal's Meredith Whittaker warns that AI chatbots are not friends or conscious beings. This matters because it highlights the need for users to understand the limitations and nature of AI interactions. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 19 Jun 2026 22:40:14 +0000"
+    "publishedAt": "Sat, 20 Jun 2026 20:32:29 +0000"
   },
   {
-    "tweetText": "The US government banned Anthropic's new AI models over security concerns, sparking backlash from cybersecurity experts. This controversy may inadvertently boost Anthropic's visibility and demand. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
+    "tweetText": "A new AI tool called \"In the Weights\" lets users check their fitness scores and progress. This matters because it combines AI with personal health tracking, making fitness more accessible and engaging. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 19 Jun 2026 16:08:17 +0000"
+    "publishedAt": "Sat, 20 Jun 2026 19:41:11 +0000"
   },
   {
-    "tweetText": "The US government banned Anthropic's Fable 5 release over security concerns. This raises questions about the effectiveness of AI safety measures and could impact future AI development. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/",
+    "tweetText": "Nobel laureate John Jumper is leaving DeepMind to join rival Anthropic, following a trend of high-profile exits from Google. This shift highlights the competitive landscape in AI development as top talent moves between leading companies. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 19 Jun 2026 16:01:03 +0000"
+    "publishedAt": "Sat, 20 Jun 2026 16:39:57 +0000"
   },
   {
-    "tweetText": "Billionaire Mukesh Ambani is integrating AI into telecom services, reaching over 500 million users. This move could transform everyday communication and tech experiences for millions. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 19 Jun 2026 15:23:28 +0000"
+    "tweetText": "Siri's latest AI upgrade makes it more conversational and genuinely helpful. This could change how we interact with technology in our daily lives. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/siri-ai-hands-on-iphone/",
+    "sourceName": "WIRED AI",
+    "sourceHomeUrl": "https://wired.com/tag/ai/",
+    "publishedAt": "Sat, 20 Jun 2026 10:00:00 +0000"
   },
   {
-    "tweetText": "The CEO of Allbirds has launched a new AI startup with a big seed round but lacks a team to move forward. This raises questions about how effective the venture can be without the right talent in place. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 19 Jun 2026 13:00:00 +0000"
-  },
-  {
-    "tweetText": "Amazon MGM has dropped the film \"Artificial,\" about OpenAI CEO Sam Altman, directed by Luca Guadagnino. This matters as it highlights the challenges in bringing high-profile tech stories to the big screen. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
+    "tweetText": "The Atlantic has launched a searchable database of music datasets used to train AI, featuring millions of tracks. This transparency helps understand AI training practices and the music industry’s role in it. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
     "sourceName": "The Verge AI",
     "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-06-19T14:15:29.000Z"
-  },
-  {
-    "tweetText": "A startup called Subquadratic claims to have solved a key mathematical bottleneck that has been hindering large language models (LLMs). This breakthrough could significantly advance AI development and capabilities. via MIT Technology Review.",
-    "articleUrl": "https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/",
-    "sourceName": "MIT Technology Review",
-    "sourceHomeUrl": "https://www.technologyreview.com/topic/artificial-intelligence/",
-    "publishedAt": "Fri, 19 Jun 2026 12:10:00 +0000"
-  },
-  {
-    "tweetText": "Miami startup Subquadratic claims it has solved a long-standing mathematical bottleneck for large language models. If true, this could significantly enhance AI capabilities and development. via MIT Technology Review.",
-    "articleUrl": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
-    "sourceName": "MIT Technology Review",
-    "sourceHomeUrl": "https://www.technologyreview.com/topic/artificial-intelligence/",
-    "publishedAt": "Fri, 19 Jun 2026 10:40:24 +0000"
+    "publishedAt": "2026-06-20T18:46:48.000Z"
   }
 ]
