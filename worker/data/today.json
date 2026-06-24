@@ -1,72 +1,72 @@
 [
   {
-    "tweetText": "Top intelligence agencies warn that AI cyber threats will soon affect individuals and businesses. This is a wake-up call to strengthen cybersecurity measures now. via AI News.",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/five-eyes-warning-ai-cyber-threats/",
+    "tweetText": "Omio is using OpenAI models to speed up travel product development and improve booking systems. This integration shows how tech can enhance operations instead of just being added to outdated processes. via AI News",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/omio-scales-travel-product-development-using-openai-models/",
     "sourceName": "AI News",
     "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Tue, 23 Jun 2026 08:00:00 +0000"
+    "publishedAt": "Tue, 23 Jun 2026 16:32:28 +0000"
   },
   {
-    "tweetText": "Sakana AI launched Fugu, a multi-agent model to reduce risks from relying on a single AI vendor. This matters as it helps enterprises avoid operational vulnerabilities and enhances flexibility in AI deployments. via AI News",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/mitigating-vendor-lock-in-sakana-ai-fugu-multi-agent-models/",
-    "sourceName": "AI News",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Mon, 22 Jun 2026 16:11:21 +0000"
-  },
-  {
-    "tweetText": "L’Oréal is integrating Maybelline's virtual makeup try-on feature into ChatGPT, announced at VivaTech 2026. This partnership enhances shopping experiences and showcases AI's role in beauty and consumer interaction. via AI News.",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/loreal-maybelline-virtual-try-on-chatgpt/",
-    "sourceName": "AI News",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Mon, 22 Jun 2026 10:00:00 +0000"
-  },
-  {
-    "tweetText": "Omio is using OpenAI to create smarter travel conversations and speed up product development. This shift to an AI-native approach could revolutionize how we plan our trips. via OpenAI News",
-    "articleUrl": "https://openai.com/index/omio",
+    "tweetText": "OpenAI is collaborating with the Appia Foundation to create shared standards for advanced AI, focusing on evaluation and safety practices. This initiative is crucial for ensuring global cooperation in AI development. via OpenAI News",
+    "articleUrl": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
     "sourceName": "OpenAI News",
     "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Tue, 23 Jun 2026 00:00:00 GMT"
+    "publishedAt": "Tue, 23 Jun 2026 13:00:00 GMT"
   },
   {
-    "tweetText": "OpenAI launched Daybreak tools like Codex Security and GPT-5.5-Cyber to help organizations identify and fix vulnerabilities efficiently. This could significantly enhance cybersecurity for businesses worldwide. via OpenAI News",
-    "articleUrl": "https://openai.com/index/daybreak-securing-the-world",
+    "tweetText": "GPT-5 Pro helped immunologist Derya Unutmaz crack a 3-year-old mystery about T cell behavior. This breakthrough could advance research in cancer and autoimmune diseases. via OpenAI News",
+    "articleUrl": "https://openai.com/index/gpt-5-immunology-mystery",
     "sourceName": "OpenAI News",
     "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Mon, 22 Jun 2026 10:00:00 GMT"
+    "publishedAt": "Tue, 23 Jun 2026 17:00:00 GMT"
   },
   {
-    "tweetText": "OpenAI has launched Patch the Planet, an initiative to assist open-source maintainers in identifying and fixing vulnerabilities using AI and expert support. This effort is crucial for strengthening the security and reliability of open-source software. via OpenAI News",
-    "articleUrl": "https://openai.com/index/patch-the-planet",
-    "sourceName": "OpenAI News",
-    "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Mon, 22 Jun 2026 10:00:00 GMT"
-  },
-  {
-    "tweetText": "Major tech companies are laying off employees in 2026, citing AI as a key reason. This trend highlights the growing impact of AI on job markets and workforce changes. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+    "tweetText": "India's MoEngage has acquired technology to deploy AI agents tailored for each customer. This could revolutionize marketing strategies by personalizing customer interactions on a massive scale. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 23 Jun 2026 01:27:55 +0000"
+    "publishedAt": "Tue, 23 Jun 2026 23:30:00 +0000"
   },
   {
-    "tweetText": "OpenAI has launched a new initiative aimed at identifying and fixing bugs in open source software. This effort is important for enhancing security and stability in the open source community. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
+    "tweetText": "Anthropic launched Claude Tag, an AI that integrates into Slack to assist teams continuously. This move aims to enhance workplace productivity while capturing valuable company knowledge and workflows. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 23 Jun 2026 00:11:31 +0000"
+    "publishedAt": "Tue, 23 Jun 2026 17:00:00 +0000"
   },
   {
-    "tweetText": "The AI industry is embracing a new concept called \"the loop,\" allowing multiple AI agents to operate endlessly in the background. This innovation could significantly enhance efficiency and automation across various applications. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
+    "tweetText": "Fika Jobs raised $4M to create a video-first hiring platform using AI agents for interviews and short video profiles. This innovation could reshape how companies connect with candidates, making hiring more engaging and efficient. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 22 Jun 2026 20:53:11 +0000"
+    "publishedAt": "Tue, 23 Jun 2026 13:00:00 +0000"
   },
   {
-    "tweetText": "AI chipmaker Groq has raised $650M and is refocusing on its neocloud business while hiring new executives after Nvidia's $20B not-acqui-hire deal. This move signals their ambition to strengthen their position in the competitive AI market. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 22 Jun 2026 20:13:58 +0000"
+    "tweetText": "Hollywood studios like Netflix and Warner Bros. are backing away from distributing \"Artificial,\" a film about OpenAI's Sam Altman. This raises concerns about the industry's willingness to critique Big Tech. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt",
+    "sourceName": "The Verge AI",
+    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
+    "publishedAt": "2026-06-23T22:03:18.000Z"
+  },
+  {
+    "tweetText": "AI super PACs spent $27 million on a local election to influence policies affecting the tech industry. This shows how big corporations are increasingly trying to shape local governance to protect their interests. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/policy/954970/ai-super-pacs-alex-bores-new-york-12th-district",
+    "sourceName": "The Verge AI",
+    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
+    "publishedAt": "2026-06-23T17:00:00.000Z"
+  },
+  {
+    "tweetText": "Midjourney, known for its AI image generator, is now venturing into medical imaging with a water-based ultrasound scanner. Experts are skeptical about its promises of being as effective as MRI technology. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/report/954826/midjourney-medical-ai-ultrasound-body-scanner-lacks-evidence",
+    "sourceName": "The Verge AI",
+    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
+    "publishedAt": "2026-06-23T15:56:35.000Z"
+  },
+  {
+    "tweetText": "Google's Fitbit Air uses AI to provide personalized health advice, warning users about their physical state and offering tips for improvement. This smart approach could help people better manage their health and wellness. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/tech/954768/google-fitbit-air-review-fitness-tracker-wearable-ai-health-coach",
+    "sourceName": "The Verge AI",
+    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
+    "publishedAt": "2026-06-23T15:00:00.000Z"
   }
 ]
