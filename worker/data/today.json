@@ -1,72 +1,72 @@
 [
   {
-    "tweetText": "Omio is using OpenAI models to speed up travel product development and improve booking systems. This integration shows how tech can enhance operations instead of just being added to outdated processes. via AI News",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/omio-scales-travel-product-development-using-openai-models/",
+    "tweetText": "New research shows that reasoning can help unlock the potential of large language models (LLMs) by improving their ability to recall and use knowledge. This could lead to more accurate and useful AI applications. via Google Research Blog.",
+    "articleUrl": "https://research.google/blog/thinking-to-recall-how-reasoning-unlocks-parametric-knowledge-in-llms/",
+    "sourceName": "Google Research Blog",
+    "sourceHomeUrl": "https://research.google/blog/",
+    "publishedAt": "Wed, 24 Jun 2026 16:51:52 +0000"
+  },
+  {
+    "tweetText": "OpenAI developed a custom Jalapeño chip with Broadcom to cut down on high infrastructure costs tied to third-party hardware. This move could significantly impact their financial stability and competitiveness. via AI News",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/openai-jalapeno-chip-inference-economics/",
     "sourceName": "AI News",
     "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Tue, 23 Jun 2026 16:32:28 +0000"
+    "publishedAt": "Thu, 25 Jun 2026 06:00:00 +0000"
   },
   {
-    "tweetText": "OpenAI is collaborating with the Appia Foundation to create shared standards for advanced AI, focusing on evaluation and safety practices. This initiative is crucial for ensuring global cooperation in AI development. via OpenAI News",
-    "articleUrl": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
-    "sourceName": "OpenAI News",
-    "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Tue, 23 Jun 2026 13:00:00 GMT"
+    "tweetText": "Samsung is allowing all its employees access to ChatGPT Enterprise and Codex for various tasks. This move boosts productivity and innovation across its global workforce. via AI News",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/samsung-chatgpt-enterprise-codex-employee-ai-use/",
+    "sourceName": "AI News",
+    "sourceHomeUrl": "https://www.artificialintelligence-news/",
+    "publishedAt": "Wed, 24 Jun 2026 10:00:00 +0000"
   },
   {
-    "tweetText": "GPT-5 Pro helped immunologist Derya Unutmaz crack a 3-year-old mystery about T cell behavior. This breakthrough could advance research in cancer and autoimmune diseases. via OpenAI News",
-    "articleUrl": "https://openai.com/index/gpt-5-immunology-mystery",
-    "sourceName": "OpenAI News",
-    "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Tue, 23 Jun 2026 17:00:00 GMT"
+    "tweetText": "Anthropic has launched a beta feature that integrates its AI model, Claude, directly into Slack channels for team collaboration. This move enhances teamwork by allowing users to interact with AI in real-time discussions. via AI News.",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/anthropic-slack-workplace-ai-agents/",
+    "sourceName": "AI News",
+    "sourceHomeUrl": "https://www.artificialintelligence-news/",
+    "publishedAt": "Wed, 24 Jun 2026 09:00:00 +0000"
   },
   {
-    "tweetText": "India's MoEngage has acquired technology to deploy AI agents tailored for each customer. This could revolutionize marketing strategies by personalizing customer interactions on a massive scale. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
+    "tweetText": "Cerebras stock dropped after its first earnings report as the CEO clarified that margin expectations were misunderstood. This highlights the risks investors face in the volatile AI chip market. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 23 Jun 2026 23:30:00 +0000"
+    "publishedAt": "Wed, 24 Jun 2026 22:41:41 +0000"
   },
   {
-    "tweetText": "Anthropic launched Claude Tag, an AI that integrates into Slack to assist teams continuously. This move aims to enhance workplace productivity while capturing valuable company knowledge and workflows. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
+    "tweetText": "AI was expected to eliminate engineering jobs, but new data shows engineers are actually seeing more hiring. This suggests that their skills remain in high demand despite AI advancements. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 23 Jun 2026 17:00:00 +0000"
+    "publishedAt": "Wed, 24 Jun 2026 21:56:41 +0000"
   },
   {
-    "tweetText": "Fika Jobs raised $4M to create a video-first hiring platform using AI agents for interviews and short video profiles. This innovation could reshape how companies connect with candidates, making hiring more engaging and efficient. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
+    "tweetText": "AI researchers Jonas Adler and Alexander Pritzel are leaving Google for Anthropic, following other high-profile exits. This trend highlights growing competition in the AI field and could impact Google's innovation. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 23 Jun 2026 13:00:00 +0000"
+    "publishedAt": "Wed, 24 Jun 2026 21:42:07 +0000"
   },
   {
-    "tweetText": "Hollywood studios like Netflix and Warner Bros. are backing away from distributing \"Artificial,\" a film about OpenAI's Sam Altman. This raises concerns about the industry's willingness to critique Big Tech. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-06-23T22:03:18.000Z"
+    "tweetText": "Companies are now trying to prevent employees from overspending on AI budgets by using them for minor tasks. This shift to token rationing highlights the need for more strategic AI spending. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Wed, 24 Jun 2026 20:09:45 +0000"
   },
   {
-    "tweetText": "AI super PACs spent $27 million on a local election to influence policies affecting the tech industry. This shows how big corporations are increasingly trying to shape local governance to protect their interests. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/policy/954970/ai-super-pacs-alex-bores-new-york-12th-district",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-06-23T17:00:00.000Z"
+    "tweetText": "Facebook is testing a new AI companion app for creators that includes its AI creator assistant. This tool aims to enhance the creative process and support content generation for users. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Wed, 24 Jun 2026 17:16:24 +0000"
   },
   {
-    "tweetText": "Midjourney, known for its AI image generator, is now venturing into medical imaging with a water-based ultrasound scanner. Experts are skeptical about its promises of being as effective as MRI technology. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/report/954826/midjourney-medical-ai-ultrasound-body-scanner-lacks-evidence",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-06-23T15:56:35.000Z"
-  },
-  {
-    "tweetText": "Google's Fitbit Air uses AI to provide personalized health advice, warning users about their physical state and offering tips for improvement. This smart approach could help people better manage their health and wellness. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/tech/954768/google-fitbit-air-review-fitness-tracker-wearable-ai-health-coach",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-06-23T15:00:00.000Z"
+    "tweetText": "Agility Robotics is set to go public through a SPAC deal valued at $2.5 billion. This move highlights growing investor interest in humanoid robotics and could boost innovation in the field. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Wed, 24 Jun 2026 16:48:43 +0000"
   }
 ]
