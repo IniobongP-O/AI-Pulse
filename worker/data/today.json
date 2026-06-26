@@ -1,72 +1,72 @@
 [
   {
-    "tweetText": "New research shows that reasoning can help unlock the potential of large language models (LLMs) by improving their ability to recall and use knowledge. This could lead to more accurate and useful AI applications. via Google Research Blog.",
-    "articleUrl": "https://research.google/blog/thinking-to-recall-how-reasoning-unlocks-parametric-knowledge-in-llms/",
-    "sourceName": "Google Research Blog",
-    "sourceHomeUrl": "https://research.google/blog/",
-    "publishedAt": "Wed, 24 Jun 2026 16:51:52 +0000"
-  },
-  {
-    "tweetText": "OpenAI developed a custom Jalapeño chip with Broadcom to cut down on high infrastructure costs tied to third-party hardware. This move could significantly impact their financial stability and competitiveness. via AI News",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/openai-jalapeno-chip-inference-economics/",
-    "sourceName": "AI News",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Thu, 25 Jun 2026 06:00:00 +0000"
-  },
-  {
-    "tweetText": "Samsung is allowing all its employees access to ChatGPT Enterprise and Codex for various tasks. This move boosts productivity and innovation across its global workforce. via AI News",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/samsung-chatgpt-enterprise-codex-employee-ai-use/",
-    "sourceName": "AI News",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Wed, 24 Jun 2026 10:00:00 +0000"
-  },
-  {
-    "tweetText": "Anthropic has launched a beta feature that integrates its AI model, Claude, directly into Slack channels for team collaboration. This move enhances teamwork by allowing users to interact with AI in real-time discussions. via AI News.",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/anthropic-slack-workplace-ai-agents/",
-    "sourceName": "AI News",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Wed, 24 Jun 2026 09:00:00 +0000"
-  },
-  {
-    "tweetText": "Cerebras stock dropped after its first earnings report as the CEO clarified that margin expectations were misunderstood. This highlights the risks investors face in the volatile AI chip market. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/",
+    "tweetText": "The White House is urging OpenAI to delay the release of its new model, GPT 5.6, citing safety concerns. This could impact the pace of AI development and public access to advanced technologies. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 24 Jun 2026 22:41:41 +0000"
+    "publishedAt": "Thu, 25 Jun 2026 23:34:39 +0000"
   },
   {
-    "tweetText": "AI was expected to eliminate engineering jobs, but new data shows engineers are actually seeing more hiring. This suggests that their skills remain in high demand despite AI advancements. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
+    "tweetText": "Patronus AI raised $50M to create digital worlds that stress-test AI agents, driven by high demand for their services. This funding highlights the growing need for robust AI testing solutions in the tech industry. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 24 Jun 2026 21:56:41 +0000"
+    "publishedAt": "Thu, 25 Jun 2026 20:19:25 +0000"
   },
   {
-    "tweetText": "AI researchers Jonas Adler and Alexander Pritzel are leaving Google for Anthropic, following other high-profile exits. This trend highlights growing competition in the AI field and could impact Google's innovation. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
+    "tweetText": "Anthropic's Claude is gaining traction among paid AI users, challenging ChatGPT's dominance in the market. This shift could signal increased competition and innovation in the AI space. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 24 Jun 2026 21:42:07 +0000"
+    "publishedAt": "Thu, 25 Jun 2026 17:38:27 +0000"
   },
   {
-    "tweetText": "Companies are now trying to prevent employees from overspending on AI budgets by using them for minor tasks. This shift to token rationing highlights the need for more strategic AI spending. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
+    "tweetText": "General Intuition has raised $320 million to enhance AI by using gameplay data, aiming to create agents with human-like intuition. This approach could revolutionize how AI learns and interacts in the real world. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 24 Jun 2026 20:09:45 +0000"
+    "publishedAt": "Thu, 25 Jun 2026 16:55:00 +0000"
   },
   {
-    "tweetText": "Facebook is testing a new AI companion app for creators that includes its AI creator assistant. This tool aims to enhance the creative process and support content generation for users. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/",
+    "tweetText": "Databricks' ex-AI chief has unveiled Un-0, an image-generation tool that claims to reduce AI's energy costs by 1,000 times. This breakthrough could make AI more sustainable and accessible for everyone. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 24 Jun 2026 17:16:24 +0000"
+    "publishedAt": "Thu, 25 Jun 2026 16:48:11 +0000"
   },
   {
-    "tweetText": "Agility Robotics is set to go public through a SPAC deal valued at $2.5 billion. This move highlights growing investor interest in humanoid robotics and could boost innovation in the field. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/",
+    "tweetText": "Netris raised $15M in Series A funding from a16z to speed up the launch of AI neoclouds with its software for network switches. This investment could significantly enhance cloud deployment efficiency. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 24 Jun 2026 16:48:43 +0000"
+    "publishedAt": "Thu, 25 Jun 2026 14:55:38 +0000"
+  },
+  {
+    "tweetText": "Amazon is investing $13 billion in AI infrastructure in India, boosting its presence in the tech race. This move highlights the growing importance of India in the global AI landscape. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Thu, 25 Jun 2026 12:00:38 +0000"
+  },
+  {
+    "tweetText": "Anthropic believes its growth is essential for creating safe AI, despite critics warning about its increasing influence. Their approach could shape the future of responsible AI development. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/anthropic-thinks-ai-can-only-be-safe-under-its-control/",
+    "sourceName": "WIRED AI",
+    "sourceHomeUrl": "https://wired.com/tag/ai/",
+    "publishedAt": "Fri, 26 Jun 2026 00:49:13 +0000"
+  },
+  {
+    "tweetText": "Amazon's MGM Studios has pulled its OpenAI movie, reflecting the growing connection between AI and the film industry. This shift highlights how AI is reshaping content creation and industry dynamics. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/uncanny-valley-podcast-amazon-mgm-openai-movie-data-center-workers-fight-back-meta-leaks-employee-data/",
+    "sourceName": "WIRED AI",
+    "sourceHomeUrl": "https://wired.com/tag/ai/",
+    "publishedAt": "Thu, 25 Jun 2026 23:13:45 +0000"
+  },
+  {
+    "tweetText": "FIFA is giving teams access to an AI agent for the World Cup, sparking competition over tech. This could either balance the game or favor wealthier teams with better resources. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/fifa-world-cup-2026-artificial-intelligence-tools/",
+    "sourceName": "WIRED AI",
+    "sourceHomeUrl": "https://wired.com/tag/ai/",
+    "publishedAt": "Thu, 25 Jun 2026 11:00:00 +0000"
   }
 ]
