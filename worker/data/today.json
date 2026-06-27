@@ -1,72 +1,72 @@
 [
   {
-    "tweetText": "The White House is urging OpenAI to delay the release of its new model, GPT 5.6, citing safety concerns. This could impact the pace of AI development and public access to advanced technologies. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 25 Jun 2026 23:34:39 +0000"
+    "tweetText": "Google has improved its Gemini Nano models for Pixel devices using a technique called frozen Multi-Token Prediction. This boosts performance and efficiency, making AI features faster and more responsive for users. via Google Research Blog",
+    "articleUrl": "https://research.google/blog/accelerating-gemini-nano-models-on-pixel-with-frozen-multi-token-prediction/",
+    "sourceName": "Google Research Blog",
+    "sourceHomeUrl": "https://research.google/blog/",
+    "publishedAt": "Fri, 26 Jun 2026 18:30:00 +0000"
   },
   {
-    "tweetText": "Patronus AI raised $50M to create digital worlds that stress-test AI agents, driven by high demand for their services. This funding highlights the growing need for robust AI testing solutions in the tech industry. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 25 Jun 2026 20:19:25 +0000"
+    "tweetText": "OpenAI has previewed GPT-5.6 Sol, an advanced AI model excelling in coding, science, and cybersecurity, featuring enhanced safety measures. This could significantly improve tech solutions and safety in critical fields. via OpenAI News",
+    "articleUrl": "https://openai.com/index/previewing-gpt-5-6-sol",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Fri, 26 Jun 2026 10:00:00 GMT"
   },
   {
-    "tweetText": "Anthropic's Claude is gaining traction among paid AI users, challenging ChatGPT's dominance in the market. This shift could signal increased competition and innovation in the AI space. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+    "tweetText": "The Trump administration has released the AI tool Mythos 5 for use by over 100 US companies and agencies, even for their foreign employees. This move could boost innovation and collaboration across sectors. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 25 Jun 2026 17:38:27 +0000"
+    "publishedAt": "Sat, 27 Jun 2026 01:01:37 +0000"
   },
   {
-    "tweetText": "General Intuition has raised $320 million to enhance AI by using gameplay data, aiming to create agents with human-like intuition. This approach could revolutionize how AI learns and interacts in the real world. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+    "tweetText": "OpenAI is scaling back the rollout of GPT-5.6 following a government request for restrictions. They argue that such access processes shouldn't be the norm, as it limits essential tools for users and developers. via TechCrunch AI.",
+    "articleUrl": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 25 Jun 2026 16:55:00 +0000"
+    "publishedAt": "Fri, 26 Jun 2026 18:32:14 +0000"
   },
   {
-    "tweetText": "Databricks' ex-AI chief has unveiled Un-0, an image-generation tool that claims to reduce AI's energy costs by 1,000 times. This breakthrough could make AI more sustainable and accessible for everyone. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
+    "tweetText": "OpenAI has hired the former chief of Uber India to lead its expansion in India, its largest market outside the US. This move highlights OpenAI's commitment to growing its presence and partnerships in the region. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 25 Jun 2026 16:48:11 +0000"
+    "publishedAt": "Fri, 26 Jun 2026 18:19:36 +0000"
   },
   {
-    "tweetText": "Netris raised $15M in Series A funding from a16z to speed up the launch of AI neoclouds with its software for network switches. This investment could significantly enhance cloud deployment efficiency. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
+    "tweetText": "OpenAI is developing its own custom AI chip, Jalapeño, to reduce dependence on Nvidia, joining other tech giants like Google and SpaceX. This shift could increase competition and innovation in the AI chip market. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 25 Jun 2026 14:55:38 +0000"
+    "publishedAt": "Fri, 26 Jun 2026 17:43:22 +0000"
   },
   {
-    "tweetText": "Amazon is investing $13 billion in AI infrastructure in India, boosting its presence in the tech race. This move highlights the growing importance of India in the global AI landscape. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/",
+    "tweetText": "AI models are now so advanced that they can impact politics significantly. Addressing these effects will need a united effort from everyone involved. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 25 Jun 2026 12:00:38 +0000"
+    "publishedAt": "Fri, 26 Jun 2026 16:24:47 +0000"
   },
   {
-    "tweetText": "Anthropic believes its growth is essential for creating safe AI, despite critics warning about its increasing influence. Their approach could shape the future of responsible AI development. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/anthropic-thinks-ai-can-only-be-safe-under-its-control/",
+    "tweetText": "OpenAI is launching its custom inference chip, Jalapeño, breaking away from Nvidia's dominance in the AI chip market. This move highlights a shift towards more competition and reduced reliance on single suppliers. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Fri, 26 Jun 2026 14:00:00 +0000"
+  },
+  {
+    "tweetText": "The Trump Administration has approved Anthropic to release its advanced AI model, Mythos, to certain US organizations. This move could enhance AI development and deployment in key sectors. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/anthropic-restores-access-to-mythos/",
     "sourceName": "WIRED AI",
     "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Fri, 26 Jun 2026 00:49:13 +0000"
+    "publishedAt": "Sat, 27 Jun 2026 00:26:14 +0000"
   },
   {
-    "tweetText": "Amazon's MGM Studios has pulled its OpenAI movie, reflecting the growing connection between AI and the film industry. This shift highlights how AI is reshaping content creation and industry dynamics. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/uncanny-valley-podcast-amazon-mgm-openai-movie-data-center-workers-fight-back-meta-leaks-employee-data/",
+    "tweetText": "OpenAI has postponed the launch of its GPT-5.6 AI models at the White House's request, following Anthropic's recent issues with its advanced AI. This highlights ongoing concerns about AI safety and regulation. via WIRED AI.",
+    "articleUrl": "https://www.wired.com/story/openai-gpt-56-model-release-trump-admin-approval/",
     "sourceName": "WIRED AI",
     "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Thu, 25 Jun 2026 23:13:45 +0000"
-  },
-  {
-    "tweetText": "FIFA is giving teams access to an AI agent for the World Cup, sparking competition over tech. This could either balance the game or favor wealthier teams with better resources. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/fifa-world-cup-2026-artificial-intelligence-tools/",
-    "sourceName": "WIRED AI",
-    "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Thu, 25 Jun 2026 11:00:00 +0000"
+    "publishedAt": "Fri, 26 Jun 2026 17:05:40 +0000"
   }
 ]
