@@ -1,72 +1,37 @@
 [
   {
-    "tweetText": "Google has improved its Gemini Nano models for Pixel devices using a technique called frozen Multi-Token Prediction. This boosts performance and efficiency, making AI features faster and more responsive for users. via Google Research Blog",
-    "articleUrl": "https://research.google/blog/accelerating-gemini-nano-models-on-pixel-with-frozen-multi-token-prediction/",
-    "sourceName": "Google Research Blog",
-    "sourceHomeUrl": "https://research.google/blog/",
-    "publishedAt": "Fri, 26 Jun 2026 18:30:00 +0000"
-  },
-  {
-    "tweetText": "OpenAI has previewed GPT-5.6 Sol, an advanced AI model excelling in coding, science, and cybersecurity, featuring enhanced safety measures. This could significantly improve tech solutions and safety in critical fields. via OpenAI News",
-    "articleUrl": "https://openai.com/index/previewing-gpt-5-6-sol",
-    "sourceName": "OpenAI News",
-    "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Fri, 26 Jun 2026 10:00:00 GMT"
-  },
-  {
-    "tweetText": "The Trump administration has released the AI tool Mythos 5 for use by over 100 US companies and agencies, even for their foreign employees. This move could boost innovation and collaboration across sectors. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+    "tweetText": "Apple's VP for the Vision Pro headset, Paul Meade, is reportedly leaving to join OpenAI's hardware team. This could signal a shift in talent from Apple to AI, potentially influencing future tech developments. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sat, 27 Jun 2026 01:01:37 +0000"
+    "publishedAt": "Sat, 27 Jun 2026 16:45:09 +0000"
   },
   {
-    "tweetText": "OpenAI is scaling back the rollout of GPT-5.6 following a government request for restrictions. They argue that such access processes shouldn't be the norm, as it limits essential tools for users and developers. via TechCrunch AI.",
-    "articleUrl": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+    "tweetText": "Connor Christou, a fitness-focused founder diagnosed with cancer, leveraged AI to analyze his health data and improve his treatment strategy. His story highlights how technology can empower patients in their health battles. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 26 Jun 2026 18:32:14 +0000"
+    "publishedAt": "Sat, 27 Jun 2026 14:00:00 +0000"
   },
   {
-    "tweetText": "OpenAI has hired the former chief of Uber India to lead its expansion in India, its largest market outside the US. This move highlights OpenAI's commitment to growing its presence and partnerships in the region. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
+    "tweetText": "Asian AI startups are releasing models similar to Mythos due to ongoing export bans affecting U.S. companies. This shift could mean significant losses for American AI labs in a crucial market. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 26 Jun 2026 18:19:36 +0000"
+    "publishedAt": "Sat, 27 Jun 2026 12:00:00 +0000"
   },
   {
-    "tweetText": "OpenAI is developing its own custom AI chip, Jalapeño, to reduce dependence on Nvidia, joining other tech giants like Google and SpaceX. This shift could increase competition and innovation in the AI chip market. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 26 Jun 2026 17:43:22 +0000"
+    "tweetText": "Margaret Atwood criticized AI during a recent interview, saying it often produces inaccurate information due to \"garbage in, garbage out.\" Her experience with an AI chatbot left her unimpressed, highlighting concerns about AI reliability. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
+    "sourceName": "The Verge AI",
+    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
+    "publishedAt": "2026-06-27T18:39:32.000Z"
   },
   {
-    "tweetText": "AI models are now so advanced that they can impact politics significantly. Addressing these effects will need a united effort from everyone involved. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 26 Jun 2026 16:24:47 +0000"
-  },
-  {
-    "tweetText": "OpenAI is launching its custom inference chip, Jalapeño, breaking away from Nvidia's dominance in the AI chip market. This move highlights a shift towards more competition and reduced reliance on single suppliers. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 26 Jun 2026 14:00:00 +0000"
-  },
-  {
-    "tweetText": "The Trump Administration has approved Anthropic to release its advanced AI model, Mythos, to certain US organizations. This move could enhance AI development and deployment in key sectors. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/anthropic-restores-access-to-mythos/",
-    "sourceName": "WIRED AI",
-    "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Sat, 27 Jun 2026 00:26:14 +0000"
-  },
-  {
-    "tweetText": "OpenAI has postponed the launch of its GPT-5.6 AI models at the White House's request, following Anthropic's recent issues with its advanced AI. This highlights ongoing concerns about AI safety and regulation. via WIRED AI.",
-    "articleUrl": "https://www.wired.com/story/openai-gpt-56-model-release-trump-admin-approval/",
-    "sourceName": "WIRED AI",
-    "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Fri, 26 Jun 2026 17:05:40 +0000"
+    "tweetText": "Apple has raised prices on several products, with Tim Cook citing the AI industry's impact on costs. This trend reflects how Big Tech's AI focus is leading to higher consumer prices across the board. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
+    "sourceName": "The Verge AI",
+    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
+    "publishedAt": "2026-06-27T13:30:00.000Z"
   }
 ]
