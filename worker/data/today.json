@@ -1,37 +1,51 @@
 [
   {
-    "tweetText": "Apple's VP for the Vision Pro headset, Paul Meade, is reportedly leaving to join OpenAI's hardware team. This could signal a shift in talent from Apple to AI, potentially influencing future tech developments. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sat, 27 Jun 2026 16:45:09 +0000"
+    "tweetText": "HP Inc. expands its partnership with OpenAI to enhance AI in customer experiences, software development, and operations. This move signals a significant step in integrating AI to boost efficiency and innovation. via OpenAI News",
+    "articleUrl": "https://openai.com/index/hp-frontier-partnership",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Sun, 28 Jun 2026 17:00:00 GMT"
   },
   {
-    "tweetText": "Connor Christou, a fitness-focused founder diagnosed with cancer, leveraged AI to analyze his health data and improve his treatment strategy. His story highlights how technology can empower patients in their health battles. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
+    "tweetText": "Ford is bringing back experienced engineers after realizing AI alone isn't enough to ensure high-quality results. This move highlights the importance of human expertise in tech development. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sat, 27 Jun 2026 14:00:00 +0000"
+    "publishedAt": "Sun, 28 Jun 2026 19:05:39 +0000"
   },
   {
-    "tweetText": "Asian AI startups are releasing models similar to Mythos due to ongoing export bans affecting U.S. companies. This shift could mean significant losses for American AI labs in a crucial market. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+    "tweetText": "Wall Street is betting on Micron, seeing it as the next Nvidia due to its potential in the booming AI sector. This could signal a shift in investment towards memory makers as crucial players in AI technology. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sat, 27 Jun 2026 12:00:00 +0000"
+    "publishedAt": "Sun, 28 Jun 2026 15:00:00 +0000"
   },
   {
-    "tweetText": "Margaret Atwood criticized AI during a recent interview, saying it often produces inaccurate information due to \"garbage in, garbage out.\" Her experience with an AI chatbot left her unimpressed, highlighting concerns about AI reliability. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
+    "tweetText": "A new humanoid robot from Flexion Robotics, created by ex-Nvidia engineers, is impressively skilled at office tasks. This innovation could change how we think about automation in the workplace. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/this-robot-is-going-to-replace-your-interns-flexion/",
+    "sourceName": "WIRED AI",
+    "sourceHomeUrl": "https://wired.com/tag/ai/",
+    "publishedAt": "Mon, 29 Jun 2026 08:00:00 +0000"
+  },
+  {
+    "tweetText": "China's Z.ai claims its GLM-5.2 model can match Mythos in cybersecurity tasks. This raises concerns for the US, as it shows China's rapid advancements in AI capabilities. via The Verge AI.",
+    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
     "sourceName": "The Verge AI",
     "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-06-27T18:39:32.000Z"
+    "publishedAt": "2026-06-28T21:42:51.000Z"
   },
   {
-    "tweetText": "Apple has raised prices on several products, with Tim Cook citing the AI industry's impact on costs. This trend reflects how Big Tech's AI focus is leading to higher consumer prices across the board. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
+    "tweetText": "Suno launched the Spark incubator program to support independent artists with grants, mentorship, and marketing. This matters because it aims to foster new talent while raising questions about artists' rights over their music. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
     "sourceName": "The Verge AI",
     "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-06-27T13:30:00.000Z"
+    "publishedAt": "2026-06-28T20:27:36.000Z"
+  },
+  {
+    "tweetText": "Prosecutors in an arson trial used ChatGPT logs as evidence against Jonathan Rinderknecht, linking his online interactions to a deadly wildfire. This case raises questions about the role of AI in legal proceedings. via The Verge AI.",
+    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
+    "sourceName": "The Verge AI",
+    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
+    "publishedAt": "2026-06-28T14:12:06.000Z"
   }
 ]
