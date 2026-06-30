@@ -1,51 +1,72 @@
 [
   {
-    "tweetText": "HP Inc. expands its partnership with OpenAI to enhance AI in customer experiences, software development, and operations. This move signals a significant step in integrating AI to boost efficiency and innovation. via OpenAI News",
-    "articleUrl": "https://openai.com/index/hp-frontier-partnership",
-    "sourceName": "OpenAI News",
-    "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Sun, 28 Jun 2026 17:00:00 GMT"
+    "tweetText": "HP is expanding its use of OpenAI Frontier across global operations to enhance workflows and boost productivity. This move could significantly improve efficiency in software engineering and cybersecurity. via AI News.",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/hp-accelerates-enterprise-workflows-openai-frontier/",
+    "sourceName": "AI News",
+    "sourceHomeUrl": "https://www.artificialintelligence-news/",
+    "publishedAt": "Mon, 29 Jun 2026 12:22:45 +0000"
   },
   {
-    "tweetText": "Ford is bringing back experienced engineers after realizing AI alone isn't enough to ensure high-quality results. This move highlights the importance of human expertise in tech development. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+    "tweetText": "Wimbledon is introducing new AI tools from IBM for live match coverage, enhancing the app and website experience. This upgrade will provide fans with real-time insights and highlights during the tournament. via AI News",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/wimbledon-ibm-ai-tools-live-match-coverage/",
+    "sourceName": "AI News",
+    "sourceHomeUrl": "https://www.artificialintelligence-news/",
+    "publishedAt": "Mon, 29 Jun 2026 10:00:00 +0000"
+  },
+  {
+    "tweetText": "Natural language processing is transforming professional networking by enhancing how users communicate and connect online. This shift presents new opportunities and challenges for building genuine relationships in the digital space. via AI News",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/advances-in-natural-language-processing-are-changing-professional-networking/",
+    "sourceName": "AI News",
+    "sourceHomeUrl": "https://www.artificialintelligence-news/",
+    "publishedAt": "Mon, 29 Jun 2026 08:59:46 +0000"
+  },
+  {
+    "tweetText": "Automated security testing tools are essential for DevSecOps, allowing teams to catch flaws before software release. This shift is crucial to keep up with rapid development and prevent costly security breaches. via AI News",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/best-automated-security-testing-tools-for-modern-devsecops/",
+    "sourceName": "AI News",
+    "sourceHomeUrl": "https://www.artificialintelligence-news/",
+    "publishedAt": "Mon, 29 Jun 2026 08:54:22 +0000"
+  },
+  {
+    "tweetText": "A new report shows that companies heavily using AI actually increased their workforce by over 10%, with entry-level jobs rising by 12%. This challenges the claim that AI is eliminating junior positions. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sun, 28 Jun 2026 19:05:39 +0000"
+    "publishedAt": "Tue, 30 Jun 2026 04:01:00 +0000"
   },
   {
-    "tweetText": "Wall Street is betting on Micron, seeing it as the next Nvidia due to its potential in the booming AI sector. This could signal a shift in investment towards memory makers as crucial players in AI technology. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
+    "tweetText": "Base44, the vibe coding platform owned by Wix, has launched its own AI model aimed at surpassing existing top models. This move highlights the growing need for AI startups to establish unique offerings for competitive advantage. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sun, 28 Jun 2026 15:00:00 +0000"
+    "publishedAt": "Tue, 30 Jun 2026 02:28:41 +0000"
   },
   {
-    "tweetText": "A new humanoid robot from Flexion Robotics, created by ex-Nvidia engineers, is impressively skilled at office tasks. This innovation could change how we think about automation in the workplace. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/this-robot-is-going-to-replace-your-interns-flexion/",
-    "sourceName": "WIRED AI",
-    "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Mon, 29 Jun 2026 08:00:00 +0000"
+    "tweetText": "Google is now offering free personalized AI image generation through Gemini for eligible U.S. users. This enhancement lets users create images tailored to their interests, making AI more accessible and customized. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 29 Jun 2026 20:12:59 +0000"
   },
   {
-    "tweetText": "China's Z.ai claims its GLM-5.2 model can match Mythos in cybersecurity tasks. This raises concerns for the US, as it shows China's rapid advancements in AI capabilities. via The Verge AI.",
-    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-06-28T21:42:51.000Z"
+    "tweetText": "Anthropic has struck a deal with California Governor Newsom to let the state use its AI, Claude, at half price. This partnership highlights a shift in AI relationships as the federal government distances itself from the company. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 29 Jun 2026 18:10:26 +0000"
   },
   {
-    "tweetText": "Suno launched the Spark incubator program to support independent artists with grants, mentorship, and marketing. This matters because it aims to foster new talent while raising questions about artists' rights over their music. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-06-28T20:27:36.000Z"
+    "tweetText": "South Korea's top memory chip firms are investing over $550B to build new fabs, aiming to tackle memory shortages and boost AI technology. This move strengthens South Korea's position as a leader in the AI industry. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 29 Jun 2026 18:07:48 +0000"
   },
   {
-    "tweetText": "Prosecutors in an arson trial used ChatGPT logs as evidence against Jonathan Rinderknecht, linking his online interactions to a deadly wildfire. This case raises questions about the role of AI in legal proceedings. via The Verge AI.",
-    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-06-28T14:12:06.000Z"
+    "tweetText": "Arena, the AI leaderboard used by many, has become a $100M business just a year after launching its commercial service. This rapid growth highlights the increasing demand for AI tools. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 29 Jun 2026 17:39:17 +0000"
   }
 ]
