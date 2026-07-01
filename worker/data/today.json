@@ -1,72 +1,72 @@
 [
   {
-    "tweetText": "HP is expanding its use of OpenAI Frontier across global operations to enhance workflows and boost productivity. This move could significantly improve efficiency in software engineering and cybersecurity. via AI News.",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/hp-accelerates-enterprise-workflows-openai-frontier/",
-    "sourceName": "AI News",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Mon, 29 Jun 2026 12:22:45 +0000"
+    "tweetText": "ChatGPT adoption is on the rise globally, with more users exploring its features and increasing usage. This growth highlights its impact across diverse regions and languages, showcasing its potential to transform communication. via OpenAI News",
+    "articleUrl": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Tue, 30 Jun 2026 09:00:00 GMT"
   },
   {
-    "tweetText": "Wimbledon is introducing new AI tools from IBM for live match coverage, enhancing the app and website experience. This upgrade will provide fans with real-time insights and highlights during the tournament. via AI News",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/wimbledon-ibm-ai-tools-live-match-coverage/",
-    "sourceName": "AI News",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Mon, 29 Jun 2026 10:00:00 +0000"
-  },
-  {
-    "tweetText": "Natural language processing is transforming professional networking by enhancing how users communicate and connect online. This shift presents new opportunities and challenges for building genuine relationships in the digital space. via AI News",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/advances-in-natural-language-processing-are-changing-professional-networking/",
-    "sourceName": "AI News",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Mon, 29 Jun 2026 08:59:46 +0000"
-  },
-  {
-    "tweetText": "Automated security testing tools are essential for DevSecOps, allowing teams to catch flaws before software release. This shift is crucial to keep up with rapid development and prevent costly security breaches. via AI News",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/best-automated-security-testing-tools-for-modern-devsecops/",
-    "sourceName": "AI News",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Mon, 29 Jun 2026 08:54:22 +0000"
-  },
-  {
-    "tweetText": "A new report shows that companies heavily using AI actually increased their workforce by over 10%, with entry-level jobs rising by 12%. This challenges the claim that AI is eliminating junior positions. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
+    "tweetText": "Trump has dropped restrictions on Anthropic’s AI models, Mythos and Fable. This creates uncertainty for companies navigating future AI regulations. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 30 Jun 2026 04:01:00 +0000"
+    "publishedAt": "Wed, 01 Jul 2026 02:16:06 +0000"
   },
   {
-    "tweetText": "Base44, the vibe coding platform owned by Wix, has launched its own AI model aimed at surpassing existing top models. This move highlights the growing need for AI startups to establish unique offerings for competitive advantage. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
+    "tweetText": "Wayve has launched an $85M employee tender offer, valuing the company at $8.5B. This move highlights how AI startups are leveraging such offers to attract and keep top talent. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 30 Jun 2026 02:28:41 +0000"
+    "publishedAt": "Wed, 01 Jul 2026 02:04:40 +0000"
   },
   {
-    "tweetText": "Google is now offering free personalized AI image generation through Gemini for eligible U.S. users. This enhancement lets users create images tailored to their interests, making AI more accessible and customized. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+    "tweetText": "A team of ex-DeepMind researchers launched EquiLibre Technologies, an AI lab now worth over $500 million, focusing on algorithms for quant hedge funds. Their success highlights the growing role of AI in finance. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 29 Jun 2026 20:12:59 +0000"
+    "publishedAt": "Tue, 30 Jun 2026 20:33:48 +0000"
   },
   {
-    "tweetText": "Anthropic has struck a deal with California Governor Newsom to let the state use its AI, Claude, at half price. This partnership highlights a shift in AI relationships as the federal government distances itself from the company. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
+    "tweetText": "Google just launched Nano Banana 2 Lite, a faster and cheaper image generator. This upgrade will make it easier for creators to produce AI content efficiently. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 29 Jun 2026 18:10:26 +0000"
+    "publishedAt": "Tue, 30 Jun 2026 19:02:38 +0000"
   },
   {
-    "tweetText": "South Korea's top memory chip firms are investing over $550B to build new fabs, aiming to tackle memory shortages and boost AI technology. This move strengthens South Korea's position as a leader in the AI industry. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
+    "tweetText": "Etched, a competitor to Nvidia, has reached a $5B valuation and secured $1B in sales for its AI chip. This highlights growing competition in the AI chip market, crucial for tech advancement. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 29 Jun 2026 18:07:48 +0000"
+    "publishedAt": "Tue, 30 Jun 2026 18:13:02 +0000"
   },
   {
-    "tweetText": "Arena, the AI leaderboard used by many, has become a $100M business just a year after launching its commercial service. This rapid growth highlights the increasing demand for AI tools. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
+    "tweetText": "Anthropic has launched Claude Sonnet 5, a more affordable AI model with enhanced capabilities and safety features. This move could make advanced AI more accessible and competitive in the market. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 29 Jun 2026 17:39:17 +0000"
+    "publishedAt": "Tue, 30 Jun 2026 18:00:00 +0000"
+  },
+  {
+    "tweetText": "Acti has launched a new smartphone keyboard that integrates AI agents, allowing users to create custom shortcuts with natural language. This could change how we interact with apps, making tasks faster and easier. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Tue, 30 Jun 2026 17:52:46 +0000"
+  },
+  {
+    "tweetText": "Anthropic launched Claude Science, a unified platform for scientists to streamline their computational research. This could save time and enhance productivity in scientific workflows. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Tue, 30 Jun 2026 17:00:00 +0000"
+  },
+  {
+    "tweetText": "X has launched a hosted MCP server to simplify connections between AI tools and its API. This move could enhance developer collaboration and innovation on the platform. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Tue, 30 Jun 2026 15:08:42 +0000"
   }
 ]
