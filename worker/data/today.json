@@ -1,72 +1,72 @@
 [
   {
-    "tweetText": "Retailers are upgrading their AI systems to enhance customer personalization and insights in real-time. This shift is crucial for meeting today's conversion goals and improving customer experiences. via AI News",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/deploying-retail-ai-to-scale-personalisation-customer-insight/",
-    "sourceName": "AI News",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Wed, 01 Jul 2026 15:58:43 +0000"
-  },
-  {
-    "tweetText": "Japan's government has unveiled a plan to deploy 10 million AI robots across 18 industries by 2040, supported by $6.1 billion in funding. This move aims to address the country's significant worker shortage. via AI News",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/japan-ai-robots-2040-national-ai-model/",
-    "sourceName": "AI News",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Wed, 01 Jul 2026 11:00:00 +0000"
-  },
-  {
-    "tweetText": "The Bank of England is assessing if current regulations can effectively manage agentic AI in finance. This matters because new AI capabilities could impact payments, trading, and security, requiring updated rules. via AI News.",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/bank-of-england-agentic-ai-finance-rules/",
-    "sourceName": "AI News",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Wed, 01 Jul 2026 10:00:00 +0000"
-  },
-  {
-    "tweetText": "Anthropic has launched Claude Sonnet 5 and restored its Fable and Mythos models after an 18-day pause due to a federal export control review. This is significant as it allows the company to resume using its top AI systems. via AI News",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/anthropic-deploys-claude-sonnet-5-fable-and-mythos-restored/",
-    "sourceName": "AI News",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Wed, 01 Jul 2026 08:47:12 +0000"
-  },
-  {
-    "tweetText": "Congrats to the BAIR Lab class of 2026 for their incredible achievements in AI and machine learning! Their groundbreaking work will shape the future of technology across various fields. via BAIR Berkeley.",
-    "articleUrl": "http://bair.berkeley.edu/blog/2026/07/01/grads-2026/",
-    "sourceName": "BAIR Berkeley",
-    "sourceHomeUrl": "https://bair.berkeley.edu/blog/",
-    "publishedAt": "Wed, 01 Jul 2026 02:00:00 -0700"
-  },
-  {
-    "tweetText": "Tech tycoon Bhavin Turakhia is investing $30M of his own money to build an AI-powered alternative to Microsoft Office. This move signals a massive bet on AI tools replacing traditional productivity software. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
+    "tweetText": "Mark Zuckerberg told Meta staff that AI agents aren't advancing as fast as he expected. This highlights the challenges tech companies face in rapidly evolving AI landscape. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 02 Jul 2026 05:30:00 +0000"
+    "publishedAt": "Thu, 02 Jul 2026 23:38:10 +0000"
   },
   {
-    "tweetText": "SpaceX showed investors a prototype for a new AI-powered handheld device. This suggests the company wants to expand into the wireless market. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
+    "tweetText": "Jersey Mike's IPO documents surprisingly highlight AI, reflecting the trend of companies jumping on the AI bandwagon, regardless of relevance. This shows how inflated the AI hype has become across various industries. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 01 Jul 2026 18:54:18 +0000"
+    "publishedAt": "Thu, 02 Jul 2026 20:11:59 +0000"
   },
   {
-    "tweetText": "ck.com/ashton-kutcher-new-vc-firm\n\nAshton Kutcher is launching a new venture capital firm with Morgan Beller. This shift moves focus from AI software to the essential infrastructure and energy needed to power it. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
+    "tweetText": "Meta has launched Pocket, an AI app that allows users to create and share mini games through text prompts. This could change how we engage with gaming by making it more accessible and creative. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 01 Jul 2026 18:47:22 +0000"
+    "publishedAt": "Thu, 02 Jul 2026 18:44:02 +0000"
   },
   {
-    "tweetText": "Cloudflare is requiring AI companies to pay for publishers' content by separating their web crawlers by September 15 or face being blocked. This move could significantly impact how AI firms access online information. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
+    "tweetText": "Anthropic is in talks with Samsung to develop a new custom chip for AI. This move highlights the growing competition in AI hardware, following OpenAI's recent partnership with Broadcom. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 01 Jul 2026 17:48:37 +0000"
+    "publishedAt": "Thu, 02 Jul 2026 18:31:09 +0000"
   },
   {
-    "tweetText": "Venice AI has raised $65M in Series A funding, achieving unicorn status with over $70M in annual revenues. This shows strong demand for privacy-first AI solutions in today's market. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
+    "tweetText": "OpenAI's CEO Sam Altman suggested donating 5% of the company's equity to a U.S. sovereign wealth fund. This move could allow the public to benefit from the profits generated by the AI industry's growth. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 01 Jul 2026 14:25:23 +0000"
+    "publishedAt": "Thu, 02 Jul 2026 15:20:51 +0000"
+  },
+  {
+    "tweetText": "Microsoft has launched its own AI deployment company, committing $2.5 billion to the initiative. This move strengthens its position in the AI race alongside Amazon, OpenAI, and Anthropic. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Thu, 02 Jul 2026 13:53:00 +0000"
+  },
+  {
+    "tweetText": "Ben Guez is using an automated script called OpenClaw to connect with potential partners on Instagram. This highlights how AI is changing dating by automating social interactions. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Thu, 02 Jul 2026 12:00:00 +0000"
+  },
+  {
+    "tweetText": "Cursor aims to keep providing access to OpenAI and Anthropic's AI models after being bought by SpaceX. This move could reshape partnerships in the competitive AI landscape. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/",
+    "sourceName": "WIRED AI",
+    "sourceHomeUrl": "https://wired.com/tag/ai/",
+    "publishedAt": "Thu, 02 Jul 2026 18:01:20 +0000"
+  },
+  {
+    "tweetText": "OpenAI is considering giving the US government a 5% stake in the company to ease tensions with the Trump administration and address public concerns about AI. This move could reshape the relationship between tech and government amidst growing scrutiny. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
+    "sourceName": "The Verge AI",
+    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
+    "publishedAt": "2026-07-02T10:23:27.000Z"
+  },
+  {
+    "tweetText": "AI is being integrated with frameworks like Lean Six Sigma and BPM to improve operational efficiency in businesses. This blend promises to streamline processes and enhance quality control, making organizations more effective. via MIT Technology Review.",
+    "articleUrl": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
+    "sourceName": "MIT Technology Review",
+    "sourceHomeUrl": "https://www.technologyreview.com/topic/artificial-intelligence/",
+    "publishedAt": "Thu, 02 Jul 2026 15:37:08 +0000"
   }
 ]
