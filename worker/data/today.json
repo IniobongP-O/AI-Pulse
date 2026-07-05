@@ -1,44 +1,37 @@
 [
   {
-    "tweetText": "Takeda has partnered with Insilico Medicine in a $600M deal to leverage AI for early-stage drug discovery. This collaboration could accelerate the development of new treatments, enhancing Takeda's research capabilities. via AI News",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/takeda-insilico-ai-drug-discovery-deal/",
-    "sourceName": "AI News",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Fri, 03 Jul 2026 10:00:00 +0000"
-  },
-  {
-    "tweetText": "A comprehensive AI glossary has been released to help people navigate the surge of new terms in the field. Understanding these terms is crucial as AI continues to evolve and impact various industries. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "tweetText": "Google's new ad imagines the Founding Fathers using AI tools to draft the Declaration of Independence. This highlights how technology could have changed historical events and sparks conversations about AI's role in creativity. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 03 Jul 2026 21:20:00 +0000"
+    "publishedAt": "Sat, 04 Jul 2026 20:55:25 +0000"
   },
   {
-    "tweetText": "Google DeepMind's unionization talks hit a snag as employees express frustration over executives' lack of meaningful engagement. This matters because effective dialogue is crucial for fair labor representation. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/",
-    "sourceName": "WIRED AI",
-    "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Fri, 03 Jul 2026 16:30:00 +0000"
+    "tweetText": "Midjourney is pushing Hollywood studios to disclose their AI usage in an ongoing legal battle. This could set important precedents for transparency in the entertainment industry. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Sat, 04 Jul 2026 18:00:05 +0000"
   },
   {
-    "tweetText": "Anthropic launched Claude Science, an AI tool for scientists that streamlines research and data visualization. This could speed up drug development and scientific discovery, impacting healthcare innovation. via The Verge AI.",
-    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
+    "tweetText": "Alibaba has banned employees from using Claude Code, labeling it as high-risk software. This move highlights growing concerns over AI tools and their implications for workplace security. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Sat, 04 Jul 2026 16:32:08 +0000"
+  },
+  {
+    "tweetText": "Mistral AI, an OpenAI competitor, has secured major funding to develop open source AI models since its 2023 launch. This is important as it aims to make advanced AI accessible to everyone. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Sat, 04 Jul 2026 15:51:32 +0000"
+  },
+  {
+    "tweetText": "Fanfiction communities are cracking down on writers using AI tools, but their detection methods are shaky and could mistakenly target innocent authors. This internal conflict highlights the growing tension between creativity and technology in fan culture. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
     "sourceName": "The Verge AI",
     "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-07-03T13:56:52.000Z"
-  },
-  {
-    "tweetText": "Midjourney revealed more about its innovative medical scanner, but it still lacks proof of its effectiveness. This matters as it could revolutionize affordable, radiation-free imaging in healthcare. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-07-03T11:49:10.000Z"
-  },
-  {
-    "tweetText": "The UK is considering a generational tobacco ban to combat smoking among youth, reflecting changing attitudes, especially among children today. It matters because it could reshape public health and protect future generations from tobacco addiction. via MIT Technology Review",
-    "articleUrl": "https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/",
-    "sourceName": "MIT Technology Review",
-    "sourceHomeUrl": "https://www.technologyreview.com/topic/artificial-intelligence/",
-    "publishedAt": "Fri, 03 Jul 2026 09:00:00 +0000"
+    "publishedAt": "2026-07-04T12:00:00.000Z"
   }
 ]
