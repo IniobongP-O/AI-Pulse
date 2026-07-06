@@ -1,37 +1,16 @@
 [
   {
-    "tweetText": "Google's new ad imagines the Founding Fathers using AI tools to draft the Declaration of Independence. This highlights how technology could have changed historical events and sparks conversations about AI's role in creativity. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sat, 04 Jul 2026 20:55:25 +0000"
-  },
-  {
-    "tweetText": "Midjourney is pushing Hollywood studios to disclose their AI usage in an ongoing legal battle. This could set important precedents for transparency in the entertainment industry. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sat, 04 Jul 2026 18:00:05 +0000"
-  },
-  {
-    "tweetText": "Alibaba has banned employees from using Claude Code, labeling it as high-risk software. This move highlights growing concerns over AI tools and their implications for workplace security. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sat, 04 Jul 2026 16:32:08 +0000"
-  },
-  {
-    "tweetText": "Mistral AI, an OpenAI competitor, has secured major funding to develop open source AI models since its 2023 launch. This is important as it aims to make advanced AI accessible to everyone. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sat, 04 Jul 2026 15:51:32 +0000"
-  },
-  {
-    "tweetText": "Fanfiction communities are cracking down on writers using AI tools, but their detection methods are shaky and could mistakenly target innocent authors. This internal conflict highlights the growing tension between creativity and technology in fan culture. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
+    "tweetText": "Wealthy families are opting for AI tutors to educate their kids instead of traditional schools. This trend raises concerns about the reliability of AI in learning environments. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
     "sourceName": "The Verge AI",
     "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-07-04T12:00:00.000Z"
+    "publishedAt": "2026-07-05T22:30:54.000Z"
+  },
+  {
+    "tweetText": "Google's new ad imagines the founding fathers using AI tools to draft the Declaration of Independence. It's a bizarre take that raises eyebrows about how history and technology are blended. via The Verge AI.",
+    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
+    "sourceName": "The Verge AI",
+    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
+    "publishedAt": "2026-07-05T14:23:11.000Z"
   }
 ]
