@@ -1,72 +1,72 @@
 [
   {
-    "tweetText": "OpenAI shared its approach to partnerships with the government on national security, emphasizing responsible AI use and public safety. This matters because it sets a standard for accountability in AI deployment. via OpenAI News",
-    "articleUrl": "https://openai.com/index/government-national-security-partnerships",
+    "tweetText": "New project SensorFM aims to create a general intelligence interface for wearable health data using generative AI. This could revolutionize how we monitor and analyze our health. via Google Research Blog.",
+    "articleUrl": "https://research.google/blog/sensorfm-towards-a-general-intelligence-and-interface-for-wearable-health-data/",
+    "sourceName": "Google Research Blog",
+    "sourceHomeUrl": "https://research.google/blog/",
+    "publishedAt": "Thu, 09 Jul 2026 09:56:00 +0000"
+  },
+  {
+    "tweetText": "AWS's new GraphRAG deployment slashes drug research cycles by 87% by unifying separate databases into a single knowledge graph. This breakthrough could significantly speed up the development of new medicines. via AI News",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/aws-graphrag-deployment-cuts-drug-research-cycles-by-87/",
+    "sourceName": "AI News",
+    "sourceHomeUrl": "https://www.artificialintelligence-news/",
+    "publishedAt": "Thu, 09 Jul 2026 15:43:09 +0000"
+  },
+  {
+    "tweetText": "NHS hospitals are set to use an AI blood test to evaluate women for womb cancer, potentially reducing the need for invasive procedures. This innovation could improve patient comfort and streamline cancer diagnosis. via AI News",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/nhs-ai-blood-test-womb-cancer-checks/",
+    "sourceName": "AI News",
+    "sourceHomeUrl": "https://www.artificialintelligence-news/",
+    "publishedAt": "Thu, 09 Jul 2026 10:00:00 +0000"
+  },
+  {
+    "tweetText": "Microsoft 365 Copilot now uses GPT-5.6, offering improved AI features for Word, Excel, PowerPoint, and more. This upgrade means users can expect faster and better-quality results in their work. via OpenAI News",
+    "articleUrl": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
     "sourceName": "OpenAI News",
     "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Wed, 08 Jul 2026 13:30:00 GMT"
+    "publishedAt": "Thu, 09 Jul 2026 13:00:00 GMT"
   },
   {
-    "tweetText": "OpenAI's new analysis shows flaws in SWE-Bench Pro, a widely-used coding benchmark for AI models, questioning its reliability. This matters because accurate evaluations are crucial for the development of trustworthy AI. via OpenAI News",
-    "articleUrl": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+    "tweetText": "ChatGPT Work is here to help you tackle big projects by acting across your apps and files, staying focused for hours. This makes it easier to turn your ambitious ideas into reality. via OpenAI News",
+    "articleUrl": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
     "sourceName": "OpenAI News",
     "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Wed, 08 Jul 2026 13:00:00 GMT"
+    "publishedAt": "Thu, 09 Jul 2026 10:00:00 GMT"
   },
   {
-    "tweetText": "OpenAI Academy and the Walton Family Foundation are launching AI Skills Jams to help K–12 teachers gain practical AI skills. This initiative aims to enhance education by equipping educators with the tools to integrate AI in their classrooms. via OpenAI News",
-    "articleUrl": "https://openai.com/index/k-12-educators-practical-skills",
+    "tweetText": "OpenAI has launched the GPT-5.5 Bio Bug Bounty program to identify and fix issues in its AI models. This initiative is crucial for improving safety and reliability in AI applications. via OpenAI News",
+    "articleUrl": "https://openai.com/index/bio-bug-bounty",
     "sourceName": "OpenAI News",
     "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Wed, 08 Jul 2026 10:00:00 GMT"
+    "publishedAt": "Thu, 09 Jul 2026 10:00:00 GMT"
   },
   {
-    "tweetText": "Google's deepfake detector identified a viral fake image of Senator McConnell in distress as an AI-generated hoax. This highlights the importance of tech in combating misinformation. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 08 Jul 2026 20:37:03 +0000"
+    "tweetText": "GPT-5.6 has launched, offering smarter performance and better efficiency for complex tasks. This advancement makes AI tools more powerful and accessible for users, enhancing productivity. via OpenAI News",
+    "articleUrl": "https://openai.com/index/gpt-5-6",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Thu, 09 Jul 2026 10:00:00 GMT"
   },
   {
-    "tweetText": "SpaceXAI launched Grok 4.5, an advanced AI model that’s cheaper and more efficient. This could make powerful AI more accessible and disrupt the market. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+    "tweetText": "OpenAI announced that GPT 5.6 will be the preferred model for Microsoft Copilot 365, despite rumors of a breakup. This partnership is crucial for enhancing productivity tools with advanced AI. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 08 Jul 2026 19:30:16 +0000"
+    "publishedAt": "Fri, 10 Jul 2026 00:16:54 +0000"
   },
   {
-    "tweetText": "A startup called General Intuition is using video game data to train AI models for robotics, aiming to revolutionize how robots learn. This could lead to smarter robots that require less real-world data to function effectively. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
+    "tweetText": "Fidji Simo is stepping down from her role as OpenAI's No. 2 executive after an extended medical leave. This shift creates a leadership gap at a critical time for the company as it prepares for a potential IPO and competition with Anthropic. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 08 Jul 2026 19:19:15 +0000"
+    "publishedAt": "Thu, 09 Jul 2026 23:38:00 +0000"
   },
   {
-    "tweetText": "Google Photos just launched a new AI 'Video Remix' tool that enhances videos with cinematic relighting and fun backgrounds. This makes it easier for users to create visually stunning video content. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
+    "tweetText": "OpenAI has launched its new models, GPT-5.6, featuring upgrades that enhance various capabilities, including cybersecurity. This could lead to better protection and innovation in tech. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 08 Jul 2026 18:30:08 +0000"
-  },
-  {
-    "tweetText": "A CEO believes video games could provide better training data for AI than the internet, which may help achieve artificial general intelligence. This shift could enhance AI's ability to understand real-world dynamics. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 08 Jul 2026 17:47:55 +0000"
-  },
-  {
-    "tweetText": "Meta is introducing new features to prevent its AI glasses from secretly recording people. This is important as it raises concerns about privacy while the company expands its data collection practices. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 08 Jul 2026 17:11:18 +0000"
-  },
-  {
-    "tweetText": "OpenAI has launched new voice models that can speak and listen simultaneously, enhancing live conversations. This breakthrough is crucial for more natural and effective communication, especially in translation. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 08 Jul 2026 17:00:00 +0000"
+    "publishedAt": "Thu, 09 Jul 2026 22:24:24 +0000"
   }
 ]
