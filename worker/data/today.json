@@ -1,72 +1,9 @@
 [
   {
-    "tweetText": "We need to produce a tweet summary: two short sentences, first what happened, second why it matters, ending with \"via AI News\". Max 240 characters, plain English, no hashtags or links. Must be copy-paste ready. No hashtags or links. Use \"via AI News\" at end. Must be exactly two short sentences. Probably something like: \"Jensen Huang says an engineer who uses less than half their salary in AI tokens is worth keeping. It shows AI efficiency can protect jobs without cutting staff.\" Then \"via AI News\". That's two sentences? Actually that's two sentences before \"via AI News\"? The instruction: \"Write two short sentences: first what happened, second why it matters. End with via AI News.\" So the tweet should have two short sentences, then end with \"via AI News\". Probably the \"via AI News\" is part of the tweet but not a separate sentence? It says \"End with via AI News.\" So after the two sentences, we add \"via AI News\". That may be a third fragment but it's required to end with that phrase. Could be: \"Jensen Huang says an engineer who uses less than half their salary in AI tokens is worth keeping. It shows AI efficiency can protect jobs without cutting staff. via AI News\". That's three sentences? Actually that's three sentences: first sentence",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/shrink-token-budget-not-team/",
-    "sourceName": "AI News",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Fri, 10 Jul 2026 09:34:27 +0000"
-  },
-  {
-    "tweetText": "Meta removed a controversial AI feature from Instagram after users complained. This shows that public pushback can force big tech companies to change their AI tools. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+    "tweetText": "OpenAI is hiring a new product manager to build ChatGPT features for families and caregivers. This move shows the AI is moving beyond individual users to become a tool for entire households. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 10 Jul 2026 23:55:07 +0000"
-  },
-  {
-    "tweetText": "Apple sues OpenAI over alleged trade secret theft — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 10 Jul 2026 21:00:29 +0000"
-  },
-  {
-    "tweetText": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 10 Jul 2026 19:00:00 +0000"
-  },
-  {
-    "tweetText": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 10 Jul 2026 17:17:12 +0000"
-  },
-  {
-    "tweetText": "We need to output a tweet style summary, max 240 characters, plain English, two short sentences: first what happened, second why it matters. End with \"via TechCrunch AI\". No hashtags or links. Plain English. Copy-paste ready. Must be <=240 characters including spaces and \"via TechCrunch AI\". Let's craft.\n\nSentence 1: \"Hugging Face’s CEO says companies are abandoning rented AI services for open‑source models.\" Sentence 2: \"That shift lets firms own their AI tools and cut costs.\" Then \"via TechCrunch AI\". Ensure total <=240.\n\nCount characters.\n\nLet's draft:\n\n\"Hugging Face’s CEO says companies are ditching rented AI services for open‑source models. They’re choosing to own their AI tools and save money. via TechCrunch AI\"\n\nNow count characters.\n\nI'll count precisely.\n\nString:\n\nHugging Face’s CEO says companies are ditching rented AI services for open‑source models. They’re choosing to own their AI tools and save money. via TechCrunch AI\n\nCount characters including spaces.\n\nI'll count manually.\n\n\"Hugging Face’s CEO says companies are ditching rented AI services for open‑source models. They’re choosing to own their AI tools and save money. via TechCrunch AI\"\n\nLet",
-    "articleUrl": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 10 Jul 2026 14:00:00 +0000"
-  },
-  {
-    "tweetText": "OpenAI’s Head of Safety Is Leaving the Company — a significant development in AI that warrants attention. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/openai-head-of-safety-leaving/",
-    "sourceName": "WIRED AI",
-    "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Sat, 11 Jul 2026 01:07:26 +0000"
-  },
-  {
-    "tweetText": "We need to produce two short sentences, first what happened, second why it matters. Max 240 characters. No hashtags or links. End with \"via WIRED AI\". Use plain English. No hashtags or links. Must be copy-paste ready.\n\nWe need to keep within 240 characters including spaces and punctuation. Let's craft: \"Apple sued OpenAI, saying it got former employees to leak confidential hardware designs and supplier info. The case could shape how AI firms handle talent and trade secrets. via WIRED AI\"\n\nNow count characters.\n\nLet's count:\n\n\"Apple sued OpenAI, saying it got former employees to leak confidential hardware designs and supplier info. The case could shape how AI firms handle talent and trade secrets. via WIRED AI\"\n\nCount manually:\n\nI'll count characters including spaces.\n\nString:\n\nA p p l e (5) + space=1 =>6\ns u e d (4) =>10\nspace =>11\nO p e n A I (6) =>17\n, =>18\nspace =>19\ns a y i n g (6) =>25\nspace =>26\ni t (2) =>28\nspace =>29\ng o t (3) =>32\nspace =>33\nf o r m e r (6",
-    "articleUrl": "https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/",
-    "sourceName": "WIRED AI",
-    "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Fri, 10 Jul 2026 20:44:05 +0000"
-  },
-  {
-    "tweetText": "We need to produce a tweet-like summary: max 240 characters, plain English, two short sentences: first what happened, second why it matters. End with \"via WIRED AI\". No hashtags or links. Copy-paste ready.\n\nWe need to count characters including spaces and punctuation. Must be <=240.\n\nLet's craft: \"Dataland opened as the world’s first AI art museum, using wearables and Amazon data to blend nature, biometrics, and creativity. It shows how AI can turn raw data into immersive experiences that reshape our view of art. via WIRED AI\"\n\nNow count characters.\n\nLet's count:\n\n\"Dataland opened as the world’s first AI art museum, using wearables and Amazon data to blend nature, biometrics, and creativity. It shows how AI can turn raw data into immersive experiences that reshape our view of art. via WIRED AI\"\n\nWe need to count characters including spaces and punctuation.\n\nI'll count manually.\n\nI'll write string and count.\n\n\"Dataland opened as the world’s first AI art museum, using wearables and Amazon data to blend nature, biometrics, and creativity. It shows how AI can turn raw data into immersive experiences that reshape our view of art. via WIRED AI\"\n\nLet's count.\n\nI'll break into",
-    "articleUrl": "https://www.wired.com/story/a-new-experiential-gallery-just-might-change-your-mind-about-ai-art/",
-    "sourceName": "WIRED AI",
-    "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Fri, 10 Jul 2026 10:30:00 +0000"
-  },
-  {
-    "tweetText": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts — a significant development in AI that warrants attention. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-07-10T23:49:50.000Z"
+    "publishedAt": "Sat, 11 Jul 2026 14:13:00 +0000"
   }
 ]
