@@ -1,9 +1,30 @@
 [
   {
-    "tweetText": "OpenAI is hiring a new product manager to build ChatGPT features for families and caregivers. This move shows the AI is moving beyond individual users to become a tool for entire households. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sat, 11 Jul 2026 14:13:00 +0000"
+    "tweetText": "Scientists are using AI and quantum computing to create new peptides for drug development. This could speed up treatments for rare diseases and underserved populations. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/",
+    "sourceName": "WIRED AI",
+    "sourceHomeUrl": "https://wired.com/tag/ai/",
+    "publishedAt": "Sun, 12 Jul 2026 10:00:00 +0000"
+  },
+  {
+    "tweetText": "Lorde criticized AI smart glasses during a recent festival performance. Her comments highlight growing public discomfort with technology that blurs the line between reality and digital filters. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
+    "sourceName": "The Verge AI",
+    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
+    "publishedAt": "2026-07-12T20:10:19.000Z"
+  },
+  {
+    "tweetText": "Apple’s failed self-driving car project helped create their powerful AI chips. This research led to the Neural Engine used in iPhones today. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
+    "sourceName": "The Verge AI",
+    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
+    "publishedAt": "2026-07-12T16:27:06.000Z"
+  },
+  {
+    "tweetText": "Local communities are increasingly protesting the construction of massive AI data centers. These facilities threaten local power grids and change rural landscapes. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/column/963346/ai-data-centers-fight",
+    "sourceName": "The Verge AI",
+    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
+    "publishedAt": "2026-07-12T12:00:00.000Z"
   }
 ]
