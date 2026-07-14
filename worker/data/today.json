@@ -1,30 +1,72 @@
 [
   {
-    "tweetText": "Scientists are using AI and quantum computing to create new peptides for drug development. This could speed up treatments for rare diseases and underserved populations. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/",
+    "tweetText": "Successful tech giants are diving back into intense competition. They want to ensure they don't miss out on the massive wealth potential of the AI era. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Tue, 14 Jul 2026 02:46:42 +0000"
+  },
+  {
+    "tweetText": "Uber's product chief says the company is focusing on specific goals rather than trying to do everything. This strategic focus helps them scale AI and autonomous vehicle tech effectively. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Tue, 14 Jul 2026 00:45:00 +0000"
+  },
+  {
+    "tweetText": "Satya Nadella warned companies about relying too heavily on proprietary AI models. This matters because businesses could become trapped by a single provider's ecosystem. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 13 Jul 2026 20:59:00 +0000"
+  },
+  {
+    "tweetText": "Apple is suing OpenAI over claims that it stole trade secrets and misused internal systems. This lawsuit highlights the growing tension between tech giants as they race for AI dominance. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 13 Jul 2026 18:22:10 +0000"
+  },
+  {
+    "tweetText": "New research explores whether AI should follow a user's harmful instructions. This raises major questions about how to prevent AI from helping with illegal acts. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 13 Jul 2026 16:31:23 +0000"
+  },
+  {
+    "tweetText": "Anthropic is introducing subscription plans priced in Indian rupees. This move makes Claude more affordable and accessible in its largest market outside the US. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 13 Jul 2026 15:34:59 +0000"
+  },
+  {
+    "tweetText": "Waze is adding new AI features powered by Google's Gemini. This helps the app compete with Apple Maps and brings smarter tools to drivers. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 13 Jul 2026 14:18:16 +0000"
+  },
+  {
+    "tweetText": "Apple is transforming Siri into a powerful central tool for the entire iPhone experience. This shift makes the assistant much more useful for everyday tasks. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/siri-ai-is-now-apple-everything-tool/",
     "sourceName": "WIRED AI",
     "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Sun, 12 Jul 2026 10:00:00 +0000"
+    "publishedAt": "Mon, 13 Jul 2026 21:39:09 +0000"
   },
   {
-    "tweetText": "Lorde criticized AI smart glasses during a recent festival performance. Her comments highlight growing public discomfort with technology that blurs the line between reality and digital filters. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
+    "tweetText": "The iOS 27 public beta is now available for testing. This update focuses on making your iPhone faster and more reliable. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on",
     "sourceName": "The Verge AI",
     "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-07-12T20:10:19.000Z"
+    "publishedAt": "2026-07-13T20:43:20.000Z"
   },
   {
-    "tweetText": "Apple’s failed self-driving car project helped create their powerful AI chips. This research led to the Neural Engine used in iPhones today. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
+    "tweetText": "Apple is suing OpenAI for allegedly stealing trade secrets and hardware prototypes. This legal battle could reshape how tech giants protect their intellectual property. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
     "sourceName": "The Verge AI",
     "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-07-12T16:27:06.000Z"
-  },
-  {
-    "tweetText": "Local communities are increasingly protesting the construction of massive AI data centers. These facilities threaten local power grids and change rural landscapes. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/column/963346/ai-data-centers-fight",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-07-12T12:00:00.000Z"
+    "publishedAt": "2026-07-13T17:00:00.000Z"
   }
 ]
