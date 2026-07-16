@@ -1,72 +1,72 @@
 [
   {
-    "tweetText": "AWS and Bluesight launched an AI tool to help hospitals manage complex pharmacy compliance. This simplifies data tracking and reduces errors for healthcare systems. via AI News",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/aws-and-bluesight-build-ai-for-hospital-340b-compliance/",
+    "tweetText": "Researchers have released new research explaining how diffusion models create art. This helps us understand the math behind AI creativity. via Google Research Blog",
+    "articleUrl": "https://research.google/blog/towards-demystifying-the-creativity-of-diffusion-models/",
+    "sourceName": "Google Research Blog",
+    "sourceHomeUrl": "https://research.google/blog/",
+    "publishedAt": "Wed, 15 Jul 2026 18:06:27 +0000"
+  },
+  {
+    "tweetText": "Nokia launched a new AI-powered platform built with NVIDIA. It helps mobile operators squeeze much more capacity out of their existing radio spectrum. via AI News",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/nokia-ai-ran-platform-nvidia/",
     "sourceName": "AI News",
     "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Tue, 14 Jul 2026 15:54:39 +0000"
+    "publishedAt": "Wed, 15 Jul 2026 08:30:00 +0000"
   },
   {
-    "tweetText": "Companies need new ways to track the value of AI agents. This helps ensure investments drive real productivity and efficient workflows. via OpenAI News",
-    "articleUrl": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+    "tweetText": "The US is using state and federal actions to build a new framework for AI safety. This approach helps create consistent rules that protect people while encouraging innovation. via OpenAI News",
+    "articleUrl": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
     "sourceName": "OpenAI News",
     "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Tue, 14 Jul 2026 10:00:00 GMT"
+    "publishedAt": "Wed, 15 Jul 2026 12:00:00 GMT"
   },
   {
-    "tweetText": "OpenAI researcher Miles Wang is in talks to launch a new AI drug discovery startup valued at $2B. This shows massive investor interest in using AI to accelerate breakthroughs in life sciences. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 15 Jul 2026 00:27:04 +0000"
+    "tweetText": "OpenAI introduced GPT-Red, an automated system that uses self-play to test AI models. This helps make AI safer and more resistant to attacks. via OpenAI News",
+    "articleUrl": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Wed, 15 Jul 2026 10:00:00 GMT"
   },
   {
-    "tweetText": "Lorde says AI-powered glasses are not stylish or attractive. This highlights growing concerns about the social acceptance of wearable tech that blurs the line between reality and digital content. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/",
+    "tweetText": "Applied Computing raised $20M to build a foundation AI model for the oil and gas industry. This could revolutionize how plants operate and manage complex processes. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 14 Jul 2026 23:10:02 +0000"
+    "publishedAt": "Thu, 16 Jul 2026 04:00:00 +0000"
   },
   {
-    "tweetText": "OpenAI is reportedly developing a screenless, moving speaker designed to act as a physical companion for ChatGPT. This marks the company's first step into hardware to make AI feel more real. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
+    "tweetText": "Microsoft is training its sales team to pitch its own AI models as better value than OpenAI or Anthropic. This move shows the company is shifting focus to compete directly with its own partners. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 14 Jul 2026 22:22:24 +0000"
+    "publishedAt": "Wed, 15 Jul 2026 23:59:44 +0000"
   },
   {
-    "tweetText": "OpenAI says Apple's trade secret lawsuit has no merit. This legal battle could shape how AI companies handle proprietary data. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
+    "tweetText": "OpenAI released a $230 light-up keyboard for its Codex coding app. This shows the company is expanding into hardware despite ongoing legal battles. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 14 Jul 2026 22:07:42 +0000"
+    "publishedAt": "Wed, 15 Jul 2026 19:41:38 +0000"
   },
   {
-    "tweetText": "OpenAI's newest model reportedly deleted user files without warning. This highlights serious risks regarding AI reliability and data safety. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/",
+    "tweetText": "Thinking Machines released Inkling, its first open-source AI model. This move challenges generic AI by offering specialized alternatives for specific needs. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 14 Jul 2026 21:50:11 +0000"
+    "publishedAt": "Wed, 15 Jul 2026 18:04:06 +0000"
   },
   {
-    "tweetText": "Apple released the iOS 27 public beta, giving everyone access to the new AI-powered Siri. This allows users to test advanced smart features before the official fall release. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
+    "tweetText": "A hacker accessed Suno's source code and found evidence that the AI music tool scraped YouTube for training data. This raises major legal questions about copyright and how AI models are built. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 14 Jul 2026 19:42:27 +0000"
+    "publishedAt": "Wed, 15 Jul 2026 17:00:34 +0000"
   },
   {
-    "tweetText": "Anthropic released a new ad that many people find unsettling. This marketing move is a way for the company to brand itself as more ethical than its rivals. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/",
+    "tweetText": "Whatnot has acquired AI startup Shaped to improve its real-time shopping recommendations. This helps users find products they love more easily as the platform grows. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 14 Jul 2026 19:41:27 +0000"
-  },
-  {
-    "tweetText": "The founder of Hinge raised $18M to launch a new AI dating app called Overtone. It uses voice and audio to create more curated introductions for users. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/07/14/the-founder-of-hinge-raised-18m-to-build-a-new-ai-dating-service-overtone/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 14 Jul 2026 19:39:39 +0000"
+    "publishedAt": "Wed, 15 Jul 2026 17:00:00 +0000"
   }
 ]
