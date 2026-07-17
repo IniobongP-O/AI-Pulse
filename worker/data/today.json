@@ -1,72 +1,72 @@
 [
   {
-    "tweetText": "Researchers have released new research explaining how diffusion models create art. This helps us understand the math behind AI creativity. via Google Research Blog",
-    "articleUrl": "https://research.google/blog/towards-demystifying-the-creativity-of-diffusion-models/",
-    "sourceName": "Google Research Blog",
-    "sourceHomeUrl": "https://research.google/blog/",
-    "publishedAt": "Wed, 15 Jul 2026 18:06:27 +0000"
-  },
-  {
-    "tweetText": "Nokia launched a new AI-powered platform built with NVIDIA. It helps mobile operators squeeze much more capacity out of their existing radio spectrum. via AI News",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/nokia-ai-ran-platform-nvidia/",
-    "sourceName": "AI News",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Wed, 15 Jul 2026 08:30:00 +0000"
-  },
-  {
-    "tweetText": "The US is using state and federal actions to build a new framework for AI safety. This approach helps create consistent rules that protect people while encouraging innovation. via OpenAI News",
-    "articleUrl": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+    "tweetText": "OpenAI is adding new safety features and parental controls to ChatGPT for teenagers. These tools help ensure young users have a secure and helpful experience. via OpenAI News",
+    "articleUrl": "https://openai.com/index/why-teens-deserve-access-safe-ai",
     "sourceName": "OpenAI News",
     "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Wed, 15 Jul 2026 12:00:00 GMT"
+    "publishedAt": "Thu, 16 Jul 2026 16:00:00 GMT"
   },
   {
-    "tweetText": "OpenAI introduced GPT-Red, an automated system that uses self-play to test AI models. This helps make AI safer and more resistant to attacks. via OpenAI News",
-    "articleUrl": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-    "sourceName": "OpenAI News",
-    "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Wed, 15 Jul 2026 10:00:00 GMT"
-  },
-  {
-    "tweetText": "Applied Computing raised $20M to build a foundation AI model for the oil and gas industry. This could revolutionize how plants operate and manage complex processes. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
+    "tweetText": "Google Vids now lets you create videos using a digital AI avatar of yourself. This makes it easy for anyone to produce professional-looking video content using simple prompts. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 16 Jul 2026 04:00:00 +0000"
+    "publishedAt": "Thu, 16 Jul 2026 18:32:54 +0000"
   },
   {
-    "tweetText": "Microsoft is training its sales team to pitch its own AI models as better value than OpenAI or Anthropic. This move shows the company is shifting focus to compete directly with its own partners. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
+    "tweetText": "Roblox added a new feature that lets users create basic games using text prompts on mobile. This makes game development accessible to everyone, regardless of coding skills. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 15 Jul 2026 23:59:44 +0000"
+    "publishedAt": "Thu, 16 Jul 2026 18:22:06 +0000"
   },
   {
-    "tweetText": "OpenAI released a $230 light-up keyboard for its Codex coding app. This shows the company is expanding into hardware despite ongoing legal battles. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+    "tweetText": "Google’s AI Mode can now connect and interact with your favorite apps. This allows the AI to complete actual tasks instead of just answering questions. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 15 Jul 2026 19:41:38 +0000"
+    "publishedAt": "Thu, 16 Jul 2026 16:00:00 +0000"
   },
   {
-    "tweetText": "Thinking Machines released Inkling, its first open-source AI model. This move challenges generic AI by offering specialized alternatives for specific needs. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
+    "tweetText": "DoorDash launched a command-line tool that lets users and AI agents order food directly from a terminal. This makes it easier for AI to interact with real-world services. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 15 Jul 2026 18:04:06 +0000"
+    "publishedAt": "Thu, 16 Jul 2026 15:38:55 +0000"
   },
   {
-    "tweetText": "A hacker accessed Suno's source code and found evidence that the AI music tool scraped YouTube for training data. This raises major legal questions about copyright and how AI models are built. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/",
+    "tweetText": "OpenAI released its first piece of hardware this week. This marks the company's first move into physical devices. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 15 Jul 2026 17:00:34 +0000"
+    "publishedAt": "Thu, 16 Jul 2026 15:31:09 +0000"
   },
   {
-    "tweetText": "Whatnot has acquired AI startup Shaped to improve its real-time shopping recommendations. This helps users find products they love more easily as the platform grows. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/",
+    "tweetText": "A former DeepMind researcher raised a $300M valuation before even launching a product. This highlights the massive investor hype surrounding the next frontier of visual AI. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 15 Jul 2026 17:00:00 +0000"
+    "publishedAt": "Thu, 16 Jul 2026 15:02:00 +0000"
+  },
+  {
+    "tweetText": "AMI Labs CEO Alexandre LeBrun refuses to call his AI superintelligence or AGI. This highlights a growing debate over whether current AI models are truly approaching human-level intelligence. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Thu, 16 Jul 2026 14:40:00 +0000"
+  },
+  {
+    "tweetText": "Moonshot is developing Kimi K3, a massive AI model with up to 3 trillion parameters. This could make China a major competitor to top US models. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Thu, 16 Jul 2026 14:26:29 +0000"
+  },
+  {
+    "tweetText": "Apple is partnering with Alibaba and Baidu to bring its AI features to China. This move helps Apple expand its artificial intelligence presence in a critical market. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Thu, 16 Jul 2026 13:17:59 +0000"
   }
 ]
