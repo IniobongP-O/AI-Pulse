@@ -1,72 +1,37 @@
 [
   {
-    "tweetText": "OpenAI’s CFO introduced a new scorecard to measure AI performance. It helps companies track actual value and cost per successful task. via OpenAI News",
-    "articleUrl": "https://openai.com/index/a-scorecard-for-the-ai-age",
-    "sourceName": "OpenAI News",
-    "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Fri, 17 Jul 2026 10:00:00 GMT"
-  },
-  {
-    "tweetText": "Neil Rimer predicts the massive wealth being created by AI will eventually need to be redistributed. This shift could fundamentally change how Silicon Valley profits are shared. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+    "tweetText": "Moonshot AI released a new version of its Kimi model. This development is sparking fears about the rise of \"full AI communism.\" via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sat, 18 Jul 2026 04:47:25 +0000"
+    "publishedAt": "Sat, 18 Jul 2026 18:51:07 +0000"
   },
   {
-    "tweetText": "Vertu is selling a luxury foldable phone featuring a high-end AI agent for $6,880. This tests if wealthy users will pay a premium for specialized AI hardware. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 17 Jul 2026 22:55:09 +0000"
+    "tweetText": "Period tracker apps may be collecting and sharing your private health data. This highlights major privacy risks in how sensitive information is handled. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/security-news-this-week-your-period-tracker-is-probably-spying-on-you/",
+    "sourceName": "WIRED AI",
+    "sourceHomeUrl": "https://wired.com/tag/ai/",
+    "publishedAt": "Sat, 18 Jul 2026 10:30:00 +0000"
   },
   {
-    "tweetText": "Databricks has reached a $188 billion valuation after pivoting to focus on AI. This growth shows how essential data platforms have become to the AI revolution. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 17 Jul 2026 22:12:56 +0000"
+    "tweetText": "Google changed how Gemini usage quotas are calculated. This means you might get fewer AI responses than before. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/how-googles-new-gemini-rates-work-and-how-to-track-your-usage/",
+    "sourceName": "WIRED AI",
+    "sourceHomeUrl": "https://wired.com/tag/ai/",
+    "publishedAt": "Sat, 18 Jul 2026 10:00:00 +0000"
   },
   {
-    "tweetText": "Agility Robotics is opening a new training center for its Digit robots in Fremont, California. This move brings advanced humanoid robot development closer to major tech hubs. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 17 Jul 2026 20:19:49 +0000"
+    "tweetText": "New \"context bombing\" attacks are tricking AI agents into shutting down. This stops hackers from using AI to carry out malicious tasks. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/prompt-injection-attacks-are-thwarting-ai-hacking-agents/",
+    "sourceName": "WIRED AI",
+    "sourceHomeUrl": "https://wired.com/tag/ai/",
+    "publishedAt": "Sat, 18 Jul 2026 09:00:00 +0000"
   },
   {
-    "tweetText": "AI demand is causing memory shortages in India's smartphone market. This shift is changing how tech companies price and design devices. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 17 Jul 2026 20:09:27 +0000"
-  },
-  {
-    "tweetText": "Apple sued OpenAI for allegedly stealing trade secrets and hiring former employees. This legal battle could derail OpenAI's plans to go public. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 17 Jul 2026 17:45:46 +0000"
-  },
-  {
-    "tweetText": "Patreon is moving from asking AI bots to stop scraping to actively blocking them using Cloudflare. This helps protect creators by stopping AI models from training on their content without permission. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 17 Jul 2026 15:21:17 +0000"
-  },
-  {
-    "tweetText": "Apple filed a lawsuit against OpenAI for allegedly stealing trade secrets through former employees. This legal battle could disrupt OpenAI’s plans for an IPO. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/podcast/apples-lawsuit-couldnt-come-at-a-worse-time-for-openai/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 17 Jul 2026 14:00:00 +0000"
-  },
-  {
-    "tweetText": "Investors are moving $400 million into inference chips. This shift signals a major change in how AI hardware is funded. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 17 Jul 2026 12:00:00 +0000"
+    "tweetText": "Author Dave Eggers warned OpenAI staff that ChatGPT is silencing an entire generation. He argues the technology is having a catastrophic impact on educators and the arts. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+    "sourceName": "The Verge AI",
+    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
+    "publishedAt": "2026-07-18T20:54:42.000Z"
   }
 ]
