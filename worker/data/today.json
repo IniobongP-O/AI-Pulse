@@ -1,30 +1,72 @@
 [
   {
-    "tweetText": "Apple's lawsuit could potentially block OpenAI from launching new hardware products. This uncertainty might disrupt their plans to go public. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sun, 19 Jul 2026 19:24:45 +0000"
+    "tweetText": "US health agencies are testing AI models from OpenAI and Anthropic. This program aims to see how these tools can improve public health services. via AI News",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/openai-anthropic-public-health-ai/",
+    "sourceName": "AI News",
+    "sourceHomeUrl": "https://www.artificialintelligence-news/",
+    "publishedAt": "Mon, 20 Jul 2026 10:00:00 +0000"
   },
   {
-    "tweetText": "Christopher Nolan warns that AI is a Trojan horse designed to sneak into creative industries. This suggests the technology could secretly undermine human artistry. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sun, 19 Jul 2026 14:52:08 +0000"
+    "tweetText": "Moonshot AI released Kimi K3, the world’s largest open-weight model with 2.8 trillion parameters. This massive scale shifts the focus from computing power to memory efficiency. via AI News",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/kimi-k3-open-weight-model-memory-compute-china/",
+    "sourceName": "AI News",
+    "sourceHomeUrl": "https://www.artificialintelligence-news/",
+    "publishedAt": "Mon, 20 Jul 2026 09:00:00 +0000"
   },
   {
-    "tweetText": "Current AI is building a free, open-access web for artificial intelligence. This ensures diverse cultures are not left behind in the AI revolution. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sun, 19 Jul 2026 14:00:00 +0000"
+    "tweetText": "OpenAI shared lessons learned from deploying AI models that run for long periods. These models introduce new safety risks that require better safeguards. via OpenAI News",
+    "articleUrl": "https://openai.com/index/safety-alignment-long-horizon-models",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Mon, 20 Jul 2026 10:00:00 GMT"
   },
   {
-    "tweetText": "A creator's new song made with Suno AI is surprisingly catchy despite the artist's usual dislike for AI music. This shows that generative AI is starting to produce high-quality results that are genuinely enjoyable. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-07-19T17:35:54.000Z"
+    "tweetText": "Anthropic reached a $1.5 billion settlement regarding copyright use. This sets a major precedent for how AI models are trained on protected works. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Tue, 21 Jul 2026 00:12:24 +0000"
+  },
+  {
+    "tweetText": "Trump’s new AI czar has already resigned from his role. This instability makes it difficult to establish consistent national standards for the technology. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 20 Jul 2026 22:21:04 +0000"
+  },
+  {
+    "tweetText": "Google is developing a new AI chip to power its Gemini models. This move aims to make its AI systems run much more efficiently. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 20 Jul 2026 21:21:15 +0000"
+  },
+  {
+    "tweetText": "AI's core protocol is becoming easier to use by adopting a simpler session system. This change makes it much easier for developers to build and scale AI applications. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 20 Jul 2026 20:50:40 +0000"
+  },
+  {
+    "tweetText": "OpenAI is worried that open-weight models will disrupt their business. This debate highlights the struggle to make AI profitable. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 20 Jul 2026 19:33:25 +0000"
+  },
+  {
+    "tweetText": "Adobe's new camera app feature uses AI to remove any background from your photos. This makes professional-level editing much faster for everyday users. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 20 Jul 2026 15:45:00 +0000"
+  },
+  {
+    "tweetText": "YouTube is updating its rules to stop low-quality AI content from earning money. This helps ensure creators are rewarded for real effort rather than spam. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 20 Jul 2026 15:23:06 +0000"
   }
 ]
