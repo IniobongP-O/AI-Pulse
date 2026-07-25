@@ -1,72 +1,72 @@
 [
   {
-    "tweetText": "AI safety rules are making it harder for cybersecurity researchers to find and fix vulnerabilities. This could slow down the discovery of critical security flaws. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 24 Jul 2026 01:00:00 +0000"
+    "tweetText": "Major tech companies like Meta and Microsoft are calling for US policymakers to protect open-weight AI models. This support ensures developers can access and build upon powerful AI technology openly. via AI News",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/meta-microsoft-nvidia-ibm-others-back-open-weight-ai/",
+    "sourceName": "AI News",
+    "sourceHomeUrl": "https://www.artificialintelligence-news/",
+    "publishedAt": "Fri, 24 Jul 2026 16:18:30 +0000"
   },
   {
-    "tweetText": "AMD launched its Helios AI rack-scale system to compete directly with Nvidia. This move could shake up the AI hardware market by offering new ways to scale computing power. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 23 Jul 2026 20:33:02 +0000"
+    "tweetText": "OpenAI is adding a feature to ChatGPT that lets users connect their medical records and Apple Health data. This makes it easier to use AI for managing personal health information. via AI News",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/openai-pushes-chatgpt-into-patient-health-records/",
+    "sourceName": "AI News",
+    "sourceHomeUrl": "https://www.artificialintelligence-news/",
+    "publishedAt": "Fri, 24 Jul 2026 14:58:17 +0000"
   },
   {
-    "tweetText": "Anthropic updated Claude's voice mode with more capable models. You can now use it to perform tasks like rescheduling meetings or drafting emails. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 23 Jul 2026 19:00:00 +0000"
+    "tweetText": "OpenAI is launching a new service that bundles AI agents with hands-on support from its own engineers. This ensures large companies can successfully deploy complex AI tools rather than struggling with self-service setups. via AI News",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/openai-presence-enterprise-ai-agents/",
+    "sourceName": "AI News",
+    "sourceHomeUrl": "https://www.artificialintelligence-news/",
+    "publishedAt": "Fri, 24 Jul 2026 08:00:00 +0000"
   },
   {
-    "tweetText": "AegisAI raised $36M to fight AI-powered phishing attacks. Their agents scan messages for tiny anomalies that humans might miss. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
+    "tweetText": "OpenAI released a new AI-powered keypad designed to assist with coding. It could change how developers write software by streamlining complex tasks. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 23 Jul 2026 18:38:34 +0000"
+    "publishedAt": "Sat, 25 Jul 2026 00:23:11 +0000"
   },
   {
-    "tweetText": "Runway launched a new AI model router. It helps developers automatically pick the best model based on quality, speed, or cost. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
+    "tweetText": "New AI lab Prentis is reportedly raising $100M. They aim to automate routine computer tasks to move beyond simple coding. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 23 Jul 2026 17:07:35 +0000"
+    "publishedAt": "Fri, 24 Jul 2026 22:25:58 +0000"
   },
   {
-    "tweetText": "OpenAI has released ChatGPT Health to all users in the US. You can now sync personal data from apps like Apple Health to get personalized insights. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
+    "tweetText": "Cognition bought Poke to give its AI coder, Devin, a better personality. This shows that how an AI interacts with people is now just as important as its technical skills. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 23 Jul 2026 17:00:00 +0000"
+    "publishedAt": "Fri, 24 Jul 2026 18:07:32 +0000"
   },
   {
-    "tweetText": "Meta released an AI ad featuring a song about human extinction. This shows a major disconnect between marketing goals and song meanings. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/",
+    "tweetText": "Anthropic launched Opus 5. It is cheaper and less restrictive than Fable, making it a better choice for most users. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 23 Jul 2026 16:28:50 +0000"
+    "publishedAt": "Fri, 24 Jul 2026 17:00:00 +0000"
   },
   {
-    "tweetText": "AI chip startup Etched reached a $10.3B valuation after raising massive funding. Their new hardware could speed up AI models without needing traditional GPUs. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
+    "tweetText": "AI companies are urging US officials to avoid broad restrictions on open-weight models. This could prevent innovation and limit competition in the global AI race. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 23 Jul 2026 15:00:00 +0000"
+    "publishedAt": "Fri, 24 Jul 2026 15:51:49 +0000"
   },
   {
-    "tweetText": "Google's Gemini is approaching one billion monthly users. This rapid growth shows how quickly AI is becoming a mainstream tool. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/",
+    "tweetText": "Bluesky’s AI assistant Attie can now search news and trends across the AT Protocol. This turns social data into a powerful tool for researchers. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 23 Jul 2026 14:52:44 +0000"
+    "publishedAt": "Fri, 24 Jul 2026 15:13:57 +0000"
   },
   {
-    "tweetText": "Experts deny that Kimi K3’s high performance comes from just copying Anthropic’s Fable. This suggests the model was built using more advanced training methods. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
+    "tweetText": "Midjourney has acquired the astrology app Co-Star. This move shows the AI lab is expanding beyond just generating images and video. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 23 Jul 2026 11:00:00 +0000"
+    "publishedAt": "Fri, 24 Jul 2026 15:09:55 +0000"
   }
 ]
