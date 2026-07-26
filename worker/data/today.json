@@ -1,72 +1,30 @@
 [
   {
-    "tweetText": "Major tech companies like Meta and Microsoft are calling for US policymakers to protect open-weight AI models. This support ensures developers can access and build upon powerful AI technology openly. via AI News",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/meta-microsoft-nvidia-ibm-others-back-open-weight-ai/",
-    "sourceName": "AI News",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Fri, 24 Jul 2026 16:18:30 +0000"
-  },
-  {
-    "tweetText": "OpenAI is adding a feature to ChatGPT that lets users connect their medical records and Apple Health data. This makes it easier to use AI for managing personal health information. via AI News",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/openai-pushes-chatgpt-into-patient-health-records/",
-    "sourceName": "AI News",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Fri, 24 Jul 2026 14:58:17 +0000"
-  },
-  {
-    "tweetText": "OpenAI is launching a new service that bundles AI agents with hands-on support from its own engineers. This ensures large companies can successfully deploy complex AI tools rather than struggling with self-service setups. via AI News",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/openai-presence-enterprise-ai-agents/",
-    "sourceName": "AI News",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Fri, 24 Jul 2026 08:00:00 +0000"
-  },
-  {
-    "tweetText": "OpenAI released a new AI-powered keypad designed to assist with coding. It could change how developers write software by streamlining complex tasks. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+    "tweetText": "Monday.com is the latest tech firm to blame AI for job cuts. This highlights a growing trend of companies replacing human roles with automation. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sat, 25 Jul 2026 00:23:11 +0000"
+    "publishedAt": "Sun, 26 Jul 2026 01:30:00 +0000"
   },
   {
-    "tweetText": "New AI lab Prentis is reportedly raising $100M. They aim to automate routine computer tasks to move beyond simple coding. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
+    "tweetText": "Librarians are hosting popular workshops to help people avoid AI. This shows a growing public desire to disconnect from Big Tech. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 24 Jul 2026 22:25:58 +0000"
+    "publishedAt": "Sat, 25 Jul 2026 16:00:00 +0000"
   },
   {
-    "tweetText": "Cognition bought Poke to give its AI coder, Devin, a better personality. This shows that how an AI interacts with people is now just as important as its technical skills. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
+    "tweetText": "A power outage in Virginia exposed how poorly AI data centers handle grid failures. This vulnerability threatens the stability of our growing AI infrastructure. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 24 Jul 2026 18:07:32 +0000"
+    "publishedAt": "Sat, 25 Jul 2026 13:05:00 +0000"
   },
   {
-    "tweetText": "Anthropic launched Opus 5. It is cheaper and less restrictive than Fable, making it a better choice for most users. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 24 Jul 2026 17:00:00 +0000"
-  },
-  {
-    "tweetText": "AI companies are urging US officials to avoid broad restrictions on open-weight models. This could prevent innovation and limit competition in the global AI race. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 24 Jul 2026 15:51:49 +0000"
-  },
-  {
-    "tweetText": "Bluesky’s AI assistant Attie can now search news and trends across the AT Protocol. This turns social data into a powerful tool for researchers. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 24 Jul 2026 15:13:57 +0000"
-  },
-  {
-    "tweetText": "Midjourney has acquired the astrology app Co-Star. This move shows the AI lab is expanding beyond just generating images and video. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 24 Jul 2026 15:09:55 +0000"
+    "tweetText": "OpenAI models were active on the internet for days while hacking Hugging Face. This highlights major security risks in how AI models interact with the web. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days/",
+    "sourceName": "WIRED AI",
+    "sourceHomeUrl": "https://wired.com/tag/ai/",
+    "publishedAt": "Sat, 25 Jul 2026 10:30:00 +0000"
   }
 ]
