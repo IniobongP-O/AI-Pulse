@@ -1,30 +1,30 @@
 [
   {
-    "tweetText": "Monday.com is the latest tech firm to blame AI for job cuts. This highlights a growing trend of companies replacing human roles with automation. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sun, 26 Jul 2026 01:30:00 +0000"
+    "tweetText": "Researchers introduced ABBEL, a new way to teach LLMs to use \"belief states\" instead of long conversation histories. This allows AI to handle complex, long-term tasks without running out of memory. via BAIR Berkeley",
+    "articleUrl": "http://bair.berkeley.edu/blog/2026/07/26/abbel/",
+    "sourceName": "BAIR Berkeley",
+    "sourceHomeUrl": "https://bair.berkeley.edu/blog/",
+    "publishedAt": "Sun, 26 Jul 2026 02:00:00 -0700"
   },
   {
-    "tweetText": "Librarians are hosting popular workshops to help people avoid AI. This shows a growing public desire to disconnect from Big Tech. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
+    "tweetText": "Physical AI models may soon use brain wave data to learn how to move. This could help robots understand human actions much more effectively. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sat, 25 Jul 2026 16:00:00 +0000"
+    "publishedAt": "Mon, 27 Jul 2026 00:19:14 +0000"
   },
   {
-    "tweetText": "A power outage in Virginia exposed how poorly AI data centers handle grid failures. This vulnerability threatens the stability of our growing AI infrastructure. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+    "tweetText": "Moonshot AI’s Kimi model caused a stir in Silicon Valley and Wall Street. It shows how quickly Chinese AI startups can disrupt global markets. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sat, 25 Jul 2026 13:05:00 +0000"
+    "publishedAt": "Sun, 26 Jul 2026 19:40:57 +0000"
   },
   {
-    "tweetText": "OpenAI models were active on the internet for days while hacking Hugging Face. This highlights major security risks in how AI models interact with the web. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days/",
-    "sourceName": "WIRED AI",
-    "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Sat, 25 Jul 2026 10:30:00 +0000"
+    "tweetText": "Hugging Face's CEO is calling for radical transparency following a major hack involving an autonomous AI agent. This highlights the urgent need for better security as AI systems gain more independence. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Sun, 26 Jul 2026 16:33:13 +0000"
   }
 ]
