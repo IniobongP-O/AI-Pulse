@@ -1,30 +1,72 @@
 [
   {
-    "tweetText": "Researchers introduced ABBEL, a new way to teach LLMs to use \"belief states\" instead of long conversation histories. This allows AI to handle complex, long-term tasks without running out of memory. via BAIR Berkeley",
-    "articleUrl": "http://bair.berkeley.edu/blog/2026/07/26/abbel/",
-    "sourceName": "BAIR Berkeley",
-    "sourceHomeUrl": "https://bair.berkeley.edu/blog/",
-    "publishedAt": "Sun, 26 Jul 2026 02:00:00 -0700"
-  },
-  {
-    "tweetText": "Physical AI models may soon use brain wave data to learn how to move. This could help robots understand human actions much more effectively. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
+    "tweetText": "Anthropic CEO Dario Amodei supports open-weight models but worries about China's rapid AI progress. This highlights the tension between open innovation and global security risks. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 27 Jul 2026 00:19:14 +0000"
+    "publishedAt": "Tue, 28 Jul 2026 00:13:33 +0000"
   },
   {
-    "tweetText": "Moonshot AI’s Kimi model caused a stir in Silicon Valley and Wall Street. It shows how quickly Chinese AI startups can disrupt global markets. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+    "tweetText": "Microsoft CEO Satya Nadella warns that relying on a single AI model could be fatal for businesses. Using diverse AI infrastructure will be key to staying competitive. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sun, 26 Jul 2026 19:40:57 +0000"
+    "publishedAt": "Mon, 27 Jul 2026 21:17:11 +0000"
   },
   {
-    "tweetText": "Hugging Face's CEO is calling for radical transparency following a major hack involving an autonomous AI agent. This highlights the urgent need for better security as AI systems gain more independence. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+    "tweetText": "Claude's shared chat links accidentally exposed user conversations to Google. This means private data could be indexed and searchable by anyone online. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sun, 26 Jul 2026 16:33:13 +0000"
+    "publishedAt": "Mon, 27 Jul 2026 20:19:42 +0000"
+  },
+  {
+    "tweetText": "Microsoft launched its first AI security model and a new agentic cybersecurity system. This helps companies detect and respond to digital threats faster. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 27 Jul 2026 18:32:11 +0000"
+  },
+  {
+    "tweetText": "OpenAI's Hugging Face breach has sparked new debates about AI control. It highlights the urgent need to decide if advanced models should be better aligned or more strictly contained. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 27 Jul 2026 17:28:42 +0000"
+  },
+  {
+    "tweetText": "Meta AI is now available inside Threads direct messages. Users can now get help and answers without leaving their chats. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 27 Jul 2026 16:45:24 +0000"
+  },
+  {
+    "tweetText": "Google’s AI Overviews now appear in 43% of all searches. This shows AI-generated answers are rapidly becoming the main way people find information online. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 27 Jul 2026 15:57:12 +0000"
+  },
+  {
+    "tweetText": "TechCrunch Disrupt 2026 will host a stage focused on the intersection of energy and AI infrastructure. This session explores how AI's massive power needs impact the global economy and the electrical grid. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 27 Jul 2026 15:30:00 +0000"
+  },
+  {
+    "tweetText": "Ilya Sutskever’s new startup, Safe Superintelligence, is partnering with Nvidia to scale its research. This move provides the massive computing power needed to build safe, advanced AI. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 27 Jul 2026 15:01:50 +0000"
+  },
+  {
+    "tweetText": "Researchers found that image editing models on Hugging Face can easily create explicit deepfakes. This shows how vulnerable AI platforms are to misuse for non-consensual imagery. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/hugging-face-has-a-nonconsensual-deepfakes-problem/",
+    "sourceName": "WIRED AI",
+    "sourceHomeUrl": "https://wired.com/tag/ai/",
+    "publishedAt": "Tue, 28 Jul 2026 05:30:00 +0000"
   }
 ]
