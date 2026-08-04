@@ -1,30 +1,72 @@
 [
   {
-    "tweetText": "Sam Altman wants to slow down the speed of AI development. This approach aims to ensure safety as technology evolves. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+    "tweetText": "New EU rules now require AI companies to clearly label when people are interacting with machines. This ensures users know they are talking to AI rather than a human. via AI News",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/eu-ai-act-article-50-transparency-rules-enter-force/",
+    "sourceName": "AI News",
+    "sourceHomeUrl": "https://www.artificialintelligence-news/",
+    "publishedAt": "Mon, 03 Aug 2026 16:09:25 +0000"
+  },
+  {
+    "tweetText": "GSK is partnering with Relation Therapeutics to use large biological datasets for drug discovery. This move provides the high-quality data needed to train more accurate AI models. via AI News",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/gsk-relation-therapeutics-ai-drug-discovery-biological-data/",
+    "sourceName": "AI News",
+    "sourceHomeUrl": "https://www.artificialintelligence-news/",
+    "publishedAt": "Mon, 03 Aug 2026 10:00:00 +0000"
+  },
+  {
+    "tweetText": "OpenAI is fighting back against Apple's lawsuit with new evidence. This legal battle could shape how AI companies and tech giants work together. via OpenAI News",
+    "articleUrl": "https://openai.com/index/apple-is-getting-this-wrong",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Mon, 03 Aug 2026 22:00:00 GMT"
+  },
+  {
+    "tweetText": "Palantir CEO Alex Karp called the AI industry \"Marxist\" despite the company's huge profits. This shows growing tension between big tech and enterprise users. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sun, 02 Aug 2026 20:54:22 +0000"
+    "publishedAt": "Mon, 03 Aug 2026 23:19:50 +0000"
   },
   {
-    "tweetText": "New EU rules require companies to label all AI-generated content. This could lead to disclosure fatigue as users become desensitized to constant warnings. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/",
+    "tweetText": "Design Arena raised $7.9 million to help AI models understand human taste. This funding helps developers improve how AI evaluates design and quality. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 03 Aug 2026 19:28:57 +0000"
+  },
+  {
+    "tweetText": "OpenAI hosted a luxury brand trip for influencers. This has sparked backlash as people debate the ethics of promoting AI technology. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 03 Aug 2026 19:09:56 +0000"
+  },
+  {
+    "tweetText": "Apple finally upgraded Siri with new AI features. It makes the assistant much smarter, but it feels less impressive now that everyone else is doing it too. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 03 Aug 2026 18:43:43 +0000"
+  },
+  {
+    "tweetText": "ChatGPT is the most used paid AI tool in Congress. This shows how lawmakers are using AI to draft memos and summarize laws. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 03 Aug 2026 16:40:55 +0000"
+  },
+  {
+    "tweetText": "June raised $20 million to help companies deploy AI more easily. This funding aims to solve the complex challenges of integrating AI into business workflows. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 03 Aug 2026 10:00:00 +0000"
+  },
+  {
+    "tweetText": "Fans are debating if the hit song \"Rubberz\" was actually created by AI. This sparks a major conversation about the future of authenticity in music. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/ai-music-app-treblo-just-snitched-on-rubberz-song-of-the-summer/",
     "sourceName": "WIRED AI",
     "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Sun, 02 Aug 2026 10:00:00 +0000"
-  },
-  {
-    "tweetText": "Fender's CEO compared bandmates and cover songs to analog AI. This adds fuel to the brand's growing backlash from guitarists and creators. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-08-02T19:36:08.000Z"
-  },
-  {
-    "tweetText": "New AI startups are trying to win over artists by paying them for their work. This could help settle the legal battles over how models are trained. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-08-02T13:00:00.000Z"
+    "publishedAt": "Mon, 03 Aug 2026 22:27:46 +0000"
   }
 ]
