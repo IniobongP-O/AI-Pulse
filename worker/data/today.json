@@ -1,72 +1,72 @@
 [
   {
-    "tweetText": "New EU rules now require AI companies to clearly label when people are interacting with machines. This ensures users know they are talking to AI rather than a human. via AI News",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/eu-ai-act-article-50-transparency-rules-enter-force/",
-    "sourceName": "AI News",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Mon, 03 Aug 2026 16:09:25 +0000"
-  },
-  {
-    "tweetText": "GSK is partnering with Relation Therapeutics to use large biological datasets for drug discovery. This move provides the high-quality data needed to train more accurate AI models. via AI News",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/gsk-relation-therapeutics-ai-drug-discovery-biological-data/",
-    "sourceName": "AI News",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Mon, 03 Aug 2026 10:00:00 +0000"
-  },
-  {
-    "tweetText": "OpenAI is fighting back against Apple's lawsuit with new evidence. This legal battle could shape how AI companies and tech giants work together. via OpenAI News",
-    "articleUrl": "https://openai.com/index/apple-is-getting-this-wrong",
+    "tweetText": "OpenAI is adding new safeguards to prevent third-party cybersecurity tests from exploiting their models. This makes AI systems safer and more secure against potential hacks. via OpenAI News",
+    "articleUrl": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
     "sourceName": "OpenAI News",
     "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Mon, 03 Aug 2026 22:00:00 GMT"
+    "publishedAt": "Tue, 04 Aug 2026 19:00:00 GMT"
   },
   {
-    "tweetText": "Palantir CEO Alex Karp called the AI industry \"Marxist\" despite the company's huge profits. This shows growing tension between big tech and enterprise users. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+    "tweetText": "New open-weight models are reaching the power of top-tier AI. This is risky because they lack the safety features found in closed systems. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 03 Aug 2026 23:19:50 +0000"
+    "publishedAt": "Tue, 04 Aug 2026 20:05:26 +0000"
   },
   {
-    "tweetText": "Design Arena raised $7.9 million to help AI models understand human taste. This funding helps developers improve how AI evaluates design and quality. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+    "tweetText": "Anthropic signed a $10 billion deal with AI cloud startup Volta. This massive partnership will help fuel the company's growing computing needs. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 03 Aug 2026 19:28:57 +0000"
+    "publishedAt": "Tue, 04 Aug 2026 19:48:40 +0000"
   },
   {
-    "tweetText": "OpenAI hosted a luxury brand trip for influencers. This has sparked backlash as people debate the ethics of promoting AI technology. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
+    "tweetText": "Wrinkles is a new AI app that acts as a personal audio tour guide. It helps you discover hidden history and local stories just by being near them. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 03 Aug 2026 19:09:56 +0000"
+    "publishedAt": "Tue, 04 Aug 2026 19:34:34 +0000"
   },
   {
-    "tweetText": "Apple finally upgraded Siri with new AI features. It makes the assistant much smarter, but it feels less impressive now that everyone else is doing it too. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
+    "tweetText": "Nvidia's new AI safety group has already released proposals to defend against AI agents. This shows the industry is moving fast to secure future AI systems. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 03 Aug 2026 18:43:43 +0000"
+    "publishedAt": "Tue, 04 Aug 2026 19:28:49 +0000"
   },
   {
-    "tweetText": "ChatGPT is the most used paid AI tool in Congress. This shows how lawmakers are using AI to draft memos and summarize laws. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+    "tweetText": "Spotify is partnering with Merlin to launch an AI tool for making remixes and covers. This ensures artists get paid and stay in control of their music. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 03 Aug 2026 16:40:55 +0000"
+    "publishedAt": "Tue, 04 Aug 2026 15:50:06 +0000"
   },
   {
-    "tweetText": "June raised $20 million to help companies deploy AI more easily. This funding aims to solve the complex challenges of integrating AI into business workflows. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+    "tweetText": "Elon Musk spends half of Tesla's earnings calls discussing AI and robots. This shows he is prioritizing artificial intelligence over the company's core car business. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 03 Aug 2026 10:00:00 +0000"
+    "publishedAt": "Tue, 04 Aug 2026 15:20:06 +0000"
   },
   {
-    "tweetText": "Fans are debating if the hit song \"Rubberz\" was actually created by AI. This sparks a major conversation about the future of authenticity in music. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/ai-music-app-treblo-just-snitched-on-rubberz-song-of-the-summer/",
+    "tweetText": "Apple is expanding its investigation into former employees who may have taken trade secrets to OpenAI. This suggests a potentially larger leak of confidential data than previously thought. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Tue, 04 Aug 2026 14:03:01 +0000"
+  },
+  {
+    "tweetText": "Runware launched Sonic Inference Pod, a modular data center designed for portability. This allows AI companies to deploy high-performance hardware anywhere they need it. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Tue, 04 Aug 2026 13:00:00 +0000"
+  },
+  {
+    "tweetText": "Wispr Flow launched a new tool that transcribes and summarizes live meetings. This makes it easier for professionals to stay focused without taking manual notes. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/ai-notetakers-invited-to-the-meetings/",
     "sourceName": "WIRED AI",
     "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Mon, 03 Aug 2026 22:27:46 +0000"
+    "publishedAt": "Wed, 05 Aug 2026 07:00:00 +0000"
   }
 ]
