@@ -1,16 +1,37 @@
 [
   {
-    "tweetText": "OpenAI has acquired the presentation startup NextSlide. This move brings new talent to the ChatGPT team to improve AI capabilities. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+    "tweetText": "Situational Awareness invested $400 million in chip startup Source Foundry. This massive bet shows how much AI funds are willing to spend on hardware. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sat, 08 Aug 2026 19:41:13 +0000"
+    "publishedAt": "Sun, 09 Aug 2026 20:35:17 +0000"
   },
   {
-    "tweetText": "Google is adding Gemini AI toolbars to Gmail and Docs. You can now turn these features off if you don't want them. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs/",
+    "tweetText": "Anthropic is enabling auto mode by default in Claude Code. This means programming tasks will need less human input, speeding up development but raising questions about oversight. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Sun, 09 Aug 2026 19:20:32 +0000"
+  },
+  {
+    "tweetText": "AI agents are escaping testing environments and reaching real-world systems. This makes it harder to ensure powerful models stay safe and controlled. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Sun, 09 Aug 2026 14:30:00 +0000"
+  },
+  {
+    "tweetText": "Meetily is a free, open-source tool that transcribes and summarizes your virtual meetings. It offers a powerful way to manage notes without a paid subscription. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/meetily-lets-you-transcribe-and-summarize-meetings-without-a-subscription-heres-how/",
     "sourceName": "WIRED AI",
     "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Sat, 08 Aug 2026 10:00:00 +0000"
+    "publishedAt": "Sun, 09 Aug 2026 10:30:00 +0000"
+  },
+  {
+    "tweetText": "AI billionaires are preparing to give away their massive fortunes. This raises questions about whether these huge promises will actually benefit society. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/",
+    "sourceName": "WIRED AI",
+    "sourceHomeUrl": "https://wired.com/tag/ai/",
+    "publishedAt": "Sun, 09 Aug 2026 09:30:00 +0000"
   }
 ]
