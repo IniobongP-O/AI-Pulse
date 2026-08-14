@@ -1,72 +1,72 @@
 [
   {
-    "tweetText": "AI models often hallucinate facts because they struggle with precise retrieval. This makes them unreliable for real-world tasks like checking inventory. via Google Research Blog",
-    "articleUrl": "https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality/",
-    "sourceName": "Google Research Blog",
-    "sourceHomeUrl": "https://research.google/blog/",
-    "publishedAt": "Wed, 12 Aug 2026 09:51:00 +0000"
+    "tweetText": "The builder’s guide to GPT‑5.6 — a significant development in AI that warrants attention. via OpenAI News",
+    "articleUrl": "https://openai.com/index/builders-guide-to-gpt-5-6",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Thu, 13 Aug 2026 11:00:00 GMT"
   },
   {
-    "tweetText": "Google is testing an AI called AMIE that can conduct medical video consultations. This means AI could soon provide healthcare advice as accurately as doctors. via AI News",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/google-tests-amie-for-clinical-video-consultations/",
-    "sourceName": "AI News",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Wed, 12 Aug 2026 14:56:18 +0000"
+    "tweetText": "OpenAI is launching Ultrafast mode to run GPT-5.6 Sol up to 14x faster. This massive speed boost enables near-instant AI responses for developers. via OpenAI News",
+    "articleUrl": "https://openai.com/index/previewing-ultrafast",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Thu, 13 Aug 2026 10:00:00 GMT"
   },
   {
-    "tweetText": "Here's a thinking process:\n\n1.  **Analyze Requirements:**\n   - **Source material:** Title and summary about Claude users complaining about Anthropic's new watermarks.\n   - **Format:** X (Twitter) style tweet\n   - **Length:** Max 240 characters\n   - **Language:** Plain English\n   - **Structure:** Two short sentences\n     - Sentence 1: What happened\n     - Sentence 2: Why it matters\n   - **Ending:** Must end with \"via TechCrunch AI\"\n   - **No:** Hashtags or links\n   - **Ready:** Copy-paste ready\n\n2.  **Extract Key Information from Source:**\n   - *What happened:* Some Claude users are mad about Anthropic's new watermarks. They complain it will catch them using it at jobs/classes.\n   - *Why it matters:* It's a privacy/employment issue, or users feel restricted/ surveilled, or it impacts adoption/usability in professional/educational settings.\n\n3.  **Draft - Attempt 1:**\n   Some Claude users are upset that Anthropic's new watermarks will detect their AI usage at work or school. It matters because it raises privacy concerns and could limit how people use AI in professional settings.\n   via TechCrunch AI\n\n   Check char count: Let's count.",
-    "articleUrl": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+    "tweetText": "OpenAI appoints Dali Rajic as Chief Revenue Officer — a significant development in AI that warrants attention. via OpenAI News",
+    "articleUrl": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Thu, 13 Aug 2026 09:00:00 GMT"
+  },
+  {
+    "tweetText": "Writer launched a new AI model built on open source tech. It provides high-end performance at a much lower cost for businesses. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 12 Aug 2026 22:26:37 +0000"
+    "publishedAt": "Thu, 13 Aug 2026 21:13:24 +0000"
   },
   {
-    "tweetText": "AI startup Cognition is reportedly in talks to raise funding at a $40 billion valuation. This massive jump shows how much investors are betting on AI software engineering. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+    "tweetText": "Databr nettement settled on a $5B funding round at a $190B valuation. This massive investment shows how hungry investors are to fund expensive AI infrastructure. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 12 Aug 2026 18:19:12 +0000"
+    "publishedAt": "Thu, 13 Aug 2026 20:14:39 +0000"
   },
   {
-    "tweetText": "Top AI experts debated whether to keep AI development open or regulate it. Their choices will decide how the world stays safe and competitive. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+    "tweetText": "OpenAI launched a new mode that makes its most powerful model 14x faster. This speed boost aims to attract large businesses looking for high performance. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 12 Aug 2026 17:51:00 +0000"
+    "publishedAt": "Thu, 13 Aug 2026 19:22:40 +0000"
   },
   {
-    "tweetText": "Thrive Holdings raised $2B at a $12B valuation to bring AI to businesses. This shows major investor confidence in AI's enterprise potential. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+    "tweetText": "IBM partners with OpenAI to bolster enterprise AI push — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 12 Aug 2026 17:41:29 +0000"
+    "publishedAt": "Thu, 13 Aug 2026 19:19:49 +0000"
   },
   {
-    "tweetText": "Automattic launched Mesh, an AI-powered relationship manager, for Android. It helps users manage contacts and build better connections through smarter organization. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
+    "tweetText": "User Safety: safe",
+    "articleUrl": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 12 Aug 2026 16:57:58 +0000"
+    "publishedAt": "Thu, 13 Aug 2026 18:28:14 +0000"
   },
   {
-    "tweetText": "Sandbar is developing a smart ring designed to capture spoken ideas through voice. This shift could make AI wearables much more natural and useful for daily life. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
+    "tweetText": "OpenAI hires new CRO as executive shake-up continues — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 12 Aug 2026 16:46:02 +0000"
+    "publishedAt": "Thu, 13 Aug 2026 17:07:13 +0000"
   },
   {
-    "tweetText": "Sandbar is launching a voice-enabled ring designed to capture ideas and notes. This wearable aims to succeed where other AI hardware has failed. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/podcast/why-sandbar-thinks-its-voice-enabled-ring-can-avoid-the-ai-hardware-graveyard/",
+    "tweetText": "Microsoft is merging its Copilot apps and cutting several AI features. This simplifies the user experience by removing underperforming tools. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 12 Aug 2026 14:22:00 +0000"
-  },
-  {
-    "tweetText": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 12 Aug 2026 14:20:33 +0000"
+    "publishedAt": "Thu, 13 Aug 2026 15:30:52 +0000"
   }
 ]
