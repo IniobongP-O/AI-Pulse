@@ -1,72 +1,72 @@
 [
   {
-    "tweetText": "The builder’s guide to GPT‑5.6 — a significant development in AI that warrants attention. via OpenAI News",
-    "articleUrl": "https://openai.com/index/builders-guide-to-gpt-5-6",
-    "sourceName": "OpenAI News",
-    "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Thu, 13 Aug 2026 11:00:00 GMT"
+    "tweetText": "Samsung has developed new AI models that analyze biosignals from wearable devices. This could lead to more personalized and proactive health monitoring. via AI News",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/samsung-health-ai-models-analyse-wearable-biosignal-data/",
+    "sourceName": "AI News",
+    "sourceHomeUrl": "https://www.artificialintelligence-news/",
+    "publishedAt": "Fri, 14 Aug 2026 13:30:10 +0000"
   },
   {
-    "tweetText": "OpenAI is launching Ultrafast mode to run GPT-5.6 Sol up to 14x faster. This massive speed boost enables near-instant AI responses for developers. via OpenAI News",
-    "articleUrl": "https://openai.com/index/previewing-ultrafast",
-    "sourceName": "OpenAI News",
-    "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Thu, 13 Aug 2026 10:00:00 GMT"
+    "tweetText": "Google is integrating Abbott glucose monitor data into its Gemini-powered AI health coach. This gives users a much clearer picture of how their diet affects their blood sugar. via AI News",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/google-ai-health-coach-abbott-glucose-data/",
+    "sourceName": "AI News",
+    "sourceHomeUrl": "https://www.artificialintelligence-news/",
+    "publishedAt": "Fri, 14 Aug 2026 10:00:00 +0000"
   },
   {
-    "tweetText": "OpenAI appoints Dali Rajic as Chief Revenue Officer — a significant development in AI that warrants attention. via OpenAI News",
-    "articleUrl": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-    "sourceName": "OpenAI News",
-    "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Thu, 13 Aug 2026 09:00:00 GMT"
-  },
-  {
-    "tweetText": "Writer launched a new AI model built on open source tech. It provides high-end performance at a much lower cost for businesses. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+    "tweetText": "Google is letting users remove visible watermarks from AI-generated images. This gives creators more control over their content's look. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 13 Aug 2026 21:13:24 +0000"
+    "publishedAt": "Fri, 14 Aug 2026 16:13:40 +0000"
   },
   {
-    "tweetText": "Databr nettement settled on a $5B funding round at a $190B valuation. This massive investment shows how hungry investors are to fund expensive AI infrastructure. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+    "tweetText": "Meta released Glimmer, an open-weight AI model that anyone can run on their own hardware. This moves toward Zuckerberg's goal of making AI accessible rather than controlled by a few labs. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 13 Aug 2026 20:14:39 +0000"
+    "publishedAt": "Fri, 14 Aug 2026 15:43:28 +0000"
   },
   {
-    "tweetText": "OpenAI launched a new mode that makes its most powerful model 14x faster. This speed boost aims to attract large businesses looking for high performance. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+    "tweetText": "Hyperscalers might regret embracing natural gas if new forecast proves correct — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 13 Aug 2026 19:22:40 +0000"
+    "publishedAt": "Fri, 14 Aug 2026 14:05:00 +0000"
   },
   {
-    "tweetText": "IBM partners with OpenAI to bolster enterprise AI push — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+    "tweetText": "Meta released Glimmer, an open-weight AI model that anyone can download. This move promotes open access to AI technology instead of keeping it behind closed doors. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 13 Aug 2026 19:19:49 +0000"
+    "publishedAt": "Fri, 14 Aug 2026 14:00:00 +0000"
   },
   {
-    "tweetText": "User Safety: safe",
-    "articleUrl": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 13 Aug 2026 18:28:14 +0000"
+    "tweetText": "Tim O’Reilly says major AI labs are missing what users actually want. He believes open source AI is the key to making the technology truly useful. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/tech-visionary-says-the-big-ai-labs-dont-get-what-people-want/",
+    "sourceName": "WIRED AI",
+    "sourceHomeUrl": "https://wired.com/tag/ai/",
+    "publishedAt": "Fri, 14 Aug 2026 15:00:00 +0000"
   },
   {
-    "tweetText": "OpenAI hires new CRO as executive shake-up continues — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 13 Aug 2026 17:07:13 +0000"
+    "tweetText": "Joi AI hired people to use AI companions for masturbation during a study. This experiment aims to see if AI can help solve male loneliness. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/these-masturbation-consultants-were-hired-to-pleasure-themselves-using-ai/",
+    "sourceName": "WIRED AI",
+    "sourceHomeUrl": "https://wired.com/tag/ai/",
+    "publishedAt": "Fri, 14 Aug 2026 10:45:00 +0000"
   },
   {
-    "tweetText": "Microsoft is merging its Copilot apps and cutting several AI features. This simplifies the user experience by removing underperforming tools. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 13 Aug 2026 15:30:52 +0000"
+    "tweetText": "Some lawmakers are drafting bills to prevent people from marrying AI chatbots. This aims to ensure human-AI relationships are never legally recognized. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/people-are-marrying-chatbots-these-lawmakers-want-to-stop-them/",
+    "sourceName": "WIRED AI",
+    "sourceHomeUrl": "https://wired.com/tag/ai/",
+    "publishedAt": "Fri, 14 Aug 2026 10:15:00 +0000"
+  },
+  {
+    "tweetText": "We need to produce a tweet style summary, max 240 characters, plain English, two short sentences: first what happened, second why it matters. End with \"via The Verge AI\". No hashtags or links. Must be copy-paste ready.\n\nWe need to summarize: Instagram changed its wordmark/logo, looks different, not obvious spelling. Also Mark Zuckerberg released a long AI future missive. The article discusses redesign urge and AI proposals.\n\nWe need to capture both: Instagram logo change and Zuckerberg's AI essay. Two sentences: first what happened (Instagram got a new wordmark and Zuckerberg posted a long AI essay). Second why it matters (shows Meta's constant redesign impulse and its big AI vision shaping future). End with \"via The Verge AI\". Ensure under 240 characters.\n\nLet's craft: \"Instagram swapped its classic wordmark for a new, hard‑to‑read design while Mark Zuckerberg released a lengthy essay outlining Meta’s AI future. Together they highlight Meta’s nonstop urge to refresh its brand and push ambitious AI plans. via The Verge AI\"\n\nNow count characters.\n\nCount: Let's count manually.\n\n\"Instagram swapped its classic wordmark for a new, hard‑to‑read design while Mark Zuckerberg released a lengthy essay outlining Meta’s AI future. Together they highlight Meta’s",
+    "articleUrl": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
+    "sourceName": "The Verge AI",
+    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
+    "publishedAt": "2026-08-14T16:54:16.000Z"
   }
 ]
