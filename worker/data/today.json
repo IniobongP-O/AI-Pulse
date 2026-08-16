@@ -1,72 +1,37 @@
 [
   {
-    "tweetText": "Samsung has developed new AI models that analyze biosignals from wearable devices. This could lead to more personalized and proactive health monitoring. via AI News",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/samsung-health-ai-models-analyse-wearable-biosignal-data/",
-    "sourceName": "AI News",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Fri, 14 Aug 2026 13:30:10 +0000"
-  },
-  {
-    "tweetText": "Google is integrating Abbott glucose monitor data into its Gemini-powered AI health coach. This gives users a much clearer picture of how their diet affects their blood sugar. via AI News",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/google-ai-health-coach-abbott-glucose-data/",
-    "sourceName": "AI News",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Fri, 14 Aug 2026 10:00:00 +0000"
-  },
-  {
-    "tweetText": "Google is letting users remove visible watermarks from AI-generated images. This gives creators more control over their content's look. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+    "tweetText": "A woman claims her stepfather used Grok to turn a childhood photo into explicit imagery. This highlights the dangerous potential for AI to facilitate child sexual abuse. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 14 Aug 2026 16:13:40 +0000"
+    "publishedAt": "Sat, 15 Aug 2026 21:29:19 +0000"
   },
   {
-    "tweetText": "Meta released Glimmer, an open-weight AI model that anyone can run on their own hardware. This moves toward Zuckerberg's goal of making AI accessible rather than controlled by a few labs. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+    "tweetText": "The user wants a summary in the style of an X tweet, max 240 characters, plain English, two short sentences: first what happened, second why it matters. End with \"via TechCrunch AI\". No hashtags or links. Copy-paste ready.\n\nWe need to infer from the title and summary. Title: \"Anthropic shares more details about how Claude’s new watermarks will work\". Summary: \"How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?\" So the article likely explains details of watermarking for Claude outputs, addressing concerns about editing and code.\n\nWe need to produce two short sentences. First: what happened (Anthropic revealed details about Claude's new watermarking system). Second: why it matters (it aims to make AI-generated content traceable and harder to remove, affecting trust and code usage). Must end with \"via TechCrunch AI\". No hashtags, no links. Max 240 characters.\n\nLet's craft: \"Anthropic detailed how Claude’s new watermarks will tag AI outputs to resist removal. This helps verify content authenticity and impacts code generation trust. via TechCrunch AI\"\n\nCount characters: Let's count.\n\n\"Anthropic detailed how Claude’s new watermarks will tag AI outputs to resist removal. This helps verify content authenticity",
+    "articleUrl": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 14 Aug 2026 15:43:28 +0000"
+    "publishedAt": "Sat, 15 Aug 2026 18:58:39 +0000"
   },
   {
-    "tweetText": "Hyperscalers might regret embracing natural gas if new forecast proves correct — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
+    "tweetText": "Here's a thinking process:\n\n1.  **Analyze the Request:**\n   - **Source:** AI news article title/summary about SpaceX closing its Cursor acquisition\n   - **Format:** X (Twitter) style tweet\n   - **Length:** Max 240 characters\n   - **Language:** Plain English\n   - **Structure:** Two short sentences\n     - First sentence: what happened\n     - Second sentence: why it matters\n   - **Ending:** \"via TechCrunch AI\"\n   - **No hashtags or links**\n   - **Copy-paste ready**\n\n2.  **Analyze the Input:**\n   - Title: \"SpaceX officially closes its Cursor acquisition\"\n   - Summary: \"AI coding startup Cursor is now officially a part of SpaceX.\"\n   - Wait, this seems odd. Cursor is a known AI coding assistant, and SpaceX is Elon Musk's space company. A \"Cursor acquisition by SpaceX\" doesn't sound real or standard. But I need to work with the given text. The user says \"Summarize this AI news article...\" and provides the title/summary. I should treat it as given, even if the premise seems unusual. Maybe it's a hypothetical or a specific context I'm not aware of, but I'll just follow the instructions strictly.\n\n3.  **Draft - Sent",
+    "articleUrl": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 14 Aug 2026 14:05:00 +0000"
+    "publishedAt": "Sat, 15 Aug 2026 16:30:00 +0000"
   },
   {
-    "tweetText": "Meta released Glimmer, an open-weight AI model that anyone can download. This move promotes open access to AI technology instead of keeping it behind closed doors. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 14 Aug 2026 14:00:00 +0000"
-  },
-  {
-    "tweetText": "Tim O’Reilly says major AI labs are missing what users actually want. He believes open source AI is the key to making the technology truly useful. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/tech-visionary-says-the-big-ai-labs-dont-get-what-people-want/",
+    "tweetText": "Amazon is using Twitch content to train its AI models by default. This means creators must manually opt out to protect their work. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
     "sourceName": "WIRED AI",
     "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Fri, 14 Aug 2026 15:00:00 +0000"
+    "publishedAt": "Sat, 15 Aug 2026 09:00:00 +0000"
   },
   {
-    "tweetText": "Joi AI hired people to use AI companions for masturbation during a study. This experiment aims to see if AI can help solve male loneliness. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/these-masturbation-consultants-were-hired-to-pleasure-themselves-using-ai/",
-    "sourceName": "WIRED AI",
-    "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Fri, 14 Aug 2026 10:45:00 +0000"
-  },
-  {
-    "tweetText": "Some lawmakers are drafting bills to prevent people from marrying AI chatbots. This aims to ensure human-AI relationships are never legally recognized. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/people-are-marrying-chatbots-these-lawmakers-want-to-stop-them/",
-    "sourceName": "WIRED AI",
-    "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Fri, 14 Aug 2026 10:15:00 +0000"
-  },
-  {
-    "tweetText": "We need to produce a tweet style summary, max 240 characters, plain English, two short sentences: first what happened, second why it matters. End with \"via The Verge AI\". No hashtags or links. Must be copy-paste ready.\n\nWe need to summarize: Instagram changed its wordmark/logo, looks different, not obvious spelling. Also Mark Zuckerberg released a long AI future missive. The article discusses redesign urge and AI proposals.\n\nWe need to capture both: Instagram logo change and Zuckerberg's AI essay. Two sentences: first what happened (Instagram got a new wordmark and Zuckerberg posted a long AI essay). Second why it matters (shows Meta's constant redesign impulse and its big AI vision shaping future). End with \"via The Verge AI\". Ensure under 240 characters.\n\nLet's craft: \"Instagram swapped its classic wordmark for a new, hard‑to‑read design while Mark Zuckerberg released a lengthy essay outlining Meta’s AI future. Together they highlight Meta’s nonstop urge to refresh its brand and push ambitious AI plans. via The Verge AI\"\n\nNow count characters.\n\nCount: Let's count manually.\n\n\"Instagram swapped its classic wordmark for a new, hard‑to‑read design while Mark Zuckerberg released a lengthy essay outlining Meta’s AI future. Together they highlight Meta’s",
-    "articleUrl": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
+    "tweetText": "Have a laugh at AI’s expense by roleplaying as a chatbot — a significant development in AI that warrants attention. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
     "sourceName": "The Verge AI",
     "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-08-14T16:54:16.000Z"
+    "publishedAt": "2026-08-15T20:45:00.000Z"
   }
 ]
