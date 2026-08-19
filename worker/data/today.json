@@ -1,65 +1,72 @@
 [
   {
-    "tweetText": "AI is changing how both hackers and security teams operate. This shift means companies must upgrade their defenses to stay safe. via OpenAI News",
-    "articleUrl": "https://openai.com/index/the-defenders-window",
+    "tweetText": "ChatGPT Ads is expanding to 31 European markets. This gives advertisers a new way to reach users during the decision-making process. via OpenAI News",
+    "articleUrl": "https://openai.com/index/chatgpt-ads-expands-across-europe",
     "sourceName": "OpenAI News",
     "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Mon, 17 Aug 2026 05:30:00 GMT"
+    "publishedAt": "Tue, 18 Aug 2026 22:00:00 GMT"
   },
   {
-    "tweetText": "Anthropic’s annualized revenue jumped to $65 billion after a massive $18 billion surge in just two months. This rapid growth shows how quickly AI companies are scaling their profits. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+    "tweetText": "OpenAI is launching an initiative to help government institutions oversee AI use in national security. This ensures AI tools are used safely and transparently by the state. via OpenAI News",
+    "articleUrl": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Tue, 18 Aug 2026 19:00:00 GMT"
+  },
+  {
+    "tweetText": "OpenAI and CodeAI are partnering to teach students AI literacy. This helps the next generation use and shape AI responsibly. via OpenAI News",
+    "articleUrl": "https://openai.com/index/partnering-with-codeai",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Tue, 18 Aug 2026 11:00:00 GMT"
+  },
+  {
+    "tweetText": "OpenAI is beefing up safety checks on its most advanced AI models. This matters because it aims to guide the pace of development responsibly. via OpenAI News",
+    "articleUrl": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Tue, 18 Aug 2026 11:00:00 GMT"
+  },
+  {
+    "tweetText": "ChatGPT for Teens is now available, offering learning tools with stronger safety protections. It helps teens use AI confidently while parents get extra controls. via OpenAI News",
+    "articleUrl": "https://openai.com/index/chatgpt-for-teens",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Tue, 18 Aug 2026 11:00:00 GMT"
+  },
+  {
+    "tweetText": "Asana cleared 5 years of engineering work in 2 weeks with Codex — a significant development in AI that warrants attention. via OpenAI News",
+    "articleUrl": "https://openai.com/index/asana",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Tue, 18 Aug 2026 07:00:00 GMT"
+  },
+  {
+    "tweetText": "We need to produce a tweet style summary: max 240 characters, plain English, two short sentences: first what happened, second why it matters. End with \"via TechCrunch AI\". No hashtags or links. No extra text. Must be copy-paste ready.\n\nWe need to ensure total characters <=240. Let's craft:\n\n\"Cursor is launching a code‑hosting platform to compete with GitHub. It matters because developers are fed up with GitHub’s recent changes. via TechCrunch AI\"\n\nCount characters.\n\nLet's count:\n\n\"Cursor is launching a code‑hosting platform to compete with GitHub. It matters because developers are fed up with GitHub’s recent changes. via TechCrunch AI\"\n\nCount characters including spaces.\n\nI'll count manually.\n\nString:\n\nCursor is launching a code‑hosting platform to compete with GitHub. It matters because developers are fed up with GitHub’s recent changes. via TechCrunch AI\n\nLet's count:\n\n1-10: \"Cursor is \" = 10? Actually \"Cursor\" (6) + space (1) =7, \"is\" (2) =9, space =10. Let's do systematic.\n\nI'll write with indexes.\n\n\"Cursor is launching a code‑hosting platform to compete with GitHub. It matters because developers are fed up",
+    "articleUrl": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 17 Aug 2026 23:56:26 +0000"
+    "publishedAt": "Tue, 18 Aug 2026 22:14:25 +0000"
   },
   {
-    "tweetText": "AI startup Relay is shutting down and its team is joining Google’s Chrome division. This move brings specialized automation expertise to the browser to improve how people work with AI. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+    "tweetText": "OpenAI steps up security after Hugging Face breach. New safeguards include closer model monitoring and stronger focus on alignment and security. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 17 Aug 2026 21:27:05 +0000"
+    "publishedAt": "Tue, 18 Aug 2026 18:00:00 +0000"
   },
   {
-    "tweetText": "Amazon is destroying rare books to train its AI models. This provides unique data that hasn't been available online before. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+    "tweetText": "Etched’s valuation doubles to $21B in a month — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 17 Aug 2026 16:38:44 +0000"
+    "publishedAt": "Tue, 18 Aug 2026 17:21:58 +0000"
   },
   {
-    "tweetText": "<pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>",
-    "articleUrl": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+    "tweetText": "Apple's leaked camera-equipped AirPods might not allow users to take photos or videos. This could prevent the privacy issues seen in other AI wearables. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 17 Aug 2026 16:15:12 +0000"
-  },
-  {
-    "tweetText": "Nvidia is investing $1.5 billion in a SoftBank data center developer. This deal secures a massive supply of chips for OpenAI's future projects. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 17 Aug 2026 15:16:24 +0000"
-  },
-  {
-    "tweetText": "Whisker’s new Litter-Robot 5 Pro uses AI and cameras to identify individual cats. This tech can track pet health by monitoring bathroom habits. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-08-17T11:00:00.000Z"
-  },
-  {
-    "tweetText": "Anthropic is adding invisible watermarks to Claude's text using Google's technology. This helps the AI follow new European rules for transparency. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-08-17T10:57:13.000Z"
-  },
-  {
-    "tweetText": "Flock updated its license plate reader platform to prevent misuse. This change aims to address privacy concerns regarding how police use the technology. via MIT Technology Review",
-    "articleUrl": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
-    "sourceName": "MIT Technology Review",
-    "sourceHomeUrl": "https://www.technologyreview.com/topic/artificial-intelligence/",
-    "publishedAt": "Mon, 17 Aug 2026 19:16:09 +0000"
+    "publishedAt": "Tue, 18 Aug 2026 16:19:10 +0000"
   }
 ]
