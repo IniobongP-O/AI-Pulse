@@ -1,72 +1,72 @@
 [
   {
-    "tweetText": "Here's a thinking process:\n\n1.  **Analyze the Request:**\n   - **Source text:** \"Title: Introducing AI Futures Summary: Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.\"\n   - **Output format:** X tweet style (max 240 characters)\n   - **Content requirements:** \n     - Two short sentences\n     - First sentence: what happened\n     - Second sentence: why it matters\n   - **Ending:** Must end with \"via OpenAI News\"\n   - **Constraints:** Plain English, no hashtags, no links, copy-paste ready\n   - **Character limit:** 240 max\n\n2.  **Deconstruct the Source:**\n   - What happened: OpenAI introduced a new blog called \"AI Futures\"\n   - What it explores: how transformative AI could reshape power, governance, economy, and individual freedom\n   - Source: OpenAI (implied by the title/summary)\n\n3.  **Draft - Attempt 1:**\n   OpenAI just launched a new blog called AI Futures that explores how transformative AI could reshape power, governance, the economy, and individual freedom. This matters because understanding these impacts is crucial for shaping responsible AI policy and societal readiness.",
-    "articleUrl": "https://openai.com/index/introducing-ai-futures",
-    "sourceName": "OpenAI News",
-    "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Thu, 20 Aug 2026 07:00:00 GMT"
+    "tweetText": "User Safety: safe",
+    "articleUrl": "https://research.google/blog/an-ai-tool-for-prioritizing-candidate-biomarkers-from-wearable-sensor-data/",
+    "sourceName": "Google Research Blog",
+    "sourceHomeUrl": "https://research.google/blog/",
+    "publishedAt": "Fri, 21 Aug 2026 17:02:24 +0000"
   },
   {
-    "tweetText": "Here's a thinking process:\n\n1.  **Analyze Requirements:**\n   - **Source:** AI news article title/summary provided\n   - **Format:** X tweet style (max 240 chars)\n   - **Content:** Two short sentences: first \"what happened\", second \"why it matters\"\n   - **Ending:** Must end with \"via TechCrunch AI\"\n   - **No hashtags or links**\n   - **Plain English**\n   - **Copy-paste ready**\n\n2.  **Extract Key Info from Input:**\n   - Title: \"AI data startup Micro1 reaches $500M gross run rate amid AI training boom\"\n   - Summary: \"Surging demand for AI training data is driving rapid growth for the startup and its rivals.\"\n   - Key points: Micro1 (AI data startup), $500M gross run rate, AI training boom/surging demand for training data, growth for startup and rivals.\n\n3.  **Draft - Sentence 1 (What happened):**\n   - Micro1, an AI data startup, hit a $500M gross run rate as demand for AI training data surges.\n   - Or: Micro1 reached a $500M gross run rate amid a surge in demand for AI training data.\n   - Need to be concise, plain English.\n\n4",
-    "articleUrl": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 21 Aug 2026 00:13:44 +0000"
+    "tweetText": "We need to produce a tweet style summary: max 240 characters, plain English, two short sentences: first what happened, second why it matters. End with \"via AI News\". No hashtags or links. Copy-paste ready.\n\nWe have article: In August 2025, TypeScript became the most used language on GitHub. That's the biggest shift in rankings in 10 years, happening during rapid adoption of coding AI agents. Previously predicted AI would lower language selection importance.\n\nWe need to summarize: what happened? TypeScript overtook others as most used language on GitHub in August 2025, biggest shift in 10 years amid AI coding tool boom. Why it matters? Shows AI tools are reshaping language popularity and developer preferences. End with via AI News.\n\nCount characters. Let's craft:\n\n\"In August 2025 TypeScript topped GitHub’s language rankings, marking the biggest shift in a decade as AI coding tools surge. It shows AI is reshaping which languages developers favor. via AI News\"\n\nNow count characters including spaces.\n\nLet's count:\n\n\"In August 2025 TypeScript topped GitHub’s language rankings, marking the biggest shift in a decade as AI coding tools surge. It shows AI is reshaping which languages developers favor. via AI News\"\n\nCount characters precisely.\n\nI'll",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/how-ai-coding-tools-are-contributing-to-the-popularity-of-javascript/",
+    "sourceName": "AI News",
+    "sourceHomeUrl": "https://www.artificialintelligence-news/",
+    "publishedAt": "Fri, 21 Aug 2026 08:41:29 +0000"
   },
   {
-    "tweetText": "OpenAI is gaining on Anthropic with business users, new data indicates — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+    "tweetText": "Anthropic’s Opus 4.6 is a smut-machine — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 20 Aug 2026 22:36:37 +0000"
+    "publishedAt": "Fri, 21 Aug 2026 23:07:25 +0000"
+  },
+  {
+    "tweetText": "Nvidia partners with data center developer Cloverleaf — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Fri, 21 Aug 2026 22:37:38 +0000"
+  },
+  {
+    "tweetText": "Nvidia just showed that the harness, not the AI model, is now the real hero — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Fri, 21 Aug 2026 19:43:39 +0000"
+  },
+  {
+    "tweetText": "The Unlikely Place at the Center of China’s AI Boom — a significant development in AI that warrants attention. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/",
+    "sourceName": "WIRED AI",
+    "sourceHomeUrl": "https://wired.com/tag/ai/",
+    "publishedAt": "Fri, 21 Aug 2026 23:25:32 +0000"
+  },
+  {
+    "tweetText": "Over 1 million people have clicked LinkedIn’s AI slop button — a significant development in AI that warrants attention. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+    "sourceName": "The Verge AI",
+    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
+    "publishedAt": "2026-08-21T21:25:50.000Z"
+  },
+  {
+    "tweetText": "Major YouTube creators are facing backlash for accepting AI money — a significant development in AI that warrants attention. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
+    "sourceName": "The Verge AI",
+    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
+    "publishedAt": "2026-08-21T13:37:52.000Z"
   },
   {
     "tweetText": "User Safety: safe",
-    "articleUrl": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 20 Aug 2026 22:09:51 +0000"
+    "articleUrl": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/",
+    "sourceName": "MIT Technology Review",
+    "sourceHomeUrl": "https://www.technologyreview.com/topic/artificial-intelligence/",
+    "publishedAt": "Fri, 21 Aug 2026 12:10:00 +0000"
   },
   {
-    "tweetText": "Google gives publishers a new way to fight AI-driven traffic losses — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 20 Aug 2026 19:18:21 +0000"
-  },
-  {
-    "tweetText": "Linkdaze’s smart calendar is built to run a household, not just track a schedule — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 20 Aug 2026 18:20:35 +0000"
-  },
-  {
-    "tweetText": "User Safety: safe",
-    "articleUrl": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 20 Aug 2026 17:18:58 +0000"
-  },
-  {
-    "tweetText": "Ramp launched Router, an AI model routing service letting users switch between LLMs via API. It matters because it gives companies flexibility to choose and change AI models without vendor lock-in. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 20 Aug 2026 16:46:00 +0000"
-  },
-  {
-    "tweetText": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 20 Aug 2026 16:07:26 +0000"
-  },
-  {
-    "tweetText": "We need to produce a tweet-style summary (max 240 characters) in plain English, two short sentences: first what happened, second why it matters. End with \"via TechCrunch AI\". No hashtags or links. No extra text. Provide copy-paste ready. Must be <=240 characters total including \"via TechCrunch AI\". Let's craft.\n\nFirst sentence: \"Meta AI launched a Mac app that lets you talk to any app for dictation.\" Second: \"It could make voice commands faster and more seamless across workflows.\" Then \"via TechCrunch AI\". Ensure total characters <=240.\n\nLet's count characters.\n\nDraft:\n\n\"Meta AI launched a Mac app that lets you talk to any app for dictation. It could make voice commands faster and more seamless across workflows. via TechCrunch AI\"\n\nCount characters including spaces.\n\nLet's count:\n\n\"Meta AI launched a Mac app that lets you talk to any app for dictation. It could make voice commands faster and more seamless across workflows. via TechCrunch AI\"\n\nCount manually.\n\nI'll count characters including spaces and punctuation.\n\nString:\n\nM e t a (4) + space (1) =5\nAI (2) ->7\nspace (1) ->8\nlaunched (7) ->15\nspace (1) ->1",
-    "articleUrl": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 20 Aug 2026 12:11:57 +0000"
+    "tweetText": "When AI designs a drug, who gets the credit? — a significant development in AI that warrants attention. via MIT Technology Review",
+    "articleUrl": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
+    "sourceName": "MIT Technology Review",
+    "sourceHomeUrl": "https://www.technologyreview.com/topic/artificial-intelligence/",
+    "publishedAt": "Fri, 21 Aug 2026 09:00:00 +0000"
   }
 ]
