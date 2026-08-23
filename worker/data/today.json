@@ -1,72 +1,30 @@
 [
   {
-    "tweetText": "User Safety: safe",
-    "articleUrl": "https://research.google/blog/an-ai-tool-for-prioritizing-candidate-biomarkers-from-wearable-sensor-data/",
-    "sourceName": "Google Research Blog",
-    "sourceHomeUrl": "https://research.google/blog/",
-    "publishedAt": "Fri, 21 Aug 2026 17:02:24 +0000"
-  },
-  {
-    "tweetText": "We need to produce a tweet style summary: max 240 characters, plain English, two short sentences: first what happened, second why it matters. End with \"via AI News\". No hashtags or links. Copy-paste ready.\n\nWe have article: In August 2025, TypeScript became the most used language on GitHub. That's the biggest shift in rankings in 10 years, happening during rapid adoption of coding AI agents. Previously predicted AI would lower language selection importance.\n\nWe need to summarize: what happened? TypeScript overtook others as most used language on GitHub in August 2025, biggest shift in 10 years amid AI coding tool boom. Why it matters? Shows AI tools are reshaping language popularity and developer preferences. End with via AI News.\n\nCount characters. Let's craft:\n\n\"In August 2025 TypeScript topped GitHub’s language rankings, marking the biggest shift in a decade as AI coding tools surge. It shows AI is reshaping which languages developers favor. via AI News\"\n\nNow count characters including spaces.\n\nLet's count:\n\n\"In August 2025 TypeScript topped GitHub’s language rankings, marking the biggest shift in a decade as AI coding tools surge. It shows AI is reshaping which languages developers favor. via AI News\"\n\nCount characters precisely.\n\nI'll",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/how-ai-coding-tools-are-contributing-to-the-popularity-of-javascript/",
-    "sourceName": "AI News",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Fri, 21 Aug 2026 08:41:29 +0000"
-  },
-  {
-    "tweetText": "Anthropic’s Opus 4.6 is a smut-machine — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+    "tweetText": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 21 Aug 2026 23:07:25 +0000"
+    "publishedAt": "Sat, 22 Aug 2026 21:46:56 +0000"
   },
   {
-    "tweetText": "Nvidia partners with data center developer Cloverleaf — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+    "tweetText": "We need to produce an X tweet style summary: max 240 characters, plain English, two short sentences: first what happened, second why it matters. End with \"via TechCrunch AI\". No hashtags or links. Copy-paste ready.\n\nWe need to count characters, ensure <=240. Let's craft:\n\nSentence 1: \"Inherent, a UK AI lab started by former DeepMind researchers, unveiled Faraday, an AI teammate that beat Anthropic and OpenAI models at reproducing scientific papers.\"\n\nSentence 2: \"This shows AI can now assist researchers more effectively, potentially accelerating discovery.\" Then end with \"via TechCrunch AI\".\n\nNow count characters.\n\nLet's write full text:\n\n\"Inherent, a UK AI lab started by former DeepMind researchers, unveiled Faraday, an AI teammate that beat Anthropic and OpenAI models at reproducing scientific papers. This shows AI can now assist researchers more effectively, potentially accelerating discovery. via TechCrunch AI\"\n\nNow count characters including spaces and punctuation.\n\nI'll count manually.\n\nString:\n\nInherent, a UK AI lab started by former DeepMind researchers, unveiled Faraday, an AI teammate that beat Anthropic and OpenAI models at reproducing scientific papers. This shows AI can now assist researchers more effectively, potentially accelerating discovery. via TechCrunch AI\n\nLet's count.\n\nI'll copy into a",
+    "articleUrl": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 21 Aug 2026 22:37:38 +0000"
+    "publishedAt": "Sat, 22 Aug 2026 19:00:00 +0000"
   },
   {
-    "tweetText": "Nvidia just showed that the harness, not the AI model, is now the real hero — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+    "tweetText": "OpenAI says California should strengthen its AI safety bill — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 21 Aug 2026 19:43:39 +0000"
+    "publishedAt": "Sat, 22 Aug 2026 16:30:34 +0000"
   },
   {
-    "tweetText": "The Unlikely Place at the Center of China’s AI Boom — a significant development in AI that warrants attention. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/",
-    "sourceName": "WIRED AI",
-    "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Fri, 21 Aug 2026 23:25:32 +0000"
-  },
-  {
-    "tweetText": "Over 1 million people have clicked LinkedIn’s AI slop button — a significant development in AI that warrants attention. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-08-21T21:25:50.000Z"
-  },
-  {
-    "tweetText": "Major YouTube creators are facing backlash for accepting AI money — a significant development in AI that warrants attention. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-08-21T13:37:52.000Z"
-  },
-  {
-    "tweetText": "User Safety: safe",
-    "articleUrl": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/",
-    "sourceName": "MIT Technology Review",
-    "sourceHomeUrl": "https://www.technologyreview.com/topic/artificial-intelligence/",
-    "publishedAt": "Fri, 21 Aug 2026 12:10:00 +0000"
-  },
-  {
-    "tweetText": "When AI designs a drug, who gets the credit? — a significant development in AI that warrants attention. via MIT Technology Review",
-    "articleUrl": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
-    "sourceName": "MIT Technology Review",
-    "sourceHomeUrl": "https://www.technologyreview.com/topic/artificial-intelligence/",
-    "publishedAt": "Fri, 21 Aug 2026 09:00:00 +0000"
+    "tweetText": "Frontier AI labs still won’t say how they’d contain a rogue model — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Sat, 22 Aug 2026 16:00:00 +0000"
   }
 ]
