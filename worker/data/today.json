@@ -1,30 +1,23 @@
 [
   {
-    "tweetText": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+    "tweetText": "Who’s behind the new ‘stealth model’ Ox Alpha? — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sat, 22 Aug 2026 21:46:56 +0000"
+    "publishedAt": "Sun, 23 Aug 2026 20:01:36 +0000"
   },
   {
-    "tweetText": "We need to produce an X tweet style summary: max 240 characters, plain English, two short sentences: first what happened, second why it matters. End with \"via TechCrunch AI\". No hashtags or links. Copy-paste ready.\n\nWe need to count characters, ensure <=240. Let's craft:\n\nSentence 1: \"Inherent, a UK AI lab started by former DeepMind researchers, unveiled Faraday, an AI teammate that beat Anthropic and OpenAI models at reproducing scientific papers.\"\n\nSentence 2: \"This shows AI can now assist researchers more effectively, potentially accelerating discovery.\" Then end with \"via TechCrunch AI\".\n\nNow count characters.\n\nLet's write full text:\n\n\"Inherent, a UK AI lab started by former DeepMind researchers, unveiled Faraday, an AI teammate that beat Anthropic and OpenAI models at reproducing scientific papers. This shows AI can now assist researchers more effectively, potentially accelerating discovery. via TechCrunch AI\"\n\nNow count characters including spaces and punctuation.\n\nI'll count manually.\n\nString:\n\nInherent, a UK AI lab started by former DeepMind researchers, unveiled Faraday, an AI teammate that beat Anthropic and OpenAI models at reproducing scientific papers. This shows AI can now assist researchers more effectively, potentially accelerating discovery. via TechCrunch AI\n\nLet's count.\n\nI'll copy into a",
-    "articleUrl": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+    "tweetText": "The user wants a summary in X tweet style, max 240 characters, plain English, two short sentences: first what happened, second why it matters. End with \"via TechCrunch AI\". No hashtags or links. Copy-paste ready.\n\nWe need to summarize the article: Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool. So what happened: Linkdaze launched a smart calendar for households with free AI meal planner. Why it matters: It makes household management accessible without subscription fees.\n\nWe need two short sentences. Must be under 240 characters total including \"via TechCrunch AI\". Let's count.\n\nPotential tweet: \"Linkdaze released a household smart calendar with a free AI meal planner. It lets families manage meals and schedules without paying for premium features. via TechCrunch AI\"\n\nCount characters: Let's count.\n\n\"Linkdaze released a household smart calendar with a free AI meal planner. It lets families manage meals and schedules without paying for premium features. via TechCrunch AI\"\n\nCount characters including spaces.\n\nI'll count manually.\n\n\"Linkdaze released a household smart calendar with a free AI meal planner.\" Let's count:\n\n\"Linkdaze\" (8) + space (1) =9\n\"released\" (8) =",
+    "articleUrl": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sat, 22 Aug 2026 19:00:00 +0000"
+    "publishedAt": "Sun, 23 Aug 2026 19:14:08 +0000"
   },
   {
-    "tweetText": "OpenAI says California should strengthen its AI safety bill — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+    "tweetText": "We need to produce a tweet-style summary: max 240 chars, plain English, two short sentences: first what happened, second why it matters. End with \"via TechCrunch AI\". No hashtags or links. Plain English. Two short sentences. Must be copy-paste ready. End with via TechCrunch AI (including space?). Probably \"via TechCrunch AI\" at end. Must be <=240 characters total.\n\nWe need to summarize the article: \"Is it legal to train AI models on copyrighted books? It’s complicated\". Summary: Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?\n\nWe need to produce two short sentences: first what happened, second why it matters. End with \"via TechCrunch AI\". So something like: \"Authors discovered their books were used to train AI without permission. This raises legal doubts about AI training on copyrighted works. via TechCrunch AI\"\n\nCheck characters count. Let's count characters including spaces.\n\n\"Authors discovered their books were used to train AI without permission. This raises legal doubts about AI training on copyrighted works. via TechCrunch AI\"\n\nCount characters:\n\nI'll count manually.\n\n\"Authors discovered their books were used to train AI without permission. This",
+    "articleUrl": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sat, 22 Aug 2026 16:30:34 +0000"
-  },
-  {
-    "tweetText": "Frontier AI labs still won’t say how they’d contain a rogue model — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sat, 22 Aug 2026 16:00:00 +0000"
+    "publishedAt": "Sun, 23 Aug 2026 15:00:00 +0000"
   }
 ]
