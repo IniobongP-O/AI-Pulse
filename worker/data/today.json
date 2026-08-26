@@ -1,72 +1,72 @@
 [
   {
-    "tweetText": "User Safety: safe",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/xpeng-iron-humanoid-robot-draws-record-physical-ai-funding/",
+    "tweetText": "MIT engineers built an AI tool that predicts extreme weather without needing past disaster data. It can forecast rare events that haven't happened before but are still possible. via AI News",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/mit-ai-forecasts-extreme-weather-without-historical-data/",
     "sourceName": "AI News",
     "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Mon, 24 Aug 2026 15:53:53 +0000"
+    "publishedAt": "Tue, 25 Aug 2026 15:46:06 +0000"
   },
   {
-    "tweetText": "Advancing price-performance for developers with GPT‑5.6 in Kiro — a significant development in AI that warrants attention. via OpenAI News",
-    "articleUrl": "https://openai.com/index/gpt-5-6-in-kiro",
+    "tweetText": "We need to produce a tweet style summary: two short sentences, max 240 characters, plain English, no hashtags or links. End with \"via OpenAI News\". First sentence: what happened. Second: why it matters. Then \"via OpenAI News\". Ensure total characters <=240.\n\nLet's craft: \"OpenAI CFO Sarah Friar outlined how improvements in chips, compute, models, and products work together to scale intelligence while cutting costs.\" That's sentence one.\n\nSentence two: \"This full‑stack progress means AI can become more useful and affordable for broader applications.\" Then add \"via OpenAI News\". Need to ensure no hashtags, no links.\n\nNow count characters.\n\nLet's write full text:\n\n\"OpenAI CFO Sarah Friar outlined how improvements in chips, compute, models, and products work together to scale intelligence while cutting costs. This full‑stack progress means AI can become more useful and affordable for broader applications. via OpenAI News\"\n\nNow count characters including spaces and punctuation.\n\nI'll count manually.\n\nString:\n\nOpenAI CFO Sarah Friar outlined how improvements in chips, compute, models, and products work together to scale intelligence while cutting costs. This full‑stack progress means AI can become more useful and affordable for broader applications. via OpenAI News\n\nLet's count.\n\nI'll copy into a counting approach",
+    "articleUrl": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
     "sourceName": "OpenAI News",
     "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Mon, 24 Aug 2026 12:00:00 GMT"
+    "publishedAt": "Tue, 25 Aug 2026 07:05:00 GMT"
   },
   {
-    "tweetText": "We need to produce a summary in style of an X tweet (Twitter). Max 240 characters. Two short sentences: first what happened, second why it matters. End with \"via TechCrunch AI\". No hashtags or links. Plain English. Copy-paste ready.\n\nWe need to count characters including spaces and punctuation. Must be <=240 characters.\n\nLet's craft:\n\nSentence 1: \"Situational Awareness, the AI hedge fund that once dazzled Wall Street, is now under SEC investigation after a near‑collapse.\"\n\nSentence 2: \"The probe highlights how quickly hype around AI‑driven trading can turn into regulatory risk for investors.\"\n\nThen add space and \"via TechCrunch AI\". Ensure no hashtags or links.\n\nNow count characters.\n\nLet's write full string:\n\n\"Situational Awareness, the AI hedge fund that once dazzled Wall Street, is now under SEC investigation after a near‑collapse. The probe highlights how quickly hype around AI‑driven trading can turn into regulatory risk for investors. via TechCrunch AI\"\n\nNow count characters.\n\nWe'll count manually.\n\nI'll write each character with index.\n\nString:\n\nS i t u a t i o n a l   A w a r e n e s s ,   t h e   A I   h e d g e",
-    "articleUrl": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
+    "tweetText": "We need to produce two short sentences, plain English, max 240 characters, no hashtags or links, end with \"via OpenAI News\". Must be copy-paste ready. First sentence: what happened: Jalapeño chip results show industry-leading speed and efficiency in AI inference. Second sentence: why it matters: It means faster, cheaper AI services and better performance for models. End with \"via OpenAI News\". Ensure total characters <=240. Let's craft:\n\n\"OpenAI’s new Jalapeño inference chip achieved record speed and power efficiency in AI inference tests. This means quicker, lower‑cost AI responses for users and developers. via OpenAI News\"\n\nNow count characters.\n\nLet's count:\n\n\"OpenAI’s new Jalapeño inference chip achieved record speed and power efficiency in AI inference tests.\" Count characters including spaces.\n\nI'll count manually.\n\nString: O p e n A I ’ s (note apostrophe) etc.\n\nBetter to use a tool mentally? Let's approximate.\n\nI'll write the full text:\n\nOpenAI’s new Jalapeño inference chip achieved record speed and power efficiency in AI inference tests. This means quicker, lower‑cost AI responses for users and developers. via OpenAI News\n\nNow count.\n\nFirst sentence: \"OpenAI’s new Jalapeño inference chip achieved record speed and power",
+    "articleUrl": "https://openai.com/index/jalapeno-first-results",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Tue, 25 Aug 2026 07:00:00 GMT"
+  },
+  {
+    "tweetText": "User Safety: safe",
+    "articleUrl": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 25 Aug 2026 00:23:12 +0000"
+    "publishedAt": "Wed, 26 Aug 2026 03:30:00 +0000"
   },
   {
-    "tweetText": "Instinct’s powerful AI assistant is raising privacy and security concerns — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
+    "tweetText": "User Safety: safe",
+    "articleUrl": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 24 Aug 2026 18:03:55 +0000"
+    "publishedAt": "Wed, 26 Aug 2026 00:40:59 +0000"
   },
   {
-    "tweetText": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+    "tweetText": "OpenAI loses a top data center exec, as stream of high-profile departures continues — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 24 Aug 2026 15:24:18 +0000"
+    "publishedAt": "Wed, 26 Aug 2026 00:06:20 +0000"
   },
   {
-    "tweetText": "OpenAI is building AI agents for everything. Will everyone use them? — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+    "tweetText": "Stability AI just raised $76 million, bringing its total funding to $232 million. The cash boost will help it expand and keep competing in the fast-moving AI image space. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 24 Aug 2026 15:00:00 +0000"
+    "publishedAt": "Tue, 25 Aug 2026 19:03:47 +0000"
   },
   {
-    "tweetText": "Hugging Face is reportedly in talks for a $13B acquisition, raising concerns among founders about their responsibility to the AI community. This potential sale highlights the tension between massive valuations and open-source principles. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
+    "tweetText": "The user wants a summary in the style of an X tweet, max 240 characters, plain English, two short sentences: first what happened, second why it matters. End with \"via TechCrunch AI\". No hashtags or links. Copy-paste ready.\n\nWe need to condense the article: Anthropic gives Claude shared memory across chat and Cowork, so users don't have to repeatedly brief the AI.\n\nFirst sentence: \"Anthropic gave Claude shared memory across chat and Cowork.\" Second: \"Now you don’t have to re‑explain projects every time.\" Then \"via TechCrunch AI\". Count characters.\n\nLet's count: \"Anthropic gave Claude shared memory across chat and Cowork.\" = let's count characters including spaces. \"Anthropic gave Claude shared memory across chat and Cowork.\" Count: A n t h r o p i c (9) + space (1) =10, \"gave\" 4 =14, space=15, \"Claude\"6=21, space=22, \"shared\"6=28, space=29, \"memory\"6=35, space=36, \"across\"6=42, space=43, \"chat\"4=47, space=48, \"and\"3",
+    "articleUrl": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 24 Aug 2026 13:47:26 +0000"
+    "publishedAt": "Tue, 25 Aug 2026 17:50:33 +0000"
   },
   {
-    "tweetText": "The user wants a summary in the style of an X tweet (now Twitter). Constraints:\n- Max 240 characters\n- Plain English\n- Two short sentences: first what happened, second why it matters\n- End with \"via WIRED AI\"\n- No hashtags or links\n- Copy-paste ready\n\nArticle: Teachers targeted by sexualized AI deepfakes, hard to get accountability.\n\nDraft: Teachers are being targeted by sexualized AI deepfakes, and they struggle to find accountability. This shows how deepfake abuse is spreading beyond students to educators, threatening their safety and careers. via WIRED AI\n\nCount characters: Let's count.\n\n\"Teachers are being targeted by sexualized AI deepfakes, and they struggle to find accountability. This shows how deepfake abuse is spreading beyond students to educators, threatening their safety and careers. via WIRED AI\"\n\nCount: \nFirst sentence: \"Teachers are being targeted by sexualized AI deepfakes, and they struggle to find accountability.\" -> 96 chars? Let's count precisely.\n\n\"Teachers are being targeted by sexualized AI deepfakes, and they struggle to find accountability.\" \nT e a c h e r s (8) + space (1) =9\na r e (3) + space =13\nb e i n g (",
-    "articleUrl": "https://www.wired.com/story/teachers-deepfake-ai-students-content/",
-    "sourceName": "WIRED AI",
-    "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Mon, 24 Aug 2026 09:30:00 +0000"
+    "tweetText": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Tue, 25 Aug 2026 14:22:04 +0000"
   },
   {
-    "tweetText": "How to encourage smarter AI use in the classroom — a significant development in AI that warrants attention. via MIT Technology Review",
-    "articleUrl": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
-    "sourceName": "MIT Technology Review",
-    "sourceHomeUrl": "https://www.technologyreview.com/topic/artificial-intelligence/",
-    "publishedAt": "Mon, 24 Aug 2026 14:20:19 +0000"
-  },
-  {
-    "tweetText": "The Download: kids outlearning AI, and space travel agents — a significant development in AI that warrants attention. via MIT Technology Review",
-    "articleUrl": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/",
-    "sourceName": "MIT Technology Review",
-    "sourceHomeUrl": "https://www.technologyreview.com/topic/artificial-intelligence/",
-    "publishedAt": "Mon, 24 Aug 2026 12:10:00 +0000"
+    "tweetText": "Keenable exits stealth with $26M seed round to build web search index for AI agents. This matters because specialized search infrastructure could accelerate AI agent development and deployment. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Tue, 25 Aug 2026 13:00:00 +0000"
   }
 ]
