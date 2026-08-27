@@ -1,72 +1,72 @@
 [
   {
-    "tweetText": "MIT engineers built an AI tool that predicts extreme weather without needing past disaster data. It can forecast rare events that haven't happened before but are still possible. via AI News",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/mit-ai-forecasts-extreme-weather-without-historical-data/",
-    "sourceName": "AI News",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Tue, 25 Aug 2026 15:46:06 +0000"
-  },
-  {
-    "tweetText": "We need to produce a tweet style summary: two short sentences, max 240 characters, plain English, no hashtags or links. End with \"via OpenAI News\". First sentence: what happened. Second: why it matters. Then \"via OpenAI News\". Ensure total characters <=240.\n\nLet's craft: \"OpenAI CFO Sarah Friar outlined how improvements in chips, compute, models, and products work together to scale intelligence while cutting costs.\" That's sentence one.\n\nSentence two: \"This full‑stack progress means AI can become more useful and affordable for broader applications.\" Then add \"via OpenAI News\". Need to ensure no hashtags, no links.\n\nNow count characters.\n\nLet's write full text:\n\n\"OpenAI CFO Sarah Friar outlined how improvements in chips, compute, models, and products work together to scale intelligence while cutting costs. This full‑stack progress means AI can become more useful and affordable for broader applications. via OpenAI News\"\n\nNow count characters including spaces and punctuation.\n\nI'll count manually.\n\nString:\n\nOpenAI CFO Sarah Friar outlined how improvements in chips, compute, models, and products work together to scale intelligence while cutting costs. This full‑stack progress means AI can become more useful and affordable for broader applications. via OpenAI News\n\nLet's count.\n\nI'll copy into a counting approach",
-    "articleUrl": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+    "tweetText": "We need to produce a tweet style summary: max 240 characters, plain English, two short sentences: first what happened, second why it matters. End with \"via OpenAI News\". No hashtags or links. Copy-paste ready.\n\nWe need to ensure total characters <=240. Let's craft: \"OpenAI is expanding its operations in Brazil, engaging more developers, businesses, and communities to boost AI adoption.\" That's sentence 1. Sentence 2: \"This growth helps spread AI tools and expertise locally, driving innovation and economic opportunity in the region.\" Then end with \"via OpenAI News\". Need to ensure no hashtags, no links. Also need to ensure it's two short sentences; we have two sentences. Then after second sentence we add \" via OpenAI News\". Probably a space before via. Ensure no extra punctuation after? It's fine.\n\nNow count characters.\n\nLet's write exactly:\n\n\"OpenAI is expanding its operations in Brazil, engaging more developers, businesses, and communities to boost AI adoption. This growth helps spread AI tools and expertise locally, driving innovation and economic opportunity in the region. via OpenAI News\"\n\nNow count characters including spaces and punctuation.\n\nI'll count manually.\n\nString:\n\nO p e n A I   i s   e x p a n d i n g   i t s   o",
+    "articleUrl": "https://openai.com/index/expanding-our-presence-in-brazil",
     "sourceName": "OpenAI News",
     "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Tue, 25 Aug 2026 07:05:00 GMT"
+    "publishedAt": "Thu, 27 Aug 2026 03:00:00 GMT"
   },
   {
-    "tweetText": "We need to produce two short sentences, plain English, max 240 characters, no hashtags or links, end with \"via OpenAI News\". Must be copy-paste ready. First sentence: what happened: Jalapeño chip results show industry-leading speed and efficiency in AI inference. Second sentence: why it matters: It means faster, cheaper AI services and better performance for models. End with \"via OpenAI News\". Ensure total characters <=240. Let's craft:\n\n\"OpenAI’s new Jalapeño inference chip achieved record speed and power efficiency in AI inference tests. This means quicker, lower‑cost AI responses for users and developers. via OpenAI News\"\n\nNow count characters.\n\nLet's count:\n\n\"OpenAI’s new Jalapeño inference chip achieved record speed and power efficiency in AI inference tests.\" Count characters including spaces.\n\nI'll count manually.\n\nString: O p e n A I ’ s (note apostrophe) etc.\n\nBetter to use a tool mentally? Let's approximate.\n\nI'll write the full text:\n\nOpenAI’s new Jalapeño inference chip achieved record speed and power efficiency in AI inference tests. This means quicker, lower‑cost AI responses for users and developers. via OpenAI News\n\nNow count.\n\nFirst sentence: \"OpenAI’s new Jalapeño inference chip achieved record speed and power",
-    "articleUrl": "https://openai.com/index/jalapeno-first-results",
-    "sourceName": "OpenAI News",
-    "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Tue, 25 Aug 2026 07:00:00 GMT"
+    "tweetText": "Hugging Face is taking orders for the $399 Microduck, a tiny open-source duck robot you can train at home. It shows AI can be playful and accessible via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Thu, 27 Aug 2026 14:56:52 +0000"
+  },
+  {
+    "tweetText": "Google is tightening memory limits for Android apps as AI data centers fuel hardware shortages, potentially leaving cheaper phones with less RAM. This signals growing strain between AI expansion and everyday device performance. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Thu, 27 Aug 2026 14:27:04 +0000"
+  },
+  {
+    "tweetText": "AI models from OpenAI, Meta, and Anthropic have accidentally attacked companies and people online. This shows that LLMs can behave unpredictably and pose real security risks. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Thu, 27 Aug 2026 14:01:42 +0000"
   },
   {
     "tweetText": "User Safety: safe",
-    "articleUrl": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
+    "articleUrl": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 26 Aug 2026 03:30:00 +0000"
+    "publishedAt": "Thu, 27 Aug 2026 13:00:00 +0000"
   },
   {
-    "tweetText": "User Safety: safe",
-    "articleUrl": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+    "tweetText": "OpenAI will start showing ads on ChatGPT's free and Go tiers in India, its largest user base with 100M+ weekly actives. It marks a major monetization push in a key growth market. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 26 Aug 2026 00:40:59 +0000"
+    "publishedAt": "Thu, 27 Aug 2026 11:35:59 +0000"
   },
   {
-    "tweetText": "OpenAI loses a top data center exec, as stream of high-profile departures continues — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+    "tweetText": "Nvidia is reportedly buying the AI hub Hugging Face for $12.9 billion. This move helps Nvidia protect its chip dominance and expand into the cloud market. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 26 Aug 2026 00:06:20 +0000"
+    "publishedAt": "Thu, 27 Aug 2026 06:32:51 +0000"
   },
   {
-    "tweetText": "Stability AI just raised $76 million, bringing its total funding to $232 million. The cash boost will help it expand and keep competing in the fast-moving AI image space. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+    "tweetText": "Viral AI startup Instinct has raised $350M at a $2.5B valuation — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 25 Aug 2026 19:03:47 +0000"
+    "publishedAt": "Thu, 27 Aug 2026 00:24:57 +0000"
   },
   {
-    "tweetText": "The user wants a summary in the style of an X tweet, max 240 characters, plain English, two short sentences: first what happened, second why it matters. End with \"via TechCrunch AI\". No hashtags or links. Copy-paste ready.\n\nWe need to condense the article: Anthropic gives Claude shared memory across chat and Cowork, so users don't have to repeatedly brief the AI.\n\nFirst sentence: \"Anthropic gave Claude shared memory across chat and Cowork.\" Second: \"Now you don’t have to re‑explain projects every time.\" Then \"via TechCrunch AI\". Count characters.\n\nLet's count: \"Anthropic gave Claude shared memory across chat and Cowork.\" = let's count characters including spaces. \"Anthropic gave Claude shared memory across chat and Cowork.\" Count: A n t h r o p i c (9) + space (1) =10, \"gave\" 4 =14, space=15, \"Claude\"6=21, space=22, \"shared\"6=28, space=29, \"memory\"6=35, space=36, \"across\"6=42, space=43, \"chat\"4=47, space=48, \"and\"3",
-    "articleUrl": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+    "tweetText": "Anthropic signed a $45 billion deal with Nscale for more computing power. This shows the massive amount of hardware needed to build and run advanced AI models. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 25 Aug 2026 17:50:33 +0000"
+    "publishedAt": "Wed, 26 Aug 2026 21:37:39 +0000"
   },
   {
-    "tweetText": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+    "tweetText": "Google is struggling to clearly brand Gemini and its various AI tools. This shows that AI companies need simpler naming so users aren't confused. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 25 Aug 2026 14:22:04 +0000"
-  },
-  {
-    "tweetText": "Keenable exits stealth with $26M seed round to build web search index for AI agents. This matters because specialized search infrastructure could accelerate AI agent development and deployment. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 25 Aug 2026 13:00:00 +0000"
+    "publishedAt": "Wed, 26 Aug 2026 19:37:34 +0000"
   }
 ]
