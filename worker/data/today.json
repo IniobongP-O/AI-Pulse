@@ -1,20 +1,27 @@
 [
   {
-    "tweetText": "Planetary prediction engine: Automating global models via Earth AI — a significant development in AI that warrants attention. via Google Research Blog",
-    "articleUrl": "https://research.google/blog/planetary-prediction-engine-automating-global-models-via-earth-ai/",
-    "sourceName": "Google Research Blog",
-    "sourceHomeUrl": "https://research.google/blog/",
-    "publishedAt": "Thu, 27 Aug 2026 17:37:20 +0000"
+    "tweetText": "Neocloud Lambda secures $1B in debt to buy more chips — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Fri, 28 Aug 2026 20:24:11 +0000"
   },
   {
-    "tweetText": "OpenAI and Thailand's MHESI launched an eight-week accelerator for local startups. This program helps new companies turn AI prototypes into real products for health and education. via OpenAI News",
-    "articleUrl": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-    "sourceName": "OpenAI News",
-    "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Fri, 28 Aug 2026 02:00:00 GMT"
+    "tweetText": "An Anthropic researcher just gave us a peek at self-improving AI — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Fri, 28 Aug 2026 19:30:38 +0000"
   },
   {
-    "tweetText": "We need to produce a tweet style summary: max 240 characters, plain English, two short sentences: first what happened, second why it matters. End with \"via TechCrunch AI\". No hashtags or links. Must be copy-paste ready.\n\nLet's craft: \"A federal judge struck down the Trump-era label that called Anthropic a supply‑chain risk, ruling it illegal.\" That's sentence one. Sentence two: \"The win bolsters Anthropic’s defense as its second Pentagon lawsuit proceeds, showing limits on government overreach against AI firms.\" Then end with \"via TechCrunch AI\". Ensure total characters <=240.\n\nCount characters:\n\nSentence1: \"A federal judge struck down the Trump-era label that called Anthropic a supply‑chain risk, ruling it illegal.\"\n\nLet's count: We'll count manually.\n\n\"A\" (1) + space=2\n\"federal\"(7) -> total 9? Let's do systematic.\n\nI'll write the string and count.\n\n\"A federal judge struck down the Trump-era label that called Anthropic a supply‑chain risk, ruling it illegal.\"\n\nCount characters including spaces and punctuation.\n\nI'll copy into a count mentally:\n\nA(1)\nspace(2)\nf(3)e(4)d(5)e(6)r(7)a(8)l(",
+    "tweetText": "Big tech companies are looking to buy startups that release open-weight AI models. This shows that open-source AI is becoming a valuable strategic asset for the industry. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Fri, 28 Aug 2026 18:19:40 +0000"
+  },
+  {
+    "tweetText": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label — a significant development in AI that warrants attention. via TechCrunch AI",
     "articleUrl": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
@@ -28,25 +35,18 @@
     "publishedAt": "Fri, 28 Aug 2026 12:21:06 +0000"
   },
   {
-    "tweetText": "Anthropic and OpenAI will take the AI Stage at TechCrunch Disrupt 20",
-    "articleUrl": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 27 Aug 2026 23:16:45 +0000"
+    "tweetText": "AI giants warn a cybersecurity apocalypse is coming in months. This matters because it signals a massive, impending threat to critical infrastructure. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/",
+    "sourceName": "WIRED AI",
+    "sourceHomeUrl": "https://wired.com/tag/ai/",
+    "publishedAt": "Sat, 29 Aug 2026 10:30:00 +0000"
   },
   {
-    "tweetText": "Barret Zoph, co-founder of Thinking Machines Lab and former OpenAI employee, has joined Google after a brief tenure at OpenAI. This highlights the rapid movement of AI talent between major tech companies as they compete for leadership in the field. \n\nvia TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 27 Aug 2026 19:52:52 +0000"
-  },
-  {
-    "tweetText": "User Safety: safe",
-    "articleUrl": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 27 Aug 2026 17:43:24 +0000"
+    "tweetText": "How to Run a Chatbot on Your Own Computer — a significant development in AI that warrants attention. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/how-to-run-your-own-local-llm/",
+    "sourceName": "WIRED AI",
+    "sourceHomeUrl": "https://wired.com/tag/ai/",
+    "publishedAt": "Sat, 29 Aug 2026 10:00:00 +0000"
   },
   {
     "tweetText": "AI Has Human Doctors Asking: What’s Left for Us? — a significant development in AI that warrants attention. via WIRED AI",
@@ -54,19 +54,5 @@
     "sourceName": "WIRED AI",
     "sourceHomeUrl": "https://wired.com/tag/ai/",
     "publishedAt": "Fri, 28 Aug 2026 15:00:00 +0000"
-  },
-  {
-    "tweetText": "He Scraped All of Their Art for AI. Now He’s Collaborating on a Tool to Help Them — a significant development in AI that warrants attention. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/he-scraped-art-from-cara-for-ai-now-he-is-collaborating-on-a-tool-to-help-them/",
-    "sourceName": "WIRED AI",
-    "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Fri, 28 Aug 2026 11:00:00 +0000"
-  },
-  {
-    "tweetText": "A federal judge blocked the Pentagon's attempt to blacklist Anthropic as a national security risk, calling the designation \"illegal and baseless.\" It matters because it prevents the military from cutting ties with a leading AI developer over unfounded claims. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/a-judge-has-blocked-the-pentagons-attempt-to-blacklist-anthropic/",
-    "sourceName": "WIRED AI",
-    "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Fri, 28 Aug 2026 03:04:14 +0000"
   }
 ]
