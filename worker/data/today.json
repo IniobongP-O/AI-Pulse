@@ -1,58 +1,44 @@
 [
   {
-    "tweetText": "Neocloud Lambda secures $1B in debt to buy more chips — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+    "tweetText": "Here's a thinking process:\n\n1.  **Analyze the Request:**\n   - **Source material:** Title: \"Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft\" Summary: \"This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.\"\n   - **Format:** X tweet style\n   - **Length:** Max 240 characters\n   - **Language:** Plain English\n   - **Structure:** Two short sentences: first what happened, second why it matters\n   - **Ending:** \"via TechCrunch AI\"\n   - **No:** Hashtags or links\n   - **Ready for copy-paste**\n\n2.  **Deconstruct the Content:**\n   - *What happened:* Sony Music and Warner sued Anthropic, alleging IP theft/illegal piracy in a broad lawsuit.\n   - *Why it matters:* This highlights growing legal risks for AI companies using copyrighted material, setting precedent for AI training practices and IP rights.\n   - *Ending:* Must end with \"via TechCrunch AI\"\n\n3.  **Drafting - Sentence 1 (What happened):**\n   Sony Music and Warner Music have sued Anthropic, alleging a \"brazen campaign\" of IP theft involving copyrighted song lyrics.\n   Let's count chars: \"S",
+    "articleUrl": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 28 Aug 2026 20:24:11 +0000"
+    "publishedAt": "Sat, 29 Aug 2026 18:41:59 +0000"
   },
   {
-    "tweetText": "An Anthropic researcher just gave us a peek at self-improving AI — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+    "tweetText": "Vijay Pande left a16z to start a smaller, AI-focused venture firm. He believes open data and engineering will finally allow AI to transform medicine. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 28 Aug 2026 19:30:38 +0000"
+    "publishedAt": "Sat, 29 Aug 2026 17:36:47 +0000"
   },
   {
-    "tweetText": "Big tech companies are looking to buy startups that release open-weight AI models. This shows that open-source AI is becoming a valuable strategic asset for the industry. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+    "tweetText": "Nvidia is expanding its focus beyond just making faster chips to include smarter data center systems. This shift improves overall efficiency by managing data traffic more effectively. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 28 Aug 2026 18:19:40 +0000"
+    "publishedAt": "Sat, 29 Aug 2026 13:00:00 +0000"
   },
   {
-    "tweetText": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 28 Aug 2026 12:46:12 +0000"
-  },
-  {
-    "tweetText": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 28 Aug 2026 12:21:06 +0000"
-  },
-  {
-    "tweetText": "AI giants warn a cybersecurity apocalypse is coming in months. This matters because it signals a massive, impending threat to critical infrastructure. via WIRED AI",
+    "tweetText": "AI-driven cyberattacks could cause a \"cybersecurity apocalypse\" within months, warn AI giants. This matters because AI makes sophisticated hacking faster and more accessible to attackers. via WIRED AI",
     "articleUrl": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/",
     "sourceName": "WIRED AI",
     "sourceHomeUrl": "https://wired.com/tag/ai/",
     "publishedAt": "Sat, 29 Aug 2026 10:30:00 +0000"
   },
   {
-    "tweetText": "How to Run a Chatbot on Your Own Computer — a significant development in AI that warrants attention. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/how-to-run-your-own-local-llm/",
-    "sourceName": "WIRED AI",
-    "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Sat, 29 Aug 2026 10:00:00 +0000"
+    "tweetText": "Sony Music and Warner Chappell are suing Anthropic — a significant development in AI that warrants attention. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+    "sourceName": "The Verge AI",
+    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
+    "publishedAt": "2026-08-29T18:19:53.000Z"
   },
   {
-    "tweetText": "AI Has Human Doctors Asking: What’s Left for Us? — a significant development in AI that warrants attention. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/ai-has-human-doctors-asking-whats-left-for-us/",
-    "sourceName": "WIRED AI",
-    "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Fri, 28 Aug 2026 15:00:00 +0000"
+    "tweetText": "Musicians-turned-detectives are hunting for AI grifters — a significant development in AI that warrants attention. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
+    "sourceName": "The Verge AI",
+    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
+    "publishedAt": "2026-08-29T12:00:00.000Z"
   }
 ]
