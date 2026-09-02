@@ -1,72 +1,72 @@
 [
   {
-    "tweetText": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+    "tweetText": "Global methane emissions mapped from space using deep learning to identify sources with high precision. This helps target climate action and track progress on reducing one of the most potent greenhouse gases. via Google Research Blog",
+    "articleUrl": "https://research.google/blog/mapping-global-methane-emissions-from-space-with-deep-learning/",
+    "sourceName": "Google Research Blog",
+    "sourceHomeUrl": "https://research.google/blog/",
+    "publishedAt": "Tue, 01 Sep 2026 18:40:06 +0000"
+  },
+  {
+    "tweetText": "How AI-native companies turn workflows into operating capability — a significant development in AI that warrants attention. via OpenAI News",
+    "articleUrl": "https://openai.com/index/ai-native-company-workflows",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Tue, 01 Sep 2026 17:00:00 GMT"
+  },
+  {
+    "tweetText": "Path to Astra: critical capabilities and frontier safeguards — a significant development in AI that warrants attention. via OpenAI News",
+    "articleUrl": "https://openai.com/index/path-to-astra",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Tue, 01 Sep 2026 13:00:00 GMT"
+  },
+  {
+    "tweetText": "ChatGPT now lets healthcare organizations securely connect EHR and other trusted medical data. Clinicians can access patient context and research faster without leaving their workflow, via OpenAI News.",
+    "articleUrl": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Tue, 01 Sep 2026 12:00:00 GMT"
+  },
+  {
+    "tweetText": "AfterQuery is now valued at $3.2 billion, making it Y Combinator's fastest unicorn ever. This shows the massive investor demand for AI model-training tools. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 01 Sep 2026 00:13:00 +0000"
+    "publishedAt": "Tue, 01 Sep 2026 22:08:24 +0000"
   },
   {
-    "tweetText": "The Pentagon is adding ChatGPT and Grok to its central AI portal. This gives military officials access to a wider range of powerful AI tools for their work. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+    "tweetText": "OpenAI previewed Astra, its newest LLM built to hack and defend computer systems, along with safety precautions ahead of release. It signals AI's growing role in cybersecurity offense and defense. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 31 Aug 2026 20:13:45 +0000"
+    "publishedAt": "Tue, 01 Sep 2026 21:06:24 +0000"
   },
   {
-    "tweetText": "Instagram puts new limits on undisclosed AI profiles — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
+    "tweetText": "User Safety: safe",
+    "articleUrl": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 31 Aug 2026 19:16:59 +0000"
+    "publishedAt": "Tue, 01 Sep 2026 20:53:05 +0000"
   },
   {
-    "tweetText": "We need to summarize in X tweet style, max 240 characters. Two short sentences: first what happened, second why it matters. End with \"via TechCrunch AI\". No hashtags, no links. Plain English. Must be copy-paste ready.\n\nWe need to capture: Harvard Law dropout raises $6M for Blue Voice to build a 'Harvey for police officers'. Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the public internet.\n\nWe need to keep within 240 characters total (including spaces). Let's craft:\n\n\"Harvard Law dropout raises $6M for Blue Voice, a Harvey‑style AI for police officers. It’s trained on department‑specific laws and protocols that general AI can’t access. via TechCrunch AI\"\n\nNow count characters.\n\nLet's count:\n\n\"Harvard Law dropout raises $6M for Blue Voice, a Harvey‑style AI for police officers. It’s trained on department‑specific laws and protocols that general AI can’t access. via TechCrunch AI\"\n\nCount characters including spaces.\n\nI'll count manually.\n\n\"Harvard Law dropout raises $6M for Blue Voice, a Harvey‑style AI for police officers. It’s trained on department‑specific laws and protocols that general AI can’t access. via TechCrunch AI\"\n\nLet's count:\n\nHarvard (7) + space =8\nLaw (3) =>11 + space=12\ndropout (7)=>19 + space=20\nraises (6)=>26 + space=27\n$6M (3) =>30 + space=31\nfor (3)=>34 + space=35\nBlue Voice, (maybe \"Blue Voice,\" includes a non-breaking space? Let's count characters: \"Blue\" (4) + space? Actually there is a special space but count as one char. Let's just count \"Blue Voice,\" ignoring the special space. \"Blue\" 4, space 1 =>5, \"Voice,\" 6 (including comma) =>11. So total 35+11=46. plus space after comma =47.\n\n\"a\" (1) =>48 + space=49\n\"Harvey‑style\" (maybe hyphen). \"Harvey\" 6, hyphen 1, \"style\" 5 =>12. plus space =13 =>62.\n\n\"AI\" 2 =>64 + space=65\n\n\"for\" 3 =>68 + space=69\n\n\"police\" 6 =>75 + space=76\n\n\"officers.\" 9 (including period) =>85 + space=86\n\n\"It’s\" (4? Actually \"It’s\": I t ’ s =4) =>90 + space=91\n\n\"trained\" 7 =>98 + space=99\n\n\"on\" 2 =>101 + space=102\n\n\"department‑specific\" let's count: \"department\" 10, hyphen 1, \"specific\" 8 =>19. plus space=20 =>122.\n\n\"laws\" 4 =>126 + space=127\n\n\"and\" 3 =>130 + space=131\n\n\"protocols\" 9 =>140 + space=141\n\n\"that\" 4 =>145 + space=146\n\n\"general\" 7 =>153 + space=154\n\n\"AI\" 2 =>156 + space=157\n\n\"can’t\" 5 (c a n ’ t) =>162 + space=163\n\n\"access.\" 7 (a c c e s s .) =>170 + space=171\n\n\"via\" 3 =>174 + space=175\n\n\"TechCrunch\" 10 =>185 + space=186\n\n\"AI\" 2 =>188\n\nTotal 188 characters. That's under 240. Good.\n\nBut need to ensure plain English, no hashtags, no links. Two short sentences: first what happened, second why it matters. Our first sentence: \"Harvard Law dropout raises $6M for Blue Voice, a Harvey‑style AI for police officers.\" That's the what happened. Second: \"It’s trained on department‑specific laws and protocols that general AI can’t access.\" That's why it matters. End with \"via TechCrunch AI\". So we have three parts but the second sentence ends before via, then we add via. But requirement: End with via TechCrunch AI. So maybe we need to incorporate via at end of second sentence? It says end with via TechCrunch AI. So after second sentence we put \"via TechCrunch AI\". That would make third clause, but maybe we can incorporate via as part of second sentence? The instruction: \"End with via TechCrunch AI.\" So after the two short sentences, we need to have \"via TechCrunch AI\". So we need to have two sentences, then \"via TechCrunch AI\". That would be three parts but maybe they consider \"via TechCrunch AI\" as part of the tweet, not a sentence. But they said \"Write two short sentences: first what happened, second why it matters. End with via TechCrunch AI.\" So maybe the second sentence should end with \"via TechCrunch AI\". But that would make the second sentence longer, but still a sentence. Let's restructure:\n\nSentence 1: \"Harvard Law dropout raises $6M for Blue Voice, a Harvey‑style AI for police officers.\"\n\nSentence 2: \"It’s trained on department‑specific laws and protocols that general AI can’t access via TechCrunch AI.\"\n\nBut that adds \"via TechCrunch AI\" at end of second sentence, which may be okay. However \"via TechCrunch AI\" is not a sentence itself; it's a phrase. But we can embed it as part of the sentence, maybe \"It’s trained on department‑specific laws and protocols that general AI can’t access, via TechCrunch AI.\" That seems okay.\n\nCheck character count with this version.\n\nSentence 1: \"Harvard Law dropout raises $6M for Blue Voice, a Harvey‑style AI for police officers.\"\n\nLet's count.\n\nHarvard (7) + space=8\nLaw (3) =>11 + space=12\ndropout (7)=>19 + space=20\nraises (6)=>26 + space=27\n$6M (3)=>30 + space=31\nfor (3)=>34 + space=35\nBlue Voice, (11) =>46 + space=47\na (1)=>48 + space=49\nHarvey‑style (12) =>61 + space=62\nAI (2)=>64 + space=65\nfor (3)=>68 + space=69\npolice (6)=>75 + space=76\nofficers. (9)=>85\n\nSentence 1 length 85.\n\nSentence 2: \"It’s trained on department‑specific laws and protocols that general AI can’t access, via TechCrunch AI.\"\n\nCount:\n\nIt’s (4) =>89? Wait we need continue from 85.\n\nAdd space after period? Actually there is a space after period. Let's count from start of sentence 2.\n\n\"It’s\" =4 characters (I t ’ s). plus space =5.\n\n\"trained\" 7 =>12 + space=13\n\n\"on\" 2 =>15 + space=16\n\n\"department‑specific\" 19 =>35 + space=36\n\n\"laws\" 4 =>40 + space=41\n\n\"and\" 3 =>44 + space=45\n\n\"protocols\" 9 =>54 + space=55\n\n\"that\" 4 =>59 + space=60\n\n\"general\" 7 =>67 + space=68\n\n\"AI\" 2 =>69 + space=70\n\n\"can’t\" 5 =>75 + space=76\n\n\"access,\" 7 (including comma) =>82 + space=83\n\n\"via\" 3 =>86 + space=87\n\n\"TechCrunch\" 10 =>97 + space=98\n\n\"AI.\" 3 (AI plus period) =>101\n\nTotal characters = 101.\n\nNow total characters = 85 + 1 space? Actually there is a space between sentences. We counted space after period in sentence 1? We need to include that. In our counting, after \"officers.\" we had a space before \"It’s\". In sentence 1 count we ended at 85 (including the period). Then we need a space, which adds 1 => 86 before sentence 2 starts. Then sentence 2 length 101 => total 187. Plus maybe we need a space before \"via\"? Already included. So total 187 characters, under 240.\n\nCheck if any special characters cause issues: The apostrophe ’ is a unicode char, counts as one. Hyphen is fine. Ensure plain English, no hashtags, no links.\n\nThus final tweet:\n\n\"Harvard Law dropout raises $6M for Blue Voice, a Harvey‑style AI for police officers. It’s trained on department‑specific laws and protocols that general AI can’t access, via TechCrunch AI\"\n\nCheck length again: Let's recount precisely with spaces.\n\nString:\n\nHarvard Law dropout raises $6M for Blue Voice, a Harvey‑style AI for police officers. It’s trained on department‑specific laws and protocols that general AI can’t access, via TechCrunch AI\n\nLet's count characters including spaces.\n\nI'll write each segment with counts:\n\n\"Harvard\" 7\nspace 1 =>8\n\"Law\" 3 =>11\nspace 1 =>12\n\"dropout\" 7 =>19\nspace 1 =>20\n\"raises\" 6 =>26\nspace 1 =>27\n\"$6M\" 3 =>30\nspace 1 =>31\n\"for\" 3 =>34\nspace 1 =>35\n\"Blue Voice,\" let's count: \"Blue\" 4, space 1 =>5, \"Voice,\" 6 (V o i c e ,) =>11. So total 35+11=46.\nspace 1 =>47\n\"a\" 1 =>48\nspace 1 =>49\n\"Harvey‑style\" count: \"Harvey\" 6, hyphen 1, \"style\" 5 =>12. So 49+12=61.\nspace 1 =>62\n\"AI\" 2 =>64\nspace 1 =>65\n\"for\" 3 =>68\nspace 1 =>69\n\"police\" 6 =>75\nspace 1 =>76\n\"officers.\" 9 (o f f i c e r s .) =>85\nspace 1 =>86\n\"It’s\" 4 =>90\nspace 1 =>91\n\"trained\" 7 =>98\nspace 1 =>99\n\"on\" 2 =>101\nspace 1 =>102\n\"department‑specific\" 19 =>121\nspace 1 =>122\n\"laws\" 4 =>126\nspace 1 => not<unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk>\n[\n a vi andqarge [\" [not being [- --  had<unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk> [",
-    "articleUrl": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
+    "tweetText": "Anthropic’s new Fable release is cheaper, less restrictive — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 31 Aug 2026 18:35:11 +0000"
+    "publishedAt": "Tue, 01 Sep 2026 19:39:22 +0000"
   },
   {
-    "tweetText": "Clipto uses AI to search terabytes of video and is now valued at $250M — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
+    "tweetText": "Google’s answer to Canva is an AI tool where you prompt instead of design — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 31 Aug 2026 16:00:00 +0000"
+    "publishedAt": "Tue, 01 Sep 2026 17:35:37 +0000"
   },
   {
-    "tweetText": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
+    "tweetText": "ChatGPT Health now integrates with Epic to let doctors import patient data. This helps clinicians save time by bringing health records directly into the AI tool. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 31 Aug 2026 15:15:25 +0000"
-  },
-  {
-    "tweetText": "Claims adjusters on Glassdoor slammed AI, with 98% of reviews about it negative. They say AI should stay a tool, not get the keys. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/",
-    "sourceName": "WIRED AI",
-    "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Mon, 31 Aug 2026 10:30:00 +0000"
-  },
-  {
-    "tweetText": "Debian will allow developers to use AI tools for its Linux distribution. This means AI-generated code and docs are permitted as long as they meet existing quality standards. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-08-31T15:34:58.000Z"
-  },
-  {
-    "tweetText": "New York Governor Kathy Hochul thinks AI should be ‘less evil’ — a significant development in AI that warrants attention. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-08-31T14:00:00.000Z"
-  },
-  {
-    "tweetText": "ChatGPT to face tougher regulation in the EU — a significant development in AI that warrants attention. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-08-31T13:27:36.000Z"
+    "publishedAt": "Tue, 01 Sep 2026 17:00:00 +0000"
   }
 ]
