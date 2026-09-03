@@ -1,72 +1,72 @@
 [
   {
-    "tweetText": "Global methane emissions mapped from space using deep learning to identify sources with high precision. This helps target climate action and track progress on reducing one of the most potent greenhouse gases. via Google Research Blog",
-    "articleUrl": "https://research.google/blog/mapping-global-methane-emissions-from-space-with-deep-learning/",
-    "sourceName": "Google Research Blog",
-    "sourceHomeUrl": "https://research.google/blog/",
-    "publishedAt": "Tue, 01 Sep 2026 18:40:06 +0000"
-  },
-  {
-    "tweetText": "How AI-native companies turn workflows into operating capability — a significant development in AI that warrants attention. via OpenAI News",
-    "articleUrl": "https://openai.com/index/ai-native-company-workflows",
+    "tweetText": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT — a significant development in AI that warrants attention. via OpenAI News",
+    "articleUrl": "https://openai.com/index/atv-big-air-tour",
     "sourceName": "OpenAI News",
     "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Tue, 01 Sep 2026 17:00:00 GMT"
+    "publishedAt": "Wed, 02 Sep 2026 12:00:00 GMT"
   },
   {
-    "tweetText": "Path to Astra: critical capabilities and frontier safeguards — a significant development in AI that warrants attention. via OpenAI News",
-    "articleUrl": "https://openai.com/index/path-to-astra",
-    "sourceName": "OpenAI News",
-    "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Tue, 01 Sep 2026 13:00:00 GMT"
-  },
-  {
-    "tweetText": "ChatGPT now lets healthcare organizations securely connect EHR and other trusted medical data. Clinicians can access patient context and research faster without leaving their workflow, via OpenAI News.",
-    "articleUrl": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-    "sourceName": "OpenAI News",
-    "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Tue, 01 Sep 2026 12:00:00 GMT"
-  },
-  {
-    "tweetText": "AfterQuery is now valued at $3.2 billion, making it Y Combinator's fastest unicorn ever. This shows the massive investor demand for AI model-training tools. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+    "tweetText": "We need to produce a tweet style summary, max 240 characters, plain English, two short sentences: first what happened, second why it matters. End with \"via TechCrunch AI\". No hashtags or links. Copy-paste ready.\n\nWe need to count characters including spaces and punctuation. Ensure less than or equal 240 characters.\n\nLet's craft: \"Palo Alto Networks bought Thrive-backed Console for about $500 million, according to sources. The deal leaves Sequoia-backed Serval as the top AI‑driven IT automation startup, per industry watchers. via TechCrunch AI\"\n\nNow count characters.\n\nWe'll count manually.\n\nString:\n\n\"Palo Alto Networks bought Thrive-backed Console for about $500 million, according to sources. The deal leaves Sequoia-backed Serval as the top AI‑driven IT automation startup, per industry watchers. via TechCrunch AI\"\n\nNeed to ensure characters count includes spaces and punctuation.\n\nLet's count.\n\nI'll copy into a counting mental.\n\nI'll write each segment.\n\n\"Palo Alto Networks bought Thrive-backed Console for about $500 million, according to sources.\"\n\nCount characters:\n\nLet's count:\n\nP(1) a2 l3 o4 (space5) A6 l7 t8 o",
+    "articleUrl": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 01 Sep 2026 22:08:24 +0000"
+    "publishedAt": "Wed, 02 Sep 2026 22:44:56 +0000"
   },
   {
-    "tweetText": "OpenAI previewed Astra, its newest LLM built to hack and defend computer systems, along with safety precautions ahead of release. It signals AI's growing role in cybersecurity offense and defense. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+    "tweetText": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals  — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 01 Sep 2026 21:06:24 +0000"
+    "publishedAt": "Wed, 02 Sep 2026 22:24:09 +0000"
   },
   {
-    "tweetText": "User Safety: safe",
-    "articleUrl": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+    "tweetText": "OpenAI’s new reasoning technique alarms AI safety experts — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 01 Sep 2026 20:53:05 +0000"
+    "publishedAt": "Wed, 02 Sep 2026 20:19:14 +0000"
   },
   {
-    "tweetText": "Anthropic’s new Fable release is cheaper, less restrictive — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+    "tweetText": "Pangram CEO Max Spero says AI content detection is trickier than a simple real-or-fake binary because it adapts across formats. It matters because detecting AI in job apps, reviews, and claims shapes platform trust. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 01 Sep 2026 19:39:22 +0000"
+    "publishedAt": "Wed, 02 Sep 2026 17:18:13 +0000"
   },
   {
-    "tweetText": "Google’s answer to Canva is an AI tool where you prompt instead of design — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+    "tweetText": "We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 01 Sep 2026 17:35:37 +0000"
+    "publishedAt": "Wed, 02 Sep 2026 17:09:57 +0000"
   },
   {
-    "tweetText": "ChatGPT Health now integrates with Epic to let doctors import patient data. This helps clinicians save time by bringing health records directly into the AI tool. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+    "tweetText": "The US government is supporting OpenAI's use of copyrighted data to train AI. This helps ensure the US remains a global leader in AI development. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 01 Sep 2026 17:00:00 +0000"
+    "publishedAt": "Wed, 02 Sep 2026 17:09:06 +0000"
+  },
+  {
+    "tweetText": "India’s richest man now wants to turn aging computers into AI-ready PCs — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Wed, 02 Sep 2026 16:01:48 +0000"
+  },
+  {
+    "tweetText": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Wed, 02 Sep 2026 15:01:23 +0000"
+  },
+  {
+    "tweetText": "PSA: Amazon’s shopping AI can now tell you if that message is a scam — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Wed, 02 Sep 2026 14:56:34 +0000"
   }
 ]
