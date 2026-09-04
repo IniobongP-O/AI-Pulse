@@ -1,72 +1,72 @@
 [
   {
-    "tweetText": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT — a significant development in AI that warrants attention. via OpenAI News",
-    "articleUrl": "https://openai.com/index/atv-big-air-tour",
+    "tweetText": "Here's a thinking process:\n\n1.  **Analyze Requirements:**\n   - Format: X tweet style (max 240 characters)\n   - Content: Two short sentences\n     - First sentence: what happened\n     - Second sentence: why it matters\n   - End with: \"via OpenAI News\"\n   - No hashtags or links\n   - Plain English\n   - Copy-paste ready\n   - Source material: Title \"Daybreak for Frontline Defenders: $1B to protect essential services\", Summary: \"OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.\"\n\n2.  **Draft - Sentence 1 (What happened):**\n   OpenAI launches Daybreak for Frontline Defenders with a $1 billion commitment to expand cyber AI access for essential services.\n   Let's count chars: \"OpenAI launches Daybreak for Frontline Defenders with a $1 billion commitment to expand cyber AI access for essential services.\" \n   That's 93 chars. Good.\n\n   Alternatively: \"OpenAI introduces Daybreak for Frontline Defenders, pledging $1 billion to expand cyber AI access for essential services.\"\n   Let's keep it concise.\n\n3.  **Draft - Sentence 2 (Why it matters):**",
+    "articleUrl": "https://openai.com/index/daybreak-for-frontline-defenders",
     "sourceName": "OpenAI News",
     "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Wed, 02 Sep 2026 12:00:00 GMT"
+    "publishedAt": "Thu, 03 Sep 2026 13:15:00 GMT"
   },
   {
-    "tweetText": "We need to produce a tweet style summary, max 240 characters, plain English, two short sentences: first what happened, second why it matters. End with \"via TechCrunch AI\". No hashtags or links. Copy-paste ready.\n\nWe need to count characters including spaces and punctuation. Ensure less than or equal 240 characters.\n\nLet's craft: \"Palo Alto Networks bought Thrive-backed Console for about $500 million, according to sources. The deal leaves Sequoia-backed Serval as the top AI‑driven IT automation startup, per industry watchers. via TechCrunch AI\"\n\nNow count characters.\n\nWe'll count manually.\n\nString:\n\n\"Palo Alto Networks bought Thrive-backed Console for about $500 million, according to sources. The deal leaves Sequoia-backed Serval as the top AI‑driven IT automation startup, per industry watchers. via TechCrunch AI\"\n\nNeed to ensure characters count includes spaces and punctuation.\n\nLet's count.\n\nI'll copy into a counting mental.\n\nI'll write each segment.\n\n\"Palo Alto Networks bought Thrive-backed Console for about $500 million, according to sources.\"\n\nCount characters:\n\nLet's count:\n\nP(1) a2 l3 o4 (space5) A6 l7 t8 o",
-    "articleUrl": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 02 Sep 2026 22:44:56 +0000"
+    "tweetText": "Here's a thinking process:\n\n1.  **Analyze the Request:**\n   - **Source text:** Title: \"Legora reviewed 41 documents in minutes with GPT-6 Astra\", Summary: \"Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.\"\n   - **Output format:** X tweet style\n   - **Constraints:** \n     - Max 240 characters\n     - Plain English\n     - Two short sentences\n     - First sentence: what happened\n     - Second sentence: why it matters\n     - End with \"via OpenAI News\"\n     - No hashtags or links\n     - Copy-paste ready\n\n2.  **Deconstruct the Source:**\n   - What happened: Legora used GPT-6 Astra to review 41 documents in minutes, found all four planted errors, and improved performance by nearly 40% in a financial-review workflow.\n   - Why it matters: Demonstrates significant speed/accuracy gains in professional document review, showcasing advanced AI capabilities in legal/financial sectors, potential impact on efficiency and error reduction.\n\n3.  **Draft - Sentence 1 (What happened):**\n   Legora used GPT-6 Astra to review 41 documents",
+    "articleUrl": "https://openai.com/index/legora-financial-statement-review-with-astra",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Thu, 03 Sep 2026 12:00:00 GMT"
   },
   {
-    "tweetText": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals  — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 02 Sep 2026 22:24:09 +0000"
+    "tweetText": "Playco used GPT-6 Astra to build three game prototypes from a single foundation. This technology cut the need for manual fixes by 50%. via OpenAI News",
+    "articleUrl": "https://openai.com/index/playco-game-prototyping-with-astra",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Thu, 03 Sep 2026 12:00:00 GMT"
   },
   {
-    "tweetText": "OpenAI’s new reasoning technique alarms AI safety experts — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+    "tweetText": "The sameness problem behind those unappetizing AI-generated menus — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 02 Sep 2026 20:19:14 +0000"
+    "publishedAt": "Fri, 04 Sep 2026 04:21:03 +0000"
   },
   {
-    "tweetText": "Pangram CEO Max Spero says AI content detection is trickier than a simple real-or-fake binary because it adapts across formats. It matters because detecting AI in job apps, reviews, and claims shapes platform trust. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
+    "tweetText": "Abliteration.ai is making a business out of removing AI guardrails — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 02 Sep 2026 17:18:13 +0000"
+    "publishedAt": "Thu, 03 Sep 2026 18:37:57 +0000"
   },
   {
-    "tweetText": "We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/",
+    "tweetText": "User Safety: safe",
+    "articleUrl": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 02 Sep 2026 17:09:57 +0000"
+    "publishedAt": "Thu, 03 Sep 2026 18:19:56 +0000"
   },
   {
-    "tweetText": "The US government is supporting OpenAI's use of copyrighted data to train AI. This helps ensure the US remains a global leader in AI development. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+    "tweetText": "OpenAI launched Astra, a new model that can control computers and browsers. This allows AI to handle complex digital tasks with more speed and accuracy. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 02 Sep 2026 17:09:06 +0000"
+    "publishedAt": "Thu, 03 Sep 2026 18:01:45 +0000"
   },
   {
-    "tweetText": "India’s richest man now wants to turn aging computers into AI-ready PCs — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
+    "tweetText": "Ollie is betting its focus on privacy can help it win the AI assistant race — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 02 Sep 2026 16:01:48 +0000"
+    "publishedAt": "Thu, 03 Sep 2026 16:09:01 +0000"
   },
   {
-    "tweetText": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
+    "tweetText": "We need to produce a tweet style summary: max 240 characters, plain English, two short sentences: first what happened, second why it matters. End with \"via TechCrunch AI\". No hashtags or links. Copy-paste ready.\n\nWe need to ensure total characters <=240. Let's craft.\n\nSentence 1: Google released WeatherNext 3, an AI weather model that will appear in Search, Maps, and Gemini.\n\nSentence 2: It promises more accurate forecasts, helping people plan better and avoid getting caught in the rain.\n\nAdd \"via TechCrunch AI\" at end.\n\nNow count characters.\n\nLet's write:\n\n\"Google released WeatherNext 3, an AI weather model that will appear in Search, Maps, and Gemini. It promises more accurate forecasts, helping people plan better and avoid getting caught in the rain. via TechCrunch AI\"\n\nNow count characters including spaces and punctuation.\n\nLet's count manually.\n\nString:\n\nGoogle released WeatherNext 3, an AI weather model that will appear in Search, Maps, and Gemini. It promises more accurate forecasts, helping people plan better and avoid getting caught in the rain. via TechCrunch AI\n\nWe'll count.\n\nI'll copy and count using mental.\n\nI'll break into parts.\n\n\"Google released WeatherNext 3, an AI weather model that will appear in Search",
+    "articleUrl": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 02 Sep 2026 15:01:23 +0000"
+    "publishedAt": "Thu, 03 Sep 2026 15:00:00 +0000"
   },
   {
-    "tweetText": "PSA: Amazon’s shopping AI can now tell you if that message is a scam — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
+    "tweetText": "Nvidia will buy Hugging Face for $12.9 billion, bringing its huge AI developer community under Nvidia's umbrella. This move strengthens Nvidia's grip on the AI stack from chips to models. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 02 Sep 2026 14:56:34 +0000"
+    "publishedAt": "Thu, 03 Sep 2026 12:42:45 +0000"
   }
 ]
