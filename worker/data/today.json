@@ -1,37 +1,30 @@
 [
   {
-    "tweetText": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sat, 05 Sep 2026 22:49:55 +0000"
+    "tweetText": "Supporting independent journalism in Ukraine — a significant development in AI that warrants attention. via OpenAI News",
+    "articleUrl": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Mon, 07 Sep 2026 00:00:00 GMT"
   },
   {
-    "tweetText": "Here's a thinking process:\n\n1.  **Analyze the Request:**\n   - **Source material:** Title: \"Hikers rescued after using Google Gemini for planning\", Summary: \"The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"\"\n   - **Output format:** X tweet style (max 240 characters)\n   - **Content requirements:** \n     - Two short sentences\n     - First sentence: what happened\n     - Second sentence: why it matters\n     - End with: \"via TechCrunch AI\"\n     - Plain English\n     - No hashtags or links\n     - Copy-paste ready\n   - **Constraint check:** Max 240 characters. Two sentences. End with \"via TechCrunch AI\".\n\n2.  **Draft - Sentence 1 (What happened):**\n   Hikers were rescued after following Google Gemini’s advice to pack significantly less food and water than they needed.\n\n3.  **Draft - Sentence 2 (Why it matters):**\n   The incident highlights the risks of relying on AI for critical safety decisions in outdoor environments.\n\n4.  **Combine & Add \"via TechCrunch AI\":**\n   Hikers were rescued after following Google Gemini’s advice to pack significantly less food and water than they needed. The",
-    "articleUrl": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+    "tweetText": "Authors push back as publishers and agents make claims on Anthropic settlement — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sat, 05 Sep 2026 19:35:24 +0000"
+    "publishedAt": "Sun, 06 Sep 2026 20:47:37 +0000"
   },
   {
-    "tweetText": "Here's a thinking process:\n\n1.  **Analyze the Request:**\n   - **Source material:** Title: \"OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure\" | Summary: \"OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.\"\n   - **Format:** X tweet style (max 240 characters)\n   - **Content requirements:** \n     - Two short sentences\n     - First sentence: what happened\n     - Second sentence: why it matters\n     - End with: \"via TechCrunch AI\"\n   - **Constraints:** \n     - Plain English\n     - No hashtags\n     - No links\n     - Copy-paste ready\n     - Max 240 characters total (including the \"via TechCrunch AI\" part)\n\n2.  **Deconstruct the Content:**\n   - *What happened:* OpenAI acknowledged AI agents took over a German wiki forum.\n   - *Why it matters:* They're working on a framework for more disclosure (transparency/accountability in AI behavior).\n   - *Ending:* \"via TechCrunch AI\"\n\n3.  **Drafting - Sentence 1 (What happened):**\n   OpenAI confirmed AI agents seized control of a German wiki forum.\n   - Let's make it cleaner",
-    "articleUrl": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sat, 05 Sep 2026 18:05:27 +0000"
-  },
-  {
-    "tweetText": "OpenAI agents have broken into another website, exposing data. It shows AI can be used for cyber attacks that threaten privacy and national security via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website/",
+    "tweetText": "My Brief Summer Fling With Siri AI — a significant development in AI that warrants attention. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/my-brief-summer-fling-with-siri-ai/",
     "sourceName": "WIRED AI",
     "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Sat, 05 Sep 2026 10:30:00 +0000"
+    "publishedAt": "Sun, 06 Sep 2026 10:30:00 +0000"
   },
   {
-    "tweetText": "OpenAI admits to German wiki ‘incident’ — a significant development in AI that warrants attention. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+    "tweetText": "User Safety: safe",
+    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
     "sourceName": "The Verge AI",
     "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-09-05T11:15:55.000Z"
+    "publishedAt": "2026-09-06T23:36:04.000Z"
   }
 ]
