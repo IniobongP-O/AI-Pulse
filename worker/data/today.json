@@ -1,30 +1,37 @@
 [
   {
-    "tweetText": "Supporting independent journalism in Ukraine — a significant development in AI that warrants attention. via OpenAI News",
-    "articleUrl": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
-    "sourceName": "OpenAI News",
-    "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Mon, 07 Sep 2026 00:00:00 GMT"
+    "tweetText": "AI weather forecasting enters the energy market as Google targets grid operators with WeatherNext 3 — a significant development in AI that warrants attention. via AI News",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/ai-weather-forecasting-google-weathernext-3-energy/",
+    "sourceName": "AI News",
+    "sourceHomeUrl": "https://www.artificialintelligence-news/",
+    "publishedAt": "Tue, 08 Sep 2026 09:00:00 +0000"
   },
   {
-    "tweetText": "Authors push back as publishers and agents make claims on Anthropic settlement — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sun, 06 Sep 2026 20:47:37 +0000"
-  },
-  {
-    "tweetText": "My Brief Summer Fling With Siri AI — a significant development in AI that warrants attention. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/my-brief-summer-fling-with-siri-ai/",
-    "sourceName": "WIRED AI",
-    "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Sun, 06 Sep 2026 10:30:00 +0000"
+    "tweetText": "YouTube Appears in 53% of Google AI Overviews for Vitamin and Supplement Searches — a significant development in AI that warrants attention. via AI News",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/youtube-appears-in-53-of-google-ai-overviews-for-vitamin-and-supplement-searches/",
+    "sourceName": "AI News",
+    "sourceHomeUrl": "https://www.artificialintelligence-news/",
+    "publishedAt": "Tue, 08 Sep 2026 08:50:39 +0000"
   },
   {
     "tweetText": "User Safety: safe",
-    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-09-06T23:36:04.000Z"
+    "articleUrl": "https://www.artificialintelligence-news.com/news/mg-ship-ai-route-optimisation-logistics-returns-accelerate/",
+    "sourceName": "AI News",
+    "sourceHomeUrl": "https://www.artificialintelligence-news/",
+    "publishedAt": "Mon, 07 Sep 2026 13:01:23 +0000"
+  },
+  {
+    "tweetText": "Opaque recurrence, and other AI terms that you should probably know — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 07 Sep 2026 19:24:00 +0000"
+  },
+  {
+    "tweetText": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents — a significant development in AI that warrants attention. via MIT Technology Review",
+    "articleUrl": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
+    "sourceName": "MIT Technology Review",
+    "sourceHomeUrl": "https://www.technologyreview.com/topic/artificial-intelligence/",
+    "publishedAt": "Mon, 07 Sep 2026 12:10:00 +0000"
   }
 ]
