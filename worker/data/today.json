@@ -1,37 +1,72 @@
 [
   {
-    "tweetText": "AI weather forecasting enters the energy market as Google targets grid operators with WeatherNext 3 — a significant development in AI that warrants attention. via AI News",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/ai-weather-forecasting-google-weathernext-3-energy/",
-    "sourceName": "AI News",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Tue, 08 Sep 2026 09:00:00 +0000"
+    "tweetText": "How GPT-5.6 Sol helps run quantum computing experiments — a significant development in AI that warrants attention. via OpenAI News",
+    "articleUrl": "https://openai.com/index/codex-quantum-computing-experiments",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Tue, 08 Sep 2026 17:00:00 GMT"
   },
   {
-    "tweetText": "YouTube Appears in 53% of Google AI Overviews for Vitamin and Supplement Searches — a significant development in AI that warrants attention. via AI News",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/youtube-appears-in-53-of-google-ai-overviews-for-vitamin-and-supplement-searches/",
-    "sourceName": "AI News",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Tue, 08 Sep 2026 08:50:39 +0000"
+    "tweetText": "OpenAI says AI is becoming more capable and affordable. That could help people and businesses do more for less via OpenAI News.",
+    "articleUrl": "https://openai.com/index/the-work-now-within-reach",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Tue, 08 Sep 2026 13:00:00 GMT"
   },
   {
-    "tweetText": "User Safety: safe",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/mg-ship-ai-route-optimisation-logistics-returns-accelerate/",
-    "sourceName": "AI News",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Mon, 07 Sep 2026 13:01:23 +0000"
+    "tweetText": "ChatGPT Images 2.5 turns ideas, sketches, and photos into more polished, personalized images.\nIt matters because it can make AI image creation more accurate and useful. via OpenAI News",
+    "articleUrl": "https://openai.com/index/introducing-chatgpt-images-2-5",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Tue, 08 Sep 2026 11:30:00 GMT"
   },
   {
-    "tweetText": "Opaque recurrence, and other AI terms that you should probably know — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "tweetText": "On the Navier–Stokes Millennium Prize Problem — a significant development in AI that warrants attention. via OpenAI News",
+    "articleUrl": "https://openai.com/index/navier-stokes-solution",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Tue, 08 Sep 2026 10:00:00 GMT"
+  },
+  {
+    "tweetText": "Hackers are stealing Claude tokens from paid subscribers. This means your account could be used by others without your knowledge. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 07 Sep 2026 19:24:00 +0000"
+    "publishedAt": "Tue, 08 Sep 2026 21:10:27 +0000"
   },
   {
-    "tweetText": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents — a significant development in AI that warrants attention. via MIT Technology Review",
-    "articleUrl": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
-    "sourceName": "MIT Technology Review",
-    "sourceHomeUrl": "https://www.technologyreview.com/topic/artificial-intelligence/",
-    "publishedAt": "Mon, 07 Sep 2026 12:10:00 +0000"
+    "tweetText": "Cognition reached a $48 billion valuation. This shows investors believe the AI coding market still has room for many players to compete. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Tue, 08 Sep 2026 21:04:06 +0000"
+  },
+  {
+    "tweetText": "Meta launched Muse, a personal AI agent that wants access to your email, calendar, payments, and health data. This is Meta's biggest consumer AI push yet, testing if people still trust the company with their most sensitive info. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Tue, 08 Sep 2026 19:00:00 +0000"
+  },
+  {
+    "tweetText": "OpenAI fought dirty on career-making math problem, says NYU mathematician — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Tue, 08 Sep 2026 17:32:15 +0000"
+  },
+  {
+    "tweetText": "Google Cloud races to catch up in the AI deployment wars with Accenture deal — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Tue, 08 Sep 2026 16:20:31 +0000"
+  },
+  {
+    "tweetText": "Chrome is now getting updates every 2 weeks, not every 6, so Google can ship security fixes and AI features faster.\nIt matters because faster patches help protect users as AI raises new security risks. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Tue, 08 Sep 2026 15:04:09 +0000"
   }
 ]
