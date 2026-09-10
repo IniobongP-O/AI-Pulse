@@ -1,72 +1,72 @@
 [
   {
-    "tweetText": "How GPT-5.6 Sol helps run quantum computing experiments — a significant development in AI that warrants attention. via OpenAI News",
-    "articleUrl": "https://openai.com/index/codex-quantum-computing-experiments",
+    "tweetText": "We need to produce a tweet style summary: two short sentences, first what happened, second why it matters, max 240 characters, plain English, no hashtags or links, end with \"via OpenAI News\". Should be copy-paste ready. Let's craft: \"Chris Lehane says the current policy window lets us set stronger AI safety rules and shared standards.\" That's first sentence. Second: \"Acting now ensures powerful AI develops safely and responsibly.\" Then end with \"via OpenAI News\". Count characters.\n\nLet's count: First sentence: \"Chris Lehane says the current policy window lets us set stronger AI safety rules and shared standards.\" Count characters including spaces.\n\nI'll count: \nChris(5) + space=1 =>6\nLehane(6)=>12\nspace=13\nsays(4)=>17\nspace=18\nthe(3)=>21\nspace=22\ncurrent(7)=>29\nspace=30\npolicy(6)=>36\nspace=37\nwindow(6)=>43\nspace=44\nlets(4)=>48\nspace=49\nus(2)=>51\nspace=52\nset(3)=>55\nspace=56\nstronger(8)=>64\nspace=6",
+    "articleUrl": "https://openai.com/index/ai-policy-window",
     "sourceName": "OpenAI News",
     "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Tue, 08 Sep 2026 17:00:00 GMT"
+    "publishedAt": "Wed, 09 Sep 2026 13:00:00 GMT"
   },
   {
-    "tweetText": "OpenAI says AI is becoming more capable and affordable. That could help people and businesses do more for less via OpenAI News.",
-    "articleUrl": "https://openai.com/index/the-work-now-within-reach",
+    "tweetText": "User Safety: safe",
+    "articleUrl": "https://openai.com/index/gpt-6-astra-next-generation-work",
     "sourceName": "OpenAI News",
     "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Tue, 08 Sep 2026 13:00:00 GMT"
+    "publishedAt": "Wed, 09 Sep 2026 11:00:00 GMT"
   },
   {
-    "tweetText": "ChatGPT Images 2.5 turns ideas, sketches, and photos into more polished, personalized images.\nIt matters because it can make AI image creation more accurate and useful. via OpenAI News",
-    "articleUrl": "https://openai.com/index/introducing-chatgpt-images-2-5",
+    "tweetText": "We need to produce a tweet style summary: max 240 characters, plain English, two short sentences: first what happened, second why it matters. End with \"via OpenAI News\". No hashtags or links. Copy-paste ready.\n\nWe need to count characters. Let's craft: \"Paul Christiano has joined the OpenAI Foundation Board and its Safety and Security Committee. His expertise in AI alignment and safety will help shape responsible AI development. via OpenAI News\"\n\nNow count characters including spaces and punctuation.\n\nLet's count:\n\n\"Paul Christiano has joined the OpenAI Foundation Board and its Safety and Security Committee. His expertise in AI alignment and safety will help shape responsible AI development. via OpenAI News\"\n\nCount characters:\n\nI'll count manually.\n\nString:\n\nPaul Christiano has joined the OpenAI Foundation Board and its Safety and Security Committee. His expertise in AI alignment and safety will help shape responsible AI development. via OpenAI News\n\nLet's count.\n\nI'll copy into a counting method mentally.\n\nBetter to count using segments.\n\n\"Paul Christiano has joined the OpenAI Foundation Board and its Safety and Security Committee.\"\n\nCount characters including spaces and period.\n\nLet's write each character count:\n\nI'll number.\n\nI'll write the sentence and count.\n\nSentence1: \"Paul Christiano has joined the OpenAI Foundation Board and its Safety and Security Committee.\"\n\nLet",
+    "articleUrl": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
     "sourceName": "OpenAI News",
     "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Tue, 08 Sep 2026 11:30:00 GMT"
+    "publishedAt": "Wed, 09 Sep 2026 17:00:00 GMT"
   },
   {
-    "tweetText": "On the Navier–Stokes Millennium Prize Problem — a significant development in AI that warrants attention. via OpenAI News",
-    "articleUrl": "https://openai.com/index/navier-stokes-solution",
-    "sourceName": "OpenAI News",
-    "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Tue, 08 Sep 2026 10:00:00 GMT"
-  },
-  {
-    "tweetText": "Hackers are stealing Claude tokens from paid subscribers. This means your account could be used by others without your knowledge. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+    "tweetText": "AI startup Listen Labs canceled a $1.5B funding round after Salesforce acquisition talks. The move shows how AI companies are exploring strategic exits over traditional fundraising. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 08 Sep 2026 21:10:27 +0000"
+    "publishedAt": "Thu, 10 Sep 2026 00:00:37 +0000"
   },
   {
-    "tweetText": "Cognition reached a $48 billion valuation. This shows investors believe the AI coding market still has room for many players to compete. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+    "tweetText": "OpenAI adds a prominent AI doomer to its board of directors — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 08 Sep 2026 21:04:06 +0000"
+    "publishedAt": "Wed, 09 Sep 2026 22:25:22 +0000"
   },
   {
-    "tweetText": "Meta launched Muse, a personal AI agent that wants access to your email, calendar, payments, and health data. This is Meta's biggest consumer AI push yet, testing if people still trust the company with their most sensitive info. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+    "tweetText": "Apple is adding AI features to the Apple Watch that can transcribe and summarize nearby conversations. This raises serious concerns about privacy and consent in daily life. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 08 Sep 2026 19:00:00 +0000"
+    "publishedAt": "Wed, 09 Sep 2026 20:24:48 +0000"
   },
   {
-    "tweetText": "OpenAI fought dirty on career-making math problem, says NYU mathematician — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+    "tweetText": "The hinge for Apple’s new foldable phone was built with AI — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 08 Sep 2026 17:32:15 +0000"
+    "publishedAt": "Wed, 09 Sep 2026 19:21:48 +0000"
   },
   {
-    "tweetText": "Google Cloud races to catch up in the AI deployment wars with Accenture deal — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
+    "tweetText": "We need to produce a tweet style, max 240 characters, plain English, two short sentences: first what happened, second why it matters. End with \"via TechCrunch AI\". No hashtags or links. Copy-paste ready. So something like: \"Apple launched a new tool called Apple Reference Image that lets users check if their iPhone photos have been edited, even by AI. It matters because it helps fight fake images and builds trust in what we see online. via TechCrunch AI\". Need to ensure under 240 characters. Let's count characters.\n\n\"Apple launched a new tool called Apple Reference Image that lets users check if their iPhone photos have been edited, even by AI. It matters because it helps fight fake images and builds trust in what we see online. via TechCrunch AI\"\n\nCount characters including spaces and punctuation.\n\nLet's count manually.\n\nString:\n\nApple launched a new tool called Apple Reference Image that lets users check if their iPhone photos have been edited, even by AI. It matters because it helps fight fake images and builds trust in what we see online. via TechCrunch AI\n\nLet's count.\n\nI'll count each segment.\n\n\"Apple launched a new tool called Apple Reference Image that lets users check if their iPhone photos have been edited, even by AI.\"\n\nCount:\n\nApple(5) + space=",
+    "articleUrl": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 08 Sep 2026 16:20:31 +0000"
+    "publishedAt": "Wed, 09 Sep 2026 18:08:35 +0000"
   },
   {
-    "tweetText": "Chrome is now getting updates every 2 weeks, not every 6, so Google can ship security fixes and AI features faster.\nIt matters because faster patches help protect users as AI raises new security risks. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
+    "tweetText": "Apple says the iPhone is still the best AI device. Its on-device AI protects user privacy. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 08 Sep 2026 15:04:09 +0000"
+    "publishedAt": "Wed, 09 Sep 2026 17:36:05 +0000"
+  },
+  {
+    "tweetText": "AI companies are racing toward superintelligence despite recent security failures. This raises urgent questions about whether we can actually control systems that surpass human intelligence. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Wed, 09 Sep 2026 16:05:35 +0000"
   }
 ]
