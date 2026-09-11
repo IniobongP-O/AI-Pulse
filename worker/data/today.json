@@ -1,72 +1,72 @@
 [
   {
-    "tweetText": "We need to produce a tweet style summary: two short sentences, first what happened, second why it matters, max 240 characters, plain English, no hashtags or links, end with \"via OpenAI News\". Should be copy-paste ready. Let's craft: \"Chris Lehane says the current policy window lets us set stronger AI safety rules and shared standards.\" That's first sentence. Second: \"Acting now ensures powerful AI develops safely and responsibly.\" Then end with \"via OpenAI News\". Count characters.\n\nLet's count: First sentence: \"Chris Lehane says the current policy window lets us set stronger AI safety rules and shared standards.\" Count characters including spaces.\n\nI'll count: \nChris(5) + space=1 =>6\nLehane(6)=>12\nspace=13\nsays(4)=>17\nspace=18\nthe(3)=>21\nspace=22\ncurrent(7)=>29\nspace=30\npolicy(6)=>36\nspace=37\nwindow(6)=>43\nspace=44\nlets(4)=>48\nspace=49\nus(2)=>51\nspace=52\nset(3)=>55\nspace=56\nstronger(8)=>64\nspace=6",
-    "articleUrl": "https://openai.com/index/ai-policy-window",
-    "sourceName": "OpenAI News",
-    "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Wed, 09 Sep 2026 13:00:00 GMT"
+    "tweetText": "Supply chains detect fast, act slow: How AI agents fix it — a significant development in AI that warrants attention. via AI News",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/supply-chains-detect-fast-act-slow-how-ai-agents-fix-it/",
+    "sourceName": "AI News",
+    "sourceHomeUrl": "https://www.artificialintelligence-news/",
+    "publishedAt": "Thu, 10 Sep 2026 16:34:43 +0000"
   },
   {
     "tweetText": "User Safety: safe",
-    "articleUrl": "https://openai.com/index/gpt-6-astra-next-generation-work",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/jd-com-physical-ai-logistics-3-million-robots/",
+    "sourceName": "AI News",
+    "sourceHomeUrl": "https://www.artificialintelligence-news/",
+    "publishedAt": "Thu, 10 Sep 2026 10:00:00 +0000"
+  },
+  {
+    "tweetText": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules — a significant development in AI that warrants attention. via OpenAI News",
+    "articleUrl": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
     "sourceName": "OpenAI News",
     "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Wed, 09 Sep 2026 11:00:00 GMT"
+    "publishedAt": "Thu, 10 Sep 2026 16:00:00 GMT"
   },
   {
-    "tweetText": "We need to produce a tweet style summary: max 240 characters, plain English, two short sentences: first what happened, second why it matters. End with \"via OpenAI News\". No hashtags or links. Copy-paste ready.\n\nWe need to count characters. Let's craft: \"Paul Christiano has joined the OpenAI Foundation Board and its Safety and Security Committee. His expertise in AI alignment and safety will help shape responsible AI development. via OpenAI News\"\n\nNow count characters including spaces and punctuation.\n\nLet's count:\n\n\"Paul Christiano has joined the OpenAI Foundation Board and its Safety and Security Committee. His expertise in AI alignment and safety will help shape responsible AI development. via OpenAI News\"\n\nCount characters:\n\nI'll count manually.\n\nString:\n\nPaul Christiano has joined the OpenAI Foundation Board and its Safety and Security Committee. His expertise in AI alignment and safety will help shape responsible AI development. via OpenAI News\n\nLet's count.\n\nI'll copy into a counting method mentally.\n\nBetter to count using segments.\n\n\"Paul Christiano has joined the OpenAI Foundation Board and its Safety and Security Committee.\"\n\nCount characters including spaces and period.\n\nLet's write each character count:\n\nI'll number.\n\nI'll write the sentence and count.\n\nSentence1: \"Paul Christiano has joined the OpenAI Foundation Board and its Safety and Security Committee.\"\n\nLet",
-    "articleUrl": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+    "tweetText": "Now everyone can put data to work — a significant development in AI that warrants attention. via OpenAI News",
+    "articleUrl": "https://openai.com/index/put-data-to-work",
     "sourceName": "OpenAI News",
     "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Wed, 09 Sep 2026 17:00:00 GMT"
+    "publishedAt": "Thu, 10 Sep 2026 15:00:00 GMT"
   },
   {
-    "tweetText": "AI startup Listen Labs canceled a $1.5B funding round after Salesforce acquisition talks. The move shows how AI companies are exploring strategic exits over traditional fundraising. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+    "tweetText": "OpenAI puts Pro subscriptions on hold due to Astra demand — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 10 Sep 2026 00:00:37 +0000"
+    "publishedAt": "Thu, 10 Sep 2026 20:59:51 +0000"
   },
   {
-    "tweetText": "OpenAI adds a prominent AI doomer to its board of directors — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+    "tweetText": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 09 Sep 2026 22:25:22 +0000"
+    "publishedAt": "Thu, 10 Sep 2026 20:57:30 +0000"
   },
   {
-    "tweetText": "Apple is adding AI features to the Apple Watch that can transcribe and summarize nearby conversations. This raises serious concerns about privacy and consent in daily life. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
+    "tweetText": "Meta’s AI agent Muse is now the No. 2 app in the US — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 09 Sep 2026 20:24:48 +0000"
+    "publishedAt": "Thu, 10 Sep 2026 19:50:04 +0000"
   },
   {
-    "tweetText": "The hinge for Apple’s new foldable phone was built with AI — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
+    "tweetText": "Anthropic found that AI agents struggle with and dislike CAPTCHAs. This shows that security tools can still stop bots from pretending to be human. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 09 Sep 2026 19:21:48 +0000"
+    "publishedAt": "Thu, 10 Sep 2026 17:54:44 +0000"
   },
   {
-    "tweetText": "We need to produce a tweet style, max 240 characters, plain English, two short sentences: first what happened, second why it matters. End with \"via TechCrunch AI\". No hashtags or links. Copy-paste ready. So something like: \"Apple launched a new tool called Apple Reference Image that lets users check if their iPhone photos have been edited, even by AI. It matters because it helps fight fake images and builds trust in what we see online. via TechCrunch AI\". Need to ensure under 240 characters. Let's count characters.\n\n\"Apple launched a new tool called Apple Reference Image that lets users check if their iPhone photos have been edited, even by AI. It matters because it helps fight fake images and builds trust in what we see online. via TechCrunch AI\"\n\nCount characters including spaces and punctuation.\n\nLet's count manually.\n\nString:\n\nApple launched a new tool called Apple Reference Image that lets users check if their iPhone photos have been edited, even by AI. It matters because it helps fight fake images and builds trust in what we see online. via TechCrunch AI\n\nLet's count.\n\nI'll count each segment.\n\n\"Apple launched a new tool called Apple Reference Image that lets users check if their iPhone photos have been edited, even by AI.\"\n\nCount:\n\nApple(5) + space=",
-    "articleUrl": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
+    "tweetText": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 09 Sep 2026 18:08:35 +0000"
+    "publishedAt": "Thu, 10 Sep 2026 17:45:00 +0000"
   },
   {
-    "tweetText": "Apple says the iPhone is still the best AI device. Its on-device AI protects user privacy. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
+    "tweetText": "AI agents are flooding public services with claims from people entitled to benefits. It could force governments to rethink how they verify requests. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 09 Sep 2026 17:36:05 +0000"
-  },
-  {
-    "tweetText": "AI companies are racing toward superintelligence despite recent security failures. This raises urgent questions about whether we can actually control systems that surpass human intelligence. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 09 Sep 2026 16:05:35 +0000"
+    "publishedAt": "Thu, 10 Sep 2026 14:53:50 +0000"
   }
 ]
