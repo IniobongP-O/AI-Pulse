@@ -1,72 +1,58 @@
 [
   {
-    "tweetText": "OpenAI upgraded its Habitat storage system to handle over 1 billion users. This allows ChatGPT to manage 22 million requests per second with high speed. via OpenAI News",
-    "articleUrl": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-    "sourceName": "OpenAI News",
-    "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Fri, 11 Sep 2026 10:00:00 GMT"
-  },
-  {
-    "tweetText": "We need to produce two short sentences, first what happened, second why it matters. End with \"via OpenAI News\". Max 240 characters. No hashtags or links. Plain English. Copy-paste ready.\n\nWe need to summarize: Cognition helps Devin test its own work with GPT-6 Astra. GPT-6 Astra improves Devin’s ability to test software and show that it works, with goal of helping engineers review less code and ship more.\n\nSo first sentence: \"Cognition’s new GPT‑6 Astra lets Devin automatically test its own code and verify it works.\" Second: \"This cuts engineers’ review time, letting them ship software faster.\" Then end with \"via OpenAI News\". Ensure total characters <=240.\n\nLet's count characters.\n\nSentence1: \"Cognition’s new GPT‑6 Astra lets Devin automatically test its own code and verify it works.\"\n\nCount: Let's count manually.\n\nCognition’s (10 inc apostrophe? Actually \"Cognition’s\": C o g n i t i o n ’ s = 10? Let's count: C(1) o2 g3 n4 i5 t6 i7 o8 n9 ’10 s11. So 11. Then space =12. \"new\" (3) =>15",
-    "articleUrl": "https://openai.com/index/cognition-devin-testing-with-astra",
-    "sourceName": "OpenAI News",
-    "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Fri, 11 Sep 2026 16:00:00 GMT"
-  },
-  {
-    "tweetText": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+    "tweetText": "OpenAI filed a confidential IPO but won't go public this year. Altman says it would be ill-advised to list in 2026. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 11 Sep 2026 22:58:17 +0000"
+    "publishedAt": "Sat, 12 Sep 2026 20:19:16 +0000"
   },
   {
-    "tweetText": "Garry Tan wants US open-weight AI labs to use distillation techniques on frontier models. This will help create more powerful American open-source options to compete globally. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+    "tweetText": "Anthropic's CEO wants to slow down the development of advanced AI. This approach aims to ensure safety as the technology grows more powerful. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 11 Sep 2026 20:59:47 +0000"
+    "publishedAt": "Sat, 12 Sep 2026 19:34:44 +0000"
   },
   {
-    "tweetText": "Twenty-five top mathematicians signed a letter accusing AI labs of threatening their intellectual work. This shows a growing conflict between AI development and the academic community. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 11 Sep 2026 20:57:36 +0000"
-  },
-  {
-    "tweetText": "Kimi-maker Moonshot AI targets $2B in annual revenue — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 11 Sep 2026 19:35:54 +0000"
-  },
-  {
-    "tweetText": "An Anthropic researcher’s doomsday warning comes at a very interesting time — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 11 Sep 2026 18:41:49 +0000"
-  },
-  {
-    "tweetText": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 11 Sep 2026 16:46:25 +0000"
-  },
-  {
-    "tweetText": "Meta Sued Over Training Data for Its AI and Face-Recognition Systems — a significant development in AI that warrants attention. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/meta-sued-over-training-data-for-its-ai-and-face-recognition-systems/",
+    "tweetText": "From Hacks to Bioweapons, Claude Misuse Is Now Everywhere — a significant development in AI that warrants attention. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/",
     "sourceName": "WIRED AI",
     "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Fri, 11 Sep 2026 18:59:25 +0000"
+    "publishedAt": "Sat, 12 Sep 2026 10:30:00 +0000"
   },
   {
-    "tweetText": "Timnit Gebru says AI firms hype extinction fears to distract. She warns this hides real harms like autonomous weapons. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/one-of-ais-fiercest-critics-says-all-the-doom-talk-is-meant-to-distract-us/",
-    "sourceName": "WIRED AI",
-    "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Fri, 11 Sep 2026 15:00:00 +0000"
+    "tweetText": "User Safety: safe",
+    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+    "sourceName": "The Verge AI",
+    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
+    "publishedAt": "2026-09-12T21:41:36.000Z"
+  },
+  {
+    "tweetText": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’ — a significant development in AI that warrants attention. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
+    "sourceName": "The Verge AI",
+    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
+    "publishedAt": "2026-09-12T21:16:28.000Z"
+  },
+  {
+    "tweetText": "Anthropic CEO says it’s time to pump the brakes on AI — a significant development in AI that warrants attention. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
+    "sourceName": "The Verge AI",
+    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
+    "publishedAt": "2026-09-12T16:23:40.000Z"
+  },
+  {
+    "tweetText": "Trump is giving data centers a pass to pollute — a significant development in AI that warrants attention. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
+    "sourceName": "The Verge AI",
+    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
+    "publishedAt": "2026-09-12T14:41:27.000Z"
+  },
+  {
+    "tweetText": "OpenAI just wants to win — a significant development in AI that warrants attention. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
+    "sourceName": "The Verge AI",
+    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
+    "publishedAt": "2026-09-12T11:00:00.000Z"
   }
 ]
