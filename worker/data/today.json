@@ -1,58 +1,58 @@
 [
   {
-    "tweetText": "OpenAI filed a confidential IPO but won't go public this year. Altman says it would be ill-advised to list in 2026. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sat, 12 Sep 2026 20:19:16 +0000"
+    "tweetText": "Why Most Enterprise Agent Pilots Never Reach Deployment — a significant development in AI that warrants attention. via AI News",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/why-most-enterprise-agent-pilots-never-reach-deployment/",
+    "sourceName": "AI News",
+    "sourceHomeUrl": "https://www.artificialintelligence-news/",
+    "publishedAt": "Mon, 14 Sep 2026 08:04:35 +0000"
   },
   {
-    "tweetText": "Anthropic's CEO wants to slow down the development of advanced AI. This approach aims to ensure safety as the technology grows more powerful. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sat, 12 Sep 2026 19:34:44 +0000"
+    "tweetText": "From Video to Data: How AI Is Transforming Multimedia Content Processing — a significant development in AI that warrants attention. via AI News",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/from-video-to-data-how-ai-is-transforming-multimedia-content-processing/",
+    "sourceName": "AI News",
+    "sourceHomeUrl": "https://www.artificialintelligence-news/",
+    "publishedAt": "Mon, 14 Sep 2026 07:56:45 +0000"
   },
   {
-    "tweetText": "From Hacks to Bioweapons, Claude Misuse Is Now Everywhere — a significant development in AI that warrants attention. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/",
-    "sourceName": "WIRED AI",
-    "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Sat, 12 Sep 2026 10:30:00 +0000"
+    "tweetText": "How Vox Group’s AI-Powered Technology Is Solving Real-Time Translation for Group Travel — a significant development in AI that warrants attention. via AI News",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/how-vox-groups-ai-powered-technology-is-solving-real-time-translation-for-group-travel/",
+    "sourceName": "AI News",
+    "sourceHomeUrl": "https://www.artificialintelligence-news/",
+    "publishedAt": "Mon, 14 Sep 2026 07:39:28 +0000"
+  },
+  {
+    "tweetText": "We need to output exactly two short sentences, first what happened, second why it matters. End with \"via OpenAI News\". No hashtags or links. Plain English. Max 240 characters. Use copy-paste ready to copy-paste.\n\nWe need to summarize: Perplexity trusts GPT-6 Astra with end-to-end systems. Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.\n\nSo first sentence: Perplexity now lets GPT‑6 Astra handle communications, code changes, and production monitoring with minimal human oversight. Second sentence: This shows how confidence in newer AI models is growing for critical, end‑to‑end tasks. Then \"via OpenAI News\". Ensure total characters <=240.\n\nLet's craft:\n\n\"Perplexity has handed GPT‑6 Astra the job of writing messages, altering software, and watching over production systems, needing far fewer check‑ins than before. It signals rising trust in advanced AI to run full‑stack operations autonomously. via OpenAI News\"\n\nNow count characters.\n\nCount manually:\n\nSentence1: \"Perplexity has handed GPT‑6 Astra the job of writing messages, altering software, and watching over production systems, needing far fewer check‑ins than before.\"\n\nLet's count characters including spaces.\n\nI",
+    "articleUrl": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Mon, 14 Sep 2026 00:00:00 GMT"
+  },
+  {
+    "tweetText": "What’s behind the AI industry’s latest warnings of doom? — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Sun, 13 Sep 2026 19:40:15 +0000"
   },
   {
     "tweetText": "User Safety: safe",
-    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-09-12T21:41:36.000Z"
+    "articleUrl": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Sun, 13 Sep 2026 16:30:00 +0000"
   },
   {
-    "tweetText": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’ — a significant development in AI that warrants attention. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-09-12T21:16:28.000Z"
+    "tweetText": "User Safety: safe",
+    "articleUrl": "https://www.wired.com/story/chatbot-generated-fiction-i-like-my-big-rat-wife/",
+    "sourceName": "WIRED AI",
+    "sourceHomeUrl": "https://wired.com/tag/ai/",
+    "publishedAt": "Mon, 14 Sep 2026 09:00:00 +0000"
   },
   {
-    "tweetText": "Anthropic CEO says it’s time to pump the brakes on AI — a significant development in AI that warrants attention. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
+    "tweetText": "Trump and Johnson pushed back on AI leaders calling for a development pause, saying it risks letting China win the race. Whoever",
+    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
     "sourceName": "The Verge AI",
     "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-09-12T16:23:40.000Z"
-  },
-  {
-    "tweetText": "Trump is giving data centers a pass to pollute — a significant development in AI that warrants attention. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-09-12T14:41:27.000Z"
-  },
-  {
-    "tweetText": "OpenAI just wants to win — a significant development in AI that warrants attention. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-09-12T11:00:00.000Z"
+    "publishedAt": "2026-09-13T19:41:48.000Z"
   }
 ]
