@@ -1,58 +1,72 @@
 [
   {
-    "tweetText": "Why Most Enterprise Agent Pilots Never Reach Deployment — a significant development in AI that warrants attention. via AI News",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/why-most-enterprise-agent-pilots-never-reach-deployment/",
-    "sourceName": "AI News",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Mon, 14 Sep 2026 08:04:35 +0000"
-  },
-  {
-    "tweetText": "From Video to Data: How AI Is Transforming Multimedia Content Processing — a significant development in AI that warrants attention. via AI News",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/from-video-to-data-how-ai-is-transforming-multimedia-content-processing/",
-    "sourceName": "AI News",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Mon, 14 Sep 2026 07:56:45 +0000"
-  },
-  {
-    "tweetText": "How Vox Group’s AI-Powered Technology Is Solving Real-Time Translation for Group Travel — a significant development in AI that warrants attention. via AI News",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/how-vox-groups-ai-powered-technology-is-solving-real-time-translation-for-group-travel/",
-    "sourceName": "AI News",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Mon, 14 Sep 2026 07:39:28 +0000"
-  },
-  {
-    "tweetText": "We need to output exactly two short sentences, first what happened, second why it matters. End with \"via OpenAI News\". No hashtags or links. Plain English. Max 240 characters. Use copy-paste ready to copy-paste.\n\nWe need to summarize: Perplexity trusts GPT-6 Astra with end-to-end systems. Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.\n\nSo first sentence: Perplexity now lets GPT‑6 Astra handle communications, code changes, and production monitoring with minimal human oversight. Second sentence: This shows how confidence in newer AI models is growing for critical, end‑to‑end tasks. Then \"via OpenAI News\". Ensure total characters <=240.\n\nLet's craft:\n\n\"Perplexity has handed GPT‑6 Astra the job of writing messages, altering software, and watching over production systems, needing far fewer check‑ins than before. It signals rising trust in advanced AI to run full‑stack operations autonomously. via OpenAI News\"\n\nNow count characters.\n\nCount manually:\n\nSentence1: \"Perplexity has handed GPT‑6 Astra the job of writing messages, altering software, and watching over production systems, needing far fewer check‑ins than before.\"\n\nLet's count characters including spaces.\n\nI",
-    "articleUrl": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+    "tweetText": "Fyxer uses OpenAI models to organize inboxes and draft emails in a user's unique voice. This creates a reliable AI assistant that handles tasks with human-like accuracy. via OpenAI News",
+    "articleUrl": "https://openai.com/index/fyxer",
     "sourceName": "OpenAI News",
     "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Mon, 14 Sep 2026 00:00:00 GMT"
+    "publishedAt": "Mon, 14 Sep 2026 12:00:00 GMT"
   },
   {
-    "tweetText": "What’s behind the AI industry’s latest warnings of doom? — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+    "tweetText": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’ — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sun, 13 Sep 2026 19:40:15 +0000"
+    "publishedAt": "Mon, 14 Sep 2026 21:51:02 +0000"
   },
   {
-    "tweetText": "User Safety: safe",
-    "articleUrl": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+    "tweetText": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sun, 13 Sep 2026 16:30:00 +0000"
+    "publishedAt": "Mon, 14 Sep 2026 20:44:14 +0000"
   },
   {
-    "tweetText": "User Safety: safe",
-    "articleUrl": "https://www.wired.com/story/chatbot-generated-fiction-i-like-my-big-rat-wife/",
+    "tweetText": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 14 Sep 2026 16:27:53 +0000"
+  },
+  {
+    "tweetText": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap? — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 14 Sep 2026 15:00:00 +0000"
+  },
+  {
+    "tweetText": "Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026 — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 14 Sep 2026 14:30:00 +0000"
+  },
+  {
+    "tweetText": "AI Leaders Are Calling for a Slowdown. Trump’s Team Says It’s on Them — a significant development in AI that warrants attention. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/ai-leaders-are-calling-for-a-slowdown-trumps-team-says-its-on-them/",
     "sourceName": "WIRED AI",
     "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Mon, 14 Sep 2026 09:00:00 +0000"
+    "publishedAt": "Mon, 14 Sep 2026 11:00:00 +0000"
   },
   {
-    "tweetText": "Trump and Johnson pushed back on AI leaders calling for a development pause, saying it risks letting China win the race. Whoever",
-    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+    "tweetText": "Is Big Tech’s AI slowdown a safety pact or a cartel? — a significant development in AI that warrants attention. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
     "sourceName": "The Verge AI",
     "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-09-13T19:41:48.000Z"
+    "publishedAt": "2026-09-14T22:59:41.000Z"
+  },
+  {
+    "tweetText": "Anthropic CEO Dario Amodei urged a slowdown of AI development in a detailed essay. Politicians and other AI leaders are now weighing in, sparking debate over safety versus progress. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
+    "sourceName": "The Verge AI",
+    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
+    "publishedAt": "2026-09-14T21:21:42.000Z"
+  },
+  {
+    "tweetText": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world — a significant development in AI that warrants attention. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
+    "sourceName": "The Verge AI",
+    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
+    "publishedAt": "2026-09-14T20:03:37.000Z"
   }
 ]
