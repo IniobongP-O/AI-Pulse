@@ -1,72 +1,72 @@
 [
   {
-    "tweetText": "Fyxer uses OpenAI models to organize inboxes and draft emails in a user's unique voice. This creates a reliable AI assistant that handles tasks with human-like accuracy. via OpenAI News",
-    "articleUrl": "https://openai.com/index/fyxer",
-    "sourceName": "OpenAI News",
-    "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Mon, 14 Sep 2026 12:00:00 GMT"
+    "tweetText": "Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train — a significant development in AI that warrants attention. via Google Research Blog",
+    "articleUrl": "https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train/",
+    "sourceName": "Google Research Blog",
+    "sourceHomeUrl": "https://research.google/blog/",
+    "publishedAt": "Tue, 15 Sep 2026 20:00:35 +0000"
   },
   {
-    "tweetText": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’ — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+    "tweetText": "Pony.ai launched a Level 4 autonomous electric truck built for logistics fleets. It could cut costs and emissions in freight shipping. via AI News",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/pony-ai-autonomous-electric-truck-for-logistics-fleets/",
+    "sourceName": "AI News",
+    "sourceHomeUrl": "https://www.artificialintelligence-news/",
+    "publishedAt": "Tue, 15 Sep 2026 11:15:57 +0000"
+  },
+  {
+    "tweetText": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 14 Sep 2026 21:51:02 +0000"
+    "publishedAt": "Wed, 16 Sep 2026 00:20:39 +0000"
   },
   {
-    "tweetText": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+    "tweetText": "Philadelphia is considering building AI data centers in a neighborhood already scarred by a defunct oil refinery. This could spark a major community backlash over environmental justice. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 14 Sep 2026 20:44:14 +0000"
+    "publishedAt": "Tue, 15 Sep 2026 21:47:38 +0000"
   },
   {
-    "tweetText": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
+    "tweetText": "Meta now lets AI agents handle WhatsApp Business setup like templates and testing. This saves developers time and makes bot creation way easier. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 14 Sep 2026 16:27:53 +0000"
+    "publishedAt": "Tue, 15 Sep 2026 20:12:53 +0000"
   },
   {
-    "tweetText": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap? — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
+    "tweetText": "The AI graveyard: a running list of projects and startups that didn’t make it — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 14 Sep 2026 15:00:00 +0000"
+    "publishedAt": "Tue, 15 Sep 2026 19:00:00 +0000"
   },
   {
-    "tweetText": "Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026 — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/",
+    "tweetText": "User Safety: safe",
+    "articleUrl": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 14 Sep 2026 14:30:00 +0000"
+    "publishedAt": "Tue, 15 Sep 2026 18:29:20 +0000"
   },
   {
-    "tweetText": "AI Leaders Are Calling for a Slowdown. Trump’s Team Says It’s on Them — a significant development in AI that warrants attention. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/ai-leaders-are-calling-for-a-slowdown-trumps-team-says-its-on-them/",
-    "sourceName": "WIRED AI",
-    "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Mon, 14 Sep 2026 11:00:00 +0000"
+    "tweetText": "A new AI Contact Hotline lets AI agents report misconduct they witness. This creates a way for artificial intelligence to whistleblow on bad behavior. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Tue, 15 Sep 2026 17:42:59 +0000"
   },
   {
-    "tweetText": "Is Big Tech’s AI slowdown a safety pact or a cartel? — a significant development in AI that warrants attention. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-09-14T22:59:41.000Z"
+    "tweetText": "The user wants a summary in the style of an X tweet (now Twitter). Constraints:\n- Max 240 characters\n- Plain English\n- Two short sentences: first what happened, second why it matters\n- End with \"via TechCrunch AI\"\n- No hashtags or links\n- Copy-paste ready\n\nWe have title and summary: \"Meta expands subscription push with new AI-focused plans\" and \"Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram, and WhatsApp.\"\n\nWe need to produce two short sentences. Something like: \"Meta launched Meta One, a subscription bundling AI tools and premium features across Facebook, Instagram, and WhatsApp. It signals Meta’s push to monetize AI and lock users into its ecosystem. via TechCrunch AI\"\n\nCount characters. Let's count: \"Meta launched Meta One, a subscription bundling AI tools and premium features across Facebook, Instagram, and WhatsApp. It signals Meta’s push to monetize AI and lock users into its ecosystem. via TechCrunch AI\"\n\nCount characters including spaces. Let's count manually.\n\n\"Meta launched Meta One, a subscription bundling AI tools and premium features across Facebook, Instagram, and WhatsApp. It signals Meta’s push to monetize AI and lock users into its ecosystem. via TechCrunch AI\"",
+    "articleUrl": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Tue, 15 Sep 2026 17:05:24 +0000"
   },
   {
-    "tweetText": "Anthropic CEO Dario Amodei urged a slowdown of AI development in a detailed essay. Politicians and other AI leaders are now weighing in, sparking debate over safety versus progress. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-09-14T21:21:42.000Z"
-  },
-  {
-    "tweetText": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world — a significant development in AI that warrants attention. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-09-14T20:03:37.000Z"
+    "tweetText": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Tue, 15 Sep 2026 15:47:03 +0000"
   }
 ]
