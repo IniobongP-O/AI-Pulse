@@ -1,58 +1,72 @@
 [
   {
-    "tweetText": "AI leaders are debating whether to slow down. It matters because AI is advancing fast, and stopping could reshape the industry. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
+    "tweetText": "Multi-agent AI systems are taking over supply chain execution — a significant development in AI that warrants attention. via AI News",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/multi-agent-ai-systems-supply-chain-execution/",
+    "sourceName": "AI News",
+    "sourceHomeUrl": "https://www.artificialintelligence-news/",
+    "publishedAt": "Mon, 21 Sep 2026 15:32:54 +0000"
+  },
+  {
+    "tweetText": "Advisory Group on Mathematics and Artificial Intelligence — a significant development in AI that warrants attention. via OpenAI News",
+    "articleUrl": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Mon, 21 Sep 2026 12:00:00 GMT"
+  },
+  {
+    "tweetText": "Higgsfield AI used GPT-6 Astra to launch new video features in just one day. This helps small businesses create ads faster and more easily. via OpenAI News",
+    "articleUrl": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Mon, 21 Sep 2026 12:00:00 GMT"
+  },
+  {
+    "tweetText": "Building standards for the next phase of AI — a significant development in AI that warrants attention. via OpenAI News",
+    "articleUrl": "https://openai.com/index/building-standards-next-phase-ai",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Mon, 21 Sep 2026 10:00:00 GMT"
+  },
+  {
+    "tweetText": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sun, 20 Sep 2026 18:56:04 +0000"
+    "publishedAt": "Mon, 21 Sep 2026 23:44:28 +0000"
   },
   {
-    "tweetText": "Meta's Muse Is Better at Surveilling Than Helping Me — a significant development in AI that warrants attention. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me/",
-    "sourceName": "WIRED AI",
-    "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Sun, 20 Sep 2026 10:30:00 +0000"
+    "tweetText": "OpenAI forms math advisory group as its AI resolves more than 100 open problems — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 21 Sep 2026 20:15:58 +0000"
   },
   {
-    "tweetText": "Trump is doubling down on data centers and AI. His MAGA base is running the other way, risking the country's tech edge. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/donald-trump-versus-maga-on-data-centers/",
-    "sourceName": "WIRED AI",
-    "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Sun, 20 Sep 2026 10:30:00 +0000"
+    "tweetText": "Meta’s Muse is outpacing ChatGPT’s early mobile launch — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 21 Sep 2026 19:19:21 +0000"
   },
   {
-    "tweetText": "A UN scientific panel says governments should rein in powerful AI agents before their risks are fully understood. It matters because countries are meeting to set AI rules and avoid a race to the bottom. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-09-21T10:18:06.000Z"
+    "tweetText": "Meta's AI agent was barred from accessing Amazon.com. Amazon runs its own AI models and inference service, so it can deny access without legal duty via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 21 Sep 2026 17:55:18 +0000"
   },
   {
-    "tweetText": "The user wants a summary in the style of an X tweet, max 240 characters, plain English, two short sentences: first what happened, second why it matters. End with \"via The Verge AI\". No hashtags or links. Copy-paste ready.\n\nWe need to craft two short sentences. Let's think: \"Amazon blocked Meta's Muse AI agent from shopping on its site.\" That's first sentence. Second: \"Amazon says Muse accessed without permission and may capture user credentials, raising security concerns.\" Then \"via The Verge AI\". Count characters.\n\nLet's count: \"Amazon blocked Meta's Muse AI agent from shopping on its site. Amazon says Muse accessed without permission and may capture user credentials, raising security concerns. via The Verge AI\"\n\nCount characters including spaces. Let's count manually.\n\n\"Amazon blocked Meta's Muse AI agent from shopping on its site.\" Count: \n\"Amazon\" (6) + space (1) =7\n\"blocked\" (7) =>14\nspace =>15\n\"Meta's\" (6) =>21\nspace =>22\n\"Muse\" (4) =>26\nspace =>27\n\"AI\" (2) =>29\nspace =>30\n\"agent\" (5) =>35\nspace =>36\n\"from\" (",
-    "articleUrl": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-09-21T09:21:47.000Z"
+    "tweetText": "A former accountant launched Tabby, an AI tool that handles real-time bookkeeping and paperwork. This could automate manual accounting tasks and provide instant financial data. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 21 Sep 2026 16:38:51 +0000"
   },
   {
-    "tweetText": "Jensen Huang says AI fears are overblown and there's zero chance it ends the world. It matters because the CEO profiting most from AI is dismissing warnings from researchers and rivals. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-09-20T18:50:18.000Z"
-  },
-  {
-    "tweetText": "Trump now says he wants to form an ‘AI Force’ — a significant development in AI that warrants attention. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-09-20T15:39:22.000Z"
-  },
-  {
-    "tweetText": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems — a significant development in AI that warrants attention. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-09-20T12:00:00.000Z"
+    "tweetText": "Google is launching a new $899 laptop designed specifically for Gemini AI. This integrates AI directly into the desktop experience to drive hardware sales. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 21 Sep 2026 14:39:22 +0000"
   }
 ]
