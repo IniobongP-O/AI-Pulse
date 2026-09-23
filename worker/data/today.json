@@ -1,72 +1,72 @@
 [
   {
-    "tweetText": "Multi-agent AI systems are taking over supply chain execution — a significant development in AI that warrants attention. via AI News",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/multi-agent-ai-systems-supply-chain-execution/",
+    "tweetText": "AI Agents Are Becoming a New Malware Distribution Channel — a significant development in AI that warrants attention. via AI News",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/ai-agents-are-becoming-a-new-malware-distribution-channel/",
     "sourceName": "AI News",
     "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Mon, 21 Sep 2026 15:32:54 +0000"
+    "publishedAt": "Wed, 23 Sep 2026 07:44:17 +0000"
   },
   {
-    "tweetText": "Advisory Group on Mathematics and Artificial Intelligence — a significant development in AI that warrants attention. via OpenAI News",
-    "articleUrl": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+    "tweetText": "AutoScheduler launches warehouse app builder for logistics teams — a significant development in AI that warrants attention. via AI News",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/autoscheduler-warehouse-app-builder-for-logistics-teams/",
+    "sourceName": "AI News",
+    "sourceHomeUrl": "https://www.artificialintelligence-news/",
+    "publishedAt": "Tue, 22 Sep 2026 11:34:39 +0000"
+  },
+  {
+    "tweetText": "Toyota’s $6.4bn robotics estimate puts physical AI in focus — a significant development in AI that warrants attention. via AI News",
+    "articleUrl": "https://www.artificialintelligence-news.com/news/toyota-physical-ai-factory-robotics/",
+    "sourceName": "AI News",
+    "sourceHomeUrl": "https://www.artificialintelligence-news/",
+    "publishedAt": "Tue, 22 Sep 2026 10:00:00 +0000"
+  },
+  {
+    "tweetText": "GPT-6 adds smarter prompt caching with higher hit rates, diagnostics, breakpoints",
+    "articleUrl": "https://openai.com/index/better-prompt-caching-for-gpt-6",
     "sourceName": "OpenAI News",
     "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Mon, 21 Sep 2026 12:00:00 GMT"
+    "publishedAt": "Tue, 22 Sep 2026 21:00:00 GMT"
   },
   {
-    "tweetText": "Higgsfield AI used GPT-6 Astra to launch new video features in just one day. This helps small businesses create ads faster and more easily. via OpenAI News",
-    "articleUrl": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+    "tweetText": "Introducing GPT-6 Sol and Luna — a significant development in AI that warrants attention. via OpenAI News",
+    "articleUrl": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
     "sourceName": "OpenAI News",
     "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Mon, 21 Sep 2026 12:00:00 GMT"
+    "publishedAt": "Tue, 22 Sep 2026 18:00:00 GMT"
   },
   {
-    "tweetText": "Building standards for the next phase of AI — a significant development in AI that warrants attention. via OpenAI News",
-    "articleUrl": "https://openai.com/index/building-standards-next-phase-ai",
+    "tweetText": "Here's a thinking process:\n\n1.  **Analyze Requirements:**\n   - **Source text:** Title: \"Parallel cut research time and cost in half with GPT‑6 Astra\", Summary: \"GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.\"\n   - **Output format:** X tweet style\n   - **Length:** Max 240 characters\n   - **Language:** Plain English\n   - **Structure:** Two short sentences\n     - First sentence: what happened\n     - Second sentence: why it matters\n   - **Ending:** \"via OpenAI News\"\n   - **No hashtags or links**\n   - **Copy-paste ready**\n\n2.  **Deconstruct the Source:**\n   - What happened: GPT-6 Astra helped Parallel's agents research and synthesize labor-market data faster and cheaper (half time, half cost).\n   - Why it matters: Significant efficiency gains in research, lowers costs, accelerates data-driven decisions, shows AI's practical impact on labor market analysis.\n\n3.  **Drafting - Sentence 1 (what happened):**\n   - GPT-6 Astra enabled Parallel's agents to research and synthesize labor-market data in half the time and at half the cost.\n   - Need to be concise. Let's try",
+    "articleUrl": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
     "sourceName": "OpenAI News",
     "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Mon, 21 Sep 2026 10:00:00 GMT"
+    "publishedAt": "Tue, 22 Sep 2026 12:00:00 GMT"
   },
   {
-    "tweetText": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+    "tweetText": "Here's a thinking process:\n\n1.  **Analyze the Request:**\n   - **Source material:** Title: “We’re already fighting yesterday’s battle”: Greece’s prime minister gets candid about AI. Summary: Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do.\n   - **Output format:** X tweet style (max 240 characters)\n   - **Structure:** Two short sentences\n     - Sentence 1: What happened\n     - Sentence 2: Why it matters\n   - **Constraints:** \n     - Plain English\n     - No hashtags\n     - No links\n     - End with \"via TechCrunch AI\"\n     - Copy-paste ready\n   - **Character limit:** 240 characters max for the whole tweet\n\n2.  **Identify Key Information from the Summary:**\n   - What happened: Greek PM Kyriakos Mitsotakis candidly admitted on a trade mission that no government is ready for what AI is about to do.\n   - Why it matters: Governments/leaders aren't prepared for AI's impact; it's a pressing issue that needs attention.\n\n3.  **Draft - Attempt 1:**\n   Greek PM Kyriakos",
+    "articleUrl": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 21 Sep 2026 23:44:28 +0000"
+    "publishedAt": "Wed, 23 Sep 2026 04:59:08 +0000"
   },
   {
-    "tweetText": "OpenAI forms math advisory group as its AI resolves more than 100 open problems — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+    "tweetText": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4 — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 21 Sep 2026 20:15:58 +0000"
+    "publishedAt": "Tue, 22 Sep 2026 23:21:49 +0000"
   },
   {
-    "tweetText": "Meta’s Muse is outpacing ChatGPT’s early mobile launch — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+    "tweetText": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 21 Sep 2026 19:19:21 +0000"
+    "publishedAt": "Tue, 22 Sep 2026 21:56:43 +0000"
   },
   {
-    "tweetText": "Meta's AI agent was barred from accessing Amazon.com. Amazon runs its own AI models and inference service, so it can deny access without legal duty via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
+    "tweetText": "Qualcomm launched two new smartphone chips that can run a 30B AI model right on the phone. This matters because better on-device AI means faster, private features without relying on the cloud. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 21 Sep 2026 17:55:18 +0000"
-  },
-  {
-    "tweetText": "A former accountant launched Tabby, an AI tool that handles real-time bookkeeping and paperwork. This could automate manual accounting tasks and provide instant financial data. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 21 Sep 2026 16:38:51 +0000"
-  },
-  {
-    "tweetText": "Google is launching a new $899 laptop designed specifically for Gemini AI. This integrates AI directly into the desktop experience to drive hardware sales. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 21 Sep 2026 14:39:22 +0000"
+    "publishedAt": "Tue, 22 Sep 2026 20:00:00 +0000"
   }
 ]
