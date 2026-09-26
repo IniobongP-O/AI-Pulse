@@ -1,72 +1,72 @@
 [
   {
-    "tweetText": "Researchers built an AI that automatically creates long, coherent videos. This speeds up high-quality video production for creators via Google Research Blog",
-    "articleUrl": "https://research.google/blog/coherent-long-form-video-generation/",
-    "sourceName": "Google Research Blog",
-    "sourceHomeUrl": "https://research.google/blog/",
-    "publishedAt": "Thu, 24 Sep 2026 19:40:00 +0000"
+    "tweetText": "Proaction boosts sales 60% and saves 75+ hours with Codex — a significant development in AI that warrants attention. via OpenAI News",
+    "articleUrl": "https://openai.com/index/proaction",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Fri, 25 Sep 2026 19:00:00 GMT"
   },
   {
-    "tweetText": "AI workloads can queue even when GPUs look idle because low usage doesn’t mean capacity is free. This matters because smarter GPU allocation and sharing can cut waits and boost infrastructure efficiency. via AI News",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/the-gpu-shortage-inside-your-own-infrastructure-why-ai-workloads-queue-while-capacity-sits-idle/",
-    "sourceName": "AI News",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Fri, 25 Sep 2026 08:03:06 +0000"
+    "tweetText": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Fri, 25 Sep 2026 23:11:10 +0000"
   },
   {
-    "tweetText": "How to Add AI to Legacy Software Without Rebuilding It — a significant development in AI that warrants attention. via AI News",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/how-to-add-ai-to-legacy-software-without-rebuilding-it/",
-    "sourceName": "AI News",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Fri, 25 Sep 2026 07:43:32 +0000"
+    "tweetText": "OpenAI research agents accidentally posted 53 user images to public websites. This highlights serious security risks in how AI agents handle private data. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Fri, 25 Sep 2026 22:20:47 +0000"
   },
   {
     "tweetText": "User Safety: safe",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/7-ai-powered-document-fraud-detection-tools-for-enterprise-onboarding/",
-    "sourceName": "AI News",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Fri, 25 Sep 2026 07:12:31 +0000"
-  },
-  {
-    "tweetText": "Google launched two Gemini 3.8 Flash TTS voice models for faster, cheaper audio production. This matters because games, narrations, and apps can now make high-volume speech more easily via AI News.",
-    "articleUrl": "https://www.artificialintelligence-news.com/news/google-gemini-3-8-flash-tts-voice-models/",
-    "sourceName": "AI News",
-    "sourceHomeUrl": "https://www.artificialintelligence-news/",
-    "publishedAt": "Thu, 24 Sep 2026 16:09:02 +0000"
-  },
-  {
-    "tweetText": "Lightspeed is raising $250 million for a new India fund focused on early-stage AI. This shows a major shift toward prioritizing artificial intelligence in the region. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
+    "articleUrl": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 25 Sep 2026 05:00:00 +0000"
+    "publishedAt": "Fri, 25 Sep 2026 19:13:38 +0000"
   },
   {
-    "tweetText": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+    "tweetText": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 24 Sep 2026 19:00:42 +0000"
+    "publishedAt": "Fri, 25 Sep 2026 18:33:59 +0000"
   },
   {
-    "tweetText": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
+    "tweetText": "Here's a thinking process:\n\n1.  **Analyze the Request:**\n   - **Source text:** A short AI news article title and summary about Meta's Muse AI agent outperforming ChatGPT, with OpenAI and Anthropic also releasing updates, all happening during \"model drop week.\"\n   - **Output format:** X (Twitter) style tweet\n   - **Constraints:** \n     - Max 240 characters\n     - Plain English\n     - Two short sentences: first what happened, second why it matters\n     - End with \"via TechCrunch AI\"\n     - No hashtags or links\n     - Copy-paste ready\n\n2.  **Deconstruct the Source:**\n   - *What happened:* Meta's Muse AI agent is reportedly outpacing ChatGPT early numbers, heading for smart glasses. OpenAI and Anthropic also had model drops (Opus 5.5, GPT-6 updates) within 90 minutes. It's \"model drop week.\"\n   - *Why it matters:* Competition is heating up, AI agents are getting more capable and integrated into hardware (smart glasses), and Meta is stealing the spotlight.\n\n3.  **Drafting - Sentence 1 (What happened):**\n   - Meta's Muse AI agent reportedly outperforms ChatGPT and is headed for smart glasses.\n   - While Open",
+    "articleUrl": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 24 Sep 2026 17:39:24 +0000"
+    "publishedAt": "Fri, 25 Sep 2026 18:22:47 +0000"
   },
   {
-    "tweetText": "We need to produce two short sentences, plain English, max 240 characters. First sentence: what happened: Google Photos launched a Clueless-inspired virtual closet feature on Android and iOS. Second: why it matters: lets you browse and organize your wardrobe via AI. End with \"via TechCrunch AI\". No hashtags or links. Ensure copy-paste ready. Count characters.\n\nLet's craft: \"Google Photos rolled out its Clueless‑inspired AI virtual closet to both Android and iOS, turning your photos into a browsable wardrobe. It makes finding and styling outfits easier without extra apps. via TechCrunch AI\"\n\nNow count characters including spaces and punctuation.\n\nLet's count:\n\n\"Google Photos rolled out its Clueless‑inspired AI virtual closet to both Android and iOS, turning your photos into a browsable wardrobe. It makes finding and styling outfits easier without extra apps. via TechCrunch AI\"\n\nCount manually.\n\nI'll count characters:\n\nGoogle(6) + space=1 =>7\nPhotos(6)=>13\nspace=>14\nrolled(6)=>20\nspace=>21\nout(3)=>24\nspace=>25\nits(3)=>28\nspace=>29\nClueless‑inspired (note there is",
-    "articleUrl": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
+    "tweetText": "Some Supabase customers are accidentally leaking massive amounts of user data online. This shows how quickly AI-generated apps can create serious security risks if not properly configured. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 24 Sep 2026 17:00:00 +0000"
+    "publishedAt": "Fri, 25 Sep 2026 17:29:46 +0000"
   },
   {
-    "tweetText": "We need to produce a tweet style summary, max 240 characters, plain English, two short sentences: first what happened, second why it matters. End with \"via TechCrunch AI\". No hashtags or links. Must be copy-paste ready.\n\nWe need to ensure total characters <= 240. Count characters including spaces and punctuation.\n\nLet's craft: \"ElevenLabs’ CEO said companies should disclose when a voice bot is handling calls, not hide it.\" That's first sentence. Second: \"Being transparent now builds trust and prepares users for AI‑driven service as the norm.\" Then end with \" via TechCrunch AI\". Note there is a space before via? Usually we put a space. Let's count.\n\nSentence1: \"ElevenLabs’ CEO said companies should disclose when a voice bot is handling calls, not hide it.\"\n\nLet's count characters: We'll count manually.\n\n\"ElevenLabs’ CEO said companies should disclose when a voice bot is handling calls, not hide it.\"\n\nCount each character including spaces and punctuation.\n\nI'll write it out and count.\n\nString: \nE l e v e n L a b s ’ (that's apostrophe? Actually it’s a special curly apostrophe ’ counts as one char) then space, C E O, space, s a i d",
-    "articleUrl": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
+    "tweetText": "The user wants a summary in the style of an X tweet, max 240 characters, plain English, two short sentences: first what happened, second why it matters. End with \"via TechCrunch AI\". No hashtags or links. Copy-paste ready.\n\nTitle: \"Astra and Opus just passed Turing’s other test\"\nSummary: \"Frontier AI models are finishing Alan Turing's World War II codebreaking work.\"\n\nWe need to write two short sentences. First: what happened. Second: why it matters. End with \"via TechCrunch AI\". No hashtags, no links.\n\nWe need to keep under 240 characters. Let's craft.\n\nPossible tweet: \"Astra and Opus cracked Turing's unfinished WWII codebreaking challenge. This shows AI can solve historic puzzles humans couldn't, advancing reasoning capabilities. via TechCrunch AI\"\n\nCount characters: Let's count.\n\n\"Astra and Opus cracked Turing's unfinished WWII codebreaking challenge. This shows AI can solve historic puzzles humans couldn't, advancing reasoning capabilities. via TechCrunch AI\"\n\nCount characters including spaces.\n\nLet's count manually.\n\n\"Astra and Opus cracked Turing's unfinished WWII codebreaking challenge.\" That's first sentence.\n\nCount: \"Astra\" (5) + space (1) =6; \"and\" (3) =>9; space=1",
+    "articleUrl": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 24 Sep 2026 16:35:13 +0000"
+    "publishedAt": "Fri, 25 Sep 2026 17:24:36 +0000"
+  },
+  {
+    "tweetText": "Meta is putting its muscle behind Muse as the AI app takes off — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Fri, 25 Sep 2026 16:16:52 +0000"
+  },
+  {
+    "tweetText": "We need to summarize article: Meta’s AI Tamagotchi bet is…working? The summary says: AI leaders at OpenAI and Anthropic talking about \"pacing the frontier\", now it's model drop week: Anthropic Opus 5.5, then OpenAI GPT-6 updates 90 min later. But Meta's personal AI agent Muse is reportedly outpacing ChatGPT's early numbers and is headed for smart glasses and ... So we need two short sentences: first what happened, second why it matters. End with via TechCrunch AI. No hashtags or links. Max 240 characters. Plain English. Copy-paste ready.\n\nLet's craft: \"Meta’s personal AI agent Muse is beating early ChatGPT usage and moving toward smart‑glass integration while rivals released new models.\" That's first sentence? Actually first sentence: what happened. Second: why it matters. Let's do:\n\nSentence 1: \"Meta’s AI agent Muse is reportedly surpassing early ChatGPT adoption and is being prepared for smart‑glass deployment.\" Sentence 2: \"This shows Meta’s consumer‑focused AI could outpace rivals even as OpenAI and Anthropic rush new model releases.\" Then end with \"via TechCrunch AI\". Count characters.\n\nLet's count: \nSentence1: \"Meta’s AI agent",
+    "articleUrl": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Fri, 25 Sep 2026 16:00:00 +0000"
   }
 ]
