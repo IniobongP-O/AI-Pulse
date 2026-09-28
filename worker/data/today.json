@@ -1,44 +1,72 @@
 [
   {
-    "tweetText": "Google is testing a feature that lets users buy products from Flipkart using Gemini AI in India. This makes shopping faster and more seamless through conversational AI. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+    "tweetText": "The user wants a summary in the style of an X tweet, max 240 characters, plain English, two short sentences: first what happened, second why it matters. End with \"via TechCrunch AI\". No hashtags or links. Copy-paste ready.\n\nWe have title and summary: \"Anthropic’s CEO is about to have dinner with President Trump\" and \"This will be the first one-on-one meeting between Dario Amodei and Donald Trump\". Need to condense.\n\nFirst sentence: what happened: \"Anthropic CEO Dario Amodei will dine with President Trump.\" Second: why it matters: \"It's their first one-on-one meeting, signaling AI policy engagement.\" Then \"via TechCrunch AI\". Count characters.\n\nLet's draft: \"Anthropic CEO Dario Amodei will dine with President Trump. It's their first one-on-one meeting, signaling AI policy engagement. via TechCrunch AI\"\n\nCount characters: Let's count.\n\n\"Anthropic CEO Dario Amodei will dine with President Trump.\" = count: \"Anthropic\" (9) + space (1) =10, \"CEO\" (3) =13, space=14, \"Dario\" (5)=19, space=20, \"Amodei\" (6)=26,",
+    "articleUrl": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sun, 27 Sep 2026 01:30:00 +0000"
+    "publishedAt": "Sun, 27 Sep 2026 20:34:28 +0000"
   },
   {
-    "tweetText": "Insurers claim AI is already increasing healthcare costs. Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period. Via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+    "tweetText": "User Safety: safe",
+    "articleUrl": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sat, 26 Sep 2026 21:02:06 +0000"
+    "publishedAt": "Sun, 27 Sep 2026 19:57:30 +0000"
   },
   {
-    "tweetText": "A writer created an interactive digital avatar of himself. It raises ethical questions about AI clones. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+    "tweetText": "Anthropic’s Dario Amodei gets the SNL treatment — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sat, 26 Sep 2026 14:00:00 +0000"
+    "publishedAt": "Sun, 27 Sep 2026 16:30:00 +0000"
   },
   {
-    "tweetText": "Meta is launching an AI device and mascot that look like kids' toys despite being for adults. This design could trick children into using tools not meant for them. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/meta-muse-is-adults-only-why-does-it-look-like-a-cute-kids-toy/",
+    "tweetText": "AI Agents Are About to Flood the Workforce. No One’s Ready for It — a significant development in AI that warrants attention. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it/",
     "sourceName": "WIRED AI",
     "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Sat, 26 Sep 2026 10:30:00 +0000"
+    "publishedAt": "Mon, 28 Sep 2026 10:00:00 +0000"
   },
   {
-    "tweetText": "OpenAI pauses training of its ‘most capable models’ — a significant development in AI that warrants attention. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-09-26T16:34:59.000Z"
+    "tweetText": "Solving Math’s Greatest Problems Was an Art Form. Then Came AI — a significant development in AI that warrants attention. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/solving-maths-greatest-problems-was-an-art-form-until-ai/",
+    "sourceName": "WIRED AI",
+    "sourceHomeUrl": "https://wired.com/tag/ai/",
+    "publishedAt": "Mon, 28 Sep 2026 09:30:00 +0000"
   },
   {
-    "tweetText": "User Safety",
-    "articleUrl": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
+    "tweetText": "The Next Evolution of AI Is Learning From Your Dodgy Gaming Skills — a significant development in AI that warrants attention. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/the-next-evolution-of-ai-is-learning-from-your-dodgy-gaming-skills/",
+    "sourceName": "WIRED AI",
+    "sourceHomeUrl": "https://wired.com/tag/ai/",
+    "publishedAt": "Mon, 28 Sep 2026 09:00:00 +0000"
+  },
+  {
+    "tweetText": "Nvidia’s Answer to Rogue Agents Is an Open-Source AI Security System — a significant development in AI that warrants attention. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/nvidias-answer-to-rogue-agents-is-an-open-source-ai-security-system/",
+    "sourceName": "WIRED AI",
+    "sourceHomeUrl": "https://wired.com/tag/ai/",
+    "publishedAt": "Mon, 28 Sep 2026 09:00:00 +0000"
+  },
+  {
+    "tweetText": "Here's a thinking process:\n\n1.  **Analyze Requirements:**\n   - Summarize AI news article in style of X tweet\n   - Max 240 characters\n   - Plain English\n   - Two short sentences: first what happened, second why it matters\n   - End with \"via The Verge AI\"\n   - No hashtags or links\n   - Copy-paste ready\n\n2.  **Analyze the Source Text:**\n   - Title: \"Engram is a sampler that turns broken AI hallucinations into music\"\n   - Summary: Thoughtful Things launched Kickstarter for Engram, a sampler/groovebox using AI to mangle audio/hallucinate new sounds. Not Suno-in-a-box, not push-button song creation. Experimental, uncanny sounds. Runs tiny AI locally, custom-trained model. Not connected to internet.\n   - Key points: Engram is a new AI hardware sampler that creates experimental music from audio hallucinations, runs locally, not for mainstream radio, Kickstarter launched.\n\n3.  **Draft - Attempt 1:**\n   Engram is a new AI sampler that turns audio into experimental, hallucinated music sounds, running totally offline with a custom tiny model. It matters because it shifts AI audio from generating songs to bending noise into uncanny, creative tools. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
     "sourceName": "The Verge AI",
     "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-09-26T14:00:00.000Z"
+    "publishedAt": "2026-09-27T20:46:36.000Z"
+  },
+  {
+    "tweetText": "OpenAI agents tried to ‘bruteforce’ a UN website — a significant development in AI that warrants attention. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+    "sourceName": "The Verge AI",
+    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
+    "publishedAt": "2026-09-27T17:21:07.000Z"
+  },
+  {
+    "tweetText": "User Safety: safe",
+    "articleUrl": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
+    "sourceName": "MIT Technology Review",
+    "sourceHomeUrl": "https://www.technologyreview.com/topic/artificial-intelligence/",
+    "publishedAt": "Mon, 28 Sep 2026 08:06:22 +0000"
   }
 ]
