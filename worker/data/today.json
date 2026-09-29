@@ -1,72 +1,72 @@
 [
   {
-    "tweetText": "The user wants a summary in the style of an X tweet, max 240 characters, plain English, two short sentences: first what happened, second why it matters. End with \"via TechCrunch AI\". No hashtags or links. Copy-paste ready.\n\nWe have title and summary: \"Anthropic’s CEO is about to have dinner with President Trump\" and \"This will be the first one-on-one meeting between Dario Amodei and Donald Trump\". Need to condense.\n\nFirst sentence: what happened: \"Anthropic CEO Dario Amodei will dine with President Trump.\" Second: why it matters: \"It's their first one-on-one meeting, signaling AI policy engagement.\" Then \"via TechCrunch AI\". Count characters.\n\nLet's draft: \"Anthropic CEO Dario Amodei will dine with President Trump. It's their first one-on-one meeting, signaling AI policy engagement. via TechCrunch AI\"\n\nCount characters: Let's count.\n\n\"Anthropic CEO Dario Amodei will dine with President Trump.\" = count: \"Anthropic\" (9) + space (1) =10, \"CEO\" (3) =13, space=14, \"Dario\" (5)=19, space=20, \"Amodei\" (6)=26,",
-    "articleUrl": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+    "tweetText": "How we will do better for Australia — a significant development in AI that warrants attention. via OpenAI News",
+    "articleUrl": "https://openai.com/index/how-we-will-do-better-for-australia",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Mon, 28 Sep 2026 19:00:00 GMT"
+  },
+  {
+    "tweetText": "Towards safety cases for frontier AI training — a significant development in AI that warrants attention. via OpenAI News",
+    "articleUrl": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Mon, 28 Sep 2026 19:00:00 GMT"
+  },
+  {
+    "tweetText": "We need to output two short sentences, plain English, max 240 characters total. First sentence: what happened. Second: why it matters. End with \"via TechCrunch AI\". No hashtags or links. Must be copy-paste ready. Let's craft: \"Anthropic’s prospectus reveals it is losing tens of billions annually while its AI business is rapidly expanding.\" That's first sentence. Second: \"It also warns that its own models could pose an existential threat to humanity.\" Then end with \"via TechCrunch AI\". Count characters.\n\nLet's count: \"Anthropic’s prospectus reveals it is losing tens of billions annually while its AI business is rapidly expanding.\" Count characters including spaces.\n\nI'll count: \nA(1)n2t3h4r5o6p7i8c9’10s11 (space12)p13r14o15s16p17e18c19t20u21s22 (space23)r24e25v26e27a28l29s30 (space31)i32t33 (space34)i35s36 (space37)l38o39s40i41n4",
+    "articleUrl": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sun, 27 Sep 2026 20:34:28 +0000"
+    "publishedAt": "Tue, 29 Sep 2026 05:13:43 +0000"
+  },
+  {
+    "tweetText": "OpenAI reportedly ditches model over safety concerns — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 28 Sep 2026 23:39:20 +0000"
+  },
+  {
+    "tweetText": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 28 Sep 2026 21:29:18 +0000"
+  },
+  {
+    "tweetText": "Shopify now lets browser‑based AI agents handle checkout with user permission. This opens e‑commerce to autonomous assistants, speeding purchases and expanding AI’s role in shopping. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 28 Sep 2026 19:33:57 +0000"
+  },
+  {
+    "tweetText": "We need to produce two short sentences, first what happened, second why it matters. End with \"via TechCrunch AI\". Max 240 characters. No hashtags or links. Plain English. Copy-paste ready.\n\nWe need to summarize the article: AI boom took over Climate Week, not everyone happy. So first sentence: AI dominated discussions at Climate Week, sparking excitement and concern. Second sentence: It matters because the surge highlights tensions between tech growth and climate goals among founders and investors. Then end with via TechCrunch AI.\n\nWe must keep within 240 characters. Let's craft: \"AI took center stage at Climate Week, drawing both enthusiasm and pushback from attendees. The trend matters as it reveals growing splits between tech optimism and climate priorities among founders and investors. via TechCrunch AI\"\n\nNow count characters.\n\nLet's count: \n\"AI took center stage at Climate Week, drawing both enthusiasm and pushback from attendees. The trend matters as it reveals growing splits between tech optimism and climate priorities among founders and investors. via TechCrunch AI\"\n\nCount characters including spaces and punctuation.\n\nI'll count manually.\n\nFirst sentence: \"AI took center stage at Climate Week, drawing both enthusiasm and pushback from attendees.\"\n\nLet's count:\nA(1)I2(space3) t4o5o6k7(space",
+    "articleUrl": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 28 Sep 2026 19:21:59 +0000"
+  },
+  {
+    "tweetText": "Nvidia launches new platform for reining in rogue AI agents — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 28 Sep 2026 18:31:23 +0000"
+  },
+  {
+    "tweetText": "The user wants a summary in the style of an X tweet, max 240 characters, plain English, two short sentences: first what happened, second why it matters. End with \"via TechCrunch AI\". No hashtags or links. Copy-paste ready.\n\nWe need to summarize: Anthropic releases Sonnet 5.5, significantly cheaper, faster work partner. Faster response times, less token burn.\n\nFirst sentence: Anthropic launched Sonnet 5.5, a cheaper and faster mid-range AI model. Second: It cuts costs and speeds up workflows for developers and businesses. End with via TechCrunch AI.\n\nCount characters: Let's count.\n\n\"Anthropic launched Sonnet 5.5, a cheaper and faster mid-range AI model. It cuts costs and speeds up workflows for developers and businesses. via TechCrunch AI\"\n\nCount characters including spaces.\n\nLet's count manually:\n\n\"Anthropic launched Sonnet 5.5, a cheaper and faster mid-range AI model.\" \nCount: \nA n t h r o p i c (9) + space (1) =10\nlaunched (8) + space =9 =>19\nSonnet (6) + space =7 =>26\n5.5, (4) + space =5 =>31\na (",
+    "articleUrl": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 28 Sep 2026 18:00:00 +0000"
   },
   {
     "tweetText": "User Safety: safe",
-    "articleUrl": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+    "articleUrl": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sun, 27 Sep 2026 19:57:30 +0000"
-  },
-  {
-    "tweetText": "Anthropic’s Dario Amodei gets the SNL treatment — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sun, 27 Sep 2026 16:30:00 +0000"
-  },
-  {
-    "tweetText": "AI Agents Are About to Flood the Workforce. No One’s Ready for It — a significant development in AI that warrants attention. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it/",
-    "sourceName": "WIRED AI",
-    "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Mon, 28 Sep 2026 10:00:00 +0000"
-  },
-  {
-    "tweetText": "Solving Math’s Greatest Problems Was an Art Form. Then Came AI — a significant development in AI that warrants attention. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/solving-maths-greatest-problems-was-an-art-form-until-ai/",
-    "sourceName": "WIRED AI",
-    "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Mon, 28 Sep 2026 09:30:00 +0000"
-  },
-  {
-    "tweetText": "The Next Evolution of AI Is Learning From Your Dodgy Gaming Skills — a significant development in AI that warrants attention. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/the-next-evolution-of-ai-is-learning-from-your-dodgy-gaming-skills/",
-    "sourceName": "WIRED AI",
-    "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Mon, 28 Sep 2026 09:00:00 +0000"
-  },
-  {
-    "tweetText": "Nvidia’s Answer to Rogue Agents Is an Open-Source AI Security System — a significant development in AI that warrants attention. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/nvidias-answer-to-rogue-agents-is-an-open-source-ai-security-system/",
-    "sourceName": "WIRED AI",
-    "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Mon, 28 Sep 2026 09:00:00 +0000"
-  },
-  {
-    "tweetText": "Here's a thinking process:\n\n1.  **Analyze Requirements:**\n   - Summarize AI news article in style of X tweet\n   - Max 240 characters\n   - Plain English\n   - Two short sentences: first what happened, second why it matters\n   - End with \"via The Verge AI\"\n   - No hashtags or links\n   - Copy-paste ready\n\n2.  **Analyze the Source Text:**\n   - Title: \"Engram is a sampler that turns broken AI hallucinations into music\"\n   - Summary: Thoughtful Things launched Kickstarter for Engram, a sampler/groovebox using AI to mangle audio/hallucinate new sounds. Not Suno-in-a-box, not push-button song creation. Experimental, uncanny sounds. Runs tiny AI locally, custom-trained model. Not connected to internet.\n   - Key points: Engram is a new AI hardware sampler that creates experimental music from audio hallucinations, runs locally, not for mainstream radio, Kickstarter launched.\n\n3.  **Draft - Attempt 1:**\n   Engram is a new AI sampler that turns audio into experimental, hallucinated music sounds, running totally offline with a custom tiny model. It matters because it shifts AI audio from generating songs to bending noise into uncanny, creative tools. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-09-27T20:46:36.000Z"
-  },
-  {
-    "tweetText": "OpenAI agents tried to ‘bruteforce’ a UN website — a significant development in AI that warrants attention. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-09-27T17:21:07.000Z"
-  },
-  {
-    "tweetText": "User Safety: safe",
-    "articleUrl": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
-    "sourceName": "MIT Technology Review",
-    "sourceHomeUrl": "https://www.technologyreview.com/topic/artificial-intelligence/",
-    "publishedAt": "Mon, 28 Sep 2026 08:06:22 +0000"
+    "publishedAt": "Mon, 28 Sep 2026 17:29:50 +0000"
   }
 ]
