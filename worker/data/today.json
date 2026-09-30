@@ -1,72 +1,72 @@
 [
   {
-    "tweetText": "How we will do better for Australia — a significant development in AI that warrants attention. via OpenAI News",
-    "articleUrl": "https://openai.com/index/how-we-will-do-better-for-australia",
-    "sourceName": "OpenAI News",
-    "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Mon, 28 Sep 2026 19:00:00 GMT"
+    "tweetText": "How Diffusion Controller unifies and simplifies AI image generation — a significant development in AI that warrants attention. via Google Research Blog",
+    "articleUrl": "https://research.google/blog/how-diffusion-controller-unifies-and-simplifies-ai-image-generation/",
+    "sourceName": "Google Research Blog",
+    "sourceHomeUrl": "https://research.google/blog/",
+    "publishedAt": "Tue, 29 Sep 2026 18:38:27 +0000"
   },
   {
-    "tweetText": "Towards safety cases for frontier AI training — a significant development in AI that warrants attention. via OpenAI News",
-    "articleUrl": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-    "sourceName": "OpenAI News",
-    "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Mon, 28 Sep 2026 19:00:00 GMT"
-  },
-  {
-    "tweetText": "We need to output two short sentences, plain English, max 240 characters total. First sentence: what happened. Second: why it matters. End with \"via TechCrunch AI\". No hashtags or links. Must be copy-paste ready. Let's craft: \"Anthropic’s prospectus reveals it is losing tens of billions annually while its AI business is rapidly expanding.\" That's first sentence. Second: \"It also warns that its own models could pose an existential threat to humanity.\" Then end with \"via TechCrunch AI\". Count characters.\n\nLet's count: \"Anthropic’s prospectus reveals it is losing tens of billions annually while its AI business is rapidly expanding.\" Count characters including spaces.\n\nI'll count: \nA(1)n2t3h4r5o6p7i8c9’10s11 (space12)p13r14o15s16p17e18c19t20u21s22 (space23)r24e25v26e27a28l29s30 (space31)i32t33 (space34)i35s36 (space37)l38o39s40i41n4",
-    "articleUrl": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+    "tweetText": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 29 Sep 2026 05:13:43 +0000"
+    "publishedAt": "Tue, 29 Sep 2026 22:20:59 +0000"
   },
   {
-    "tweetText": "OpenAI reportedly ditches model over safety concerns — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+    "tweetText": "OpenAI is building new features to turn ChatGPT into a hub for discovering and using software. This move could challenge the dominance of traditional app stores. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 28 Sep 2026 23:39:20 +0000"
+    "publishedAt": "Tue, 29 Sep 2026 20:15:47 +0000"
   },
   {
-    "tweetText": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
+    "tweetText": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 28 Sep 2026 21:29:18 +0000"
+    "publishedAt": "Tue, 29 Sep 2026 19:52:37 +0000"
   },
   {
-    "tweetText": "Shopify now lets browser‑based AI agents handle checkout with user permission. This opens e‑commerce to autonomous assistants, speeding purchases and expanding AI’s role in shopping. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
+    "tweetText": "OpenAI is privately working with Nvidia on AI agent safety but isn't publicly supporting the effort. This suggests a cautious approach to industry standards and public commitments. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 28 Sep 2026 19:33:57 +0000"
+    "publishedAt": "Tue, 29 Sep 2026 18:35:00 +0000"
   },
   {
-    "tweetText": "We need to produce two short sentences, first what happened, second why it matters. End with \"via TechCrunch AI\". Max 240 characters. No hashtags or links. Plain English. Copy-paste ready.\n\nWe need to summarize the article: AI boom took over Climate Week, not everyone happy. So first sentence: AI dominated discussions at Climate Week, sparking excitement and concern. Second sentence: It matters because the surge highlights tensions between tech growth and climate goals among founders and investors. Then end with via TechCrunch AI.\n\nWe must keep within 240 characters. Let's craft: \"AI took center stage at Climate Week, drawing both enthusiasm and pushback from attendees. The trend matters as it reveals growing splits between tech optimism and climate priorities among founders and investors. via TechCrunch AI\"\n\nNow count characters.\n\nLet's count: \n\"AI took center stage at Climate Week, drawing both enthusiasm and pushback from attendees. The trend matters as it reveals growing splits between tech optimism and climate priorities among founders and investors. via TechCrunch AI\"\n\nCount characters including spaces and punctuation.\n\nI'll count manually.\n\nFirst sentence: \"AI took center stage at Climate Week, drawing both enthusiasm and pushback from attendees.\"\n\nLet's count:\nA(1)I2(space3) t4o5o6k7(space",
-    "articleUrl": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/",
+    "tweetText": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 28 Sep 2026 19:21:59 +0000"
+    "publishedAt": "Tue, 29 Sep 2026 17:45:51 +0000"
   },
   {
-    "tweetText": "Nvidia launches new platform for reining in rogue AI agents — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
+    "tweetText": "Wabi is shifting from an app builder to a personal AI agent that creates custom interfaces through chat. This allows users to build and use tools instantly through simple conversation. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 28 Sep 2026 18:31:23 +0000"
+    "publishedAt": "Tue, 29 Sep 2026 17:20:00 +0000"
   },
   {
-    "tweetText": "The user wants a summary in the style of an X tweet, max 240 characters, plain English, two short sentences: first what happened, second why it matters. End with \"via TechCrunch AI\". No hashtags or links. Copy-paste ready.\n\nWe need to summarize: Anthropic releases Sonnet 5.5, significantly cheaper, faster work partner. Faster response times, less token burn.\n\nFirst sentence: Anthropic launched Sonnet 5.5, a cheaper and faster mid-range AI model. Second: It cuts costs and speeds up workflows for developers and businesses. End with via TechCrunch AI.\n\nCount characters: Let's count.\n\n\"Anthropic launched Sonnet 5.5, a cheaper and faster mid-range AI model. It cuts costs and speeds up workflows for developers and businesses. via TechCrunch AI\"\n\nCount characters including spaces.\n\nLet's count manually:\n\n\"Anthropic launched Sonnet 5.5, a cheaper and faster mid-range AI model.\" \nCount: \nA n t h r o p i c (9) + space (1) =10\nlaunched (8) + space =9 =>19\nSonnet (6) + space =7 =>26\n5.5, (4) + space =5 =>31\na (",
-    "articleUrl": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
+    "tweetText": "We need to produce two short sentences: first what happened, second why it matters. Max 240 characters. Plain English, no hashtags, no links. End with \"via TechCrunch AI\". Must be copy-paste ready. Let's craft: \"OpenAI introduced Dots, a bubbly, hardware‑agnostic AI agent that works in the background to pursue user‑defined goals with little oversight. It matters because it shows how autonomous agents could become everyday helpers, running continuously across devices.\" Then add \"via TechCrunch AI\". Ensure total characters <240.\n\nCount characters.\n\nSentence1: \"OpenAI introduced Dots, a bubbly, hardware‑agnostic AI agent that works in the background to pursue user‑defined goals with little oversight.\"\n\nLet's count: \nOpenAI (6) + space=7\nintroduced (9) =>16\nspace=17\nDots, (5 inc comma) =>22\nspace=23\na (1)=>24\nspace=25\nbubbly, (7 inc comma)=>32\nspace=33\nhardware‑agnostic (note hyphen and maybe special char; count as hardware‑agnostic: let's count characters: h(1) a2 r3 d4 w5 a6 r7 e8",
+    "articleUrl": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 28 Sep 2026 18:00:00 +0000"
+    "publishedAt": "Tue, 29 Sep 2026 17:17:15 +0000"
   },
   {
-    "tweetText": "User Safety: safe",
-    "articleUrl": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
+    "tweetText": "OpenAI gives Codex reusable cloud environments that work across devices — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 28 Sep 2026 17:29:50 +0000"
+    "publishedAt": "Tue, 29 Sep 2026 17:15:00 +0000"
+  },
+  {
+    "tweetText": "OpenAI expands ChatGPT’s plug-ins with app-like interfaces and automations — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Tue, 29 Sep 2026 17:15:00 +0000"
   }
 ]
