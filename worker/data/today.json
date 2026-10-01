@@ -1,72 +1,72 @@
 [
   {
-    "tweetText": "How Diffusion Controller unifies and simplifies AI image generation — a significant development in AI that warrants attention. via Google Research Blog",
-    "articleUrl": "https://research.google/blog/how-diffusion-controller-unifies-and-simplifies-ai-image-generation/",
-    "sourceName": "Google Research Blog",
-    "sourceHomeUrl": "https://research.google/blog/",
-    "publishedAt": "Tue, 29 Sep 2026 18:38:27 +0000"
-  },
-  {
-    "tweetText": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+    "tweetText": "Google launched Gemini 4 Argon, its most powerful model yet, designed for coding and cybersecurity tasks. This upgrade aims to boost efficiency in tech-driven industries. via TechCrunch AI.",
+    "articleUrl": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 29 Sep 2026 22:20:59 +0000"
+    "publishedAt": "Wed, 30 Sep 2026 23:43:07 +0000"
   },
   {
-    "tweetText": "OpenAI is building new features to turn ChatGPT into a hub for discovering and using software. This move could challenge the dominance of traditional app stores. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+    "tweetText": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 29 Sep 2026 20:15:47 +0000"
+    "publishedAt": "Wed, 30 Sep 2026 21:07:40 +0000"
   },
   {
-    "tweetText": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+    "tweetText": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 29 Sep 2026 19:52:37 +0000"
+    "publishedAt": "Wed, 30 Sep 2026 19:00:57 +0000"
   },
   {
-    "tweetText": "OpenAI is privately working with Nvidia on AI agent safety but isn't publicly supporting the effort. This suggests a cautious approach to industry standards and public commitments. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+    "tweetText": "ElevenLabs has doubled its valuation to $22 billion following a new funding round. This massive jump shows how much investors believe in the future of AI voice technology. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 29 Sep 2026 18:35:00 +0000"
+    "publishedAt": "Wed, 30 Sep 2026 18:23:57 +0000"
   },
   {
-    "tweetText": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+    "tweetText": "Reddit is killing RSS feeds and ending public API access because of AI bots — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 29 Sep 2026 17:45:51 +0000"
+    "publishedAt": "Wed, 30 Sep 2026 17:45:00 +0000"
   },
   {
-    "tweetText": "Wabi is shifting from an app builder to a personal AI agent that creates custom interfaces through chat. This allows users to build and use tools instantly through simple conversation. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
+    "tweetText": "The ugly economics of consumer AI — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 29 Sep 2026 17:20:00 +0000"
+    "publishedAt": "Wed, 30 Sep 2026 17:24:45 +0000"
   },
   {
-    "tweetText": "We need to produce two short sentences: first what happened, second why it matters. Max 240 characters. Plain English, no hashtags, no links. End with \"via TechCrunch AI\". Must be copy-paste ready. Let's craft: \"OpenAI introduced Dots, a bubbly, hardware‑agnostic AI agent that works in the background to pursue user‑defined goals with little oversight. It matters because it shows how autonomous agents could become everyday helpers, running continuously across devices.\" Then add \"via TechCrunch AI\". Ensure total characters <240.\n\nCount characters.\n\nSentence1: \"OpenAI introduced Dots, a bubbly, hardware‑agnostic AI agent that works in the background to pursue user‑defined goals with little oversight.\"\n\nLet's count: \nOpenAI (6) + space=7\nintroduced (9) =>16\nspace=17\nDots, (5 inc comma) =>22\nspace=23\na (1)=>24\nspace=25\nbubbly, (7 inc comma)=>32\nspace=33\nhardware‑agnostic (note hyphen and maybe special char; count as hardware‑agnostic: let's count characters: h(1) a2 r3 d4 w5 a6 r7 e8",
-    "articleUrl": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+    "tweetText": "Meta denies claims that its Muse AI read a user's private messages without permission. This highlights ongoing concerns over AI privacy and data access. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 29 Sep 2026 17:17:15 +0000"
+    "publishedAt": "Wed, 30 Sep 2026 16:24:23 +0000"
   },
   {
-    "tweetText": "OpenAI gives Codex reusable cloud environments that work across devices — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
+    "tweetText": "Here's a thinking process:\n\n1.  **Analyze Requirements:**\n   - **Source text:** Title: \"DoorDash launches an AI agent you can text to order food\", Summary: \"By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub.\"\n   - **Output format:** X tweet style (max 240 characters)\n   - **Structure:** Two short sentences\n     - Sentence 1: What happened\n     - Sentence 2: Why it matters\n   - **Constraints:** \n     - Plain English\n     - No hashtags\n     - No links\n     - End with \"via TechCrunch AI\"\n     - Copy-paste ready\n   - **Character limit:** 240 max (but will likely be much lower)\n\n2.  **Extract Key Info:**\n   - What happened: Door launched an AI agent you can text to order food\n   - Why it matters: To gain an edge over rivals Uber Eats and Grubhub\n\n3.  **Draft - Sentence 1 (What happened):**\n   DoorDash just launched an AI agent you can text to order food.\n   → Better: DoorDash unveiled an AI agent you can text to place food orders.\n   → Or: DoorDash introduced an AI agent you can text to",
+    "articleUrl": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 29 Sep 2026 17:15:00 +0000"
+    "publishedAt": "Wed, 30 Sep 2026 16:00:24 +0000"
   },
   {
-    "tweetText": "OpenAI expands ChatGPT’s plug-ins with app-like interfaces and automations — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
+    "tweetText": "Destro AI’s secret sauce is getting robots and humans on the same page — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 29 Sep 2026 17:15:00 +0000"
+    "publishedAt": "Wed, 30 Sep 2026 16:00:00 +0000"
+  },
+  {
+    "tweetText": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026 — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Wed, 30 Sep 2026 14:30:00 +0000"
   }
 ]
