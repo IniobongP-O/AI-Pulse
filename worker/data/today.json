@@ -1,72 +1,51 @@
 [
   {
-    "tweetText": "Here's a thinking process:\n\n1.  **Analyze Requirements:**\n   - Format: X tweet style\n   - Max 240 characters\n   - Plain English\n   - Two short sentences\n   - First sentence: what happened\n   - Second sentence: why it matters\n   - End with: \"via OpenAI News\"\n   - No hashtags or links\n   - Copy-paste ready\n   - Source material: Title \"A model guide for the GPT-6 family\", Summary \"Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.\"\n\n2.  **Deconstruct the Source:**\n   - What happened? A guide for GPT-6 models was released/learned about. Startups can choose models, tune reasoning, improve prompts/skills, coordinate tools, and prepare workflows for production.\n   - Why it matters? Helps startups effectively adopt and utilize GPT-6, optimizing prompts, reasoning, tool use, and production readiness, making advanced AI more accessible and practical for business workflows.\n\n3.  **Draft - Sentence 1 (What happened):**\n   A new guide helps startups choose and use GPT-6 models with tuned reasoning, improved prompts, and production-ready workflows.\n   (Check character",
-    "articleUrl": "https://openai.com/index/practical-guide-building-gpt-6",
-    "sourceName": "OpenAI News",
-    "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Fri, 02 Oct 2026 16:15:00 GMT"
-  },
-  {
-    "tweetText": "Sean Parker is rebuilding Stability AI around music — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+    "tweetText": "An OpenAI safety employee resigned, claiming the company's culture is broken. This raises serious concerns about how leading AI firms prioritize safety over growth. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 02 Oct 2026 21:09:14 +0000"
+    "publishedAt": "Sat, 03 Oct 2026 16:30:01 +0000"
   },
   {
-    "tweetText": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+    "tweetText": "All the AI agents that can live in your text messages  — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 02 Oct 2026 18:11:27 +0000"
+    "publishedAt": "Sat, 03 Oct 2026 14:00:00 +0000"
   },
   {
-    "tweetText": "The White House gathered major tech CEOs for an AI safety pledge and rebranded AI as \"super intelligence.\" This matters because companies are pivoting to friendly AI despite only 2% of consumers currently buying it. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 02 Oct 2026 17:56:00 +0000"
+    "tweetText": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike — a significant development in AI that warrants attention. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/",
+    "sourceName": "WIRED AI",
+    "sourceHomeUrl": "https://wired.com/tag/ai/",
+    "publishedAt": "Sat, 03 Oct 2026 18:00:00 +0000"
   },
   {
-    "tweetText": "The user wants a summary in the style of an X tweet, max 240 characters, plain English, two short sentences: first what happened, second why it matters. End with \"via TechCrunch AI\". No hashtags or links. Copy-paste ready.\n\nWe need to condense the article: White House gathered major tech CEOs to sign AI safety pledge, Trump called it morally binding, signed executive order rebranding AI as \"super intelligence\". Meanwhile Meta and OpenAI are putting friendlier faces on AI products.\n\nFirst sentence: What happened: White House convened top tech CEOs to sign an AI safety pledge and Trump rebranded AI as \"super intelligence\" via executive order.\n\nSecond sentence: Why it matters: Signals growing government involvement and rebranding that could shape regulation and public perception of advanced AI.\n\nWe must keep under 240 characters. Count characters.\n\nLet's draft: \"White House gathered top tech CEOs to sign an AI safety pledge and Trump rebranded AI as “super intelligence” via executive order. The move signals deeper government involvement and could steer future AI regulation and public trust. via TechCrunch AI\"\n\nCount characters: Let's count.\n\n\"White House gathered top tech CEOs to sign an AI safety pledge and Trump rebranded AI as “super intelligence” via executive order. The move signals deeper government involvement",
-    "articleUrl": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 02 Oct 2026 17:48:16 +0000"
-  },
-  {
-    "tweetText": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 02 Oct 2026 17:32:05 +0000"
-  },
-  {
-    "tweetText": "Circuit Breaker Labs created \"crash-test dummies\" to find ways AI can cause psychological harm. This helps make AI safer for children and adults. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 02 Oct 2026 17:00:00 +0000"
-  },
-  {
-    "tweetText": "Pope Leo XIV criticized AI-generated art, saying machines can't match human creativity. His concern highlights growing debates over AI's role in culture and creativity. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 02 Oct 2026 15:39:41 +0000"
-  },
-  {
-    "tweetText": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 02 Oct 2026 14:30:00 +0000"
+    "tweetText": "The user wants a summary in the style of an X tweet, max 240 characters, plain English, two short sentences: first what happened, second why it matters. End with \"via WIRED AI\". No hashtags or links. Copy-paste ready.\n\nWe need to summarize the article: \"Muse Creates Detailed Profiles of All Your Friends and Family\". Summary: Millions have downloaded Meta’s AI agent Muse. But getting it to do your bidding comes with privacy costs.\n\nSo what happened: Meta's AI agent Muse has been downloaded by millions and creates detailed profiles of users' friends and family. Why it matters: It raises serious privacy concerns as it collects personal data without clear consent.\n\nWe need two short sentences. Let's craft:\n\n\"Meta's AI agent Muse, downloaded by millions, builds detailed profiles of users' friends and family. This massive data collection threatens privacy and lacks transparent consent. via WIRED AI\"\n\nCount characters: Let's count.\n\n\"Meta's AI agent Muse, downloaded by millions, builds detailed profiles of users' friends and family. This massive data collection threatens privacy and lacks transparent consent. via WIRED AI\"\n\nCount characters including spaces. Let's count manually.\n\n\"Meta's AI agent Muse, downloaded by millions, builds detailed profiles of users' friends and family. This massive data collection threatens privacy and lacks transparent consent. via WIRED AI\"",
+    "articleUrl": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/",
+    "sourceName": "WIRED AI",
+    "sourceHomeUrl": "https://wired.com/tag/ai/",
+    "publishedAt": "Sat, 03 Oct 2026 12:00:00 +0000"
   },
   {
     "tweetText": "User Safety: safe",
-    "articleUrl": "https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open/",
-    "sourceName": "WIRED AI",
-    "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Fri, 02 Oct 2026 16:00:00 +0000"
+    "articleUrl": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+    "sourceName": "The Verge AI",
+    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
+    "publishedAt": "2026-10-03T16:49:10.000Z"
+  },
+  {
+    "tweetText": "User Safety: safe",
+    "articleUrl": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
+    "sourceName": "The Verge AI",
+    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
+    "publishedAt": "2026-10-03T15:00:00.000Z"
+  },
+  {
+    "tweetText": "An OpenAI safety employee resigned and is warning about a broken industry culture. His departure highlights deep concerns that current safety measures are not enough to manage AI risks. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+    "sourceName": "The Verge AI",
+    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
+    "publishedAt": "2026-10-03T14:31:56.000Z"
   }
 ]
