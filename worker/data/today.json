@@ -1,72 +1,72 @@
 [
   {
-    "tweetText": "OpenAI is sharing how it handles text watermarking to meet new EU rules. This helps ensure AI content is identifiable and transparent for researchers. via OpenAI News",
-    "articleUrl": "https://openai.com/index/eu-text-provenance",
+    "tweetText": "Unlocking Earth AI’s planetary geospatial foundation models for global public health — a significant development in AI that warrants attention. via Google Research Blog",
+    "articleUrl": "https://research.google/blog/earth-ais-planetary-geospatial-foundation-models-for-global-public-health/",
+    "sourceName": "Google Research Blog",
+    "sourceHomeUrl": "https://research.google/blog/",
+    "publishedAt": "Tue, 06 Oct 2026 15:05:11 +0000"
+  },
+  {
+    "tweetText": "Jump Trading is using ChatGPT to expand its quantitative research, running longer AI workflows that blend multiple data sources and human review. This speeds up insights and improves accuracy via OpenAI News",
+    "articleUrl": "https://openai.com/index/jump-trading",
     "sourceName": "OpenAI News",
     "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Mon, 05 Oct 2026 15:00:00 GMT"
+    "publishedAt": "Tue, 06 Oct 2026 12:00:00 GMT"
   },
   {
-    "tweetText": "OpenAI will start watermarking ChatGPT’s text in the EU — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 05 Oct 2026 20:36:48 +0000"
+    "tweetText": "OpenAI shared new results and formal proofs for complex math problems on GitHub. This shows that AI is becoming more capable of solving advanced mathematical challenges. via OpenAI News",
+    "articleUrl": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Tue, 06 Oct 2026 12:00:00 GMT"
   },
   {
-    "tweetText": "User Safety: safe",
-    "articleUrl": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 05 Oct 2026 19:33:53 +0000"
-  },
-  {
-    "tweetText": "Instinct adds its AI agent to group chats so friends can plan trips, carpools and events together. Personal accounts stay private and require permission before the AI shares data or acts. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 05 Oct 2026 18:54:30 +0000"
-  },
-  {
-    "tweetText": "TikTok rolls out an AI shopping assistant and one-click checkout — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 05 Oct 2026 18:29:00 +0000"
-  },
-  {
-    "tweetText": "Two sisters launched Hot Girl Hotline, an AI service providing dating and relationship advice for young women. It offers personalized guidance while focusing on user safety and emotional independence. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 05 Oct 2026 17:29:22 +0000"
+    "tweetText": "Atlassian and OpenAI are teaming up to connect advanced AI models with business knowledge to help teams work smarter. This matters because it could make complex work planning and delivery much more efficient. via OpenAI News",
+    "articleUrl": "https://openai.com/index/atlassian-partnership",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Tue, 06 Oct 2026 16:00:00 GMT"
   },
   {
     "tweetText": "User Safety: safe",
-    "articleUrl": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
+    "articleUrl": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 05 Oct 2026 16:43:35 +0000"
+    "publishedAt": "Tue, 06 Oct 2026 20:35:20 +0000"
   },
   {
-    "tweetText": "OpenAI is launching visual ads that appear next to image generation results. This marks a new way for the company to make money from its tools. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
+    "tweetText": "Nvidia-backed startup Lambda is raising up to $4 billion ahead of a planned IPO. This massive investment shows the huge demand for the specialized hardware needed to power AI. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 05 Oct 2026 15:14:24 +0000"
+    "publishedAt": "Tue, 06 Oct 2026 20:00:30 +0000"
   },
   {
-    "tweetText": "Here's a thinking process:\n\n1.  **Analyze the Request:**\n   - **Source material:** Title and summary of an AI news article about founders choosing open vs. closed AI at TechCrunch Disrupt 2026.\n   - **Output format:** X (Twitter) style tweet.\n   - **Constraints:** \n     - Max 240 characters\n     - Plain English\n     - Two short sentences\n     - First sentence: what happened\n     - Second sentence: why it matters\n     - End with: \"via TechCrunch AI\"\n     - No hashtags or links\n     - Copy-paste ready\n\n2.  **Analyze the Source Text:**\n   - Title: \"Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026\"\n   - Summary: \"Learn how founders are choosing between building on open or closed AI at TechCrunch Disrupt 2026. Register now to save up to $100 and get a second pass at 50% off.\"\n   - Key elements: Founders choosing open vs closed AI, TechCrunch Disrupt 2026, decision-making around AI infrastructure/platforms.\n\n3.  **Drafting - Sentence 1 (What happened):**\n   - Founders at TechCrunch",
-    "articleUrl": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
+    "tweetText": "AI agents can now shop, book flights and make reservations, but many sites block them with anti‑bot defenses. A new standard could let agents in and free consumers, via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 05 Oct 2026 15:00:00 +0000"
+    "publishedAt": "Tue, 06 Oct 2026 19:56:50 +0000"
   },
   {
-    "tweetText": "Researchers found an AI agent swarm running on Tencent’s servers that targets Alibaba’s map service, Amap. It matters because it shows cross‑company AI attacks are possible and could threaten competition. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
+    "tweetText": "Hark has released a new AI personal assistant focused on user privacy. It aims to compete with top assistants by acting as a futuristic operating system. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 05 Oct 2026 14:35:09 +0000"
+    "publishedAt": "Tue, 06 Oct 2026 18:22:45 +0000"
+  },
+  {
+    "tweetText": "Mirror Particle is launching at TechCrunch Disrupt’s Startup Battlefield 200 with a world model that predicts human behavior from scratch. It aims to outperform LLM role‑play for market research and brand strategy. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Tue, 06 Oct 2026 16:35:00 +0000"
+  },
+  {
+    "tweetText": "Anthropic is giving startups a free year of Claude Team plus $1,000 in credits. They",
+    "articleUrl": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Tue, 06 Oct 2026 16:00:00 +0000"
   }
 ]
