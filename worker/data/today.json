@@ -1,72 +1,72 @@
 [
   {
-    "tweetText": "Unlocking Earth AI’s planetary geospatial foundation models for global public health — a significant development in AI that warrants attention. via Google Research Blog",
-    "articleUrl": "https://research.google/blog/earth-ais-planetary-geospatial-foundation-models-for-global-public-health/",
-    "sourceName": "Google Research Blog",
-    "sourceHomeUrl": "https://research.google/blog/",
-    "publishedAt": "Tue, 06 Oct 2026 15:05:11 +0000"
-  },
-  {
-    "tweetText": "Jump Trading is using ChatGPT to expand its quantitative research, running longer AI workflows that blend multiple data sources and human review. This speeds up insights and improves accuracy via OpenAI News",
-    "articleUrl": "https://openai.com/index/jump-trading",
+    "tweetText": "Here's a thinking process:\n\n1.  **Analyze the Request:**\n   - **Source material:** Title: \"Helping teens learn, plan, and shape the future of AI\", Summary: \"College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.\"\n   - **Format:** X (Twitter) style tweet\n   - **Length:** Max 240 characters\n   - **Language:** Plain English\n   - **Structure:** Two short sentences: first what happened, second why it matters\n   - **Ending:** \"via OpenAI News\"\n   - **No hashtags or links**\n   - **Copy-paste ready**\n\n2.  **Deconstruct the Summary:**\n   - What happened: College Planner coming to ChatGPT for Teens, plus flashcards, quizzes, and a teen AI council.\n   - Why it matters: Helps teens with college planning, educational tools, involves teens in AI shaping.\n\n3.  **Drafting - Sentence 1 (What happened):**\n   - College Planner launches on ChatGPT for Teens to help with college applications.\n   - New features include flashcards, quizzes, and a teen AI council.\n   - Let's condense: \"ChatGPT",
+    "articleUrl": "https://openai.com/index/teens-learn-and-plan",
     "sourceName": "OpenAI News",
     "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Tue, 06 Oct 2026 12:00:00 GMT"
+    "publishedAt": "Wed, 07 Oct 2026 12:00:00 GMT"
   },
   {
-    "tweetText": "OpenAI shared new results and formal proofs for complex math problems on GitHub. This shows that AI is becoming more capable of solving advanced mathematical challenges. via OpenAI News",
-    "articleUrl": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-    "sourceName": "OpenAI News",
-    "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Tue, 06 Oct 2026 12:00:00 GMT"
-  },
-  {
-    "tweetText": "Atlassian and OpenAI are teaming up to connect advanced AI models with business knowledge to help teams work smarter. This matters because it could make complex work planning and delivery much more efficient. via OpenAI News",
-    "articleUrl": "https://openai.com/index/atlassian-partnership",
-    "sourceName": "OpenAI News",
-    "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Tue, 06 Oct 2026 16:00:00 GMT"
-  },
-  {
-    "tweetText": "User Safety: safe",
-    "articleUrl": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+    "tweetText": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 06 Oct 2026 20:35:20 +0000"
+    "publishedAt": "Wed, 07 Oct 2026 20:48:45 +0000"
   },
   {
-    "tweetText": "Nvidia-backed startup Lambda is raising up to $4 billion ahead of a planned IPO. This massive investment shows the huge demand for the specialized hardware needed to power AI. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+    "tweetText": "Here's a thinking process:\n\n1.  **Analyze Requirements:**\n   - Style: X tweet (Twitter)\n   - Max 240 characters\n   - Plain English\n   - Two short sentences\n   - First sentence: what happened\n   - Second sentence: why it matters\n   - End with: \"via TechCrunch AI\"\n   - No hashtags or links\n   - Copy-paste ready\n   - Input: Title and Summary provided\n\n2.  **Analyze Input:**\n   - Title: \"Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11\"\n   - Summary: \"Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.\"\n\n3.  **Draft - Sentence 1 (What happened):**\n   Microsoft just announced new AI-powered PCs running Nvidia chips, including the Surface Laptop Ultra, unveiled alongside a refreshed Windows 11.\n   Let's count chars: \"Microsoft just announced new AI-powered PCs running Nvidia chips, including the Surface Laptop Ultra, unveiled alongside a refreshed Windows 11.\" \n   chars: 118 (roughly, includes spaces). Good.\n\n4.  **Draft - Sentence 2 (Why it matters):**\n   The move signals",
+    "articleUrl": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 06 Oct 2026 20:00:30 +0000"
+    "publishedAt": "Wed, 07 Oct 2026 20:22:37 +0000"
   },
   {
-    "tweetText": "AI agents can now shop, book flights and make reservations, but many sites block them with anti‑bot defenses. A new standard could let agents in and free consumers, via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+    "tweetText": "Meta’s Muse launches on iPad just a month after its mobile debut — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 06 Oct 2026 19:56:50 +0000"
+    "publishedAt": "Wed, 07 Oct 2026 18:30:57 +0000"
   },
   {
-    "tweetText": "Hark has released a new AI personal assistant focused on user privacy. It aims to compete with top assistants by acting as a futuristic operating system. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
+    "tweetText": "ChatGPT for Teens keeps teens talking, even during mental health crises — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 06 Oct 2026 18:22:45 +0000"
+    "publishedAt": "Wed, 07 Oct 2026 18:15:28 +0000"
   },
   {
-    "tweetText": "Mirror Particle is launching at TechCrunch Disrupt’s Startup Battlefield 200 with a world model that predicts human behavior from scratch. It aims to outperform LLM role‑play for market research and brand strategy. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
+    "tweetText": "OpenAI is launching a new interface that adds interactive visuals to ChatGPT. This makes the AI much easier to use and more engaging for users. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 06 Oct 2026 16:35:00 +0000"
+    "publishedAt": "Wed, 07 Oct 2026 18:00:19 +0000"
   },
   {
-    "tweetText": "Anthropic is giving startups a free year of Claude Team plus $1,000 in credits. They",
-    "articleUrl": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+    "tweetText": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 06 Oct 2026 16:00:00 +0000"
+    "publishedAt": "Wed, 07 Oct 2026 16:53:46 +0000"
+  },
+  {
+    "tweetText": "Here's a thinking process:\n\n1.  **Analyze the Request:**\n   - **Source:** AI news article about Healthleap raising $38M for AI that flags hospital patients\n   - **Format:** X tweet style\n   - **Length:** Max 240 characters\n   - **Language:** Plain English\n   - **Structure:** Two short sentences\n     - First sentence: what happened\n     - Second sentence: why it matters\n   - **Ending:** \"via TechCrunch AI\"\n   - **No hashtags or links**\n   - **Copy-paste ready**\n\n2.  **Extract Key Info from the Prompt:**\n   - **Company:** Healthleap\n   - **Funding:** $38M total ($8M seed + $30M Series A)\n   - **Purpose:** AI that flags hospital patients who may need a closer look\n   - **Sources mentioned:** Sequoia Capital, First Round Capital, Hummingbird Ventures\n   - **Publication:** TechCrunch AI (implied by \"via TechCrunch AI\" at the end)\n\n3.  **Draft - Sentence 1 (What happened):**\n   Healthleap raised $38 million to develop AI that flags hospital patients needing closer monitoring.\n   Let's count characters/words. Need to be concise.",
+    "articleUrl": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Wed, 07 Oct 2026 15:07:08 +0000"
+  },
+  {
+    "tweetText": "Here's a thinking process:\n\n1.  **Analyze the Request:**\n   - **Source:** AI news article title/summary provided\n   - **Task:** Summarize in style of an X (Twitter) tweet\n   - **Constraints:** \n     - Max 240 characters\n     - Plain English\n     - Two short sentences: first what happened, second why it matters\n     - End with \"via TechCrunch AI\"\n     - No hashtags or links\n     - Copy-paste ready\n\n2.  **Analyze the Input:**\n   - Title: \"Tony Fadell on why the first wave of AI gadgets failed — and what comes next\"\n   - Summary: \"The 'father of the iPod' says the first generation of AI gadgets failed to solve real problems — and the next wave will need to earn consumers' trust.\"\n\n3.  **Draft - Sentence 1 (What happened):**\n   - Tony Fadell says the first wave of AI gadgets failed to solve real problems.\n   - Or: The \"father of the iPod\" warns first-gen AI gadgets failed to address real user needs.\n   - Need to be concise.\n\n4.  **Draft - Sentence 2 (Why it matters):**\n   - The next wave must earn consumer trust to succeed.\n   - Or",
+    "articleUrl": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Wed, 07 Oct 2026 14:41:38 +0000"
+  },
+  {
+    "tweetText": "Google experiments with an AI-powered gaming platform — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Wed, 07 Oct 2026 14:36:23 +0000"
   }
 ]
