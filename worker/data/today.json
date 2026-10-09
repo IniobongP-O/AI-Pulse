@@ -1,72 +1,72 @@
 [
   {
-    "tweetText": "Here's a thinking process:\n\n1.  **Analyze the Request:**\n   - **Source material:** Title: \"Helping teens learn, plan, and shape the future of AI\", Summary: \"College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.\"\n   - **Format:** X (Twitter) style tweet\n   - **Length:** Max 240 characters\n   - **Language:** Plain English\n   - **Structure:** Two short sentences: first what happened, second why it matters\n   - **Ending:** \"via OpenAI News\"\n   - **No hashtags or links**\n   - **Copy-paste ready**\n\n2.  **Deconstruct the Summary:**\n   - What happened: College Planner coming to ChatGPT for Teens, plus flashcards, quizzes, and a teen AI council.\n   - Why it matters: Helps teens with college planning, educational tools, involves teens in AI shaping.\n\n3.  **Drafting - Sentence 1 (What happened):**\n   - College Planner launches on ChatGPT for Teens to help with college applications.\n   - New features include flashcards, quizzes, and a teen AI council.\n   - Let's condense: \"ChatGPT",
-    "articleUrl": "https://openai.com/index/teens-learn-and-plan",
+    "tweetText": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak — a significant development in AI that warrants attention. via OpenAI News",
+    "articleUrl": "https://openai.com/index/sophos",
     "sourceName": "OpenAI News",
     "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Wed, 07 Oct 2026 12:00:00 GMT"
+    "publishedAt": "Fri, 09 Oct 2026 07:00:00 GMT"
   },
   {
-    "tweetText": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 07 Oct 2026 20:48:45 +0000"
+    "tweetText": "Here's a thinking process:\n\n1.  **Analyze the Request:**\n   - **Source text:** Title: \"How Oracle turns days of work into minutes with ChatGPT and Codex\", Summary: \"Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.\"\n   - **Output format:** X tweet style (max 240 characters)\n   - **Content requirements:** \n     - Two short sentences\n     - First sentence: what happened\n     - Second sentence: why it matters\n     - End with \"via OpenAI News\"\n     - Plain English\n     - No hashtags or links\n     - Copy-paste ready\n   - **Constraint check:** Max 240 characters total.\n\n2.  **Deconstruct the Source:**\n   - \"Oracle turns days of work into minutes with ChatGPT and Codex\"\n   - Key actions: using ChatGPT Work and Codex\n   - Areas: recruiting, engineering, operations\n   - Result: turns specialist knowledge into fast, repeatable workflows\n   - Core idea: automating/compressing specialist tasks\n\n3.  **Drafting - Sentence 1 (what happened):**\n   - Oracle uses ChatGPT and Codex to turn days of work into minutes across recruiting, engineering, and operations.",
+    "articleUrl": "https://openai.com/index/oracle",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Thu, 08 Oct 2026 16:00:00 GMT"
   },
   {
-    "tweetText": "Here's a thinking process:\n\n1.  **Analyze Requirements:**\n   - Style: X tweet (Twitter)\n   - Max 240 characters\n   - Plain English\n   - Two short sentences\n   - First sentence: what happened\n   - Second sentence: why it matters\n   - End with: \"via TechCrunch AI\"\n   - No hashtags or links\n   - Copy-paste ready\n   - Input: Title and Summary provided\n\n2.  **Analyze Input:**\n   - Title: \"Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11\"\n   - Summary: \"Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.\"\n\n3.  **Draft - Sentence 1 (What happened):**\n   Microsoft just announced new AI-powered PCs running Nvidia chips, including the Surface Laptop Ultra, unveiled alongside a refreshed Windows 11.\n   Let's count chars: \"Microsoft just announced new AI-powered PCs running Nvidia chips, including the Surface Laptop Ultra, unveiled alongside a refreshed Windows 11.\" \n   chars: 118 (roughly, includes spaces). Good.\n\n4.  **Draft - Sentence 2 (Why it matters):**\n   The move signals",
-    "articleUrl": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 07 Oct 2026 20:22:37 +0000"
+    "tweetText": "Pollo AI turns creative ideas into campaigns with OpenAI — a significant development in AI that warrants attention. via OpenAI News",
+    "articleUrl": "https://openai.com/index/pollo-ai",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Thu, 08 Oct 2026 12:00:00 GMT"
   },
   {
-    "tweetText": "Meta’s Muse launches on iPad just a month after its mobile debut — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
+    "tweetText": "The user wants a summary in the style of an X tweet, max 240 characters, plain English, two short sentences: first what happened, second why it matters. End with \"via TechCrunch AI\". No hashtags or links. Copy-paste ready.\n\nWe have title and summary. Need to condense.\n\nFirst sentence: what happened: Three OpenAI safety researchers were fired and dispute misconduct claims.\n\nSecond sentence: why it matters: They warn it chills AI safety culture.\n\nEnd with \"via TechCrunch AI\".\n\nCount characters. Let's craft:\n\n\"Three OpenAI safety researchers were fired and deny misconduct claims. They say the dismissals chill the company’s AI safety culture. via TechCrunch AI\"\n\nCount characters: Let's count.\n\n\"Three OpenAI safety researchers were fired and deny misconduct claims.\" = let's count: \"Three\"5 + space1=6, \"OpenAI\"6=12, space1=13, \"safety\"6=19, space1=20, \"researchers\"11=31, space1=32, \"were\"4=36, space1=37, \"fired\"5=42, space1=43, \"and\"3=46, space1=47, \"deny",
+    "articleUrl": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 07 Oct 2026 18:30:57 +0000"
+    "publishedAt": "Thu, 08 Oct 2026 20:04:26 +0000"
   },
   {
-    "tweetText": "ChatGPT for Teens keeps teens talking, even during mental health crises — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
+    "tweetText": "Ben Affleck is an AI nerd, and the internet is impressed — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 07 Oct 2026 18:15:28 +0000"
+    "publishedAt": "Thu, 08 Oct 2026 18:20:32 +0000"
   },
   {
-    "tweetText": "OpenAI is launching a new interface that adds interactive visuals to ChatGPT. This makes the AI much easier to use and more engaging for users. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
+    "tweetText": "Here's a thinking process:\n\n1.  **Analyze User Request:**\n   - **Format:** X tweet style (max 240 characters)\n   - **Content:** Two short sentences\n     - Sentence 1: What happened\n     - Sentence 2: Why it matters\n   - **Ending:** \"via TechCrunch AI\"\n   - **No hashtags or links**\n   - **Plain English**\n   - **Copy-paste ready**\n\n2.  **Analyze Source Text:**\n   - Title: \"Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months\"\n   - Summary: \"The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.\"\n\n   Key facts:\n   - Company behind LMArena leaderboard\n   - Raised $200M (Led by Lightspeed and Khosla)\n   - Valuation nearly doubled to $3.1B in 10 months\n   - Now measuring AI models on alignment issues (like lying)\n\n3.  **Draft - Sentence 1 (What happened):**\n   - Options:\n     - The company behind the LMArena leaderboard raised $200M and hit a $",
+    "articleUrl": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 07 Oct 2026 18:00:19 +0000"
+    "publishedAt": "Thu, 08 Oct 2026 18:19:45 +0000"
   },
   {
-    "tweetText": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
+    "tweetText": "OpenAI’s revenue is reportedly $20 billion less than previously projected — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 07 Oct 2026 16:53:46 +0000"
+    "publishedAt": "Thu, 08 Oct 2026 18:19:42 +0000"
   },
   {
-    "tweetText": "Here's a thinking process:\n\n1.  **Analyze the Request:**\n   - **Source:** AI news article about Healthleap raising $38M for AI that flags hospital patients\n   - **Format:** X tweet style\n   - **Length:** Max 240 characters\n   - **Language:** Plain English\n   - **Structure:** Two short sentences\n     - First sentence: what happened\n     - Second sentence: why it matters\n   - **Ending:** \"via TechCrunch AI\"\n   - **No hashtags or links**\n   - **Copy-paste ready**\n\n2.  **Extract Key Info from the Prompt:**\n   - **Company:** Healthleap\n   - **Funding:** $38M total ($8M seed + $30M Series A)\n   - **Purpose:** AI that flags hospital patients who may need a closer look\n   - **Sources mentioned:** Sequoia Capital, First Round Capital, Hummingbird Ventures\n   - **Publication:** TechCrunch AI (implied by \"via TechCrunch AI\" at the end)\n\n3.  **Draft - Sentence 1 (What happened):**\n   Healthleap raised $38 million to develop AI that flags hospital patients needing closer monitoring.\n   Let's count characters/words. Need to be concise.",
-    "articleUrl": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
+    "tweetText": "Google brings agentic AI to Gemini, starting with businesses — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 07 Oct 2026 15:07:08 +0000"
+    "publishedAt": "Thu, 08 Oct 2026 18:18:00 +0000"
   },
   {
-    "tweetText": "Here's a thinking process:\n\n1.  **Analyze the Request:**\n   - **Source:** AI news article title/summary provided\n   - **Task:** Summarize in style of an X (Twitter) tweet\n   - **Constraints:** \n     - Max 240 characters\n     - Plain English\n     - Two short sentences: first what happened, second why it matters\n     - End with \"via TechCrunch AI\"\n     - No hashtags or links\n     - Copy-paste ready\n\n2.  **Analyze the Input:**\n   - Title: \"Tony Fadell on why the first wave of AI gadgets failed — and what comes next\"\n   - Summary: \"The 'father of the iPod' says the first generation of AI gadgets failed to solve real problems — and the next wave will need to earn consumers' trust.\"\n\n3.  **Draft - Sentence 1 (What happened):**\n   - Tony Fadell says the first wave of AI gadgets failed to solve real problems.\n   - Or: The \"father of the iPod\" warns first-gen AI gadgets failed to address real user needs.\n   - Need to be concise.\n\n4.  **Draft - Sentence 2 (Why it matters):**\n   - The next wave must earn consumer trust to succeed.\n   - Or",
-    "articleUrl": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/",
+    "tweetText": "Here's a thinking process:\n\n1.  **Analyze Requirements:**\n   - Summarize AI news article in style of an X (Twitter) tweet\n   - Max 240 characters\n   - Plain English\n   - Two short sentences: first what happened, second why it matters\n   - End with \"via TechCrunch AI\"\n   - No hashtags or links\n   - Copy-paste ready\n\n2.  **Analyze Source Text:**\n   - Title: \"Anthropic changes usage policy to ban model abuse and election interference\"\n   - Summary: Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address election interference, deceptive campaigns, weapons software, and surveillance.\n\n3.  **Identify Key Points:**\n   - What happened: Anthropic updated its usage policy to prohibit extreme abuse of Claude and address election interference, deceptive campaigns, weapons software, and surveillance.\n   - Why it matters: It sets boundaries on AI misuse, protects against election manipulation and harmful content, while still allowing normal user feedback.\n\n4.  **Draft - Sentence 1 (What happened):**\n   Anthropic updated its usage policy to prohibit extreme abuse of Claude and address election interference, deceptive campaigns, weapons software, and surveillance.\n\n5.",
+    "articleUrl": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 07 Oct 2026 14:41:38 +0000"
+    "publishedAt": "Thu, 08 Oct 2026 18:16:24 +0000"
   },
   {
-    "tweetText": "Google experiments with an AI-powered gaming platform — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/",
+    "tweetText": "User Safety: safe",
+    "articleUrl": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 07 Oct 2026 14:36:23 +0000"
+    "publishedAt": "Thu, 08 Oct 2026 18:10:55 +0000"
   }
 ]
