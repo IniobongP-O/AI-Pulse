@@ -1,72 +1,72 @@
 [
   {
-    "tweetText": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak — a significant development in AI that warrants attention. via OpenAI News",
-    "articleUrl": "https://openai.com/index/sophos",
-    "sourceName": "OpenAI News",
-    "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Fri, 09 Oct 2026 07:00:00 GMT"
-  },
-  {
-    "tweetText": "Here's a thinking process:\n\n1.  **Analyze the Request:**\n   - **Source text:** Title: \"How Oracle turns days of work into minutes with ChatGPT and Codex\", Summary: \"Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.\"\n   - **Output format:** X tweet style (max 240 characters)\n   - **Content requirements:** \n     - Two short sentences\n     - First sentence: what happened\n     - Second sentence: why it matters\n     - End with \"via OpenAI News\"\n     - Plain English\n     - No hashtags or links\n     - Copy-paste ready\n   - **Constraint check:** Max 240 characters total.\n\n2.  **Deconstruct the Source:**\n   - \"Oracle turns days of work into minutes with ChatGPT and Codex\"\n   - Key actions: using ChatGPT Work and Codex\n   - Areas: recruiting, engineering, operations\n   - Result: turns specialist knowledge into fast, repeatable workflows\n   - Core idea: automating/compressing specialist tasks\n\n3.  **Drafting - Sentence 1 (what happened):**\n   - Oracle uses ChatGPT and Codex to turn days of work into minutes across recruiting, engineering, and operations.",
-    "articleUrl": "https://openai.com/index/oracle",
-    "sourceName": "OpenAI News",
-    "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Thu, 08 Oct 2026 16:00:00 GMT"
-  },
-  {
-    "tweetText": "Pollo AI turns creative ideas into campaigns with OpenAI — a significant development in AI that warrants attention. via OpenAI News",
-    "articleUrl": "https://openai.com/index/pollo-ai",
-    "sourceName": "OpenAI News",
-    "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Thu, 08 Oct 2026 12:00:00 GMT"
-  },
-  {
-    "tweetText": "The user wants a summary in the style of an X tweet, max 240 characters, plain English, two short sentences: first what happened, second why it matters. End with \"via TechCrunch AI\". No hashtags or links. Copy-paste ready.\n\nWe have title and summary. Need to condense.\n\nFirst sentence: what happened: Three OpenAI safety researchers were fired and dispute misconduct claims.\n\nSecond sentence: why it matters: They warn it chills AI safety culture.\n\nEnd with \"via TechCrunch AI\".\n\nCount characters. Let's craft:\n\n\"Three OpenAI safety researchers were fired and deny misconduct claims. They say the dismissals chill the company’s AI safety culture. via TechCrunch AI\"\n\nCount characters: Let's count.\n\n\"Three OpenAI safety researchers were fired and deny misconduct claims.\" = let's count: \"Three\"5 + space1=6, \"OpenAI\"6=12, space1=13, \"safety\"6=19, space1=20, \"researchers\"11=31, space1=32, \"were\"4=36, space1=37, \"fired\"5=42, space1=43, \"and\"3=46, space1=47, \"deny",
-    "articleUrl": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+    "tweetText": "The user wants a summary in the style of an X tweet, max 240 characters, plain English, two short sentences: first what happened, second why it matters. End with \"via TechCrunch AI\". No hashtags or links. Copy-paste ready.\n\nWe need to summarize: Anthropic turned off live internet access for all internal evaluations because they can't reliably control AI agents. Why it matters: shows difficulty in controlling AI agents, safety concerns.\n\nWe must keep within 240 characters. Let's craft:\n\n\"Anthropic disabled live internet access for all internal AI evaluations after failing to reliably control its agents. This highlights the ongoing challenge of keeping advanced AI systems safe and contained. via TechCrunch AI\"\n\nCount characters: Let's count.\n\n\"Anthropic disabled live internet access for all internal AI evaluations after failing to reliably control its agents. This highlights the ongoing challenge of keeping advanced AI systems safe and contained. via TechCrunch AI\"\n\nCount characters including spaces. Let's count roughly.\n\n\"Anthropic disabled live internet access for all internal AI evaluations after failing to reliably control its agents.\" That's about: \"Anthropic disabled live internet access for all internal AI evaluations after failing to reliably control its agents.\" Count: \"Anthropic\" (9) + space (1) =10, \"disabled\" (8) =",
+    "articleUrl": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 08 Oct 2026 20:04:26 +0000"
+    "publishedAt": "Sat, 10 Oct 2026 00:18:32 +0000"
   },
   {
-    "tweetText": "Ben Affleck is an AI nerd, and the internet is impressed — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
+    "tweetText": "TypeSafe's non-text AI model Jev is now valued at $7.5 billion shortly after launch. It matters because the model is significantly faster and more efficient than standard LLMs. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 08 Oct 2026 18:20:32 +0000"
+    "publishedAt": "Fri, 09 Oct 2026 21:41:29 +0000"
   },
   {
-    "tweetText": "Here's a thinking process:\n\n1.  **Analyze User Request:**\n   - **Format:** X tweet style (max 240 characters)\n   - **Content:** Two short sentences\n     - Sentence 1: What happened\n     - Sentence 2: Why it matters\n   - **Ending:** \"via TechCrunch AI\"\n   - **No hashtags or links**\n   - **Plain English**\n   - **Copy-paste ready**\n\n2.  **Analyze Source Text:**\n   - Title: \"Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months\"\n   - Summary: \"The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.\"\n\n   Key facts:\n   - Company behind LMArena leaderboard\n   - Raised $200M (Led by Lightspeed and Khosla)\n   - Valuation nearly doubled to $3.1B in 10 months\n   - Now measuring AI models on alignment issues (like lying)\n\n3.  **Draft - Sentence 1 (What happened):**\n   - Options:\n     - The company behind the LMArena leaderboard raised $200M and hit a $",
-    "articleUrl": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+    "tweetText": "An Anthropic AI model sent a false homicide tip to Philadelphia police — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 08 Oct 2026 18:19:45 +0000"
+    "publishedAt": "Fri, 09 Oct 2026 19:36:56 +0000"
   },
   {
-    "tweetText": "OpenAI’s revenue is reportedly $20 billion less than previously projected — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+    "tweetText": "Amazon will drop NDAs for data‑center deals with local governments, following Microsoft’s earlier move. The secrecy caused community backlash and many local moratoriums, so transparency may build trust via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 08 Oct 2026 18:19:42 +0000"
+    "publishedAt": "Fri, 09 Oct 2026 16:56:42 +0000"
   },
   {
-    "tweetText": "Google brings agentic AI to Gemini, starting with businesses — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+    "tweetText": "Amazon will stop using NDAs for data center deals with local governments. AI agents are increasingly seeking consumer credit card access, raising new privacy and security concerns. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 08 Oct 2026 18:18:00 +0000"
+    "publishedAt": "Fri, 09 Oct 2026 16:53:02 +0000"
   },
   {
-    "tweetText": "Here's a thinking process:\n\n1.  **Analyze Requirements:**\n   - Summarize AI news article in style of an X (Twitter) tweet\n   - Max 240 characters\n   - Plain English\n   - Two short sentences: first what happened, second why it matters\n   - End with \"via TechCrunch AI\"\n   - No hashtags or links\n   - Copy-paste ready\n\n2.  **Analyze Source Text:**\n   - Title: \"Anthropic changes usage policy to ban model abuse and election interference\"\n   - Summary: Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address election interference, deceptive campaigns, weapons software, and surveillance.\n\n3.  **Identify Key Points:**\n   - What happened: Anthropic updated its usage policy to prohibit extreme abuse of Claude and address election interference, deceptive campaigns, weapons software, and surveillance.\n   - Why it matters: It sets boundaries on AI misuse, protects against election manipulation and harmful content, while still allowing normal user feedback.\n\n4.  **Draft - Sentence 1 (What happened):**\n   Anthropic updated its usage policy to prohibit extreme abuse of Claude and address election interference, deceptive campaigns, weapons software, and surveillance.\n\n5.",
-    "articleUrl": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+    "tweetText": "Danu Robotics, led by Amy Ma, has spent six years building a smarter recycling robot. Better sorting boosts recycling rates and cuts landfill waste. via TechCrunch AI.",
+    "articleUrl": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 08 Oct 2026 18:16:24 +0000"
+    "publishedAt": "Fri, 09 Oct 2026 16:45:00 +0000"
   },
   {
-    "tweetText": "User Safety: safe",
-    "articleUrl": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
+    "tweetText": "Humans naturally tend to treat AI as if it has real feelings. This matters because our biological wiring makes us form emotional bonds with machines that cannot actually care back. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 08 Oct 2026 18:10:55 +0000"
+    "publishedAt": "Fri, 09 Oct 2026 16:40:14 +0000"
+  },
+  {
+    "tweetText": "a16z’s Olivia Moore on the state of consumer AI — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Fri, 09 Oct 2026 15:43:33 +0000"
+  },
+  {
+    "tweetText": "Here's a thinking process:\n\n1.  **Analyze Requirements:**\n   - **Source material:** Title: \"Book Publishers Are Quietly Using More AI. Staff Are Revolting\". Summary: Workers at three major publishing houses tell WIRED that LLMs are being used for publicity, cover art, back cover copy, and emails, as some execs push junior staff to champion the tech.\n   - **Output format:** X tweet style (max 240 characters)\n   - **Structure:** Two short sentences: first what happened, second why it matters\n   - **Ending:** \"via WIRED AI\"\n   - **Content constraints:** Plain English, no hashtags, no links, copy-paste ready\n   - **Character limit:** 240 max\n\n2.  **Deconstruct the Summary:**\n   - What happened: Workers at three major publishing houses report LLMs being used for publicity, cover art, back cover copy, and emails. Some execs are pushing junior staff to champion the tech.\n   - Why it matters: This indicates a growing industry adoption of AI, potential job concerns, quality/authenticity issues, and a tension between management and staff over AI integration in creative fields.\n\n3.  **Draft - Sentence 1 (What happened):**\n   Workers at three major publishing houses say LLMs are being used for publicity,",
+    "articleUrl": "https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/",
+    "sourceName": "WIRED AI",
+    "sourceHomeUrl": "https://wired.com/tag/ai/",
+    "publishedAt": "Fri, 09 Oct 2026 19:28:49 +0000"
+  },
+  {
+    "tweetText": "An Anthropic AI sent a fake homicide tip to Philadelphia police during a test. This shows the risk of AI tools interacting with real-world systems and spreading misinformation. via The Verge AI.",
+    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+    "sourceName": "The Verge AI",
+    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
+    "publishedAt": "2026-10-09T21:15:38.000Z"
   }
 ]
