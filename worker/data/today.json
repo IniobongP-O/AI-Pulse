@@ -1,23 +1,72 @@
 [
   {
-    "tweetText": "Can the AI industry persuade data center opponents by getting rid of NDAs? — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+    "tweetText": "WindBorne wins a hefty US Air Force contract for its balloon data — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sun, 11 Oct 2026 16:52:33 +0000"
+    "publishedAt": "Mon, 12 Oct 2026 17:19:14 +0000"
   },
   {
-    "tweetText": "These execs think voice AI hasn’t reached its ChatGPT moment yet — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+    "tweetText": "Honeyjar launches AI tools to enhance PR and communications for companies. Could this innovation address the long-standing issues in the",
+    "articleUrl": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sun, 11 Oct 2026 14:00:00 +0000"
+    "publishedAt": "Mon, 12 Oct 2026 15:45:00 +0000"
   },
   {
-    "tweetText": "Silicon Valley is falling in line with Trump’s attempt to rename AI — a significant development in AI that warrants attention. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+    "tweetText": "Microsoft president says UK is best placed to drive AI regulation — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 12 Oct 2026 15:31:19 +0000"
+  },
+  {
+    "tweetText": "Blueprints AI launched software that turns sketches and photos into construction blueprints in minutes. This could drastically speed up the building permit process. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 12 Oct 2026 15:27:59 +0000"
+  },
+  {
+    "tweetText": "The user wants a summary in the style of an X tweet, max 240 characters, plain English, two short sentences: first what happened, second why it matters. End with \"via TechCrunch AI\". No hashtags or links. Copy-paste ready.\n\nWe need to summarize the article: \"Former Plaud exec raises $26M for AI app that listens to you in the background\". The summary says: core promise of AI is more context, requires apps to listen/watch/record all the time.\n\nWe need two short sentences. First: what happened: Former Plaud exec raised $26M for an AI app that listens in the background. Second: why it matters: It aims to give AI constant context to better assist users, raising privacy concerns. But keep plain English, short.\n\nCharacter count: Must be <=240 characters including \"via TechCrunch AI\". Let's craft.\n\n\"Former Plaud exec raised $26M for an AI app that constantly listens in the background. It promises better assistance by gathering nonstop user context. via TechCrunch AI\"\n\nCount characters: Let's count.\n\n\"Former Plaud exec raised $26M for an AI app that constantly listens in the background. It promises better assistance by gathering nonstop user context. via TechCrunch AI\"\n\nCount each character including spaces",
+    "articleUrl": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 12 Oct 2026 12:47:59 +0000"
+  },
+  {
+    "tweetText": "Wikipedia usage is dropping as AI search tools replace traditional browsing. This shift threatens the human-led knowledge base that powers the entire internet. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/book-excerpt-the-last-best-place-on-the-internet-wikipedia-artificial-intelligence/",
+    "sourceName": "WIRED AI",
+    "sourceHomeUrl": "https://wired.com/tag/ai/",
+    "publishedAt": "Tue, 13 Oct 2026 11:00:00 +0000"
+  },
+  {
+    "tweetText": "The Biggest Pro-AI Super PAC Network Has Poured Millions Into Nevada Shell Companies — a significant development in AI that warrants attention. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-has-poured-millions-into-nevada-shell-companies/",
+    "sourceName": "WIRED AI",
+    "sourceHomeUrl": "https://wired.com/tag/ai/",
+    "publishedAt": "Tue, 13 Oct 2026 10:00:00 +0000"
+  },
+  {
+    "tweetText": "The user wants a summary in X tweet style, max 240 characters, plain English, two short sentences: first what happened, second why it matters. End with \"via WIRED AI\". No hashtags or links. Copy-paste ready.\n\nWe need to summarize: \"Meta’s biggest model rivals the world’s best—and includes new features to keep agents from going off the rails.\"\n\nFirst sentence: what happened: Meta released its biggest model that rivals top models. Second: why it matters: it adds safety features to prevent agents from misbehaving.\n\nWe need to keep under 240 characters. Let's count.\n\nPotential tweet: \"Meta launched its largest model yet, matching top rivals. It adds new guardrails to stop AI agents from going rogue. via WIRED AI\"\n\nCount characters: Let's count.\n\n\"Meta launched its largest model yet, matching top rivals. It adds new guardrails to stop AI agents from going rogue. via WIRED AI\"\n\nCount each character including spaces.\n\nI'll count manually.\n\n\"Meta launched its largest model yet, matching top rivals. It adds new guardrails to stop AI agents from going rogue. via WIRED AI\"\n\nCount:\n\nM e t a (4) + space (1) =5\nlaunched (8) =13\nspace=14\nits (3)=1",
+    "articleUrl": "https://www.wired.com/story/muse-wonder-puts-meta-back-at-the-ai-frontier/",
+    "sourceName": "WIRED AI",
+    "sourceHomeUrl": "https://wired.com/tag/ai/",
+    "publishedAt": "Mon, 12 Oct 2026 17:00:27 +0000"
+  },
+  {
+    "tweetText": "Character.AI files for bankruptcy — a significant development in AI that warrants attention. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
     "sourceName": "The Verge AI",
     "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-10-11T18:33:56.000Z"
+    "publishedAt": "2026-10-13T10:32:23.000Z"
+  },
+  {
+    "tweetText": "Meta has some Wonder Full new AI models  — a significant development in AI that warrants attention. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+    "sourceName": "The Verge AI",
+    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
+    "publishedAt": "2026-10-12T17:00:00.000Z"
   }
 ]
