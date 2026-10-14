@@ -1,72 +1,72 @@
 [
   {
-    "tweetText": "WindBorne wins a hefty US Air Force contract for its balloon data — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+    "tweetText": "The user wants a summary in the style of an X tweet, max 240 characters, plain English, two short sentences: first what happened, second why it matters. End with \"via OpenAI News\". No hashtags or links. Copy-paste ready.\n\nWe need to summarize the article: \"The EU’s next chapter in AI is agentic\" and summary: \"New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.\"\n\nWe need to write two short sentences. First: what happened: \"EU businesses are increasingly adopting agentic AI.\" Second: why it matters: \"Deeper use could unlock significant value.\" Then \"via OpenAI News\". Ensure total characters <=240. Count characters.\n\nLet's draft: \"EU businesses are rapidly adopting agentic AI. Deeper integration could unlock major economic value. via OpenAI News\"\n\nCount characters: Let's count.\n\n\"EU businesses are rapidly adopting agentic AI.\" = count: \"EU businesses are rapidly adopting agentic AI.\" characters including spaces: Let's count: E(1)U(2) space(3) b(4)u(5)s(6)i(7)n(8)e(9)s(10)s(11) space(12) a(13)r(14",
+    "articleUrl": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Wed, 14 Oct 2026 00:00:00 GMT"
+  },
+  {
+    "tweetText": "Higgsfield now generates AI videos over 10 minutes long. This lets creators build richer stories and longer-form content. via OpenAI News",
+    "articleUrl": "https://openai.com/index/higgsfield-longer-videos-voice",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Tue, 13 Oct 2026 12:00:00 GMT"
+  },
+  {
+    "tweetText": "The user wants a summary in the style of an X tweet, max 240 characters, plain English, two short sentences: first what happened, second why it matters. End with \"via TechCrunch AI\". No hashtags or links. Copy-paste ready.\n\nWe need to craft two short sentences. First sentence: what happened. Second: why it matters. Then \"via TechCrunch AI\". Must be under 240 characters total.\n\nLet's draft: \"Cerebras CEO Andrew Feldman says personal AI assistants will soon be as common as appliances, running on devices and the cloud. This could bring powerful, private AI to every home, changing daily life. via TechCrunch AI\"\n\nCount characters: Let's count.\n\n\"Cerebras CEO Andrew Feldman says personal AI assistants will soon be as common as appliances, running on devices and the cloud. This could bring powerful, private AI to every home, changing daily life. via TechCrunch AI\"\n\nCount characters including spaces. Let's count manually.\n\n\"Cerebras CEO Andrew Feldman says personal AI assistants will soon be as common as appliances, running on devices and the cloud. This could bring powerful, private AI to every home, changing daily life. via TechCrunch AI\"\n\nCount: \n\"Cerebras CEO Andrew Feldman says personal AI assistants will soon be as common",
+    "articleUrl": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 12 Oct 2026 17:19:14 +0000"
+    "publishedAt": "Tue, 13 Oct 2026 23:05:34 +0000"
   },
   {
-    "tweetText": "Honeyjar launches AI tools to enhance PR and communications for companies. Could this innovation address the long-standing issues in the",
-    "articleUrl": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+    "tweetText": "User Safety: safe",
+    "articleUrl": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 12 Oct 2026 15:45:00 +0000"
+    "publishedAt": "Tue, 13 Oct 2026 22:36:59 +0000"
   },
   {
-    "tweetText": "Microsoft president says UK is best placed to drive AI regulation — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+    "tweetText": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 12 Oct 2026 15:31:19 +0000"
+    "publishedAt": "Tue, 13 Oct 2026 20:36:44 +0000"
   },
   {
-    "tweetText": "Blueprints AI launched software that turns sketches and photos into construction blueprints in minutes. This could drastically speed up the building permit process. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+    "tweetText": "Flox Intelligence has built edge AI devices that detect wildlife and emit species-specific sounds to keep animals away from trains, airports and roads. This cuts damage and safety risks while avoiding lethal control via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 12 Oct 2026 15:27:59 +0000"
+    "publishedAt": "Tue, 13 Oct 2026 18:30:00 +0000"
   },
   {
-    "tweetText": "The user wants a summary in the style of an X tweet, max 240 characters, plain English, two short sentences: first what happened, second why it matters. End with \"via TechCrunch AI\". No hashtags or links. Copy-paste ready.\n\nWe need to summarize the article: \"Former Plaud exec raises $26M for AI app that listens to you in the background\". The summary says: core promise of AI is more context, requires apps to listen/watch/record all the time.\n\nWe need two short sentences. First: what happened: Former Plaud exec raised $26M for an AI app that listens in the background. Second: why it matters: It aims to give AI constant context to better assist users, raising privacy concerns. But keep plain English, short.\n\nCharacter count: Must be <=240 characters including \"via TechCrunch AI\". Let's craft.\n\n\"Former Plaud exec raised $26M for an AI app that constantly listens in the background. It promises better assistance by gathering nonstop user context. via TechCrunch AI\"\n\nCount characters: Let's count.\n\n\"Former Plaud exec raised $26M for an AI app that constantly listens in the background. It promises better assistance by gathering nonstop user context. via TechCrunch AI\"\n\nCount each character including spaces",
-    "articleUrl": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+    "tweetText": "Facebook is giving users more control over their algorithm — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 12 Oct 2026 12:47:59 +0000"
+    "publishedAt": "Tue, 13 Oct 2026 18:05:24 +0000"
   },
   {
-    "tweetText": "Wikipedia usage is dropping as AI search tools replace traditional browsing. This shift threatens the human-led knowledge base that powers the entire internet. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/book-excerpt-the-last-best-place-on-the-internet-wikipedia-artificial-intelligence/",
-    "sourceName": "WIRED AI",
-    "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Tue, 13 Oct 2026 11:00:00 +0000"
+    "tweetText": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Tue, 13 Oct 2026 17:30:00 +0000"
   },
   {
-    "tweetText": "The Biggest Pro-AI Super PAC Network Has Poured Millions Into Nevada Shell Companies — a significant development in AI that warrants attention. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-has-poured-millions-into-nevada-shell-companies/",
-    "sourceName": "WIRED AI",
-    "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Tue, 13 Oct 2026 10:00:00 +0000"
+    "tweetText": "User Safety: safe",
+    "articleUrl": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Tue, 13 Oct 2026 17:18:25 +0000"
   },
   {
-    "tweetText": "The user wants a summary in X tweet style, max 240 characters, plain English, two short sentences: first what happened, second why it matters. End with \"via WIRED AI\". No hashtags or links. Copy-paste ready.\n\nWe need to summarize: \"Meta’s biggest model rivals the world’s best—and includes new features to keep agents from going off the rails.\"\n\nFirst sentence: what happened: Meta released its biggest model that rivals top models. Second: why it matters: it adds safety features to prevent agents from misbehaving.\n\nWe need to keep under 240 characters. Let's count.\n\nPotential tweet: \"Meta launched its largest model yet, matching top rivals. It adds new guardrails to stop AI agents from going rogue. via WIRED AI\"\n\nCount characters: Let's count.\n\n\"Meta launched its largest model yet, matching top rivals. It adds new guardrails to stop AI agents from going rogue. via WIRED AI\"\n\nCount each character including spaces.\n\nI'll count manually.\n\n\"Meta launched its largest model yet, matching top rivals. It adds new guardrails to stop AI agents from going rogue. via WIRED AI\"\n\nCount:\n\nM e t a (4) + space (1) =5\nlaunched (8) =13\nspace=14\nits (3)=1",
-    "articleUrl": "https://www.wired.com/story/muse-wonder-puts-meta-back-at-the-ai-frontier/",
-    "sourceName": "WIRED AI",
-    "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Mon, 12 Oct 2026 17:00:27 +0000"
-  },
-  {
-    "tweetText": "Character.AI files for bankruptcy — a significant development in AI that warrants attention. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-10-13T10:32:23.000Z"
-  },
-  {
-    "tweetText": "Meta has some Wonder Full new AI models  — a significant development in AI that warrants attention. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-10-12T17:00:00.000Z"
+    "tweetText": "Google Play now lets anyone build private, vibe-coded apps that run on Android — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Tue, 13 Oct 2026 17:00:00 +0000"
   }
 ]
