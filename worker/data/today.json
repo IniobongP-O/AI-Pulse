@@ -1,72 +1,37 @@
 [
   {
-    "tweetText": "Grounding AI agents in biological reality: Building blocks for autonomous wet labs — a significant development in AI that warrants attention. via Google Research Blog",
-    "articleUrl": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs/",
-    "sourceName": "Google Research Blog",
-    "sourceHomeUrl": "https://research.google/blog/",
-    "publishedAt": "Fri, 16 Oct 2026 18:11:34 +0000"
-  },
-  {
-    "tweetText": "How Itaú is building generative AI for its entire customer base — a significant development in AI that warrants attention. via OpenAI News",
-    "articleUrl": "https://openai.com/index/itau-generative-ai",
-    "sourceName": "OpenAI News",
-    "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Fri, 16 Oct 2026 19:00:00 GMT"
-  },
-  {
-    "tweetText": "Replit is no longer working with Anthropic, CEO says — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+    "tweetText": "Meta removes language that raised scraping and AI training concerns — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 16 Oct 2026 21:22:28 +0000"
-  },
-  {
-    "tweetText": "India becomes the latest country to report rogue AI agent activity — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 16 Oct 2026 17:52:24 +0000"
-  },
-  {
-    "tweetText": "1.  **Analyze the Request:**\n    *   **Source Text:** An article about Amulya Vishwanath (former Nvidia robotics product marketing lead) discussing why robotics hasn't hit its \"ChatGPT moment\" yet, comparing the current state to the \"Lego era\" where basic building blocks are still being rebuilt.\n    *   **Style:** X tweet.\n    *   **Length:** Max 240 characters.\n    *   **Language:** Plain English.\n    *   **Structure:** Two short sentences. First: what happened. Second: why it matters. End with \"via TechCrunch AI\".\n    *   **Constraints:** No hashtags, no links, copy-paste ready.\n\n2.  **Extract Key Information:**\n    *   *What happened:* Former Nvidia robotics lead says robotics is still in its \"Lego era\" (basic components like hands, software, safety standards need rebuilding), missing its \"ChatGPT moment.\"\n    *   *Why it matters:* It means robotics isn't ready for a general AI breakthrough yet; foundational pieces must be solved first.\n\n3.  **Drafting - Attempt 1:**\n    Former Nvidia robotics expert says the field is still in its \"Lego era\" needing basic components rebuilt, missing its \"ChatGPT",
-    "articleUrl": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 16 Oct 2026 16:30:00 +0000"
-  },
-  {
-    "tweetText": "Former Nvidia product lead says robotics is in its \"Lego era,\" with foundational tech still being built. This challenges the view that general AI robots are just around the corner. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 16 Oct 2026 16:30:00 +0000"
+    "publishedAt": "Sat, 17 Oct 2026 21:31:32 +0000"
   },
   {
     "tweetText": "User Safety: safe",
-    "articleUrl": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+    "articleUrl": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 16 Oct 2026 16:01:37 +0000"
+    "publishedAt": "Sat, 17 Oct 2026 20:21:19 +0000"
   },
   {
-    "tweetText": "Jev is Vercel’s fastest-adopted AI model ever — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+    "tweetText": "Replit makes OpenAI its default over Anthropic, CEO says — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 16 Oct 2026 15:33:49 +0000"
+    "publishedAt": "Sat, 17 Oct 2026 18:48:08 +0000"
   },
   {
-    "tweetText": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 16 Oct 2026 14:26:51 +0000"
+    "tweetText": "Meta removes language that may have allowed it to scrape news sites — a significant development in AI that warrants attention. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+    "sourceName": "The Verge AI",
+    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
+    "publishedAt": "2026-10-17T15:04:36.000Z"
   },
   {
-    "tweetText": "Replit’s CEO says the future of work is the ‘self-driving company’ — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 16 Oct 2026 12:55:09 +0000"
+    "tweetText": "Many websites are blocking AI agents from accessing their pages. This makes it harder for AI assistants to perform real-world tasks like booking flights or dinner. via The Verge AI.",
+    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+    "sourceName": "The Verge AI",
+    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
+    "publishedAt": "2026-10-17T13:00:00.000Z"
   }
 ]
