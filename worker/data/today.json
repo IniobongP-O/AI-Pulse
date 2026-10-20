@@ -1,37 +1,72 @@
 [
   {
-    "tweetText": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’ — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+    "tweetText": "OpenAI is improving ChatGPT's ability to code in less common programming languages. This makes powerful AI tools more accessible to developers using older or niche systems. via OpenAI News",
+    "articleUrl": "https://openai.com/index/low-resource-programming-languages",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Mon, 19 Oct 2026 12:00:00 GMT"
+  },
+  {
+    "tweetText": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sun, 18 Oct 2026 20:37:40 +0000"
+    "publishedAt": "Tue, 20 Oct 2026 01:27:03 +0000"
   },
   {
-    "tweetText": "User Safety: safe",
-    "articleUrl": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+    "tweetText": "Nscale and Anthropic are reportedly discussing a new $45 billion compute deal. This massive investment highlights the growing demand for the massive computing power needed to train advanced AI. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sun, 18 Oct 2026 16:30:00 +0000"
+    "publishedAt": "Mon, 19 Oct 2026 23:39:38 +0000"
   },
   {
-    "tweetText": "Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card — a significant development in AI that warrants attention. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
-    "sourceName": "WIRED AI",
-    "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Mon, 19 Oct 2026 09:00:00 +0000"
+    "tweetText": "The user wants a summary in the style of an X tweet, max 240 characters, plain English, two short sentences: first what happened, second why it matters. End with \"via TechCrunch AI\". No hashtags or links. Copy-paste ready.\n\nWe need to summarize the article: \"Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says\". The summary says: The idea of embedded evaluators — neutral third-party observers placed inside AI organizations — has been popularized as AI labs grapple with safety incidents.\n\nWe need to produce two short sentences. First: what happened? \"Hugging Face’s policy chief warns that embedding neutral evaluators inside AI labs won’t easily solve safety problems.\" Second: why it matters? \"As AI safety incidents rise, relying on internal watchdogs may not ensure accountability.\" Then end with \"via TechCrunch AI\". Must be <=240 characters.\n\nLet's count characters. We'll produce a tweet-like text.\n\nSentence 1: \"Hugging Face’s policy chief says embedding neutral evaluators in AI labs won’t easily fix safety issues.\" Count characters.\n\nLet's count: \"Hugging Face’s policy chief says embedding neutral evaluators in AI labs won’t easily fix safety issues.\"\n\nCount each character including spaces.\n\n\"Hugging Face’s",
+    "articleUrl": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 19 Oct 2026 22:49:27 +0000"
   },
   {
-    "tweetText": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty — a significant development in AI that warrants attention. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/",
-    "sourceName": "WIRED AI",
-    "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Sun, 18 Oct 2026 10:30:00 +0000"
+    "tweetText": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’ — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 19 Oct 2026 22:04:28 +0000"
   },
   {
-    "tweetText": "Researchers left Claude AI agents alone on a virtual desert island to see how they would behave. This shows that AI can exhibit spontaneous, creative behavior even without direct instructions. via MIT Technology Review",
-    "articleUrl": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
-    "sourceName": "MIT Technology Review",
-    "sourceHomeUrl": "https://www.technologyreview.com/topic/artificial-intelligence/",
-    "publishedAt": "Mon, 19 Oct 2026 09:08:05 +0000"
+    "tweetText": "1.  **Analyze the Request:**\n    *   **Source Material:** An article summary about Amazon launching a new dev tool (TorchNeuron) to break Nvidia's hold on PyTorch and encourage developers to use alternative chips.\n    *   **Style:** X tweet.\n    *   **Length:** Max 240 characters.\n    *   **Language:** Plain English.\n    *   **Structure:** Two short sentences (first what happened, second why it matters).\n    *   **Ending:** \"via TechCrunch AI\" (no period after AI if space is tight, but keep it exact).\n    *   **Exclusions:** No hashtags, no links.\n    *   **Format:** Copy-paste ready.\n\n2.  **Drafting - Step 1: What happened?**\n    Amazon launched a new tool called TorchNeuron to let developers run their AI apps on custom chips instead of Nvidia GPUs.\n\n3.  **Drafting - Step 2: Why does it matter?**\n    This gives developers more freedom and could challenge Nvidia's dominance in the AI software market.\n\n4.  **Combining and Refining (checking constraints):**\n    *Draft 1:* Amazon launched TorchNeuron to let developers run",
+    "articleUrl": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 19 Oct 2026 20:09:24 +0000"
+  },
+  {
+    "tweetText": "Hackers stole API keys from OpenCode, running up unauthorized charges on users' AI accounts. Security flaws in AI tools raise concerns about detecting malicious code. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 19 Oct 2026 19:28:34 +0000"
+  },
+  {
+    "tweetText": "Tolan snags $30M for its AI companion that helps users navigate life — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 19 Oct 2026 19:00:12 +0000"
+  },
+  {
+    "tweetText": "Eugenia Kuyda, Replika’s founder, launched Wabi, a free downloadable AI personal assistant. Why it matters: it revives her 12‑year‑old idea and could make AI assistants widely accessible via TechCrunch AI.",
+    "articleUrl": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 19 Oct 2026 18:49:04 +0000"
+  },
+  {
+    "tweetText": "Tenstorrent raised $1.5 billion and hit a $6.2 billion valuation to stay independent. The funding lets them scale open-weight AI chips and compete with Nvidia. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 19 Oct 2026 18:37:27 +0000"
   }
 ]
