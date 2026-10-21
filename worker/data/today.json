@@ -1,72 +1,72 @@
 [
   {
-    "tweetText": "OpenAI is improving ChatGPT's ability to code in less common programming languages. This makes powerful AI tools more accessible to developers using older or niche systems. via OpenAI News",
-    "articleUrl": "https://openai.com/index/low-resource-programming-languages",
+    "tweetText": "Franchisee reconciles cash in 94% less time with ChatGPT Work — a significant development in AI that warrants attention. via OpenAI News",
+    "articleUrl": "https://openai.com/index/ted-taylor-restaurant",
     "sourceName": "OpenAI News",
     "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Mon, 19 Oct 2026 12:00:00 GMT"
+    "publishedAt": "Tue, 20 Oct 2026 10:00:00 GMT"
   },
   {
-    "tweetText": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+    "tweetText": "Anthropic proposes an AI safety bill allowing federal agencies to block AI models only if 50+ deaths are at risk, but requires judicial approval first. This could limit proactive AI oversight. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 20 Oct 2026 01:27:03 +0000"
+    "publishedAt": "Tue, 20 Oct 2026 23:01:23 +0000"
   },
   {
-    "tweetText": "Nscale and Anthropic are reportedly discussing a new $45 billion compute deal. This massive investment highlights the growing demand for the massive computing power needed to train advanced AI. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+    "tweetText": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 19 Oct 2026 23:39:38 +0000"
+    "publishedAt": "Tue, 20 Oct 2026 22:24:02 +0000"
   },
   {
-    "tweetText": "The user wants a summary in the style of an X tweet, max 240 characters, plain English, two short sentences: first what happened, second why it matters. End with \"via TechCrunch AI\". No hashtags or links. Copy-paste ready.\n\nWe need to summarize the article: \"Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says\". The summary says: The idea of embedded evaluators — neutral third-party observers placed inside AI organizations — has been popularized as AI labs grapple with safety incidents.\n\nWe need to produce two short sentences. First: what happened? \"Hugging Face’s policy chief warns that embedding neutral evaluators inside AI labs won’t easily solve safety problems.\" Second: why it matters? \"As AI safety incidents rise, relying on internal watchdogs may not ensure accountability.\" Then end with \"via TechCrunch AI\". Must be <=240 characters.\n\nLet's count characters. We'll produce a tweet-like text.\n\nSentence 1: \"Hugging Face’s policy chief says embedding neutral evaluators in AI labs won’t easily fix safety issues.\" Count characters.\n\nLet's count: \"Hugging Face’s policy chief says embedding neutral evaluators in AI labs won’t easily fix safety issues.\"\n\nCount each character including spaces.\n\n\"Hugging Face’s",
-    "articleUrl": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+    "tweetText": "Anthropic’s cloud partnerships are getting messy — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 19 Oct 2026 22:49:27 +0000"
+    "publishedAt": "Tue, 20 Oct 2026 21:25:22 +0000"
   },
   {
-    "tweetText": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’ — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+    "tweetText": "SpaceX turned a profit with $4.4 billion net income in Q3, driven heavily by AI ventures. This shows AI is becoming a major revenue driver for tech giants. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 19 Oct 2026 22:04:28 +0000"
+    "publishedAt": "Tue, 20 Oct 2026 20:40:41 +0000"
   },
   {
-    "tweetText": "1.  **Analyze the Request:**\n    *   **Source Material:** An article summary about Amazon launching a new dev tool (TorchNeuron) to break Nvidia's hold on PyTorch and encourage developers to use alternative chips.\n    *   **Style:** X tweet.\n    *   **Length:** Max 240 characters.\n    *   **Language:** Plain English.\n    *   **Structure:** Two short sentences (first what happened, second why it matters).\n    *   **Ending:** \"via TechCrunch AI\" (no period after AI if space is tight, but keep it exact).\n    *   **Exclusions:** No hashtags, no links.\n    *   **Format:** Copy-paste ready.\n\n2.  **Drafting - Step 1: What happened?**\n    Amazon launched a new tool called TorchNeuron to let developers run their AI apps on custom chips instead of Nvidia GPUs.\n\n3.  **Drafting - Step 2: Why does it matter?**\n    This gives developers more freedom and could challenge Nvidia's dominance in the AI software market.\n\n4.  **Combining and Refining (checking constraints):**\n    *Draft 1:* Amazon launched TorchNeuron to let developers run",
-    "articleUrl": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+    "tweetText": "OpenAI bought the startup Orchestra Bio to improve its biotech AI tools. This move helps the company accelerate life sciences research and experiment planning. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 19 Oct 2026 20:09:24 +0000"
+    "publishedAt": "Tue, 20 Oct 2026 20:35:10 +0000"
   },
   {
-    "tweetText": "Hackers stole API keys from OpenCode, running up unauthorized charges on users' AI accounts. Security flaws in AI tools raise concerns about detecting malicious code. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+    "tweetText": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 19 Oct 2026 19:28:34 +0000"
+    "publishedAt": "Tue, 20 Oct 2026 18:38:24 +0000"
   },
   {
-    "tweetText": "Tolan snags $30M for its AI companion that helps users navigate life — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+    "tweetText": "User Safety: safe",
+    "articleUrl": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 19 Oct 2026 19:00:12 +0000"
+    "publishedAt": "Tue, 20 Oct 2026 18:36:53 +0000"
   },
   {
-    "tweetText": "Eugenia Kuyda, Replika’s founder, launched Wabi, a free downloadable AI personal assistant. Why it matters: it revives her 12‑year‑old idea and could make AI assistants widely accessible via TechCrunch AI.",
-    "articleUrl": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
+    "tweetText": "Eric Schmidt reportedly owns roughly half as much of Anthropic as its CEO. This shows how much influence a single wealthy investor can have over a top AI company. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 19 Oct 2026 18:49:04 +0000"
+    "publishedAt": "Tue, 20 Oct 2026 17:55:12 +0000"
   },
   {
-    "tweetText": "Tenstorrent raised $1.5 billion and hit a $6.2 billion valuation to stay independent. The funding lets them scale open-weight AI chips and compete with Nvidia. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+    "tweetText": "Meta's Muse app reached 10 million US downloads in just 40 days. This shows strong user growth and retention compared to other AI rivals. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 19 Oct 2026 18:37:27 +0000"
+    "publishedAt": "Tue, 20 Oct 2026 17:12:48 +0000"
   }
 ]
