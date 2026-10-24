@@ -1,72 +1,72 @@
 [
   {
-    "tweetText": "OpenAI and Poland’s NASK partner to advance AI safety and security — a significant development in AI that warrants attention. via OpenAI News",
-    "articleUrl": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+    "tweetText": "Bringing foundational models to the front lines of TB screening — a significant development in AI that warrants attention. via Google Research Blog",
+    "articleUrl": "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening/",
+    "sourceName": "Google Research Blog",
+    "sourceHomeUrl": "https://research.google/blog/",
+    "publishedAt": "Fri, 23 Oct 2026 18:51:33 +0000"
+  },
+  {
+    "tweetText": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II) — a significant development in AI that warrants attention. via OpenAI News",
+    "articleUrl": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
     "sourceName": "OpenAI News",
     "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Fri, 23 Oct 2026 00:00:00 GMT"
+    "publishedAt": "Fri, 23 Oct 2026 17:00:00 GMT"
   },
   {
-    "tweetText": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 23 Oct 2026 04:00:00 +0000"
+    "tweetText": "Securing our frontier model training environment — a significant development in AI that warrants attention. via OpenAI News",
+    "articleUrl": "https://openai.com/index/securing-our-frontier-model-training-environment",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Fri, 23 Oct 2026 10:00:00 GMT"
   },
   {
-    "tweetText": "Left alone with nothing to do, AI agents started playing — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+    "tweetText": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks” — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 23 Oct 2026 00:45:37 +0000"
+    "publishedAt": "Fri, 23 Oct 2026 23:05:49 +0000"
   },
   {
-    "tweetText": "User Safety: safe",
-    "articleUrl": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+    "tweetText": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026  — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 22 Oct 2026 22:08:24 +0000"
+    "publishedAt": "Fri, 23 Oct 2026 19:06:23 +0000"
   },
   {
-    "tweetText": "1Password launches a way for AI agents to log in on your behalf without seeing your password — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 22 Oct 2026 19:07:09 +0000"
+    "tweetText": "OpenAI now trains its frontier AI models with no internet access — a significant development in AI that warrants attention. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+    "sourceName": "The Verge AI",
+    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
+    "publishedAt": "2026-10-23T21:11:07.000Z"
   },
   {
-    "tweetText": "OpenAI has released its new decision model to the public. This move intensifies the competition in the growing field of AI decision-making tools. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 22 Oct 2026 19:00:00 +0000"
+    "tweetText": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend — a significant development in AI that warrants attention. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+    "sourceName": "The Verge AI",
+    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
+    "publishedAt": "2026-10-23T19:32:39.000Z"
   },
   {
-    "tweetText": "Microsoft’s AI diagnostic tool beat generalist doctors on difficult cases in a Science study. The edge comes from the underlying models, not Microsoft’s system, showing progress toward medical superintelligence. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 22 Oct 2026 18:43:53 +0000"
+    "tweetText": "Now Google says it might use your Gmail and Google Photos data to target ads — a significant development in AI that warrants attention. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+    "sourceName": "The Verge AI",
+    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
+    "publishedAt": "2026-10-23T16:52:55.000Z"
   },
   {
-    "tweetText": "Chinese hackers used AI agents to breach ConnectWise and spy on thousands of companies. This shows how quickly attackers can now use AI to scale massive cyberattacks. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 22 Oct 2026 16:47:17 +0000"
+    "tweetText": "Meta is delaying new business terms after publishers worried about AI data scraping. This delay gives news sites more time to negotiate how their content is used for AI training. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
+    "sourceName": "The Verge AI",
+    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
+    "publishedAt": "2026-10-23T14:47:41.000Z"
   },
   {
-    "tweetText": "Uber puts all 30,000 employees on ChatGPT Work — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 22 Oct 2026 16:00:00 +0000"
-  },
-  {
-    "tweetText": "Spotify’s current AI bet is about being the music service that agents choose — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 22 Oct 2026 15:03:58 +0000"
+    "tweetText": "Retro gaming is being overrun with AI — a significant development in AI that warrants attention. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
+    "sourceName": "The Verge AI",
+    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
+    "publishedAt": "2026-10-23T12:00:00.000Z"
   }
 ]
