@@ -1,72 +1,44 @@
 [
   {
-    "tweetText": "Bringing foundational models to the front lines of TB screening — a significant development in AI that warrants attention. via Google Research Blog",
-    "articleUrl": "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening/",
-    "sourceName": "Google Research Blog",
-    "sourceHomeUrl": "https://research.google/blog/",
-    "publishedAt": "Fri, 23 Oct 2026 18:51:33 +0000"
-  },
-  {
-    "tweetText": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II) — a significant development in AI that warrants attention. via OpenAI News",
-    "articleUrl": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-    "sourceName": "OpenAI News",
-    "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Fri, 23 Oct 2026 17:00:00 GMT"
-  },
-  {
-    "tweetText": "Securing our frontier model training environment — a significant development in AI that warrants attention. via OpenAI News",
-    "articleUrl": "https://openai.com/index/securing-our-frontier-model-training-environment",
-    "sourceName": "OpenAI News",
-    "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Fri, 23 Oct 2026 10:00:00 GMT"
-  },
-  {
-    "tweetText": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks” — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+    "tweetText": "The AI graveyard: a running list of projects and startups that didn’t make it — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 23 Oct 2026 23:05:49 +0000"
+    "publishedAt": "Sat, 24 Oct 2026 19:00:00 +0000"
   },
   {
-    "tweetText": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026  — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+    "tweetText": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.  — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 23 Oct 2026 19:06:23 +0000"
+    "publishedAt": "Sat, 24 Oct 2026 15:00:00 +0000"
   },
   {
-    "tweetText": "OpenAI now trains its frontier AI models with no internet access — a significant development in AI that warrants attention. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-10-23T21:11:07.000Z"
+    "tweetText": "The user wants a summary in the style of an X tweet, max 240 characters, plain English, two short sentences: first what happened, second why it matters. End with \"via TechCrunch AI\". No hashtags or links. Copy-paste ready.\n\nWe need to summarize the article: \"Here are the top AI agents that can live in your text messages\". The summary: \"We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.\"\n\nWe need to produce two short sentences. First: what happened (they compiled a list of top AI agents for text messages). Second: why it matters (these agents bring AI assistance directly into everyday messaging for various needs). End with \"via TechCrunch AI\". No hashtags, no links. Max 240 characters.\n\nLet's craft:\n\n\"TechCrunch compiled a list of the best AI agents that live inside your text messages, covering general help, family, travel, and work. They let you get AI assistance without leaving your chat app. via TechCrunch AI\"\n\nCount characters: Let's count.\n\n\"TechCrunch compiled a list of the best AI agents that live inside your text messages, covering general help, family, travel, and work. They let you get AI assistance without leaving your chat",
+    "articleUrl": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Sat, 24 Oct 2026 14:00:00 +0000"
   },
   {
-    "tweetText": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend — a significant development in AI that warrants attention. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-10-23T19:32:39.000Z"
+    "tweetText": "The user wants a summary in X tweet style, max 240 characters, plain English, two short sentences: first what happened, second why it matters. End with \"via WIRED AI\". No hashtags or links. Copy-paste ready.\n\nWe need to summarize: \"Security researchers used AI tools to help uncover years-old vulnerabilities in the PHP web scripting language. Then the AI-assisted attacks began.\"\n\nFirst sentence: what happened: Researchers used AI to find old PHP bugs. Second: why it matters: AI makes those bugs easier to exploit, leading to attacks.\n\nCharacter count: Let's craft.\n\n\"Researchers used AI to uncover old PHP vulnerabilities, and attackers quickly exploited them with AI help. This shows AI can turn dormant bugs into active threats. via WIRED AI\"\n\nCount characters: Let's count.\n\n\"Researchers used AI to uncover old PHP vulnerabilities, and attackers quickly exploited them with AI help. This shows AI can turn dormant bugs into active threats. via WIRED AI\"\n\nCount each character including spaces.\n\nI'll count manually.\n\n\"Researchers used AI to uncover old PHP vulnerabilities, and attackers quickly exploited them with AI help. This shows AI can turn dormant bugs into active threats. via WIRED AI\"\n\nLet's count:\n\n\"Researchers used AI to uncover old PHP vulnerabilities, and attackers quickly exploited them with AI help. This shows AI can turn dormant bugs",
+    "articleUrl": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/",
+    "sourceName": "WIRED AI",
+    "sourceHomeUrl": "https://wired.com/tag/ai/",
+    "publishedAt": "Sat, 24 Oct 2026 12:00:00 +0000"
   },
   {
-    "tweetText": "Now Google says it might use your Gmail and Google Photos data to target ads — a significant development in AI that warrants attention. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+    "tweetText": "Blue Planet III is keeping the rough edges in the age of AI — a significant development in AI that warrants attention. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
     "sourceName": "The Verge AI",
     "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-10-23T16:52:55.000Z"
+    "publishedAt": "2026-10-24T21:29:12.000Z"
   },
   {
-    "tweetText": "Meta is delaying new business terms after publishers worried about AI data scraping. This delay gives news sites more time to negotiate how their content is used for AI training. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
+    "tweetText": "Pennsylvania just became one of the first states to require AI-generated ads to carry disclosure labels, whether they're TV commercials or local flyers. This move could set a precedent for transparency in AI content as the technology becomes more widespread.\n\nvia The Verge AI",
+    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
     "sourceName": "The Verge AI",
     "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-10-23T14:47:41.000Z"
-  },
-  {
-    "tweetText": "Retro gaming is being overrun with AI — a significant development in AI that warrants attention. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-10-23T12:00:00.000Z"
+    "publishedAt": "2026-10-24T18:32:21.000Z"
   }
 ]
