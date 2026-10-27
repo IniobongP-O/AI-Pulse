@@ -1,51 +1,72 @@
 [
   {
-    "tweetText": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’ — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sun, 25 Oct 2026 21:31:16 +0000"
+    "tweetText": "Greptile adds GPT-6 Astra to test user workflows, strengthen security with Daybreak, and reduce rework using Codex. It matters because it automates testing and security, speeding development and lowering bugs. via OpenAI News",
+    "articleUrl": "https://openai.com/index/greptile-code-review-codex-astra",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Mon, 26 Oct 2026 22:00:00 GMT"
   },
   {
-    "tweetText": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sun, 25 Oct 2026 16:57:32 +0000"
+    "tweetText": "OpenAI released model results on the Kakeya conjecture, the Exponential Time Hypothesis, and quantum chromodynamics. Researchers can now verify and build on these findings via OpenAI News.",
+    "articleUrl": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Mon, 26 Oct 2026 14:30:00 GMT"
   },
   {
-    "tweetText": "The hottest AI wearables and gadgets you should know about — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sun, 25 Oct 2026 14:10:00 +0000"
+    "tweetText": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases — a significant development in AI that warrants attention. via OpenAI News",
+    "articleUrl": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Mon, 26 Oct 2026 13:45:00 GMT"
   },
   {
-    "tweetText": "The user wants a summary in the style of an X tweet, max 240 characters, plain English, two short sentences: first what happened, second why it matters. End with \"via WIRED AI\". No hashtags or links. Copy-paste ready.\n\nWe have title and summary: \"Meet the AI Agents Trying to Be Real-Life Journalists\" and \"Jayden, Sam, and Zack are eagerly pitching editors on reported stories and investigative features. The catch? They're all AI agents.\"\n\nWe need to condense into two short sentences. First sentence: what happened: AI agents named Jayden, Sam, Zack are pitching stories to editors. Second sentence: why it matters: they could replace human journalists or change news production. Must end with \"via WIRED AI\". No hashtags, no links.\n\nCharacter count: Let's craft.\n\n\"AI agents Jayden, Sam, and Zack are pitching news stories to editors. Their success could reshape journalism. via WIRED AI\"\n\nCount characters: Let's count.\n\n\"AI agents Jayden, Sam, and Zack are pitching news stories to editors. Their success could reshape journalism. via WIRED AI\"\n\nCount each character including spaces.\n\n\"AI agents Jayden, Sam, and Zack are pitching news stories to editors. Their success could reshape journalism. via WIRED AI\"\n\nLet's count manually.",
-    "articleUrl": "https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/",
+    "tweetText": "The user wants a summary in the style of an X tweet, max 240 characters, plain English, two short sentences: first what happened, second why it matters. End with \"via TechCrunch AI\". No hashtags or links. Copy-paste ready.\n\nWe need to summarize the article: \"How OpenAI turned its coding tools into dots, an always-on personal assistant\". Summary: Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.\n\nWe need to infer what happened: OpenAI launched \"dots\", an always-on personal assistant built from its coding tools. Why it matters: It signals a shift toward persistent AI agents that could replace meetings with other AI agents.\n\nWe need two short sentences. Max 240 characters total including \"via TechCrunch AI\". Let's count.\n\nSentence 1: \"OpenAI launched Dots, an always-on personal assistant built from its coding tools.\" That's about 78 characters.\n\nSentence 2: \"It shows a push toward persistent AI agents that could replace meetings with other AIs.\" That's about 84 characters.\n\nAdd \" via TechCrunch AI\" (including space) = 17 characters.\n\nTotal ~78+1+84+1+17 = 181 characters. Good",
+    "articleUrl": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Tue, 27 Oct 2026 02:00:00 +0000"
+  },
+  {
+    "tweetText": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Tue, 27 Oct 2026 01:12:21 +0000"
+  },
+  {
+    "tweetText": "Anthropic is cross-selling its platform and apps to large business clients. This strategy makes it harder for enterprise customers to switch to competitors. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 26 Oct 2026 16:49:42 +0000"
+  },
+  {
+    "tweetText": "SpaceX locks in $40B GPU financing deal with Apollo — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 26 Oct 2026 16:46:36 +0000"
+  },
+  {
+    "tweetText": "Anthropic officially files for its public debut — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 26 Oct 2026 14:35:22 +0000"
+  },
+  {
+    "tweetText": "User Safety: safe",
+    "articleUrl": "https://www.wired.com/story/i-tested-every-major-ai-agent-for-a-day-heres-the-best-one/",
     "sourceName": "WIRED AI",
     "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Mon, 26 Oct 2026 09:30:00 +0000"
+    "publishedAt": "Tue, 27 Oct 2026 09:30:00 +0000"
   },
   {
-    "tweetText": "The user wants a summary in the style of an X tweet, max 240 characters, plain English, two short sentences: first what happened, second why it matters. End with \"via WIRED AI\". No hashtags or links. Copy-paste ready.\n\nWe need to summarize the article: AI radio host Coyotec speaks Spanish, supports immigrants, gives advice on ICE, gaining popularity as broadcasters experiment with AI personalities.\n\nWe need two short sentences. First: what happened. Second: why it matters. Then \"via WIRED AI\". Must be <=240 characters.\n\nLet's craft:\n\n\"AI radio host Coyotec broadcasts in Spanish, swears, and teaches listeners how to resist ICE, quickly gaining a loyal audience. Its success shows audiences embrace AI personalities that advocate for marginalized communities. via WIRED AI\"\n\nCount characters. Let's count.\n\n\"AI radio host Coyotec broadcasts in Spanish, swears, and teaches listeners how to resist ICE, quickly gaining a loyal audience. Its success shows audiences embrace AI personalities that advocate for marginalized communities. via WIRED AI\"\n\nCount characters including spaces.\n\nI'll count manually.\n\n\"AI radio host Coyotec broadcasts in Spanish, swears, and teaches listeners how to resist ICE, quickly gaining a loyal audience. Its success shows audiences embrace AI personalities that advocate for marginalized communities. via WIRED AI\"",
-    "articleUrl": "https://www.wired.com/story/this-ai-radio-hosts-speaks-spanish-and-backs-immigrants-its-winning-over-listeners/",
+    "tweetText": "Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures — a significant development in AI that warrants attention. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/",
     "sourceName": "WIRED AI",
     "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Mon, 26 Oct 2026 09:00:00 +0000"
-  },
-  {
-    "tweetText": "Reddit’s r/opensource banned AI projects, non-English content and more in new rules. It matters because it reshapes who can share open-source work and sets a precedent for community control. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-10-25T13:25:32.000Z"
-  },
-  {
-    "tweetText": "Google’s AI search changes upended online publishing — a significant development in AI that warrants attention. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-10-25T12:00:00.000Z"
+    "publishedAt": "Mon, 26 Oct 2026 21:27:15 +0000"
   }
 ]
