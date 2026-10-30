@@ -1,72 +1,72 @@
 [
   {
-    "tweetText": "The user wants a summary in the style of an X tweet, max 240 characters, plain English, two short sentences: first what happened, second why it matters. End with \"via OpenAI News\". No hashtags or links. Copy-paste ready.\n\nWe need to craft two short sentences. First sentence: what happened. Second: why it matters. Then \"via OpenAI News\". Must be <=240 characters total.\n\nLet's count characters. We'll aim for around 200.\n\nFirst sentence: \"OpenAI and ServiceNow expanded their partnership to embed OpenAI models into ServiceNow workflows and bring ServiceNow tools into ChatGPT and Codex.\" That's long. Need shorter.\n\nMaybe: \"OpenAI and ServiceNow deepened their partnership, integrating OpenAI models into ServiceNow and adding ServiceNow workflows to ChatGPT and Codex.\" Count characters.\n\nLet's count: \"OpenAI and ServiceNow deepened their partnership, integrating OpenAI models into ServiceNow and adding ServiceNow workflows to ChatGPT and Codex.\" Count characters including spaces.\n\nI'll count manually: \n\"OpenAI and ServiceNow deepened their partnership, integrating OpenAI models into ServiceNow and adding ServiceNow workflows to ChatGPT and Codex.\"\n\nCount: \nOpenAI(6) + space(1)=7\nand(3",
-    "articleUrl": "https://openai.com/index/openai-servicenow-partnership-expansion",
+    "tweetText": "The user wants a summary in the style of an X tweet, max 240 characters, plain English, two short sentences: first what happened, second why it matters. End with \"via OpenAI News\". No hashtags or links. Copy-paste ready.\n\nWe need to summarize the article: OpenAI updated Model Spec with five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.\n\nFirst sentence: what happened: \"OpenAI released an updated Model Spec with five core values for more capable AI.\" Second sentence: why it matters: \"It aims to ensure AI makes sound judgments, respects human agency, and follows human intent.\" End with \"via OpenAI News\". Count characters.\n\nLet's craft: \"OpenAI released an updated Model Spec with five core values for more capable AI. It aims to ensure AI makes sound judgments, respects human agency, and follows human intent. via OpenAI News\"\n\nCount characters: Let's count.\n\n\"OpenAI released an updated Model Spec with five core values for more capable AI.\" Count: O(1) p2 e3 n4 A5 I6 (space7) r8 e9 l10 e11 a12 s13 e14 d15 (space16) a17 n18 (space19) u20 p",
+    "articleUrl": "https://openai.com/index/updated-model-spec",
     "sourceName": "OpenAI News",
     "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Wed, 28 Oct 2026 13:15:00 GMT"
+    "publishedAt": "Thu, 29 Oct 2026 17:00:00 GMT"
   },
   {
-    "tweetText": "The user wants a summary in the style of an X tweet, max 240 characters, plain English, two short sentences: first what happened, second why it matters. End with \"via TechCrunch AI\". No hashtags or links. Copy-paste ready.\n\nWe need to summarize the article: Google expands AI Search ads globally as core ad growth slows. The announcement came alongside Alphabet's Q3 earnings, revenue grew 25% YoY to $127.6B.\n\nWe need two short sentences. First: what happened: Google expands AI Search ads globally. Second: why it matters: core ad growth slowing, but revenue still up 25% to $127.6B. End with \"via TechCrunch AI\". No hashtags, no links.\n\nCharacter count: Let's draft.\n\n\"Google rolls out AI Search ads worldwide as its core ad growth slows. Alphabet still posted 25% revenue growth to $127.6B in Q3. via TechCrunch AI\"\n\nCount characters: Let's count.\n\n\"Google rolls out AI Search ads worldwide as its core ad growth slows. Alphabet still posted 25% revenue growth to $127.6B in Q3. via TechCrunch AI\"\n\nCount each character including spaces.\n\nI'll count manually:",
-    "articleUrl": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+    "tweetText": "A university administrator got a religious exemption from using AI at work. It sets a precedent for AI accommodations in the workplace. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 28 Oct 2026 21:48:37 +0000"
+    "publishedAt": "Fri, 30 Oct 2026 01:20:48 +0000"
   },
   {
-    "tweetText": "Microsoft recorded $10 billion in revenue from OpenAI — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+    "tweetText": "AWS will be a $1T business, Jassy says — but first, it will spend big — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 28 Oct 2026 21:34:30 +0000"
+    "publishedAt": "Thu, 29 Oct 2026 23:42:22 +0000"
   },
   {
-    "tweetText": "Microsoft hits 10 quarters of record-breaking revenue in a row — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+    "tweetText": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 28 Oct 2026 21:25:30 +0000"
+    "publishedAt": "Thu, 29 Oct 2026 20:08:31 +0000"
   },
   {
-    "tweetText": "Anthropic launched new tools to help companies track their AI spending. This provides much-needed transparency as the lab prepares for an IPO. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+    "tweetText": "Rivian is adding an AI assistant to its joint venture with VW. This move helps both companies improve the software and user experience in their electric vehicles. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 28 Oct 2026 19:19:58 +0000"
+    "publishedAt": "Thu, 29 Oct 2026 20:05:47 +0000"
   },
   {
-    "tweetText": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+    "tweetText": "OpenAI-backed Thrive Holdings acquires ADT — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 28 Oct 2026 17:00:00 +0000"
+    "publishedAt": "Thu, 29 Oct 2026 19:56:19 +0000"
   },
   {
-    "tweetText": "The user wants a summary in the style of an X tweet, max 240 characters, plain English, two short sentences: first what happened, second why it matters. End with \"via TechCrunch AI\". No hashtags or links. Copy-paste ready.\n\nWe need to condense the article: Google opens Gemini and Search to more apps via a new developer platform, letting businesses bring services to Google's AI experiences, potentially changing how consumers discover and use apps.\n\nFirst sentence: Google launched a platform letting apps plug into Gemini and Search. Second: This could change how people find and use services. End with via TechCrunch AI.\n\nCount characters. Let's craft:\n\n\"Google opened Gemini and Search to more apps via a new developer platform. This could reshape how consumers discover and use services. via TechCrunch AI\"\n\nCount characters: Let's count.\n\n\"Google opened Gemini and Search to more apps via a new developer platform.\" = let's count: G(1) o2 o3 g4 l5 e6 (space7) o8 p9 e10 n11 e12 d13 (space14) G15 e16 m17 i18 n19 i20 (space21) a22 n23 d24 (space25) S26 e27",
-    "articleUrl": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+    "tweetText": "Meta launched Style Sketch, an AI fashion app that creates a virtual closet from your Instagram photos or manual uploads. It matters because it turns your phone into a personal stylist, helping you organize outfits and discover new looks using AI.\n\nvia TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 28 Oct 2026 17:00:00 +0000"
+    "publishedAt": "Thu, 29 Oct 2026 19:14:36 +0000"
   },
   {
-    "tweetText": "User Safety: safe",
-    "articleUrl": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+    "tweetText": "The user wants a summary in the style of an X tweet, max 240 characters, plain English, two short sentences: first what happened, second why it matters. End with \"via TechCrunch AI\". No hashtags or links. Copy-paste ready.\n\nWe need to summarize the article: Granola adds dictation feature to compete with Wispr. The voice AI wars are heating up.\n\nWe need two short sentences. First: what happened. Second: why it matters. Then \"via TechCrunch AI\". Total characters <=240.\n\nLet's craft:\n\n\"Granola adds dictation to its meeting notetaker to rival Wispr. The voice AI race intensifies as apps copy each other's features. via TechCrunch AI\"\n\nCount characters: Let's count.\n\n\"Granola adds dictation to its meeting notetaker to rival Wispr.\" = let's count: G r a n o l a (7) + space (1) =8, \"adds\" 4 =>12, space=13, \"dictation\" 9 =>22, space=23, \"to\"2=>25, space=26, \"its\"3=>29, space=30, \"meeting\"7=>37, space=38, \"notetaker\"9=>",
+    "articleUrl": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 28 Oct 2026 15:53:52 +0000"
+    "publishedAt": "Thu, 29 Oct 2026 17:54:38 +0000"
   },
   {
-    "tweetText": "South Korea’s financial industry hit by fresh wave of cyberattacks — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
+    "tweetText": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 28 Oct 2026 15:41:18 +0000"
+    "publishedAt": "Thu, 29 Oct 2026 17:00:00 +0000"
   },
   {
-    "tweetText": "Voice AI in vogue: Nvidia releases new open transcription model — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+    "tweetText": "US investigated Chinese spy plot aimed at Nvidia CEO — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 28 Oct 2026 15:00:00 +0000"
+    "publishedAt": "Thu, 29 Oct 2026 16:42:32 +0000"
   }
 ]
