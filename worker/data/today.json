@@ -1,72 +1,72 @@
 [
   {
-    "tweetText": "The user wants a summary in the style of an X tweet, max 240 characters, plain English, two short sentences: first what happened, second why it matters. End with \"via OpenAI News\". No hashtags or links. Copy-paste ready.\n\nWe need to summarize the article: OpenAI updated Model Spec with five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.\n\nFirst sentence: what happened: \"OpenAI released an updated Model Spec with five core values for more capable AI.\" Second sentence: why it matters: \"It aims to ensure AI makes sound judgments, respects human agency, and follows human intent.\" End with \"via OpenAI News\". Count characters.\n\nLet's craft: \"OpenAI released an updated Model Spec with five core values for more capable AI. It aims to ensure AI makes sound judgments, respects human agency, and follows human intent. via OpenAI News\"\n\nCount characters: Let's count.\n\n\"OpenAI released an updated Model Spec with five core values for more capable AI.\" Count: O(1) p2 e3 n4 A5 I6 (space7) r8 e9 l10 e11 a12 s13 e14 d15 (space16) a17 n18 (space19) u20 p",
-    "articleUrl": "https://openai.com/index/updated-model-spec",
-    "sourceName": "OpenAI News",
-    "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Thu, 29 Oct 2026 17:00:00 GMT"
-  },
-  {
-    "tweetText": "A university administrator got a religious exemption from using AI at work. It sets a precedent for AI accommodations in the workplace. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+    "tweetText": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 30 Oct 2026 01:20:48 +0000"
+    "publishedAt": "Sat, 31 Oct 2026 01:20:05 +0000"
   },
   {
-    "tweetText": "AWS will be a $1T business, Jassy says — but first, it will spend big — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+    "tweetText": "The privacy-focused AI assistant Ollie is shutting down next week. This shows how difficult it is for niche, ethical tools to survive in a market flooded by giant AI competitors. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 29 Oct 2026 23:42:22 +0000"
+    "publishedAt": "Fri, 30 Oct 2026 22:56:13 +0000"
   },
   {
-    "tweetText": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+    "tweetText": "Intel's stock plunged, wiping $12B from the government's stake. The AI boom is driving up component costs, which hurts PC sales and pressures Intel. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 29 Oct 2026 20:08:31 +0000"
+    "publishedAt": "Fri, 30 Oct 2026 21:54:34 +0000"
   },
   {
-    "tweetText": "Rivian is adding an AI assistant to its joint venture with VW. This move helps both companies improve the software and user experience in their electric vehicles. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
+    "tweetText": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 29 Oct 2026 20:05:47 +0000"
+    "publishedAt": "Fri, 30 Oct 2026 21:52:03 +0000"
   },
   {
-    "tweetText": "OpenAI-backed Thrive Holdings acquires ADT — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+    "tweetText": "Last-minute Halloween costumes for tech nerds — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 29 Oct 2026 19:56:19 +0000"
+    "publishedAt": "Fri, 30 Oct 2026 21:26:59 +0000"
   },
   {
-    "tweetText": "Meta launched Style Sketch, an AI fashion app that creates a virtual closet from your Instagram photos or manual uploads. It matters because it turns your phone into a personal stylist, helping you organize outfits and discover new looks using AI.\n\nvia TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
+    "tweetText": "Cracks are emerging in the AI spending boom — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 29 Oct 2026 19:14:36 +0000"
+    "publishedAt": "Fri, 30 Oct 2026 21:17:40 +0000"
   },
   {
-    "tweetText": "The user wants a summary in the style of an X tweet, max 240 characters, plain English, two short sentences: first what happened, second why it matters. End with \"via TechCrunch AI\". No hashtags or links. Copy-paste ready.\n\nWe need to summarize the article: Granola adds dictation feature to compete with Wispr. The voice AI wars are heating up.\n\nWe need two short sentences. First: what happened. Second: why it matters. Then \"via TechCrunch AI\". Total characters <=240.\n\nLet's craft:\n\n\"Granola adds dictation to its meeting notetaker to rival Wispr. The voice AI race intensifies as apps copy each other's features. via TechCrunch AI\"\n\nCount characters: Let's count.\n\n\"Granola adds dictation to its meeting notetaker to rival Wispr.\" = let's count: G r a n o l a (7) + space (1) =8, \"adds\" 4 =>12, space=13, \"dictation\" 9 =>22, space=23, \"to\"2=>25, space=26, \"its\"3=>29, space=30, \"meeting\"7=>37, space=38, \"notetaker\"9=>",
-    "articleUrl": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+    "tweetText": "Zest launched an AI agent that finds restaurants and books reservations via text. It makes group dining easier by voting on options and handling the booking. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 29 Oct 2026 17:54:38 +0000"
+    "publishedAt": "Fri, 30 Oct 2026 17:47:12 +0000"
   },
   {
-    "tweetText": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+    "tweetText": "Google’s first data center satellite is online and writing poetry — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 29 Oct 2026 17:00:00 +0000"
+    "publishedAt": "Fri, 30 Oct 2026 17:00:00 +0000"
   },
   {
-    "tweetText": "US investigated Chinese spy plot aimed at Nvidia CEO — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
+    "tweetText": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’ — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 29 Oct 2026 16:42:32 +0000"
+    "publishedAt": "Fri, 30 Oct 2026 16:03:45 +0000"
+  },
+  {
+    "tweetText": "DoorDash reports that AI agents have only placed a few hundred orders so far. This shows that while the technology is growing, consumer AI shopping is still in its very early stages. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Fri, 30 Oct 2026 13:54:25 +0000"
   }
 ]
