@@ -1,44 +1,37 @@
 [
   {
-    "tweetText": "Apple CEO Tim Cook says the company won't release AI tools just for the sake of it. This means Apple will only launch features that actually improve user experience. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+    "tweetText": "OpenAI may rename its data centers to AI compute campuses. This shift aims to improve public perception of massive infrastructure projects. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sat, 31 Oct 2026 21:41:00 +0000"
+    "publishedAt": "Sun, 01 Nov 2026 21:55:23 +0000"
   },
   {
-    "tweetText": "A judge is allowing an NAACP lawsuit against xAI to proceed over data center pollution. This could force AI companies to follow stricter environmental laws. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+    "tweetText": "AI can make tech CEOs’ lives easier. What about everyone else? — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sat, 31 Oct 2026 21:17:03 +0000"
+    "publishedAt": "Sun, 01 Nov 2026 20:57:58 +0000"
   },
   {
-    "tweetText": "OpenAI reportedly lowers funding target for new round — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sat, 31 Oct 2026 16:12:55 +0000"
-  },
-  {
-    "tweetText": "Chatbots Are Leading Hikers Astray, With Dangerous Consequences — a significant development in AI that warrants attention. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/",
+    "tweetText": "When You Should—and Shouldn’t—Use AI to Search the Web — a significant development in AI that warrants attention. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/when-you-should-and-shouldnt-use-ai-to-search-the-web/",
     "sourceName": "WIRED AI",
     "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Sun, 01 Nov 2026 10:30:00 +0000"
+    "publishedAt": "Mon, 02 Nov 2026 12:00:00 +0000"
   },
   {
-    "tweetText": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims — a significant development in AI that warrants attention. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
+    "tweetText": "Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features — a significant development in AI that warrants attention. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/",
     "sourceName": "WIRED AI",
     "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Sat, 31 Oct 2026 12:00:00 +0000"
+    "publishedAt": "Mon, 02 Nov 2026 10:00:00 +0000"
   },
   {
-    "tweetText": "I built an AI Tamagotchi before Meta could — a significant development in AI that warrants attention. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-10-31T16:05:00.000Z"
+    "tweetText": "The agentic web is here — a significant development in AI that warrants attention. via MIT Technology Review",
+    "articleUrl": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+    "sourceName": "MIT Technology Review",
+    "sourceHomeUrl": "https://www.technologyreview.com/topic/artificial-intelligence/",
+    "publishedAt": "Mon, 02 Nov 2026 09:35:19 +0000"
   }
 ]
