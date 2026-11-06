@@ -1,72 +1,72 @@
 [
   {
-    "tweetText": "Agile Deliberation: How AI helps humans define the gray areas — a significant development in AI that warrants attention. via Google Research Blog",
-    "articleUrl": "https://research.google/blog/agile-deliberation-how-ai-helps-humans-define-the-gray-areas/",
-    "sourceName": "Google Research Blog",
-    "sourceHomeUrl": "https://research.google/blog/",
-    "publishedAt": "Wed, 04 Nov 2026 18:07:05 +0000"
-  },
-  {
-    "tweetText": "Setting a new standard for responsible AI infrastructure — a significant development in AI that warrants attention. via OpenAI News",
-    "articleUrl": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+    "tweetText": "Australian universities are creating AI-native graduates — a significant development in AI that warrants attention. via OpenAI News",
+    "articleUrl": "https://openai.com/index/australian-universities-ai-native-graduates",
     "sourceName": "OpenAI News",
     "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Thu, 05 Nov 2026 02:00:00 GMT"
+    "publishedAt": "Thu, 05 Nov 2026 17:00:00 GMT"
   },
   {
-    "tweetText": "OpenAI to acquire Pierre Computer Company, Inc. — a significant development in AI that warrants attention. via OpenAI News",
-    "articleUrl": "https://openai.com/index/openai-to-acquire-pierre",
-    "sourceName": "OpenAI News",
-    "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Wed, 04 Nov 2026 14:30:00 GMT"
-  },
-  {
-    "tweetText": "Agility is the first pure humanoid robot company on the stock market. Are you buying? — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
+    "tweetText": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 05 Nov 2026 12:00:00 +0000"
+    "publishedAt": "Fri, 06 Nov 2026 06:28:32 +0000"
   },
   {
-    "tweetText": "Apple is reportedly cutting budgets for its internal AI usage — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+    "tweetText": "1.  **Analyze the Request:**\n    *   **Source Text:** \"Title: Airbnb says it’s launching an AI travel agent in the first half of 2027. Summary: Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.\"\n    *   **Style:** X tweet style (concise, punchy).\n    *   **Length:** Max 240 characters.\n    *   **Language:** Plain English.\n    *   **Structure:** Exactly two short sentences. First sentence: what happened. Second sentence: why it matters.\n    *   **Ending:** \"via TechCrunch AI\" (no period after AI if possible, or just the exact phrase). Wait, standard X format is usually \"via @username\". The prompt says \"End with via TechCrunch AI.\" I will use exactly \"via TechCrunch AI\".\n    *   **Constraints:** No hashtags, no links, copy-paste ready.\n\n2.  **Drafting - Sentence 1 (What happened):**\n    *   *Idea:* Airbnb will launch an AI travel agent next year.\n    *   *Draft 1:* Airbnb plans to launch its AI travel agent in H1 2027",
+    "articleUrl": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 05 Nov 2026 01:26:22 +0000"
+    "publishedAt": "Thu, 05 Nov 2026 22:40:55 +0000"
   },
   {
-    "tweetText": "AI PACs spent millions trying to shape Congress — here’s how they fared — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+    "tweetText": "Meta now lets US users video chat with their Muse AI avatar. This brings AI interactions closer to real-life human conversation. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 04 Nov 2026 22:45:09 +0000"
+    "publishedAt": "Thu, 05 Nov 2026 19:48:28 +0000"
   },
   {
-    "tweetText": "Nothing CEO says company’s mysterious AI-first device is dropping next month — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+    "tweetText": "Meta warns that election backlash against data centers could make AI expansion harder — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 04 Nov 2026 22:13:16 +0000"
+    "publishedAt": "Thu, 05 Nov 2026 19:12:39 +0000"
   },
   {
-    "tweetText": "Almost no one uses AI agents to book their Uber, company says — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+    "tweetText": "OpenAI released a new AI model focused on cybersecurity. It shows the company is trying to better protect digital infrastructure amid growing scrutiny. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 04 Nov 2026 21:56:01 +0000"
+    "publishedAt": "Thu, 05 Nov 2026 19:06:12 +0000"
   },
   {
-    "tweetText": "OpenAI is already trying to shape the 2028 election — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+    "tweetText": "1.  **Analyze the Request:**\n    *   **Source Text:** \"OpenAI president Greg Brockman says company could be IPO ready in 2027. Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads.\"\n    *   **Task:** Summarize the article.\n    *   **Style:** X tweet style.\n    *   **Length:** Max 240 characters.\n    *   **Language:** Plain English.\n    *   **Structure:** Two short sentences: [What happened], [Why it matters].\n    *   **Ending:** End with \"via TechCrunch AI\".\n    *   **Constraints:** No hashtags, no links, copy-paste ready.\n\n2.  **Drafting - Sentence 1 (What happened):**\n    *   *Draft 1:* OpenAI's Greg Brockman said the company might go public as early as 2027. (14 words)\n    *   *Refining for punchiness (X style):* OpenAI's Greg Brockman says the company could IPO as early as 2027. (39 chars)\n\n3.  **",
+    "articleUrl": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 04 Nov 2026 21:25:44 +0000"
+    "publishedAt": "Thu, 05 Nov 2026 18:02:27 +0000"
   },
   {
-    "tweetText": "Meta acquires AI coding startup Conductor — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+    "tweetText": "Claude can now analyze your spending with its new Personal Finance tool — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Wed, 04 Nov 2026 21:10:56 +0000"
+    "publishedAt": "Thu, 05 Nov 2026 18:00:00 +0000"
+  },
+  {
+    "tweetText": "Axiom Math wants to keep AI slop out of mathematics — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Thu, 05 Nov 2026 16:16:45 +0000"
+  },
+  {
+    "tweetText": "Dropbox bought Tigris Data for $350 million. This helps them build a new storage platform for developers creating AI models and agents. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Thu, 05 Nov 2026 15:19:05 +0000"
   }
 ]
