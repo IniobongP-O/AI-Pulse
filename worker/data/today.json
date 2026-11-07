@@ -1,72 +1,72 @@
 [
   {
-    "tweetText": "Australian universities are creating AI-native graduates — a significant development in AI that warrants attention. via OpenAI News",
-    "articleUrl": "https://openai.com/index/australian-universities-ai-native-graduates",
-    "sourceName": "OpenAI News",
-    "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Thu, 05 Nov 2026 17:00:00 GMT"
-  },
-  {
-    "tweetText": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+    "tweetText": "Crusoe sells troubled Wyoming data center project to Google — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 06 Nov 2026 06:28:32 +0000"
+    "publishedAt": "Sat, 07 Nov 2026 01:40:28 +0000"
   },
   {
-    "tweetText": "1.  **Analyze the Request:**\n    *   **Source Text:** \"Title: Airbnb says it’s launching an AI travel agent in the first half of 2027. Summary: Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.\"\n    *   **Style:** X tweet style (concise, punchy).\n    *   **Length:** Max 240 characters.\n    *   **Language:** Plain English.\n    *   **Structure:** Exactly two short sentences. First sentence: what happened. Second sentence: why it matters.\n    *   **Ending:** \"via TechCrunch AI\" (no period after AI if possible, or just the exact phrase). Wait, standard X format is usually \"via @username\". The prompt says \"End with via TechCrunch AI.\" I will use exactly \"via TechCrunch AI\".\n    *   **Constraints:** No hashtags, no links, copy-paste ready.\n\n2.  **Drafting - Sentence 1 (What happened):**\n    *   *Idea:* Airbnb will launch an AI travel agent next year.\n    *   *Draft 1:* Airbnb plans to launch its AI travel agent in H1 2027",
-    "articleUrl": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+    "tweetText": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 05 Nov 2026 22:40:55 +0000"
+    "publishedAt": "Fri, 06 Nov 2026 22:53:46 +0000"
   },
   {
-    "tweetText": "Meta now lets US users video chat with their Muse AI avatar. This brings AI interactions closer to real-life human conversation. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+    "tweetText": "Hundreds of Artex AI hacking tools found publicly exposed to the web — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 05 Nov 2026 19:48:28 +0000"
+    "publishedAt": "Fri, 06 Nov 2026 18:44:38 +0000"
   },
   {
-    "tweetText": "Meta warns that election backlash against data centers could make AI expansion harder — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+    "tweetText": "Meta introduces Spaces, a new way to collaborate with your Muse agent — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 05 Nov 2026 19:12:39 +0000"
+    "publishedAt": "Fri, 06 Nov 2026 18:44:20 +0000"
   },
   {
-    "tweetText": "OpenAI released a new AI model focused on cybersecurity. It shows the company is trying to better protect digital infrastructure amid growing scrutiny. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+    "tweetText": "How a Blue Wave midterm might reshape the AI industry — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 05 Nov 2026 19:06:12 +0000"
+    "publishedAt": "Fri, 06 Nov 2026 18:00:00 +0000"
   },
   {
-    "tweetText": "1.  **Analyze the Request:**\n    *   **Source Text:** \"OpenAI president Greg Brockman says company could be IPO ready in 2027. Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads.\"\n    *   **Task:** Summarize the article.\n    *   **Style:** X tweet style.\n    *   **Length:** Max 240 characters.\n    *   **Language:** Plain English.\n    *   **Structure:** Two short sentences: [What happened], [Why it matters].\n    *   **Ending:** End with \"via TechCrunch AI\".\n    *   **Constraints:** No hashtags, no links, copy-paste ready.\n\n2.  **Drafting - Sentence 1 (What happened):**\n    *   *Draft 1:* OpenAI's Greg Brockman said the company might go public as early as 2027. (14 words)\n    *   *Refining for punchiness (X style):* OpenAI's Greg Brockman says the company could IPO as early as 2027. (39 chars)\n\n3.  **",
-    "articleUrl": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+    "tweetText": "After the midterms, is the AI industry in for a rough two years? — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 05 Nov 2026 18:02:27 +0000"
+    "publishedAt": "Fri, 06 Nov 2026 17:23:52 +0000"
   },
   {
-    "tweetText": "Claude can now analyze your spending with its new Personal Finance tool — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+    "tweetText": "Ramp data shows AI spending stalling just as Anthropic nears its IPO — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 05 Nov 2026 18:00:00 +0000"
+    "publishedAt": "Fri, 06 Nov 2026 15:54:47 +0000"
   },
   {
-    "tweetText": "Axiom Math wants to keep AI slop out of mathematics — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 05 Nov 2026 16:16:45 +0000"
+    "tweetText": "New AI tools are helping family caregivers manage daily tasks more easily. However, technology alone cannot solve the deep burnout and emotional stress caregivers face. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
+    "sourceName": "WIRED AI",
+    "sourceHomeUrl": "https://wired.com/tag/ai/",
+    "publishedAt": "Sat, 07 Nov 2026 11:00:00 +0000"
   },
   {
-    "tweetText": "Dropbox bought Tigris Data for $350 million. This helps them build a new storage platform for developers creating AI models and agents. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 05 Nov 2026 15:19:05 +0000"
+    "tweetText": "Free Chinese AI Models Are Getting Scary Good at Hacking — a significant development in AI that warrants attention. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
+    "sourceName": "WIRED AI",
+    "sourceHomeUrl": "https://wired.com/tag/ai/",
+    "publishedAt": "Fri, 06 Nov 2026 18:43:43 +0000"
+  },
+  {
+    "tweetText": "Data brokers are collecting private corporate files and emails to train AI models. This move could compromise company privacy and sensitive information. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/",
+    "sourceName": "WIRED AI",
+    "sourceHomeUrl": "https://wired.com/tag/ai/",
+    "publishedAt": "Fri, 06 Nov 2026 16:00:00 +0000"
   }
 ]
