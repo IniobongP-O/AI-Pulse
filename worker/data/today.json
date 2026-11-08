@@ -1,72 +1,37 @@
 [
   {
-    "tweetText": "Crusoe sells troubled Wyoming data center project to Google — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sat, 07 Nov 2026 01:40:28 +0000"
-  },
-  {
-    "tweetText": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 06 Nov 2026 22:53:46 +0000"
-  },
-  {
-    "tweetText": "Hundreds of Artex AI hacking tools found publicly exposed to the web — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 06 Nov 2026 18:44:38 +0000"
-  },
-  {
-    "tweetText": "Meta introduces Spaces, a new way to collaborate with your Muse agent — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 06 Nov 2026 18:44:20 +0000"
-  },
-  {
-    "tweetText": "How a Blue Wave midterm might reshape the AI industry — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 06 Nov 2026 18:00:00 +0000"
-  },
-  {
-    "tweetText": "After the midterms, is the AI industry in for a rough two years? — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 06 Nov 2026 17:23:52 +0000"
-  },
-  {
-    "tweetText": "Ramp data shows AI spending stalling just as Anthropic nears its IPO — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 06 Nov 2026 15:54:47 +0000"
-  },
-  {
-    "tweetText": "New AI tools are helping family caregivers manage daily tasks more easily. However, technology alone cannot solve the deep burnout and emotional stress caregivers face. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
+    "tweetText": "World Models Will Soon Be Inescapable. Here’s What You Need to Know — a significant development in AI that warrants attention. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/",
     "sourceName": "WIRED AI",
     "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Sat, 07 Nov 2026 11:00:00 +0000"
+    "publishedAt": "Sun, 08 Nov 2026 10:00:00 +0000"
   },
   {
-    "tweetText": "Free Chinese AI Models Are Getting Scary Good at Hacking — a significant development in AI that warrants attention. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
-    "sourceName": "WIRED AI",
-    "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Fri, 06 Nov 2026 18:43:43 +0000"
+    "tweetText": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake — a significant development in AI that warrants attention. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+    "sourceName": "The Verge AI",
+    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
+    "publishedAt": "2026-11-07T15:50:00.000Z"
   },
   {
-    "tweetText": "Data brokers are collecting private corporate files and emails to train AI models. This move could compromise company privacy and sensitive information. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/",
-    "sourceName": "WIRED AI",
-    "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Fri, 06 Nov 2026 16:00:00 +0000"
+    "tweetText": "The US approved Nvidia to sell H200 AI chips to a Chinese firm whose office is an empty, wired shell. This highlights lax vetting that could let chips end up in the wrong hands. via The",
+    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+    "sourceName": "The Verge AI",
+    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
+    "publishedAt": "2026-11-07T15:43:45.000Z"
+  },
+  {
+    "tweetText": "AI broke the cybersecurity world. What’s next? — a significant development in AI that warrants attention. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+    "sourceName": "The Verge AI",
+    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
+    "publishedAt": "2026-11-07T15:00:00.000Z"
+  },
+  {
+    "tweetText": "Why a new report on Anthropic automating AI development is alarming researchers — a significant development in AI that warrants attention. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+    "sourceName": "The Verge AI",
+    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
+    "publishedAt": "2026-11-07T12:30:00.000Z"
   }
 ]
