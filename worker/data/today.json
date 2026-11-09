@@ -1,37 +1,51 @@
 [
   {
-    "tweetText": "World Models Will Soon Be Inescapable. Here’s What You Need to Know — a significant development in AI that warrants attention. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/",
+    "tweetText": "Authors Can Defend Against AI Allegations With ‘Paper Trail’ Tools. Is It Enough? — a significant development in AI that warrants attention. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/authors-can-defend-against-ai-allegations-with-paper-trail-tools/",
     "sourceName": "WIRED AI",
     "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Sun, 08 Nov 2026 10:00:00 +0000"
+    "publishedAt": "Mon, 09 Nov 2026 11:00:00 +0000"
   },
   {
-    "tweetText": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake — a significant development in AI that warrants attention. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+    "tweetText": "Here’s the full text of Jensen Huang’s memo to Nvidia — a significant development in AI that warrants attention. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
     "sourceName": "The Verge AI",
     "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-11-07T15:50:00.000Z"
+    "publishedAt": "2026-11-08T22:54:50.000Z"
   },
   {
-    "tweetText": "The US approved Nvidia to sell H200 AI chips to a Chinese firm whose office is an empty, wired shell. This highlights lax vetting that could let chips end up in the wrong hands. via The",
-    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+    "tweetText": "1.  **Analyze the Request:**\n    *   **Topic:** Apple racing to make Siri more agentic (from The Verge article summary).\n    *   **Style:** X tweet.\n    *   **Length:** Max 240 characters.\n    *   **Language:** Plain English.\n    *   **Structure:** Two short sentences (First: What happened. Second: Why it matters).\n    *   **Ending:** \"via The Verge AI\" (no period, exactly as requested, though standard punctuation usually applies, I will follow the prompt's implied instruction to end with that phrase).\n    *   **Constraints:** No hashtags, no links, copy-paste ready.\n\n2.  **Extract Key Information:**\n    *   *What happened:* Apple CEO is pushing AI czar to speed up Siri roadmap to build a competitive AI agent vs OpenAI/Meta.\n    *   *Why it matters:* Apple needs a strong AI agent to keep up with rival AI assistants; upcoming updates give Siri better app control (Photos, Safari).\n\n3.  **Drafting - Attempt 1:**\n    Apple's pushing hard to make Siri an AI agent to compete with rivals. This matters because Apple needs a strong AI assistant to keep up with OpenAI and Meta. via",
+    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
     "sourceName": "The Verge AI",
     "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-11-07T15:43:45.000Z"
+    "publishedAt": "2026-11-08T19:18:19.000Z"
   },
   {
-    "tweetText": "AI broke the cybersecurity world. What’s next? — a significant development in AI that warrants attention. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+    "tweetText": "Elvis and Eminem rights holders are suing Suno — a significant development in AI that warrants attention. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
     "sourceName": "The Verge AI",
     "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-11-07T15:00:00.000Z"
+    "publishedAt": "2026-11-08T17:23:19.000Z"
   },
   {
-    "tweetText": "Why a new report on Anthropic automating AI development is alarming researchers — a significant development in AI that warrants attention. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-11-07T12:30:00.000Z"
+    "tweetText": "The Download: empty AI climate claims, and an Nvidia investigation — a significant development in AI that warrants attention. via MIT Technology Review",
+    "articleUrl": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/",
+    "sourceName": "MIT Technology Review",
+    "sourceHomeUrl": "https://www.technologyreview.com/topic/artificial-intelligence/",
+    "publishedAt": "Mon, 09 Nov 2026 13:15:00 +0000"
+  },
+  {
+    "tweetText": "Innovating with AI in the special chemicals industry — a significant development in AI that warrants attention. via MIT Technology Review",
+    "articleUrl": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+    "sourceName": "MIT Technology Review",
+    "sourceHomeUrl": "https://www.technologyreview.com/topic/artificial-intelligence/",
+    "publishedAt": "Mon, 09 Nov 2026 13:00:00 +0000"
+  },
+  {
+    "tweetText": "Countries are debating how to use AI for climate action at a UN conference. It is unclear if the technology's benefits outweigh its huge energy costs. via MIT Technology Review",
+    "articleUrl": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
+    "sourceName": "MIT Technology Review",
+    "sourceHomeUrl": "https://www.technologyreview.com/topic/artificial-intelligence/",
+    "publishedAt": "Mon, 09 Nov 2026 10:00:00 +0000"
   }
 ]
