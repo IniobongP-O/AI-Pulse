@@ -1,72 +1,72 @@
 [
   {
-    "tweetText": "1.  **Analyze the Request:**\n    *   **Input Article:** \"Helping caregivers use AI in everyday life. Summary: OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.\"\n    *   **Style:** X tweet style.\n    *   **Length:** Max 240 characters.\n    *   **Language:** Plain English.\n    *   **Format:** Two short sentences (What happened, Why it matters).\n    *   **Ending:** \"via OpenAI News\" (no period).\n    *   **Constraints:** No hashtags, no links, copy-paste ready.\n\n2.  **Drafting - Sentence 1 (What happened):**\n    *   *Idea:* OpenAI Academy is hosting free ChatGPT workshops for caregivers in five US cities.\n    *   *Draft:* OpenAI Academy is hosting free ChatGPT workshops for caregivers across five U.S. cities.\n\n3.  **Drafting - Sentence 2 (Why it matters):**\n    *   *Idea:* It helps them learn practical AI skills for daily life.\n    *   *Draft:* This helps caregivers build practical AI skills for their everyday lives.",
-    "articleUrl": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+    "tweetText": "ChatGPT Plus for veterans and servicemembers — a significant development in AI that warrants attention. via OpenAI News",
+    "articleUrl": "https://openai.com/index/chatgpt-plus-for-veterans",
     "sourceName": "OpenAI News",
     "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Tue, 10 Nov 2026 12:00:00 GMT"
+    "publishedAt": "Wed, 11 Nov 2026 08:00:00 GMT"
   },
   {
-    "tweetText": "Closing the AI guidance gap in education — a significant development in AI that warrants attention. via OpenAI News",
-    "articleUrl": "https://openai.com/index/closing-ai-guidance-gap-education",
-    "sourceName": "OpenAI News",
-    "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Tue, 10 Nov 2026 09:00:00 GMT"
-  },
-  {
-    "tweetText": "ChatGPT Enterprise now available in AWS Marketplace — a significant development in AI that warrants attention. via OpenAI News",
-    "articleUrl": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-    "sourceName": "OpenAI News",
-    "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Mon, 09 Nov 2026 19:00:00 GMT"
-  },
-  {
-    "tweetText": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns  — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
+    "tweetText": "OpenAI acquired Odessia, a travel startup from Sonder founder Francis Davidson. The move hints at bigger travel ambitions for the AI giant. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 10 Nov 2026 13:00:00 +0000"
+    "publishedAt": "Tue, 10 Nov 2026 21:08:52 +0000"
   },
   {
-    "tweetText": "Otter AI now supports over 30 languages and can follow conversations even when speakers switch between them. This breaks down language barriers for global teams and meetings. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
+    "tweetText": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 10 Nov 2026 07:00:00 +0000"
+    "publishedAt": "Tue, 10 Nov 2026 20:52:13 +0000"
   },
   {
-    "tweetText": "Anthropic reportedly plans to move forward with IPO plans — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+    "tweetText": "All 7 Anthropic founders will each cash out about $250M in IPO — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Tue, 10 Nov 2026 01:27:12 +0000"
+    "publishedAt": "Tue, 10 Nov 2026 19:57:52 +0000"
   },
   {
-    "tweetText": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+    "tweetText": "Oura to acquire AI-native primary care startup Counsel Health for $625M — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 09 Nov 2026 20:09:06 +0000"
+    "publishedAt": "Tue, 10 Nov 2026 19:23:34 +0000"
   },
   {
-    "tweetText": "Anthropic releases new Mythos and Fable models amid RSI concerns — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+    "tweetText": "PSI is trying to make a business out of AI-driven scientific discovery — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 09 Nov 2026 19:24:51 +0000"
+    "publishedAt": "Tue, 10 Nov 2026 19:03:52 +0000"
   },
   {
-    "tweetText": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+    "tweetText": "OpenAI launched new business profiles for ChatGPT. This helps companies control how they appear when users search for them. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 09 Nov 2026 18:09:52 +0000"
+    "publishedAt": "Tue, 10 Nov 2026 18:49:52 +0000"
   },
   {
-    "tweetText": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+    "tweetText": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Mon, 09 Nov 2026 16:56:54 +0000"
+    "publishedAt": "Tue, 10 Nov 2026 17:30:00 +0000"
+  },
+  {
+    "tweetText": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Tue, 10 Nov 2026 17:04:19 +0000"
+  },
+  {
+    "tweetText": "Google broadens its AI hardware portfolio with two new specialized chips — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Tue, 10 Nov 2026 15:54:08 +0000"
   }
 ]
