@@ -1,72 +1,72 @@
 [
   {
-    "tweetText": "How Amplitude ships product improvements in 1–2 days with OpenAI — a significant development in AI that warrants attention. via OpenAI News",
-    "articleUrl": "https://openai.com/business/customer-stories/amplitude",
+    "tweetText": "OpenAI launched ChatGPT Wallet, letting AI agents in ChatGPT Work, Codex, and dots make purchases with your approval and card protections. It could make AI assistants safe to trust with real transactions. via OpenAI News",
+    "articleUrl": "https://openai.com/index/introducing-chatgpt-wallet",
     "sourceName": "OpenAI News",
     "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Thu, 12 Nov 2026 20:00:00 GMT"
+    "publishedAt": "Fri, 13 Nov 2026 15:00:00 GMT"
   },
   {
-    "tweetText": "Muse can now place calls to US businesses — if you pay — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+    "tweetText": "Jensen Huang is stepping back from investing in AI startups. This could lead to smaller funding checks and lower company valuations. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 12 Nov 2026 22:22:28 +0000"
+    "publishedAt": "Fri, 13 Nov 2026 22:43:00 +0000"
+  },
+  {
+    "tweetText": "LangChain hit a $3B valuation as its model-agnostic agent tool LangSmith reached 7,000 customers. That matters because businesses want to manage AI agents without being locked into one model or platform. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Fri, 13 Nov 2026 19:37:57 +0000"
+  },
+  {
+    "tweetText": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen! — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Fri, 13 Nov 2026 18:40:30 +0000"
+  },
+  {
+    "tweetText": "ChatGPT’s new Wallet lets AI agents shop and check out for you — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Fri, 13 Nov 2026 16:00:12 +0000"
   },
   {
     "tweetText": "The unfolding Jensen Huang scandal: a timeline — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "articleUrl": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 12 Nov 2026 21:35:00 +0000"
+    "publishedAt": "Fri, 13 Nov 2026 15:58:00 +0000"
   },
   {
-    "tweetText": "Nebius tests the neocloud playbook with $40 billion in planned spending — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+    "tweetText": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 12 Nov 2026 21:27:10 +0000"
+    "publishedAt": "Fri, 13 Nov 2026 12:52:19 +0000"
   },
   {
-    "tweetText": "Google’s latest Search upgrade promises better answers to your most complicated questions — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 12 Nov 2026 19:27:45 +0000"
+    "tweetText": "AI is being integrated into flight cockpits and air traffic control. This shifts the industry away from traditional human-led safety models. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/",
+    "sourceName": "WIRED AI",
+    "sourceHomeUrl": "https://wired.com/tag/ai/",
+    "publishedAt": "Sat, 14 Nov 2026 11:00:00 +0000"
   },
   {
-    "tweetText": "Nectar launches an AI agent to automate creator discovery and outreach for brands — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 12 Nov 2026 19:11:00 +0000"
+    "tweetText": "Microsoft 365 is back online after a 24-hour global outage caused by a bad update. This shows how a single software error can disrupt millions of workers worldwide. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/",
+    "sourceName": "WIRED AI",
+    "sourceHomeUrl": "https://wired.com/tag/ai/",
+    "publishedAt": "Fri, 13 Nov 2026 19:08:57 +0000"
   },
   {
-    "tweetText": "Jensen Huang’s exit puts Nvidia’s support for open source in question — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 12 Nov 2026 18:39:23 +0000"
-  },
-  {
-    "tweetText": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 12 Nov 2026 17:36:40 +0000"
-  },
-  {
-    "tweetText": "United Airlines is blocking AI agents from booking flights and managing reservations. This move aims to prevent cybersecurity risks and protect customer data. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 12 Nov 2026 17:17:58 +0000"
-  },
-  {
-    "tweetText": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Thu, 12 Nov 2026 17:00:52 +0000"
+    "tweetText": "Amazon has a plan to index the world’s online shopping data — a significant development in AI that warrants attention. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+    "sourceName": "The Verge AI",
+    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
+    "publishedAt": "2026-11-13T23:49:11.000Z"
   }
 ]
