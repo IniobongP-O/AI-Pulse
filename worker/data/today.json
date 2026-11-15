@@ -1,72 +1,37 @@
 [
   {
-    "tweetText": "OpenAI launched ChatGPT Wallet, letting AI agents in ChatGPT Work, Codex, and dots make purchases with your approval and card protections. It could make AI assistants safe to trust with real transactions. via OpenAI News",
-    "articleUrl": "https://openai.com/index/introducing-chatgpt-wallet",
-    "sourceName": "OpenAI News",
-    "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Fri, 13 Nov 2026 15:00:00 GMT"
-  },
-  {
-    "tweetText": "Jensen Huang is stepping back from investing in AI startups. This could lead to smaller funding checks and lower company valuations. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+    "tweetText": "The AI graveyard: a running list of projects and startups that didn’t make it — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 13 Nov 2026 22:43:00 +0000"
+    "publishedAt": "Sat, 14 Nov 2026 17:30:00 +0000"
   },
   {
-    "tweetText": "LangChain hit a $3B valuation as its model-agnostic agent tool LangSmith reached 7,000 customers. That matters because businesses want to manage AI agents without being locked into one model or platform. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 13 Nov 2026 19:37:57 +0000"
-  },
-  {
-    "tweetText": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen! — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 13 Nov 2026 18:40:30 +0000"
-  },
-  {
-    "tweetText": "ChatGPT’s new Wallet lets AI agents shop and check out for you — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 13 Nov 2026 16:00:12 +0000"
-  },
-  {
-    "tweetText": "The unfolding Jensen Huang scandal: a timeline — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 13 Nov 2026 15:58:00 +0000"
-  },
-  {
-    "tweetText": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
-    "sourceName": "TechCrunch AI",
-    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Fri, 13 Nov 2026 12:52:19 +0000"
-  },
-  {
-    "tweetText": "AI is being integrated into flight cockpits and air traffic control. This shifts the industry away from traditional human-led safety models. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/",
+    "tweetText": "YouTube and Spotify are testing AI DJs to host your music playlists. These synthetic hosts use awkward banter that ruins the listening experience. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/ai-djs-completely-kill-my-groove/",
     "sourceName": "WIRED AI",
     "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Sat, 14 Nov 2026 11:00:00 +0000"
+    "publishedAt": "Sun, 15 Nov 2026 12:00:00 +0000"
   },
   {
-    "tweetText": "Microsoft 365 is back online after a 24-hour global outage caused by a bad update. This shows how a single software error can disrupt millions of workers worldwide. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/",
+    "tweetText": "This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets — a significant development in AI that warrants attention. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
     "sourceName": "WIRED AI",
     "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Fri, 13 Nov 2026 19:08:57 +0000"
+    "publishedAt": "Sun, 15 Nov 2026 11:00:00 +0000"
   },
   {
-    "tweetText": "Amazon has a plan to index the world’s online shopping data — a significant development in AI that warrants attention. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+    "tweetText": "Beware the New AI-Fueled Ransomware Boom — a significant development in AI that warrants attention. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
+    "sourceName": "WIRED AI",
+    "sourceHomeUrl": "https://wired.com/tag/ai/",
+    "publishedAt": "Sat, 14 Nov 2026 13:00:00 +0000"
+  },
+  {
+    "tweetText": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs — a significant development in AI that warrants attention. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
     "sourceName": "The Verge AI",
     "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-11-13T23:49:11.000Z"
+    "publishedAt": "2026-11-14T15:00:00.000Z"
   }
 ]
