@@ -1,37 +1,72 @@
 [
   {
-    "tweetText": "The AI graveyard: a running list of projects and startups that didn’t make it — a significant development in AI that warrants attention. via TechCrunch AI",
-    "articleUrl": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "tweetText": "LVMH’s Media Division announces strategic partnership with OpenAI — a significant development in AI that warrants attention. via OpenAI News",
+    "articleUrl": "https://openai.com/index/lvmh-media-division-partnership",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Mon, 16 Nov 2026 09:00:00 GMT"
+  },
+  {
+    "tweetText": "The King’s Trust and OpenAI launch £1m partnership — a significant development in AI that warrants attention. via OpenAI News",
+    "articleUrl": "https://openai.com/index/the-kings-trust-and-openai",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Mon, 16 Nov 2026 00:00:00 GMT"
+  },
+  {
+    "tweetText": "A step toward defining the Standard Model on a lattice — a significant development in AI that warrants attention. via OpenAI News",
+    "articleUrl": "https://openai.com/index/step-toward-defining-the-standard-model",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Sun, 15 Nov 2026 22:00:01 GMT"
+  },
+  {
+    "tweetText": "OpenAI launched a new blog focused on science. It shares how AI is being used to accelerate scientific discovery. via OpenAI News",
+    "articleUrl": "https://openai.com/index/our-new-blog-for-science",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Sun, 15 Nov 2026 22:00:00 GMT"
+  },
+  {
+    "tweetText": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
     "sourceName": "TechCrunch AI",
     "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "publishedAt": "Sat, 14 Nov 2026 17:30:00 +0000"
+    "publishedAt": "Mon, 16 Nov 2026 12:30:00 +0000"
   },
   {
-    "tweetText": "YouTube and Spotify are testing AI DJs to host your music playlists. These synthetic hosts use awkward banter that ruins the listening experience. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/ai-djs-completely-kill-my-groove/",
+    "tweetText": "Apple launches new app to study how people use AI for health — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Mon, 16 Nov 2026 01:30:00 +0000"
+  },
+  {
+    "tweetText": "Indian chip startup Bharat Semi raised $24M in seed funding. This investment will help them expand their AI sensor technology into the global market. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Sun, 15 Nov 2026 23:30:00 +0000"
+  },
+  {
+    "tweetText": "Is bad news for Jensen Huang also bad news for the AI industry? — a significant development in AI that warrants attention. via TechCrunch AI",
+    "articleUrl": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+    "sourceName": "TechCrunch AI",
+    "sourceHomeUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "publishedAt": "Sun, 15 Nov 2026 21:56:35 +0000"
+  },
+  {
+    "tweetText": "Nvidia Was Already in Trouble Before the Jensen Huang Mess — a significant development in AI that warrants attention. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
     "sourceName": "WIRED AI",
     "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Sun, 15 Nov 2026 12:00:00 +0000"
+    "publishedAt": "Mon, 16 Nov 2026 11:00:00 +0000"
   },
   {
-    "tweetText": "This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets — a significant development in AI that warrants attention. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
-    "sourceName": "WIRED AI",
-    "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Sun, 15 Nov 2026 11:00:00 +0000"
-  },
-  {
-    "tweetText": "Beware the New AI-Fueled Ransomware Boom — a significant development in AI that warrants attention. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
-    "sourceName": "WIRED AI",
-    "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Sat, 14 Nov 2026 13:00:00 +0000"
-  },
-  {
-    "tweetText": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs — a significant development in AI that warrants attention. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+    "tweetText": "The Nvidia scandal isn’t slowing down — a significant development in AI that warrants attention. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down",
     "sourceName": "The Verge AI",
     "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-11-14T15:00:00.000Z"
+    "publishedAt": "2026-11-16T13:00:00.000Z"
   }
 ]
