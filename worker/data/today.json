@@ -1,65 +1,72 @@
 [
   {
-    "tweetText": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT — a significant development in AI that warrants attention. via OpenAI News",
-    "articleUrl": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
-    "sourceName": "OpenAI News",
-    "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Wed, 18 Nov 2026 00:00:00 GMT"
-  },
-  {
-    "tweetText": "OpenAI launched GPT-6.2 Astra and Sol. These models offer better coding and computer use at a lower cost. via OpenAI News",
-    "articleUrl": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
-    "sourceName": "OpenAI News",
-    "sourceHomeUrl": "https://openai.com/news/",
-    "publishedAt": "Tue, 17 Nov 2026 17:45:00 GMT"
-  },
-  {
-    "tweetText": "Over a Third of Gen Z-ers Rely on AI for Friendship — a significant development in AI that warrants attention. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/over-a-third-of-gen-z-rely-on-ai-for-friendship/",
+    "tweetText": "Anthropic’s Record-Breaking IPO Highlights the AI Giant’s Worst Enemy—Itself — a significant development in AI that warrants attention. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
     "sourceName": "WIRED AI",
     "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Wed, 18 Nov 2026 05:01:00 +0000"
+    "publishedAt": "Thu, 19 Nov 2026 12:00:00 +0000"
   },
   {
-    "tweetText": "Nvidia isn’t selling any more AI chips to China — a significant development in AI that warrants attention. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
+    "tweetText": "Trump's upcoming trip to China is unlikely to result in AI progress. Tensions over Nvidia have made negotiations too difficult. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/administration-officials-dont-think-much-ai-progress-will-come-of-trumps-china-visit/",
+    "sourceName": "WIRED AI",
+    "sourceHomeUrl": "https://wired.com/tag/ai/",
+    "publishedAt": "Wed, 18 Nov 2026 22:00:00 +0000"
+  },
+  {
+    "tweetText": "America’s AI Chip War Is Heating Up in the Dumbest Possible Ways — a significant development in AI that warrants attention. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/the-ai-chip-war-meets-the-jensen-huang-affair/",
+    "sourceName": "WIRED AI",
+    "sourceHomeUrl": "https://wired.com/tag/ai/",
+    "publishedAt": "Wed, 18 Nov 2026 21:15:00 +0000"
+  },
+  {
+    "tweetText": "Artex lets newbie hackers use AI chatbots to scan and attack systems with simple prompts. It makes cybercrime dangerously easy for",
+    "articleUrl": "https://www.wired.com/story/artex-ai-hacking-tools/",
+    "sourceName": "WIRED AI",
+    "sourceHomeUrl": "https://wired.com/tag/ai/",
+    "publishedAt": "Wed, 18 Nov 2026 16:35:24 +0000"
+  },
+  {
+    "tweetText": "‘Just Ridiculous’: A Famed Philosopher Takes on AI Consciousness — a significant development in AI that warrants attention. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/",
+    "sourceName": "WIRED AI",
+    "sourceHomeUrl": "https://wired.com/tag/ai/",
+    "publishedAt": "Wed, 18 Nov 2026 15:02:40 +0000"
+  },
+  {
+    "tweetText": "I let Apple’s always-listening AI summarize my life for two weeks — a significant development in AI that warrants attention. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on",
     "sourceName": "The Verge AI",
     "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-11-18T13:01:05.000Z"
+    "publishedAt": "2026-11-19T13:00:00.000Z"
   },
   {
-    "tweetText": "Suno now lets you make AI videos for your AI music — a significant development in AI that warrants attention. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature",
+    "tweetText": "Canva adds an AI ‘off’ button — a significant development in AI that warrants attention. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button",
     "sourceName": "The Verge AI",
     "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-11-18T11:16:53.000Z"
+    "publishedAt": "2026-11-19T12:30:00.000Z"
   },
   {
-    "tweetText": "Satya Nadella says he’s AGI-pilled now — a significant development in AI that warrants attention. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
+    "tweetText": "The nation’s largest school districts consider ditching Google Search — a significant development in AI that warrants attention. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
     "sourceName": "The Verge AI",
     "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-11-17T23:41:18.000Z"
+    "publishedAt": "2026-11-18T23:18:35.000Z"
   },
   {
-    "tweetText": "Not even Sam Altman is safe from AI deepfakes on Instagram — a significant development in AI that warrants attention. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
+    "tweetText": "Trump’s latest land grab is an AI hub in the Philippines — a significant development in AI that warrants attention. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
     "sourceName": "The Verge AI",
     "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-11-17T21:00:55.000Z"
+    "publishedAt": "2026-11-18T19:40:36.000Z"
   },
   {
-    "tweetText": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free — a significant development in AI that warrants attention. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
+    "tweetText": "Nvidia’s rise, visualized — a significant development in AI that warrants attention. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang",
     "sourceName": "The Verge AI",
     "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-11-17T18:58:01.000Z"
-  },
-  {
-    "tweetText": "This smell startup says its AI nose is as good as a human’s — a significant development in AI that warrants attention. via MIT Technology Review",
-    "articleUrl": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
-    "sourceName": "MIT Technology Review",
-    "sourceHomeUrl": "https://www.technologyreview.com/topic/artificial-intelligence/",
-    "publishedAt": "Wed, 18 Nov 2026 10:20:30 +0000"
+    "publishedAt": "2026-11-18T19:30:00.000Z"
   }
 ]
