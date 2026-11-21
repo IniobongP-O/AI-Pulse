@@ -1,72 +1,37 @@
 [
   {
-    "tweetText": "Muse Is Unleashing a World of Pettiness on Instagram — a significant development in AI that warrants attention. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/",
+    "tweetText": "How Google Duplex evolved to also call businesses for you in Gemini — a significant development in AI that warrants attention. via Google Research Blog",
+    "articleUrl": "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/",
+    "sourceName": "Google Research Blog",
+    "sourceHomeUrl": "https://research.google/blog/",
+    "publishedAt": "Fri, 20 Nov 2026 23:30:30 +0000"
+  },
+  {
+    "tweetText": "The Outages Are Just Getting Started — a significant development in AI that warrants attention. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
     "sourceName": "WIRED AI",
     "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Fri, 20 Nov 2026 12:00:00 +0000"
+    "publishedAt": "Sat, 21 Nov 2026 13:00:00 +0000"
   },
   {
-    "tweetText": "This 16-Year-Old Founded an AI Missile Startup. He’s Targeting ‘Cost per Kill’ — a significant development in AI that warrants attention. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
-    "sourceName": "WIRED AI",
-    "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Fri, 20 Nov 2026 07:00:00 +0000"
-  },
-  {
-    "tweetText": "What’s With All These Outages? — a significant development in AI that warrants attention. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/",
-    "sourceName": "WIRED AI",
-    "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Thu, 19 Nov 2026 21:57:01 +0000"
-  },
-  {
-    "tweetText": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents — a significant development in AI that warrants attention. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/",
-    "sourceName": "WIRED AI",
-    "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Thu, 19 Nov 2026 17:00:00 +0000"
-  },
-  {
-    "tweetText": "Signal is blocking Gemini and Siri AI from reading your screen — a significant development in AI that warrants attention. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+    "tweetText": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US — a significant development in AI that warrants attention. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
     "sourceName": "The Verge AI",
     "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-11-20T12:30:47.000Z"
+    "publishedAt": "2026-11-20T18:50:19.000Z"
   },
   {
-    "tweetText": "Apple is hiring engineers to build its own AI agent capable of performing complex tasks across apps. This move will allow the company to compete directly with tech giants like Google and OpenAI. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+    "tweetText": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude — a significant development in AI that warrants attention. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
     "sourceName": "The Verge AI",
     "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-11-19T22:31:41.000Z"
+    "publishedAt": "2026-11-20T16:34:13.000Z"
   },
   {
-    "tweetText": "Nvidia's stock price dropped nearly 40 percent from its all-time high despite a massive revenue increase. This volatility shows how investor expectations can shift even after a blockbuster earnings report. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-11-19T21:59:35.000Z"
-  },
-  {
-    "tweetText": "Meta’s Muse Charm might cost $300 — a significant development in AI that warrants attention. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-11-19T20:22:17.000Z"
-  },
-  {
-    "tweetText": "Google is putting AI chats right on the homepage — a significant development in AI that warrants attention. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-11-19T20:05:06.000Z"
-  },
-  {
-    "tweetText": "Gemini on Mac can now use your computer to handle multi-step tasks across local files, desktop apps, and the web. It matters because AI assistants are moving from chat to actually doing work for you. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-11-19T18:21:13.000Z"
+    "tweetText": "The most misunderstood graph in AI just got a major update — a significant development in AI that warrants attention. via MIT Technology Review",
+    "articleUrl": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+    "sourceName": "MIT Technology Review",
+    "sourceHomeUrl": "https://www.technologyreview.com/topic/artificial-intelligence/",
+    "publishedAt": "Fri, 20 Nov 2026 18:15:15 +0000"
   }
 ]
