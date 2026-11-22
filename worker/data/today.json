@@ -1,37 +1,30 @@
 [
   {
-    "tweetText": "How Google Duplex evolved to also call businesses for you in Gemini — a significant development in AI that warrants attention. via Google Research Blog",
-    "articleUrl": "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/",
-    "sourceName": "Google Research Blog",
-    "sourceHomeUrl": "https://research.google/blog/",
-    "publishedAt": "Fri, 20 Nov 2026 23:30:30 +0000"
+    "tweetText": "Major US banks are banning third-party AI agents from accessing customer accounts. This means you are solely responsible for any financial errors caused by your bots. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
+    "sourceName": "WIRED AI",
+    "sourceHomeUrl": "https://wired.com/tag/ai/",
+    "publishedAt": "Sun, 22 Nov 2026 11:00:00 +0000"
   },
   {
-    "tweetText": "The Outages Are Just Getting Started — a significant development in AI that warrants attention. via WIRED AI",
+    "tweetText": "AI is pushing companies to patch systems faster while attackers race to exploit new flaws, and the outages are just beginning. That means more disruption ahead unless security keeps pace. via WIRED AI",
     "articleUrl": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
     "sourceName": "WIRED AI",
     "sourceHomeUrl": "https://wired.com/tag/ai/",
     "publishedAt": "Sat, 21 Nov 2026 13:00:00 +0000"
   },
   {
-    "tweetText": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US — a significant development in AI that warrants attention. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+    "tweetText": "The UN fails to agree on rules regulating ‘killer robots’ — a significant development in AI that warrants attention. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
     "sourceName": "The Verge AI",
     "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-11-20T18:50:19.000Z"
+    "publishedAt": "2026-11-21T20:03:37.000Z"
   },
   {
-    "tweetText": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude — a significant development in AI that warrants attention. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+    "tweetText": "Can Anthropic afford to put safety first? — a significant development in AI that warrants attention. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
     "sourceName": "The Verge AI",
     "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-11-20T16:34:13.000Z"
-  },
-  {
-    "tweetText": "The most misunderstood graph in AI just got a major update — a significant development in AI that warrants attention. via MIT Technology Review",
-    "articleUrl": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
-    "sourceName": "MIT Technology Review",
-    "sourceHomeUrl": "https://www.technologyreview.com/topic/artificial-intelligence/",
-    "publishedAt": "Fri, 20 Nov 2026 18:15:15 +0000"
+    "publishedAt": "2026-11-21T15:00:00.000Z"
   }
 ]
