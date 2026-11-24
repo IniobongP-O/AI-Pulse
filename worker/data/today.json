@@ -1,30 +1,72 @@
 [
   {
-    "tweetText": "Submit Your Questions: Will Anyone Keep You Safe From AI? — a significant development in AI that warrants attention. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/livestream-will-anyone-keep-us-safe-from-ai/",
+    "tweetText": "Supercharging transformer residual connections — a significant development in AI that warrants attention. via Google Research Blog",
+    "articleUrl": "https://research.google/blog/supercharging-transformer-residual-connections/",
+    "sourceName": "Google Research Blog",
+    "sourceHomeUrl": "https://research.google/blog/",
+    "publishedAt": "Mon, 23 Nov 2026 17:21:12 +0000"
+  },
+  {
+    "tweetText": "OpenAI and Cisco introduce Shirudo — a significant development in AI that warrants attention. via OpenAI News",
+    "articleUrl": "https://openai.com/index/introducing-shirudo",
+    "sourceName": "OpenAI News",
+    "sourceHomeUrl": "https://openai.com/news/",
+    "publishedAt": "Mon, 23 Nov 2026 21:20:00 GMT"
+  },
+  {
+    "tweetText": "Young people are frustrated with their pro-AI parents, worrying it will make holiday gatherings tense. The clash highlights a growing generational divide over technology's role in society. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/dont-bring-up-ai-if-you-want-to-enjoy-your-thanksgiving/",
     "sourceName": "WIRED AI",
     "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Mon, 23 Nov 2026 12:00:00 +0000"
+    "publishedAt": "Tue, 24 Nov 2026 10:45:00 +0000"
   },
   {
-    "tweetText": "Meta Muse can do your Black Friday shopping at Walmart — a significant development in AI that warrants attention. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
+    "tweetText": "AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Understand It — a significant development in AI that warrants attention. via WIRED AI",
+    "articleUrl": "https://www.wired.com/story/ai-solved-maths-most-famous-problem/",
+    "sourceName": "WIRED AI",
+    "sourceHomeUrl": "https://wired.com/tag/ai/",
+    "publishedAt": "Tue, 24 Nov 2026 10:15:00 +0000"
+  },
+  {
+    "tweetText": "Nvidia CEO Jensen Huang is back. What happens next? — a significant development in AI that warrants attention. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
     "sourceName": "The Verge AI",
     "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-11-23T11:00:00.000Z"
+    "publishedAt": "2026-11-23T22:10:32.000Z"
   },
   {
-    "tweetText": "Binding of Isaac developer removes AI music from Repentance Plus — a significant development in AI that warrants attention. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+    "tweetText": "AI data centers throw another wrench into chaotic UN climate talks — a significant development in AI that warrants attention. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
     "sourceName": "The Verge AI",
     "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-11-22T17:25:20.000Z"
+    "publishedAt": "2026-11-23T21:09:37.000Z"
   },
   {
-    "tweetText": "The Download: AI’s judgment problem and carbon removal’s crop threat — a significant development in AI that warrants attention. via MIT Technology Review",
-    "articleUrl": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/",
-    "sourceName": "MIT Technology Review",
-    "sourceHomeUrl": "https://www.technologyreview.com/topic/artificial-intelligence/",
-    "publishedAt": "Mon, 23 Nov 2026 13:10:00 +0000"
+    "tweetText": "Claude AI can review pull requests and ship fixes on its own now — a significant development in AI that warrants attention. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
+    "sourceName": "The Verge AI",
+    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
+    "publishedAt": "2026-11-23T20:00:00.000Z"
+  },
+  {
+    "tweetText": "How Jensen Huang ended up as Nvidia CEO again — a significant development in AI that warrants attention. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
+    "sourceName": "The Verge AI",
+    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
+    "publishedAt": "2026-11-23T19:57:18.000Z"
+  },
+  {
+    "tweetText": "Nothing’s upcoming Ear Note is a pair of earbuds with AI transcription — a significant development in AI that warrants attention. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording",
+    "sourceName": "The Verge AI",
+    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
+    "publishedAt": "2026-11-23T19:04:52.000Z"
+  },
+  {
+    "tweetText": "Oregon and Virginia sue SpaceX over Grok’s porn deepfakes — a significant development in AI that warrants attention. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
+    "sourceName": "The Verge AI",
+    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
+    "publishedAt": "2026-11-23T18:26:47.000Z"
   }
 ]
