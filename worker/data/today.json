@@ -1,72 +1,51 @@
 [
   {
-    "tweetText": "Airplane Turbulence Is Extremely Hard to Predict, but Maybe Not for Long — a significant development in AI that warrants attention. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/airplane-turbulence-is-extremely-hard-to-predict-and-avoid/",
-    "sourceName": "WIRED AI",
-    "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Wed, 25 Nov 2026 11:30:00 +0000"
+    "tweetText": "Verifiable Social Reasoning for LLM Assistants — a significant development in AI that warrants attention. via Google Research Blog",
+    "articleUrl": "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants/",
+    "sourceName": "Google Research Blog",
+    "sourceHomeUrl": "https://research.google/blog/",
+    "publishedAt": "Wed, 25 Nov 2026 17:10:27 +0000"
   },
   {
-    "tweetText": "Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving — a significant development in AI that warrants attention. via WIRED AI",
-    "articleUrl": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/",
-    "sourceName": "WIRED AI",
-    "sourceHomeUrl": "https://wired.com/tag/ai/",
-    "publishedAt": "Tue, 24 Nov 2026 16:00:00 +0000"
-  },
-  {
-    "tweetText": "Amazon is reportedly in talks to end Muse AI shopping block — a significant development in AI that warrants attention. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
+    "tweetText": "42 state AGs are trying to stop Character.AI from selling users’ chats — a significant development in AI that warrants attention. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
     "sourceName": "The Verge AI",
     "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-11-25T14:12:33.000Z"
+    "publishedAt": "2026-11-26T09:54:40.000Z"
   },
   {
-    "tweetText": "Has vibe coding made open source the new normal for synths? — a significant development in AI that warrants attention. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
+    "tweetText": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future — a significant development in AI that warrants attention. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
     "sourceName": "The Verge AI",
     "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-11-25T13:00:00.000Z"
+    "publishedAt": "2026-11-25T21:51:26.000Z"
   },
   {
-    "tweetText": "David Fincher is being dragged for suspected use of AI in his latest film — a significant development in AI that warrants attention. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
+    "tweetText": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space — a significant development in AI that warrants attention. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
     "sourceName": "The Verge AI",
     "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-11-24T18:15:00.000Z"
+    "publishedAt": "2026-11-25T17:44:51.000Z"
   },
   {
-    "tweetText": "Tidal will start banning AI-generated music next month — a significant development in AI that warrants attention. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+    "tweetText": "Nothing offers a full look at its AI earbuds and charging case — a significant development in AI that warrants attention. via The Verge AI",
+    "articleUrl": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
     "sourceName": "The Verge AI",
     "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-11-24T17:17:09.000Z"
+    "publishedAt": "2026-11-25T16:00:59.000Z"
   },
   {
-    "tweetText": "Jensen Huang deepfakes are the hot new AI slop — a significant development in AI that warrants attention. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-11-24T16:30:00.000Z"
-  },
-  {
-    "tweetText": "The New York Times warns photographers not to update Photoshop over AI features — a significant development in AI that warrants attention. via The Verge AI",
-    "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-    "sourceName": "The Verge AI",
-    "sourceHomeUrl": "https://theverge.com/ai-artificial-intelligence",
-    "publishedAt": "2026-11-24T16:09:23.000Z"
-  },
-  {
-    "tweetText": "The Download: AI swamping open records, and firefighting for permafrost — a significant development in AI that warrants attention. via MIT Technology Review",
-    "articleUrl": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/",
+    "tweetText": "The Download: Better bionic hands and AI’s natural-gas boom — a significant development in AI that warrants attention. via MIT Technology Review",
+    "articleUrl": "https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/",
     "sourceName": "MIT Technology Review",
     "sourceHomeUrl": "https://www.technologyreview.com/topic/artificial-intelligence/",
-    "publishedAt": "Wed, 25 Nov 2026 13:10:00 +0000"
+    "publishedAt": "Thu, 26 Nov 2026 13:10:00 +0000"
   },
   {
-    "tweetText": "AI is straining America’s open records systems — a significant development in AI that warrants attention. via MIT Technology Review",
-    "articleUrl": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+    "tweetText": "How data centers are driving a US natural-gas boom — a significant development in AI that warrants attention. via MIT Technology Review",
+    "articleUrl": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/",
     "sourceName": "MIT Technology Review",
     "sourceHomeUrl": "https://www.technologyreview.com/topic/artificial-intelligence/",
-    "publishedAt": "Wed, 25 Nov 2026 10:00:00 +0000"
+    "publishedAt": "Wed, 25 Nov 2026 17:00:00 +0000"
   }
 ]
